@@ -397,6 +397,40 @@ def _location(item: dict, spec) -> str:
     return _clean(", ".join(parts))
 
 
+def extract_posted_date(html: str) -> str:
+    """Pull a posting date from a job detail page. Most firms embed a schema.org
+    JobPosting `datePosted`; fall back to a plain date or 'Posted Mon DD, YYYY'.
+    """
+    import re as _re
+    for pat in (r'"datePosted"\s*:\s*"([0-9][0-9T:.\-+ Z]{7,39})"',
+                r'datePosted["\']?\s*[:=]\s*["\']?([0-9]{4}-[0-9]{1,2}-[0-9]{1,2})',
+                r'[Pp]osted[:\s]+([A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+\d{4})'):
+        m = _re.search(pat, html)
+        if m:
+            return m.group(1).strip()
+    return ""
+
+
+def enrich_posted_dates(jobs: list[dict], http, known_ids: set, job_id) -> int:
+    """For NEW jobs (id not in known_ids) of firms that only expose the date on the
+    detail page, fetch the page once and set job['posted']. Returns count enriched.
+    Only new jobs are fetched, so steady-state cost is tiny.
+    """
+    n = 0
+    for job in jobs:
+        if job.get("posted") or job_id(job) in known_ids:
+            continue
+        try:
+            html = http.get(job["url"], timeout=20).text
+        except Exception:
+            continue
+        dt = extract_posted_date(html)
+        if dt:
+            job["posted"] = dt[:10] if dt[:1].isdigit() else dt
+            n += 1
+    return n
+
+
 def _apply_url_transforms(url: str, item: dict, api: dict) -> str:
     """Turn an apply URL into the job-description (JD) URL.
 

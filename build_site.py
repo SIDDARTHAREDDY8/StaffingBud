@@ -63,7 +63,7 @@ TEMPLATE = """<!doctype html>
 <div class="wrap">
   <table>
     <thead><tr>
-      <th>Firm</th><th>Position</th><th class="hide-sm">Added</th><th>Apply</th>
+      <th>Firm</th><th>Position</th><th class="hide-sm">Posted</th><th>Apply</th>
     </tr></thead>
     <tbody id="rows"></tbody>
   </table>
@@ -78,10 +78,17 @@ const q = document.getElementById('q');
 const firmSel = document.getElementById('firm');
 const freshChk = document.getElementById('fresh');
 function esc(s) {{ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }}
-// Age since we first found the job (our freshness signal). Recomputed on view.
+// Freshness age. Prefer the firm's REAL posted date when it parses and is recent
+// (≤200d — ignores evergreen/lying dates like SmartRecruiters' 2017); else fall
+// back to first_seen (when we found it). Recomputed on view.
 function ageDays(j) {{
-  const t = Date.parse(j.first_seen || '');
-  return isNaN(t) ? 9999 : (Date.now() - t) / 86400000;
+  const p = Date.parse(j.posted || '');
+  if (!isNaN(p)) {{
+    const pd = (Date.now() - p) / 86400000;
+    if (pd >= -3 && pd <= 200) return pd;
+  }}
+  const f = Date.parse(j.first_seen || '');
+  return isNaN(f) ? 9999 : (Date.now() - f) / 86400000;
 }}
 function ageLabel(d) {{
   if (d >= 9999) return '—';

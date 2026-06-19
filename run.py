@@ -88,6 +88,13 @@ def run(only=None, headful=False):
                 continue
 
             kept = filters.apply_filters(raw, firm)
+            # firms that only expose the posting date on the detail page: fetch it
+            # for NEW jobs so freshness reflects the true posted date, not first_seen
+            if firm.get("detail_date") and http:
+                known = set(store.load().keys())
+                got = engine.enrich_posted_dates(kept, http, known, store._job_id)
+                if got:
+                    print(f"  enriched {got} posted-dates from detail pages", flush=True)
             print(f"  scraped {len(raw)}, kept {len(kept)} after filters")
             all_jobs.extend(kept)
     finally:

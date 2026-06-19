@@ -307,6 +307,7 @@ firms:
   - name: "Gina's Tech Jobs"
     mode: api_html
     search_url: "https://www.ginastechjobs.com/find-it-jobs/"
+    detail_date: true   # real datePosted only on the detail page
     api:
       method: POST
       url: "https://www.ginastechjobs.com/jm-ajax/get_listings/"
@@ -323,6 +324,7 @@ firms:
   - name: "Next Step Systems"
     mode: api_html
     search_url: "https://www.nextstepsystems.com/find-it-jobs/"
+    detail_date: true   # real datePosted only on the detail page
     api:
       method: POST
       url: "https://www.nextstepsystems.com/jm-ajax/get_listings/"
@@ -340,6 +342,7 @@ firms:
   - name: "Belcan"
     mode: dom
     search_url: "https://belcanjobs.smartsearchonline.com/careersv2/process_jobsearch.asp"
+    detail_date: true   # real datePosted only on the detail page
     selectors:
       card: "div.jobGrpCard"
       title: "a.jobTitleBtn"
@@ -370,6 +373,7 @@ firms:
   - name: "Brooksource"
     mode: dom
     search_url: "https://jobs.brooksource.com/jobs/"
+    detail_date: true   # real datePosted only on the detail page
     selectors:
       card: "div.col-md-9"
       title: "a.medasource_jobs_title"
@@ -380,6 +384,7 @@ firms:
   - name: "Fast Switch"
     mode: dom
     search_url: "https://fastswitch.com/search-jobs/"
+    detail_date: true   # real datePosted only on the detail page
     selectors:
       card: "header.matador-job-header"
       title: "h4.matador-job-title"
@@ -390,6 +395,7 @@ firms:
   - name: "Scion Staffing"
     mode: dom
     search_url: "https://scionstaffing.com/search-jobs/"
+    detail_date: true   # real datePosted only on the detail page
     selectors:
       card: "div.BH-joblist-item"
       title: "div.BH-joblist-title"
@@ -414,6 +420,7 @@ firms:
   - name: "Beacon Hill"
     mode: api_html
     search_url: "https://bhsg.com/jobs/job-search/"
+    detail_date: true   # real datePosted only on the detail page
     api:
       method: POST
       url: "https://bhsg.com/jobs/jm-ajax/get_listings/"
@@ -431,6 +438,7 @@ firms:
   - name: "Njoyn (CGI)"
     mode: html
     search_url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
+    detail_date: true   # real datePosted only on the detail page
     url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
     url_prefix: "https://cgi.njoyn.com/CORP/xweb/"
     selectors:
