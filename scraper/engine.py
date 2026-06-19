@@ -179,14 +179,28 @@ def scrape_api_html(firm: dict, http) -> list[dict]:
 
 
 def scrape_html(firm: dict, http) -> list[dict]:
-    """Fetch a server-rendered HTML page directly (no browser) and parse job cards
+    """Fetch server-rendered HTML page(s) directly (no browser) and parse job cards
     with CSS selectors. Pairs with the curl_cffi client to read sites that block
     headless browsers (Cloudflare, Radware/perfdrive) but serve plain HTTP clients.
+
+    firm['url'] (single) or firm['urls'] (list, e.g. several search-term queries)
+    — results from all urls are merged and de-duplicated by job URL.
     """
     h = firm.get("http", {})
-    resp = http.get(firm["url"], params=h.get("params"), headers=h.get("headers"), timeout=30)
-    resp.raise_for_status()
-    return _parse_cards(resp.text, firm)
+    urls = firm.get("urls") or [firm["url"]]
+    seen, jobs = set(), []
+    for u in urls:
+        try:
+            resp = http.get(u, params=h.get("params"), headers=h.get("headers"), timeout=30)
+            resp.raise_for_status()
+        except Exception:
+            continue
+        for job in _parse_cards(resp.text, firm):
+            if job["url"] in seen:
+                continue
+            seen.add(job["url"])
+            jobs.append(job)
+    return jobs
 
 
 def _parse_cards(html: str, firm: dict) -> list[dict]:
@@ -217,14 +231,21 @@ def _parse_cards(html: str, firm: dict) -> list[dict]:
         url = href or firm.get("search_url", "")
         if href and prefix and not str(href).startswith("http"):
             url = prefix.rstrip("/") + "/" + str(href).lstrip("/")
-        loc_el = card.select_one(sel["location"]) if sel.get("location") else None
-        location = _clean(loc_el.get_text()) if loc_el else ""
+        # location: a single selector, or a list of selectors joined (e.g. city+state)
+        loc_spec = sel.get("location")
+        if isinstance(loc_spec, list):
+            parts = [card.select_one(s) for s in loc_spec]
+            location = _clean(", ".join(p.get_text(strip=True) for p in parts if p))
+        else:
+            loc_el = card.select_one(loc_spec) if loc_spec else None
+            location = _clean(loc_el.get_text()) if loc_el else ""
         split = firm.get("location_split")
         if split and location:
             location = _clean(location.split(split)[0])
+        posted_el = card.select_one(sel["posted"]) if sel.get("posted") else None
         jobs.append({
             "firm": firm["name"], "title": title, "location": location,
-            "url": url, "posted": "",
+            "url": url, "posted": _clean(posted_el.get_text()) if posted_el else "",
         })
     return jobs
 

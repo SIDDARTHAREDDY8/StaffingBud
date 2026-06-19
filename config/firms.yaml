@@ -151,18 +151,26 @@ firms:
   # These sites block headless browsers, but serve their XML job sitemap to search
   # engines — so we read it directly. No browser, no Apify, no cost. Title is
   # derived from the URL slug; location/date are limited (sitemap only).
-  # Apex Systems: DISABLED. Its sitemap.xml is a stale 2021-2024 cache — every job
-  # is "Job Not Found" (dead links). Free live sources all blocked: the live search
-  # is a JS app behind Cloudflare, and Bing/DDG/Google block our scraper. The only
-  # working LIVE source is the Apify Google-index trick (paid). To re-enable Apex,
-  # switch mode back to apify_search (needs APIFY_TOKEN) — see git history.
+  # Apex Systems: LIVE & FREE via its Drupal search endpoint (found in the page's
+  # ajaxTrustedUrl). curl_cffi bypasses Cloudflare; the server renders a job-table.
+  # Empty query returns nothing, so we run several broad terms and merge/dedup.
+  # (Its sitemap.xml is a dead 2021-24 cache — do NOT use it.)
   - name: "Apex Systems"
-    mode: sitemap
-    enabled: false
+    mode: html
     search_url: "https://www.apexsystems.com/search-results-usa"
-    sitemap:
-      url: "https://www.apexsystems.com/sitemap.xml"
-      job_match: "/job/"
+    url_prefix: "https://www.apexsystems.com"
+    urls:
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=engineer"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=developer"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=data"
+      - "https://www.apexsystems.com/search-results-usa?catalogcode=USA&radius=50&page=1&rows=100&remote=true&query=software"
+    selectors:
+      card: "table.job-table tr"
+      title: "a.job-title-link"
+      location: ["td:nth-of-type(2)", "td:nth-of-type(3)"]
+      posted: "td:nth-of-type(4)"
+      link: "a.job-title-link"
+      require_link: true
     location_filter: []
 
   - name: "Robert Half"

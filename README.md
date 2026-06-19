@@ -27,10 +27,11 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 353 new roles this update · 353 tracked total · updated `2026-06-19T20:54:49+00:00`
+### 🆕 467 new roles this update · 467 tracked total · updated `2026-06-19T21:04:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Apex Systems | 114 |
 | Robert Half | 85 |
 | Kforce | 62 |
 | Collabera | 54 |
@@ -55,48 +56,47 @@ direct apply link, so you only ever see what's new since you last looked.
 | --- | --- | --- | --- |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2180158T1~99/) | Kforce | New York, NY | 2026-06-19 |
 | [Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2180184T1~99/) | Kforce | Culver City, CA | 2026-06-19 |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2179951P1~99/) | Kforce | Draper, UT | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2178488P1~99/) | Kforce | Boston, MA | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2169434T1~99/) | Kforce | Coral Springs, FL | 2026-06-19 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2179951P1~99/) | Kforce | Draper, UT | 2026-06-19 |
 | [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2180144T1~99/) | Kforce | Boston, MA | 2026-06-19 |
 | [Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2179826T1~99/) | Kforce | Altamonte Springs, FL | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2165457T1~99/) | Kforce | Juno Beach, FL | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2168075T1~99/) | Kforce | Nashville, TN | 2026-06-19 |
-| [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2179777T1~99/) | Kforce | Spring, TX | 2026-06-19 |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2168982P1~99/) | Kforce | Fort Lauderdale, FL | 2026-06-19 |
 | [Data Engineer- Infrastructure](http://www.kforce.com/Jobs/1696~AQG~2176580P1~99/) | Kforce | Boston, MA | 2026-06-19 |
+| [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2179777T1~99/) | Kforce | Spring, TX | 2026-06-19 |
 | [Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2179405T1~99/) | Kforce | Brooklyn, NY | 2026-06-19 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2168982P1~99/) | Kforce | Fort Lauderdale, FL | 2026-06-19 |
 | [Data Engineer Tableau - ETL](http://www.kforce.com/Jobs/1696~AQG~2179660T1~99/) | Kforce | Westlake, TX | 2026-06-19 |
 | [AI/Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2177870P1~99/) | Kforce | Riviera Beach, FL | 2026-06-19 |
-| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2177981T1~99/) | Kforce | Deerfield Beach, FL | 2026-06-19 |
 | [Lead Data Architect - Remote](http://www.kforce.com/Jobs/1696~WQG~2180098T1~99/) | Kforce | San Antonio, TX | 2026-06-19 |
+| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2177981T1~99/) | Kforce | Deerfield Beach, FL | 2026-06-19 |
 | [Data Engineer- Infrastructure](http://www.kforce.com/Jobs/1696~AQG~2176579P1~99/) | Kforce | New York, NY | 2026-06-19 |
 | [Cloud Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2169183T1~99/) | Kforce | Boston, MA | 2026-06-19 |
 | [Part-Time Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2179712T1~99/) | Kforce | Saint Louis, MO | 2026-06-19 |
+| [Data Scientist](http://www.kforce.com/Jobs/1696~TVT~2175691T1~99/) | Kforce | San Antonio, TX | 2026-06-19 |
 | [Programmer Analyst - Data Engineering](http://www.kforce.com/Jobs/1696~EQG~2170288T1~99/) | Kforce | Juno Beach, FL | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2172792T1~99/) | Kforce | Merrimack, NH | 2026-06-19 |
 | [Senior Snowflake Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2174770T1~99/) | Kforce | Davie, FL | 2026-06-19 |
 | [Business / Data Analyst - Senior Level](http://www.kforce.com/Jobs/1696~TVT~2180149T1~99/) | Kforce | Plano, TX | 2026-06-19 |
-| [Data Scientist](http://www.kforce.com/Jobs/1696~TND~2175561T1~99/) | Kforce | San Antonio, TX | 2026-06-19 |
 | [Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2179012T1~99/) | Kforce | Long Island City, NY | 2026-06-19 |
 | [Learning Compliance Data Analyst](http://www.kforce.com/Jobs/1696~NRC~2179206T1~99/) | Kforce | Tampa, FL | 2026-06-19 |
 | [CX Insights Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2179225T1~99/) | Kforce | Stamford, CT | 2026-06-19 |
 | [Data Scientist - Revenue Management](http://www.kforce.com/Jobs/1696~AQG~2178986T1~99/) | Kforce | Long Island City, NY | 2026-06-19 |
-| [Cloud Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2173347T1~99/) | Kforce | Minneapolis, MN | 2026-06-19 |
-| [Labor / Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2179528P1~99/) | Kforce | Tysons Corner, VA | 2026-06-19 |
 | [Associate Data Scientist II](http://www.kforce.com/Jobs/1696~EQG~2177110P1~99/) | Kforce | Brentwood, MO | 2026-06-19 |
 | [Data Scientist - Tech Ops](http://www.kforce.com/Jobs/1696~AQG~2179010T1~99/) | Kforce | Long Island City, NY | 2026-06-19 |
+| [Cloud Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2173347T1~99/) | Kforce | Minneapolis, MN | 2026-06-19 |
 | [AI/ML Data Scientist](http://www.kforce.com/Jobs/1696~TVT~2177940T1~99/) | Kforce | Charlotte, NC | 2026-06-19 |
-| [Senior Data & Analytics / Applied AI Lead](http://www.kforce.com/Jobs/1696~EQG~2174283T1~99/) | Kforce | Nashville, TN | 2026-06-19 |
 | [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2178968T1~99/) | Kforce | Altamonte Springs, FL | 2026-06-19 |
+| [Senior Data & Analytics / Applied AI Lead](http://www.kforce.com/Jobs/1696~EQG~2174283T1~99/) | Kforce | Nashville, TN | 2026-06-19 |
+| [Sr IT Contact Center Data & Analytics Engineer](http://www.kforce.com/Jobs/1696~WQG~2179687P1~99/) | Kforce | Greenwood Village, CO | 2026-06-19 |
 | [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2057050T1~99/) | Kforce | Denver, CO | 2026-06-19 |
 | [Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2057896T1~99/) | Kforce | San Francisco, CA | 2026-06-19 |
-| [Sr IT Contact Center Data & Analytics Engineer](http://www.kforce.com/Jobs/1696~WQG~2179687P1~99/) | Kforce | Greenwood Village, CO | 2026-06-19 |
 | [Senior Post Market Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2175972T1~99/) | Kforce | Acton, MA | 2026-06-19 |
 | [Data Engineer (Oracle PL/SQL)](http://www.kforce.com/Jobs/1696~AQG~2178443T1~99/) | Kforce | Durham, NC | 2026-06-19 |
-| [Data Platform Engineer](http://www.kforce.com/Jobs/1696~TVT~2178913T1~99/) | Kforce | Greenwood Village, CO | 2026-06-19 |
 | [Administrator Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2178714T1~99/) | Kforce | Merrimack, NH | 2026-06-19 |
 | [Data Scientist Level 2](http://www.kforce.com/Jobs/1696~EQG~2178881T1~99/) | Kforce | Cincinnati, OH | 2026-06-19 |
+| [Data Platform Engineer](http://www.kforce.com/Jobs/1696~TVT~2178913T1~99/) | Kforce | Greenwood Village, CO | 2026-06-19 |
 | [BA Global Data Management & AI Enablement](http://www.kforce.com/Jobs/1696~WQG~2179183T1~99/) | Kforce | Austin, TX | 2026-06-19 |
 | [Manager AI Product and Data Architecture](http://www.kforce.com/Jobs/1696~NRC~2176688P1~99/) | Kforce | Tampa, FL | 2026-06-19 |
 | [Technical Architect (Workday Prism) - Remote](http://www.kforce.com/Jobs/1696~AQG~2178435P1~99/) | Kforce | Boston, MA | 2026-06-19 |
@@ -105,6 +105,7 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Markit EDM Developer](http://www.kforce.com/Jobs/1696~AQG~2177661T1~99/) | Kforce | New York, NY | 2026-06-19 |
 | [AI Governance/Compliance Analyst](http://www.kforce.com/Jobs/1696~AQG~2178922T1~99/) | Kforce | Fairfax, VA | 2026-06-19 |
 | [Senior Programmer Analyst (CRM)](http://www.kforce.com/Jobs/1696~EQG~2179978P1~99/) | Kforce | Orlando, FL | 2026-06-19 |
+| [RPA Developer / Analytics Automation Developer](http://www.kforce.com/Jobs/1696~EQG~2180168T1~99/) | Kforce | Orlando, FL | 2026-06-19 |
 | [Senior .NET Software Engineers](http://www.kforce.com/Jobs/1696~WQG~2172771P1~99/) | Kforce | Phoenix, AZ | 2026-06-19 |
 | [Mainframe Utilities Developer](http://www.kforce.com/Jobs/1696~WQG~2180113T1~99/) | Kforce | Chandler, AZ | 2026-06-19 |
 | [AI/ML Engineer](http://www.kforce.com/Jobs/1696~EQG~2165458T1~99/) | Kforce | Juno Beach, FL | 2026-06-19 |
@@ -138,8 +139,8 @@ direct apply link, so you only ever see what's new since you last looked.
 | [SRE/ APP Support](https://careers.teksystems.com/us/en/job/JP-006077855/SRE-APP-Support) | TEKsystems | Fort Mill, South Carolina | 2026-06-19 |
 | [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006081255/Solutions-Architect) | TEKsystems | Atlanta, Georgia | 2026-06-19 |
 | [Sr. Conversational AI Designer - 100% REMOTE](https://careers.teksystems.com/us/en/job/JP-006104194/Sr-Conversational-AI-Designer-100-REMOTE) | TEKsystems | Atlanta, Georgia | 2026-06-19 |
-| [Principal Data Scientist](https://careers.teksystems.com/us/en/job/JP-006093426/Principal-Data-Scientist) | TEKsystems | Cary, North Carolina | 2026-06-19 |
 | [Oracle Fusion Cloud HCM Developer](https://careers.teksystems.com/us/en/job/JP-006076732/Oracle-Fusion-Cloud-HCM-Developer) | TEKsystems | Durham, North Carolina | 2026-06-19 |
+| [Principal Data Scientist](https://careers.teksystems.com/us/en/job/JP-006093426/Principal-Data-Scientist) | TEKsystems | Cary, North Carolina | 2026-06-19 |
 | [.NET Mortgage & Trading Analytics Lead Developer](https://careers.teksystems.com/us/en/job/JP-006076745/NET-Mortgage-Trading-Analytics-Lead-Developer) | TEKsystems | Durham, North Carolina | 2026-06-19 |
 | [Application Developer - Front End Engineer (W2 Only)](https://careers.teksystems.com/us/en/job/JP-006098466/Application-Developer-Front-End-Engineer-W2-Only) | TEKsystems | Forest Park, Georgia | 2026-06-19 |
 | [Azure Security Engineer](https://careers.teksystems.com/us/en/job/JP-006102681/Azure-Security-Engineer) | TEKsystems | Reston, Virginia | 2026-06-19 |
@@ -162,6 +163,120 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Data Engineer](https://jobs.insightglobal.com/jobs/find_a_job/indiana/carmel/data-engineer/job-537405/) | Insight Global | Carmel, IN | 2026-06-19 |
 | [Data Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/sharonville/data-engineer/job-521664/) | Insight Global | Sharonville, OH | 2026-06-19 |
 | [Data Engineer](https://jobs.insightglobal.com/jobs/find_a_job/california/san-jose/data-engineer/job-515704/) | Insight Global | San Jose, CA | 2026-06-19 |
+| [ML Engineer](https://www.apexsystems.com/job/3036358_usa/ml-engineer) | Apex Systems | Cleveland, OH | 2026-06-19 |
+| [AI Engineer](https://www.apexsystems.com/job/3028132_usa/ai-engineer) | Apex Systems | Fort Mill, SC | 2026-06-19 |
+| [Software Engineer](https://www.apexsystems.com/job/3032775_usa/software-engineer) | Apex Systems | Bloomfield, CT | 2026-06-19 |
+| [Data Engineer](https://www.apexsystems.com/job/3033418_usa/data-engineer) | Apex Systems | Calgary, AB | 2026-06-19 |
+| [Cloud Engineer](https://www.apexsystems.com/job/3034858_usa/cloud-engineer) | Apex Systems | Boston, MA | 2026-06-19 |
+| [Full Stack Engineer](https://www.apexsystems.com/job/3034918_usa/full-stack-engineer) | Apex Systems | Mclean, VA | 2026-06-19 |
+| [X4 Front End Engineer](https://www.apexsystems.com/job/3035544_usa/x4-front-end-engineer) | Apex Systems | Sunnyvale, CA | 2026-06-19 |
+| [Software Engineer](https://www.apexsystems.com/job/3036755_usa/software-engineer) | Apex Systems | Chesapeake, VA | 2026-06-19 |
+| [Software Engineer](https://www.apexsystems.com/job/3037006_usa/software-engineer) | Apex Systems | Rochester, MN | 2026-06-19 |
+| [AI Engineer](https://www.apexsystems.com/job/3037167_usa/ai-engineer) | Apex Systems | Maple Grove, MN | 2026-06-19 |
+| [Data Engineer](https://www.apexsystems.com/job/3038262_usa/data-engineer) | Apex Systems | Louisville, KY | 2026-06-19 |
+| [Data Engineers](https://www.apexsystems.com/job/3038315_usa/data-engineers) | Apex Systems | Tampa, FL | 2026-06-19 |
+| [Principal AI Engineer](https://www.apexsystems.com/job/3016102_usa/principal-ai-engineer) | Apex Systems | Springfield, MO | 2026-06-19 |
+| [Cloud Data Engineer](https://www.apexsystems.com/job/3017356_usa/cloud-data-engineer) | Apex Systems | Oak Brook, IL | 2026-06-19 |
+| [Senior Security Engineer**](https://www.apexsystems.com/job/3031433_usa/senior-security-engineer) | Apex Systems | New Orleans, LA | 2026-06-19 |
+| [Azure Cloud Engineer](https://www.apexsystems.com/job/3031912_usa/azure-cloud-engineer) | Apex Systems | Arlington, VA | 2026-06-19 |
+| [AI Identity Engineer](https://www.apexsystems.com/job/3032959_usa/ai-identity-engineer) | Apex Systems | Indianapolis, IN | 2026-06-19 |
+| [Sr. DevOps Engineer](https://www.apexsystems.com/job/3033675_usa/sr-devops-engineer) | Apex Systems | Indianapolis, IN | 2026-06-19 |
+| [Staff Data Engineer](https://www.apexsystems.com/job/3034575_usa/staff-data-engineer) | Apex Systems | Los Angeles, CA | 2026-06-19 |
+| [Integration/Data Engineer](https://www.apexsystems.com/job/3034728_usa/integrationdata-engineer) | Apex Systems | Denver, CO | 2026-06-19 |
+| [Senior Security Engineer](https://www.apexsystems.com/job/3035230_usa/senior-security-engineer) | Apex Systems | Appleton, WI | 2026-06-19 |
+| [Intermediate Cloud Engineer](https://www.apexsystems.com/job/3036354_usa/intermediate-cloud-engineer) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [RAI Security Engineer](https://www.apexsystems.com/job/3036486_usa/rai-security-engineer) | Apex Systems | Chicago, IL | 2026-06-19 |
+| [Data Engineer x2](https://www.apexsystems.com/job/3036920_usa/data-engineer-x2) | Apex Systems | Rochester, MN | 2026-06-19 |
+| [Open-Source/ Platform Engineer](https://www.apexsystems.com/job/3036961_usa/open-source-platform-engineer) | Apex Systems | Pleasanton, CA | 2026-06-19 |
+| [AI Platform Engineer](https://www.apexsystems.com/job/3036992_usa/ai-platform-engineer) | Apex Systems | Woonsocket, RI | 2026-06-19 |
+| [Senior AI Engineer](https://www.apexsystems.com/job/3036997_usa/senior-ai-engineer) | Apex Systems | Woonsocket, RI | 2026-06-19 |
+| [Senior Cloud Engineer](https://www.apexsystems.com/job/3037354_usa/senior-cloud-engineer) | Apex Systems | Daytona Beach, FL | 2026-06-19 |
+| [Windows Security Engineer](https://www.apexsystems.com/job/3037658_usa/windows-security-engineer) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [Unix Security Engineer](https://www.apexsystems.com/job/3037676_usa/unix-security-engineer) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [Sr. Fullstack Engineer](https://www.apexsystems.com/job/3038179_usa/sr-fullstack-engineer) | Apex Systems | New Hope, PA | 2026-06-19 |
+| [Network Cloud Engineer](https://www.apexsystems.com/job/3038240_usa/network-cloud-engineer) | Apex Systems | Richmond, VA | 2026-06-19 |
+| [Fullstack Web Engineer](https://www.apexsystems.com/job/3038767_usa/fullstack-web-engineer) | Apex Systems | Bellevue, WA | 2026-06-19 |
+| [Sr. Software Engineer with DevOps](https://www.apexsystems.com/job/3031443_usa/sr-software-engineer-with-devops) | Apex Systems | Irving, TX | 2026-06-19 |
+| [Sr PowerBI Platform Engineer](https://www.apexsystems.com/job/3032975_usa/sr-powerbi-platform-engineer) | Apex Systems | Houston, TX | 2026-06-19 |
+| [AWS Cloud Engineer III](https://www.apexsystems.com/job/3034307_usa/aws-cloud-engineer-iii) | Apex Systems | Virtual, MI | 2026-06-19 |
+| [Mid Level DevOps Engineer](https://www.apexsystems.com/job/3034920_usa/mid-level-devops-engineer) | Apex Systems | Mclean, VA | 2026-06-19 |
+| [NXTG Coralogix Security Engineer](https://www.apexsystems.com/job/3035085_usa/nxtg--coralogix-security-engineer) | Apex Systems | Home, MD | 2026-06-19 |
+| [AI Gateway Architect/Engineer](https://www.apexsystems.com/job/3036516_usa/ai-gateway-architectengineer) | Apex Systems | Wayne, PA | 2026-06-19 |
+| [Fullstack Engineer - SPT](https://www.apexsystems.com/job/3036757_usa/fullstack-engineer---spt) | Apex Systems | Bellevue, WA | 2026-06-19 |
+| [Radiant Logic/DevOps Engineer](https://www.apexsystems.com/job/3037063_usa/radiant-logicdevops-engineer) | Apex Systems | Fort Belvoir, MD | 2026-06-19 |
+| [Sr. Azure Cloud Engineer](https://www.apexsystems.com/job/3037101_usa/sr-azure-cloud-engineer) | Apex Systems | Bethesda, MD | 2026-06-19 |
+| [Information Security Engineer IV](https://www.apexsystems.com/job/3037308_usa/information-security-engineer-iv) | Apex Systems | Virtual, OH | 2026-06-19 |
+| [Gen AI Engineer Lead](https://www.apexsystems.com/job/3037828_usa/gen-ai-engineer-lead) | Apex Systems | Ridgeland, MS | 2026-06-19 |
+| [Senior HR Data Engineer](https://www.apexsystems.com/job/3037914_usa/senior-hr-data-engineer) | Apex Systems | Merrifield, VA | 2026-06-19 |
+| [DevOps / SRE Engineer](https://www.apexsystems.com/job/3038493_usa/devops--sre-engineer) | Apex Systems | Dearborn, MI | 2026-06-19 |
+| [Data Engineer - Kafka](https://www.apexsystems.com/job/3038531_usa/data-engineer---kafka) | Apex Systems | Dallas, TX | 2026-06-19 |
+| [PHP Developer](https://www.apexsystems.com/job/3034852_usa/php-developer) | Apex Systems | Lemont, IL | 2026-06-19 |
+| [OnBase Developer](https://www.apexsystems.com/job/3035011_usa/onbase-developer) | Apex Systems | Ridgeland, MS | 2026-06-19 |
+| [Web Developer](https://www.apexsystems.com/job/3035556_usa/web-developer) | Apex Systems | Providence, RI | 2026-06-19 |
+| [.NET Developer](https://www.apexsystems.com/job/3036749_usa/net-developer) | Apex Systems | Columbia, MD | 2026-06-19 |
+| [ServiceNow Developer](https://www.apexsystems.com/job/3036891_usa/servicenow-developer) | Apex Systems | Richmond, VA | 2026-06-19 |
+| [Software Developer](https://www.apexsystems.com/job/3036898_usa/software-developer) | Apex Systems | Richmond, VA | 2026-06-19 |
+| [Mobile Developer](https://www.apexsystems.com/job/3036929_usa/mobile-developer) | Apex Systems | Bentonville, AR | 2026-06-19 |
+| [Sr Developer](https://www.apexsystems.com/job/3037942_usa/sr-developer) | Apex Systems | Durham, NC | 2026-06-19 |
+| [UI Developer](https://www.apexsystems.com/job/3038090_usa/ui-developer) | Apex Systems | Glen Allen, VA | 2026-06-19 |
+| [Mobile Developer](https://www.apexsystems.com/job/3038625_usa/mobile-developer) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [UI Developer](https://www.apexsystems.com/job/3038685_usa/ui-developer) | Apex Systems | Eagan, MN | 2026-06-19 |
+| [Azure Software Developer](https://www.apexsystems.com/job/3025908_usa/azure-software-developer) | Apex Systems | Racine, WI | 2026-06-19 |
+| [Java Developer (API)](https://www.apexsystems.com/job/3030282_usa/java-developer-api) | Apex Systems | Merrifield, VA | 2026-06-19 |
+| [Hyland Onbase Developer](https://www.apexsystems.com/job/3032358_usa/hyland-onbase-developer) | Apex Systems | Charlotte, NC | 2026-06-19 |
+| [Microsoft Dynamics Developer](https://www.apexsystems.com/job/3034692_usa/microsoft-dynamics-developer) | Apex Systems | Merrifield, VA | 2026-06-19 |
+| [IHCC Integration Developer](https://www.apexsystems.com/job/3035414_usa/ihcc-integration-developer) | Apex Systems | Charlotte, NC | 2026-06-19 |
+| [WorkDay Integration Developer](https://www.apexsystems.com/job/3035943_usa/workday-integration-developer) | Apex Systems | Lake Nona, FL | 2026-06-19 |
+| [Data Visualization Developer](https://www.apexsystems.com/job/3036432_usa/data-visualization-developer) | Apex Systems | Lincoln, NE | 2026-06-19 |
+| [Android Developer Mid](https://www.apexsystems.com/job/3036441_usa/android-developer-mid) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [iOS Developer Mid](https://www.apexsystems.com/job/3036442_usa/ios-developer-mid) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [iOS Developer Senior](https://www.apexsystems.com/job/3036443_usa/ios-developer-senior) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [PowerBI Reports Developer](https://www.apexsystems.com/job/3036587_usa/powerbi-reports-developer) | Apex Systems | Woonsocket, RI | 2026-06-19 |
+| [COSD Software Developer V](https://www.apexsystems.com/job/3036609_usa/cosd-software-developer-v) | Apex Systems | Home, CA | 2026-06-19 |
+| [Email Designer/Developer](https://www.apexsystems.com/job/3038016_usa/email-designerdeveloper) | Apex Systems | Richmond, VA | 2026-06-19 |
+| [Genesys Developer/Architect](https://www.apexsystems.com/job/3038086_usa/genesys-developerarchitect) | Apex Systems | Oak Brook, IL | 2026-06-19 |
+| [Optimizely Web Developer](https://www.apexsystems.com/job/3038263_usa/optimizely-web-developer) | Apex Systems | Waukesha, WI | 2026-06-19 |
+| [FID/VDS Developer](https://www.apexsystems.com/job/3038287_usa/fidvds-developer) | Apex Systems | Bethesda, MD | 2026-06-19 |
+| [Software Developer I](https://www.apexsystems.com/job/3038598_usa/software-developer-i) | Apex Systems | Works From Home, CO | 2026-06-19 |
+| [Senior Mobile Developer](https://www.apexsystems.com/job/3038627_usa/senior-mobile-developer) | Apex Systems | San Antonio, TX | 2026-06-19 |
+| [SIP Developer (OCCAS)](https://www.apexsystems.com/job/3038938_usa/sip-developer-occas) | Apex Systems | Eden Prairie, MN | 2026-06-19 |
+| [Senior Informatica ETL Developer](https://www.apexsystems.com/job/3026293_usa/senior-informatica-etl-developer) | Apex Systems | Eden Prairie, MN | 2026-06-19 |
+| [Workday Adaptive Planning Developer](https://www.apexsystems.com/job/3036366_usa/workday-adaptive-planning-developer) | Apex Systems | Atlanta, GA | 2026-06-19 |
+| [Sr. ServiceNow SPM Developer](https://www.apexsystems.com/job/3036659_usa/sr-servicenow-spm-developer) | Apex Systems | Tampa, FL | 2026-06-19 |
+| [Senior UI/UX Web Developer](https://www.apexsystems.com/job/3037059_usa/senior-uiux-web-developer) | Apex Systems | Fort Belvoir, MD | 2026-06-19 |
+| [Network Real Estate Specialist / Developer](https://www.apexsystems.com/job/3031695_usa/network-real-estate-specialist--developer) | Apex Systems | Remote, CA | 2026-06-19 |
+| [UI/UX Designer - Developer Experience and Internal Platforms](https://www.apexsystems.com/job/3033303_usa/uiux-designer---developer-experience-and-internal-platforms) | Apex Systems | Lake Forest, IL | 2026-06-19 |
+| [Madison, WI - IT - DOT - DBM - BITS - Java Developer IV - Repost- Location Chan](https://www.apexsystems.com/job/3038869_usa/madison-wi---it---dot---dbm---bits---java-developer-iv---repost--location-chan) | Apex Systems | Madison, WI | 2026-06-19 |
+| [1037 PowerBi Fabric / Databricks / AI Consultant](https://www.apexsystems.com/job/3026690_usa/1037-powerbi-fabric--databricks--ai-consultant) | Apex Systems | Irving, TX | 2026-06-19 |
+| [Digital Data Analyst (CJA) - FULLY REMOTE](https://www.apexsystems.com/job/3037782_usa/digital-data-analyst-cja---fully-remote) | Apex Systems | Various, MO | 2026-06-19 |
+| [Senior Full Stack Software Engineer](https://www.apexsystems.com/job/3038762_usa/senior-full-stack-software-engineer) | Apex Systems | Chicago, IL | 2026-06-19 |
+| [DevOps Engineer (CI/CD & Cloud)](https://www.apexsystems.com/job/3036943_usa/devops-engineer-cicd--cloud) | Apex Systems | Home, MD | 2026-06-19 |
+| [Data Scientist](https://www.apexsystems.com/job/3034482_usa/data-scientist) | Apex Systems | Pleasanton, CA | 2026-06-19 |
+| [Data Analysts](https://www.apexsystems.com/job/3037264_usa/data-analysts) | Apex Systems | Tampa, FL | 2026-06-19 |
+| [Data Analyst](https://www.apexsystems.com/job/3039001_usa/data-analyst) | Apex Systems | Eden Prairie, MN | 2026-06-19 |
+| [Sr Data Analyst](https://www.apexsystems.com/job/3034942_usa/sr-data-analyst) | Apex Systems | Eden Prairie, MN | 2026-06-19 |
+| [Research Data Scientist](https://www.apexsystems.com/job/3036960_usa/research-data-scientist) | Apex Systems | Pleasanton, CA | 2026-06-19 |
+| [Senior Data Scientist](https://www.apexsystems.com/job/3037670_usa/senior-data-scientist) | Apex Systems | Chicago, IL | 2026-06-19 |
+| [Senior Data Analyst](https://www.apexsystems.com/job/3038988_usa/senior-data-analyst) | Apex Systems | Woodlawn, MD | 2026-06-19 |
+| [Data Analyst - NPS](https://www.apexsystems.com/job/3028342_usa/data-analyst---nps) | Apex Systems | Pleasanton, CA | 2026-06-19 |
+| [Mid Level Data Scientist](https://www.apexsystems.com/job/3035463_usa/mid-level-data-scientist) | Apex Systems | Minneapolis, MN | 2026-06-19 |
+| [Data Analyst/Modeler II](https://www.apexsystems.com/job/3038390_usa/data-analystmodeler-ii) | Apex Systems | Works From Home, GA | 2026-06-19 |
+| [Data Engineer (SQL + Snowflake)](https://www.apexsystems.com/job/3034040_usa/data-engineer-sql--snowflake) | Apex Systems | Various, TX | 2026-06-19 |
+| [Data Engineer - FULLY REMOTE](https://www.apexsystems.com/job/3039015_usa/data-engineer---fully-remote) | Apex Systems | Various, NC | 2026-06-19 |
+| [Data Analyst (FULLY REMOTE - EST ONLY)](https://www.apexsystems.com/job/3032230_usa/data-analyst-fully-remote---est-only) | Apex Systems | Various, NC | 2026-06-19 |
+| [Senior Data Analyst – Tech Debt & Risk Prioritization](https://www.apexsystems.com/job/3039028_usa/senior-data-analyst--tech-debt--risk-prioritization) | Apex Systems | Cedar Rapids, IA | 2026-06-19 |
+| [Machine Learning AI Engineer (ML Velocity & Productionization)](https://www.apexsystems.com/job/3034200_usa/machine-learning-ai-engineer--ml-velocity--productionization) | Apex Systems | Toronto, ON | 2026-06-19 |
+| [AI Security Lead](https://www.apexsystems.com/job/3026421_usa/ai-security-lead) | Apex Systems | Ridgeland, MS | 2026-06-19 |
+| [AI Technical Product Architect](https://www.apexsystems.com/job/3028133_usa/ai-technical-product-architect) | Apex Systems | Fort Mill, SC | 2026-06-19 |
+| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3038846_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, MA | 2026-06-19 |
+| [AI Technology Usability Researcher](https://www.apexsystems.com/job/3029486_usa/ai-technology-usability-researcher) | Apex Systems | Redmond, WA | 2026-06-19 |
+| [Senior Software Engineer – GenAI & Agentic Applications](https://www.apexsystems.com/job/3032486_usa/senior-software-engineer--genai--agentic-applications) | Apex Systems | Dallas, TX | 2026-06-19 |
+| [Software Engineering - Software Engineer V](https://www.apexsystems.com/job/3037318_usa/software-engineering---software-engineer-v) | Apex Systems | Remote, CA | 2026-06-19 |
+| [.NET/ API Senior Software Engineer](https://www.apexsystems.com/job/3037931_usa/net-api-senior-software-engineer) | Apex Systems | Plymouth Meeting, PA | 2026-06-19 |
+| [AI Delivery Lead](https://www.apexsystems.com/job/3026420_usa/ai-delivery-lead) | Apex Systems | Ridgeland, MS | 2026-06-19 |
+| [Fullstack Engineer-AI](https://www.apexsystems.com/job/3034951_usa/fullstack-engineer-ai) | Apex Systems | Woonsocket, RI | 2026-06-19 |
+| [AI Tech Lead](https://www.apexsystems.com/job/3035373_usa/ai-tech-lead) | Apex Systems | Columbia, MD | 2026-06-19 |
+| [Embedded Verkada Programmer](https://www.apexsystems.com/job/3036831_usa/embedded-verkada-programmer) | Apex Systems | Tampa, FL | 2026-06-19 |
 | [Sr Software Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013448530-usen) | Robert Half | — | 2026-06-19 |
 | [Sr Php Web Developer](https://www.roberthalf.com/us/en/job/tampa-fl/sr-php-web-developer/01070-0013371314-usen) | Robert Half | — | 2026-06-19 |
 | [Web Developer](https://www.roberthalf.com/us/en/job/allentown-pa/web-developer/03720-0013450358-usen) | Robert Half | — | 2026-06-19 |
@@ -339,73 +454,8 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Lead GIS Software Developer](https://www.ginastechjobs.com/job/lead-gis-software-developer/) | Gina's Tech Jobs | St. Louis, MO, USA | 2026-06-19 |
 | [Embedded C/C++, Python Software Engineer](https://www.ginastechjobs.com/job/embedded-c-c-python-software-engineer/) | Gina's Tech Jobs | Hawthorne, NY, USA | 2026-06-19 |
 | [BI Developer, Construction or Electrical Industry Required](https://www.ginastechjobs.com/job/bi-developer-construction-or-electrical-industry-required/) | Gina's Tech Jobs | St. Augustine, FL, USA | 2026-06-19 |
-| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-06-19 |
-| [Data Science Developer](https://www.ginastechjobs.com/job/data-science-developer/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-06-19 |
-| [C# ASP.Net Software Developer](https://www.ginastechjobs.com/job/c-asp-net-software-developer/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-06-19 |
-| [Backend Software Engineer – Work From Home](https://www.ginastechjobs.com/job/backend-software-engineer-work-from-home/) | Gina's Tech Jobs | Raleigh, NC, USA (Remote) | 2026-06-19 |
-| [NetSuite Administrator/Developer, Hybrid](https://www.nextstepsystems.com/job/netsuite-administrator-developer-hybrid/) | Next Step Systems | Waukegan, IL, USA | 2026-06-19 |
-| [Web Technical Lead, Spring Boot, Angular.js, DevOps – Work From Home](https://www.nextstepsystems.com/job/web-technical-lead-spring-boot-angular-js-devops-work-from-home/) | Next Step Systems | Oakland, CA, USA (Remote) | 2026-06-19 |
-| [C++ Software Developer](https://www.nextstepsystems.com/job/c-software-developer-3/) | Next Step Systems | Chicago, IL, USA | 2026-06-19 |
-| [C++ Trade Desk Software Developer](https://www.nextstepsystems.com/job/c-trade-desk-software-developer-2/) | Next Step Systems | Chicago, IL, USA | 2026-06-19 |
-| [C++ Trading Systems Software Developer](https://www.nextstepsystems.com/job/c-trading-systems-software-developer/) | Next Step Systems | Chicago, IL, USA | 2026-06-19 |
-| [Embedded Software Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365836&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Data Analyst](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365851&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Software Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=364241&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Senior Software Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365889&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Entry Level Software Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365797&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Data Scientist](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=364968&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Embedded Software Engineer - ADV](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365910&apply=yes&) | Belcan | — | 2026-06-19 |
-| [Engineer Embedded Software 3](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365522&apply=yes&) | Belcan | — | 2026-06-19 |
-| [SMT (Surface Mount Technology) Technician/Programmer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=365732&apply=yes&) | Belcan | — | 2026-06-19 |
-| [DevSecOps Software Engineer ll](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=361381&apply=yes&) | Belcan | — | 2026-06-19 |
-| [SENIOR DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-data-analyst-london-11/) | Harnham | — | 2026-06-19 |
-| [SENIOR AI SOFTWARE ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-ai-software-engineer-london/) | Harnham | — | 2026-06-19 |
-| [SENIOR MACHINE LEARNING ENGINEER (VLM)](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-machine-learning-engineer-vlm-usa/) | Harnham | — | 2026-06-19 |
-| [PRINCIPAL DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-principal-data-scientist-usa-4/) | Harnham | — | 2026-06-19 |
-| [AI SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-scientist-boston-massachusetts/) | Harnham | — | 2026-06-19 |
-| [SENIOR AI ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-ai-engineer-boston-massachusetts/) | Harnham | — | 2026-06-19 |
-| [SENIOR ML ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-ml-engineer-usa-2/) | Harnham | — | 2026-06-19 |
-| [AI RESEARCH DIRECTOR](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-research-director-michigan/) | Harnham | — | 2026-06-19 |
-| [AI Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000cnedeay-ai-engineer-hermitage-tennessee/) | Brooksource | — | 2026-06-19 |
-| [Software Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000drtnea2-software-engineer-dublin-ohio/) | Brooksource | — | 2026-06-19 |
-| [Senior Full Stack & GenAI Developer](https://fastswitch.com/jobs/senior-full-stack-genai-developer-61735/) | Fast Switch | Location: Cleveland, Ohio | 2026-06-19 |
-| [Sr Data Engineer and Analytics Analyst](https://fastswitch.com/jobs/sr-data-engineer-and-analytics-analyst-61734/) | Fast Switch | Location: Cleveland, Ohio | 2026-06-19 |
-| [Python Developer](https://scionstaffing.com/job/14862/?jobTitle=python-developer-portland-or) | Scion Staffing | Location: Portland, OR | 2026-06-19 |
-| [Full Stack Java Engineer](https://scionstaffing.com/job/14861/?jobTitle=full-stack-java-engineer-covington-ky) | Scion Staffing | Location: Covington, KY | 2026-06-19 |
-| [Cloud Engineer / Site Reliability Engineer (SRE)](https://bhsg.com/jobs/job/ns-sredf-ns_1781815644-cloud-engineer-site-reliability-engineer-sre-orlando-florida/) | Beacon Hill | — | 2026-06-19 |
-| [Senior Software Engineer (Java)–100% Remote contract](https://bhsg.com/jobs/job/hsmad61726_1781752012-senior-software-engineer-java-100-remote-contract-madison-wisconsin/) | Beacon Hill | — | 2026-06-19 |
-| [Software Developer](https://bhsg.com/jobs/job/t1462666-phi_1781725415-software-developer-galloway-new-jersey/) | Beacon Hill | — | 2026-06-19 |
-| [SQL Developer](https://bhsg.com/jobs/job/t1463060-phi_1781638496-sql-developer-plainsboro-new-jersey/) | Beacon Hill | — | 2026-06-19 |
-| [Senior GCP Cloud Engineer](https://bhsg.com/jobs/job/t1462333-phi_1781637277-senior-gcp-cloud-engineer-claymont-delaware/) | Beacon Hill | — | 2026-06-19 |
-| [Endpoint Security Engineer](https://bhsg.com/jobs/job/1462533_1781616161-endpoint-security-engineer-charlotte-north-carolina/) | Beacon Hill | — | 2026-06-19 |
-| [100%Remote-Sr Backend Eng (AWS Lambda / Serverless)](https://bhsg.com/jobs/job/ns-awsa-ns_1781545795-100remote-sr-backend-eng-aws-lambda-serverless-irvine-california/) | Beacon Hill | — | 2026-06-19 |
-| [AI Analytics Engineer – Qlik & Semantic Layer](https://bhsg.com/jobs/job/t1462553-phi_1781469040-ai-analytics-engineer-qlik-semantic-layer-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-06-19 |
-| [Sr. Data Engineer](https://bhsg.com/jobs/job/t1454624chs-lf_1781279123-sr-data-engineer-huntsville-alabama/) | Beacon Hill | — | 2026-06-19 |
-| [OIPA Configuration Developer–100% Remote–C2H](https://bhsg.com/jobs/job/hsmad61126_1781221120-oipa-configuration-developer-100-remote-c2h-madison-wisconsin/) | Beacon Hill | — | 2026-06-19 |
-| [Cyber Security Engineer (DataDog)](https://bhsg.com/jobs/job/1459845_1781184965-cyber-security-engineer-datadog-washington-district-of-columbia/) | Beacon Hill | — | 2026-06-19 |
-| [Software Developer (#669863E)](https://bhsg.com/jobs/job/software-developer-669863e/) | Beacon Hill | — | 2026-06-19 |
-| [MLR Operations Print & Fulfillment Manager](https://bhsg.com/jobs/job/1461491lmm_1781105007-mlr-operations-print-fulfillment-manager-cambridge-massachusetts/) | Beacon Hill | — | 2026-06-19 |
-| [Fall 2026 Co-op: Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-0756&BRID=1310320&lang=1) | Njoyn (CGI) | Sherbrooke | 2026-06-19 |
-| [Senior Forward Deployed Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1518&BRID=1310294&lang=1) | Njoyn (CGI) | Toronto | 2026-06-19 |
-| [Lead AWS Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1746&BRID=1310289&lang=1) | Njoyn (CGI) | Reston | 2026-06-19 |
-| [Développeur back-end C](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1757&BRID=1310287&lang=1) | Njoyn (CGI) | Montréal | 2026-06-19 |
-| [Senior Microsoft Power Platform Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0526-2524&BRID=1304113&lang=1) | Njoyn (CGI) | Halifax | 2026-06-19 |
-| [Power BI Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-0464&BRID=1306415&lang=1) | Njoyn (CGI) | Montréal | 2026-06-19 |
-| [Intermediate VBA Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1050&BRID=1308380&lang=1) | Njoyn (CGI) | Montréal | 2026-06-19 |
-| [Digital Site Reliability Engineer (SRE) - Local to Columbus, Ohio](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-0322&BRID=1287579&lang=1) | Njoyn (CGI) | Columbus | 2026-06-19 |
-| [Senior Software Engineer - ServiceNow Technology Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0526-0497&BRID=1300931&lang=1) | Njoyn (CGI) | Hyderabad | 2026-06-19 |
-| [senior software engineer - GenAI Value Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0526-2440&BRID=1306017&lang=1) | Njoyn (CGI) | Hyderabad | 2026-06-19 |
-| [Senior Software Engineer - Java full stack Developer - 6 to 9 years exp](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-2630&BRID=1304413&lang=1) | Njoyn (CGI) | Chennai | 2026-06-19 |
-| [MQ DataPower DevOps Engineering Specialist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1587&BRID=1310264&lang=1) | Njoyn (CGI) | Toronto, Calgary, Montreal | 2026-06-19 |
-| [Senior BI Developer / Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1535&BRID=1310234&lang=1) | Njoyn (CGI) | Montréal | 2026-06-19 |
-| [Senior Kofax developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1608&BRID=1310232&lang=1) | Njoyn (CGI) | Toronto | 2026-06-19 |
-| [Senior .Net Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1225-1390&BRID=1262714&lang=1) | Njoyn (CGI) | Lisbon | 2026-06-19 |
-| [Senior Python Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1519&BRID=1310216&lang=1) | Njoyn (CGI) | Leeds | 2026-06-19 |
-| [Sr. Java Backend Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1615&BRID=1310215&lang=1) | Njoyn (CGI) | Dallas | 2026-06-19 |
-| [Java Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1540&BRID=1310212&lang=1) | Njoyn (CGI) | Merrimack, Dallas, Smithfield | 2026-06-19 |
-| [Senior Full-Stack Developer (Angular and .NET)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0526-0868&BRID=1299439&lang=1) | Njoyn (CGI) | Baltimore | 2026-06-19 |
-| [Senior Java Full Stack Developer - Financial Services](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1727&BRID=1310184&lang=1) | Njoyn (CGI) | Halifax, Moncton | 2026-06-19 |
-| [Senior Full Stack Developer (Golang/Java/Scala)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-0742&BRID=1310152&lang=1) | Njoyn (CGI) | Halifax | 2026-06-19 |
+
+_…and 67 more new roles in [`data/jobs.json`](data/jobs.json)._
 <!-- JOBS:END -->
 
 ## How it works
