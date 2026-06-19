@@ -56,6 +56,11 @@ EXCLUDE = [
     "plumber", "electrician", "mechanic", "laborer", "receptionist",
     "accountant", "bookkeeper", "attorney", "paralegal", "teacher", "phlebot",
     "machine operator", "production operator", "maintenance technician",
+    # non-IT "analyst"/"engineer"/specialist roles that match broad keywords
+    "financial analyst", "tax analyst", "accounting analyst", "credit analyst",
+    "budget analyst", "research analyst", "marketing analyst", "supply chain analyst",
+    "logistics", "procurement", "machining", " cnc", "project engineer",
+    "manufacturing", "tax ", "payroll", "warehouse", "buyer", "merchandis",
 ]
 
 
