@@ -107,7 +107,7 @@ function render() {{
     (!firm || j.firm === firm) &&
     (!term || (j.title + ' ' + (j.location||'')).toLowerCase().includes(term)) &&
     (!freshOnly || ageDays(j) <= 7)
-  );
+  ).sort((a, b) => ageDays(a) - ageDays(b));  // newest first, across all firms
   shownEl.textContent = rows.length;
   emptyEl.style.display = rows.length ? 'none' : 'block';
   rowsEl.innerHTML = rows.map(j => {{
