@@ -1,0 +1,40 @@
+name: scrape-staffing-jobs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual run button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}   # for Cloudflare-walled firms (Apex)
+        run: python run.py
+
+      - name: Build site
+        run: python build_site.py
+
+      - name: Commit results
+        run: |
+          git config user.name "staffing-buddy-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/jobs.json site/index.html
+          git commit -m "update jobs $(date -u +%FT%TZ)" || echo "no changes"
+          git push

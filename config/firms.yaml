@@ -1,0 +1,353 @@
+# StaffingBuddy — firm configs
+#
+# Two scrape modes per firm:
+#
+#   mode: api   -> we call the JSON endpoint the careers page calls behind the scenes
+#                  (fast, stable, no browser). Find it in DevTools > Network > XHR.
+#   mode: dom   -> Playwright renders the page, we read job cards via CSS selectors
+#                  (works on anything, slower, breaks when they redesign).
+#
+# Each firm produces job dicts with: title, location, url, posted, firm
+#
+# Kforce below is a CONFIRMED-WORKING api example (Azure Search POST endpoint,
+# discovered via DevTools > Network). The dom firms are STARTING POINTS whose
+# search URLs + selectors still need calibrating against the live site — see
+# README "Calibrating a firm".
+
+firms:
+  # ---------------------------------------------------------------- WORKING ----
+  - name: "Kforce"
+    mode: api
+    search_url: "https://www.kforce.com/find-work/search-jobs/"
+    api:
+      method: POST
+      url: "https://kforcewebeast.search.windows.net/indexes/kforcewebjobentity/docs/search?api-version=2016-09-01"
+      headers:
+        api-key: "1603E4DC4C87A8E41D6BBDE4EEA4EFB7"
+        Content-Type: "application/json; charset=UTF-8"
+        Accept: "application/json"
+      json_body:
+        count: true
+        select: "Title, Id, PostDate, City, State, Zip, TypeCode, ApplyUrl, Industry"
+        filter: ""
+        queryType: "simple"
+        search: "data"            # <- search term; broaden/narrow here
+        searchFields: "Title, Responsibilities, Skills, City, State"
+        searchMode: "any"
+        skip: 0
+        top: 50
+      paginate:
+        in: json_body
+        param: skip
+        size: 50
+        max_pages: 3
+      list_path: "value"
+      url_prefix: "https://www.kforce.com"
+      fields:
+        title: "Title"
+        location: ["City", "State"]
+        url: "ApplyUrl"
+        posted: "PostDate"
+    location_filter: ["United States", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "TEKsystems"
+    mode: api
+    # CONFIRMED working (Phenom People refineSearch API). global:true + empty
+    # locationData removes the 50mi geo-limit -> nationwide. Paginated via `from`.
+    search_url: "https://careers.teksystems.com/us/en/search-results?keywords=data"
+    api:
+      method: POST
+      url: "https://careers.teksystems.com/widgets"
+      headers:
+        Content-Type: "application/json"
+        Accept: "application/json"
+        User-Agent: "Mozilla/5.0 StaffingBuddy"
+      json_body:
+        lang: "en_us"
+        deviceType: "desktop"
+        country: "us"
+        pageName: "search-results"
+        ddoKey: "refineSearch"
+        sortBy: "Most recent"
+        from: 0
+        jobs: true
+        counts: true
+        all_fields: ["category", "state", "city", "type"]
+        size: 100
+        clearAll: false
+        jdsource: "facets"
+        isSliderEnable: false
+        pageId: "page10"
+        siteType: "external"
+        keywords: "data"
+        global: true
+        selected_fields: {}
+        locationData: {}
+      paginate:
+        in: json_body
+        param: from
+        size: 100
+        max_pages: 3
+      list_path: "refineSearch.data.jobs"
+      fields:
+        title: "title"
+        location: "cityState"
+        url: "applyUrl"
+        posted: "postedDate"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "CyberCoders"
+    mode: api
+    enabled: false
+    # API reachable (GET, Solr-backed) BUT keyword search is NOT replicable — the
+    # ccv5-jobs/search endpoint ignores searchterms and returns all ~4,000 jobs
+    # (keyword filtering happens via a server-side search session we don't hold).
+    # CyberCoders is also multi-industry (tax/legal/medical), so the date-sorted
+    # firehose yields very few data/ML roles. Low ROI — left here as a documented
+    # dead-end. Revisit only if we replicate the search-session token.
+    search_url: "https://www.cybercoders.com/search/?searchterms=data"
+    api:
+      method: GET
+      url: "https://www.cybercoders.com/ccv5-jobs/search"
+      headers:
+        Accept: "application/json"
+        User-Agent: "Mozilla/5.0 StaffingBuddy"
+      params:
+        searchterms: "data"
+        rows: 50
+        page: 1
+        sortType: "posted"
+        daysPosted: 0
+        buid: 1
+      list_path: "jobs"
+      url_prefix: "https://www.cybercoders.com"
+      fields:
+        title: "jobTitle"
+        location: ["City", "StateCode"]
+        url: "JobURL"
+        posted: "DatePost"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Insight Global"
+    mode: dom
+    # CONFIRMED working. The real jobs live on the jobs.* SUBDOMAIN (the main
+    # insightglobal.com is just marketing — that's why it looked Bullhorn-walled).
+    # No Cloudflare here; clean DOM. ~1,400+ "data engineer" results.
+    search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
+    selectors:
+      card: "div.result"
+      title: ".job-title"
+      location: ".job-info"
+      link: "a[href*='/job-']"
+    location_split: "|"     # job-info is "City, ST | Category | Perm | $..."
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ----------------------------------------------- APIFY (Cloudflare bypass) ---
+  # Apex Systems: site is Cloudflare-walled to headless Chromium AND rebranded to
+  # "Everforth Apex". Solved via Apify rag-web-browser in Google-search mode —
+  # Google has already indexed past Cloudflare, so we enumerate job pages cheaply.
+  # Requires APIFY_TOKEN env var (GitHub secret). ~$0.015 per run.
+  - name: "Apex Systems"
+    mode: apify_search
+    search_url: "https://www.apexsystems.com/consultant-careers"
+    apify:
+      actor: "apify~rag-web-browser"
+      query: "site:apexsystems.com/job data engineer OR machine learning OR data scientist OR python"
+      max_results: 20
+    location_filter: []     # location not in search snippets; keep all US
+
+  # ================================================================ BATCH 2 ====
+  # 16 more staffing/vendor sources, calibrated 2026-06-19.
+
+  # ---- clean JSON APIs ----
+  - name: "Agility Connect"
+    mode: api
+    search_url: "https://agilityconnect.io/jobs"
+    api:
+      method: GET
+      url: "https://api.agilityconnect.io/jobs/"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 StaffingBuddy" }
+      params: { limit: 50, offset: 0 }
+      paginate: { in: params, param: offset, size: 50, max_pages: 2 }
+      list_path: "results"
+      url_prefix: "https://agilityconnect.io/jobs"
+      fields:
+        title: "name"
+        location: ["company.city", "company.state"]
+        url: "id"
+        posted: "posted_date"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Pinnacle Group"
+    mode: api
+    # Workday CXS API — standard pattern for any *.myworkdayjobs.com firm.
+    search_url: "https://pinnaclegroup.wd1.myworkdayjobs.com/en-US/PinnacleGroup"
+    api:
+      method: POST
+      url: "https://pinnaclegroup.wd1.myworkdayjobs.com/wday/cxs/pinnaclegroup/PinnacleGroup/jobs"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body: { appliedFacets: {}, limit: 20, offset: 0, searchText: "data" }
+      paginate: { in: json_body, param: offset, size: 20, max_pages: 3 }
+      list_path: "jobPostings"
+      url_prefix: "https://pinnaclegroup.wd1.myworkdayjobs.com/en-US/PinnacleGroup"
+      fields:
+        title: "title"
+        location: "locationsText"
+        url: "externalPath"
+        posted: "postedOn"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "KellyMitchell"
+    mode: api
+    search_url: "https://www.careers.kellymitchell.com/jobs"
+    api:
+      method: POST
+      url: "https://www.careers.kellymitchell.com/_sf/api/v1/jobs/search.json"
+      headers: { Content-Type: "application/json", Accept: "application/json" }
+      json_body:
+        job_search:
+          query: "data"
+          location: { address: "", radius: 50, region: "US", radius_units: "miles" }
+          filters: {}
+          commute_filter: {}
+          offset: 0
+      list_path: "results"
+      url_prefix: "https://www.careers.kellymitchell.com/jobs"
+      fields:
+        title: "job.title"
+        location: "job.original_location"
+        url: "job.url_slug"
+        posted: "job.published_at"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- WP Job Manager (HTML-in-JSON) ----
+  - name: "Gina's Tech Jobs"
+    mode: api_html
+    search_url: "https://www.ginastechjobs.com/find-it-jobs/"
+    api:
+      method: POST
+      url: "https://www.ginastechjobs.com/jm-ajax/get_listings/"
+      headers: { Content-Type: "application/x-www-form-urlencoded; charset=UTF-8" }
+      form: { search_keywords: "data", per_page: 30, orderby: "date", order: "DESC", page: 1 }
+      html_field: "html"
+    selectors:
+      card: "li.job_listing"
+      title: "h3"
+      location: ".location"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Next Step Systems"
+    mode: api_html
+    search_url: "https://www.nextstepsystems.com/find-it-jobs/"
+    api:
+      method: POST
+      url: "https://www.nextstepsystems.com/jm-ajax/get_listings/"
+      headers: { Content-Type: "application/x-www-form-urlencoded; charset=UTF-8" }
+      form: { search_keywords: "data", per_page: 30, orderby: "date", order: "DESC", page: 1 }
+      html_field: "html"
+    selectors:
+      card: "li.job_listing"
+      title: "h3"
+      location: ".location"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- DOM scrapeable ----
+  - name: "Belcan"
+    mode: dom
+    search_url: "https://belcanjobs.smartsearchonline.com/careersv2/process_jobsearch.asp"
+    selectors:
+      card: "div.jobGrpCard"
+      title: "a.jobTitleBtn"
+      location: ".jobLocation, [class*=ocation]"
+      link: "a.jobTitleBtn"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Harnham"
+    mode: dom
+    search_url: "https://www.harnham.com/job-search/"
+    selectors:
+      card: "div.pp-content-grid-post-text"
+      title: "a.job_search_title_anchor"
+      location: "[class*=ocation], [class*=meta]"
+      link: "a.job_search_title_anchor"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Goodwin Recruiting"
+    mode: dom
+    search_url: "https://www.goodwinrecruiting.com/search-jobs"
+    selectors:
+      card: "div.description_div_job_title_div"
+      title: "a.description_div_job_title"
+      location: "[class*=location]"
+      link: "a.description_div_job_title"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Brooksource"
+    mode: dom
+    search_url: "https://jobs.brooksource.com/jobs/"
+    selectors:
+      card: "div.col-md-9"
+      title: "a.medasource_jobs_title"
+      location: "[class*=location]"
+      link: "a.medasource_jobs_title"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Fast Switch"
+    mode: dom
+    search_url: "https://fastswitch.com/search-jobs/"
+    selectors:
+      card: "header.matador-job-header"
+      title: "h4.matador-job-title"
+      location: "[class*=location]"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Scion Staffing"
+    mode: dom
+    search_url: "https://scionstaffing.com/search-jobs/"
+    selectors:
+      card: "div.BH-joblist-item"
+      title: "div.BH-joblist-title"
+      location: ".BH-joblist-location, [class*=location]"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Nesco Resource"
+    mode: dom
+    search_url: "https://www.nescoresource.com/job-search#/"
+    selectors:
+      card: "div.shmJobItemDetails"
+      title: ".shmJobtitle"
+      location: ".shmLocation"
+      link: "a"
+    location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  # ---- walled (Cloudflare / bot) -> Apify Google-index trick. Needs APIFY_TOKEN ----
+  - name: "Robert Half"
+    mode: apify_search
+    search_url: "https://www.roberthalf.com/us/en/jobs"
+    apify:
+      actor: "apify~rag-web-browser"
+      query: "site:roberthalf.com/us/en/job data engineer OR machine learning OR python OR data analyst"
+      max_results: 20
+    location_filter: []
+
+  - name: "Beacon Hill"
+    mode: apify_search
+    search_url: "https://bhsg.com/jobs/job-search/?_prime_category=technology"
+    apify:
+      actor: "apify~rag-web-browser"
+      query: "site:bhsg.com data engineer OR machine learning OR data analyst job"
+      max_results: 15
+    location_filter: []
+
+  - name: "Njoyn (CGI)"
+    mode: apify_search
+    search_url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
+    apify:
+      actor: "apify~rag-web-browser"
+      query: "site:njoyn.com data engineer OR data analyst OR machine learning"
+      max_results: 15
+    location_filter: []
