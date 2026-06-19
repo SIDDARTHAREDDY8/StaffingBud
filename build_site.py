@@ -38,6 +38,11 @@ TEMPLATE = """<!doctype html>
   .firm {{ font-weight:700; white-space:nowrap; }}
   .pos {{ font-weight:500; }}
   .date {{ color:#555; white-space:nowrap; font-variant-numeric:tabular-nums; }}
+  .new {{ display:inline-block; background:#000; color:#fff; font-size:10px; font-weight:700;
+         letter-spacing:.5px; padding:1px 5px; margin-right:6px; vertical-align:1px; }}
+  .freshlbl {{ display:flex; align-items:center; gap:6px; font-size:13px; border:1px solid #000;
+              padding:7px 10px; white-space:nowrap; cursor:pointer; user-select:none; }}
+  .freshlbl input {{ width:auto; min-width:0; margin:0; accent-color:#000; }}
   .apply {{ display:inline-block; border:1px solid #000; padding:4px 12px; text-decoration:none;
            color:#000; font-weight:600; font-size:12px; white-space:nowrap; }}
   .apply:hover {{ background:#000; color:#fff; }}
@@ -53,11 +58,12 @@ TEMPLATE = """<!doctype html>
 <div class="controls">
   <input id="q" placeholder="Search position…">
   <select id="firm"><option value="">All firms</option>{firm_opts}</select>
+  <label class="freshlbl"><input type="checkbox" id="fresh"> Fresh only (7 days)</label>
 </div>
 <div class="wrap">
   <table>
     <thead><tr>
-      <th>Firm</th><th>Position</th><th class="hide-sm">Date</th><th>Apply</th>
+      <th>Firm</th><th>Position</th><th class="hide-sm">Added</th><th>Apply</th>
     </tr></thead>
     <tbody id="rows"></tbody>
   </table>
@@ -70,29 +76,48 @@ const emptyEl = document.getElementById('empty');
 const shownEl = document.getElementById('shown');
 const q = document.getElementById('q');
 const firmSel = document.getElementById('firm');
+const freshChk = document.getElementById('fresh');
 function esc(s) {{ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }}
+// Age since we first found the job (our freshness signal). Recomputed on view.
+function ageDays(j) {{
+  const t = Date.parse(j.first_seen || '');
+  return isNaN(t) ? 9999 : (Date.now() - t) / 86400000;
+}}
+function ageLabel(d) {{
+  if (d >= 9999) return '—';
+  if (d < 1) return 'Today';
+  if (d < 2) return 'Yesterday';
+  if (d < 7) return Math.floor(d) + 'd ago';
+  if (d < 14) return '1w ago';
+  if (d < 30) return Math.floor(d/7) + 'w ago';
+  return Math.floor(d/30) + 'mo ago';
+}}
 function render() {{
   const term = q.value.toLowerCase();
   const firm = firmSel.value;
+  const freshOnly = freshChk.checked;
   const rows = JOBS.filter(j =>
     (!firm || j.firm === firm) &&
-    (!term || (j.title + ' ' + (j.location||'')).toLowerCase().includes(term))
+    (!term || (j.title + ' ' + (j.location||'')).toLowerCase().includes(term)) &&
+    (!freshOnly || ageDays(j) <= 7)
   );
   shownEl.textContent = rows.length;
   emptyEl.style.display = rows.length ? 'none' : 'block';
   rowsEl.innerHTML = rows.map(j => {{
     const loc = j.location ? ` <span style="color:#777">· ${{esc(j.location)}}</span>` : '';
-    const date = (j.first_seen||'').slice(0,10) || '—';
+    const d = ageDays(j);
+    const pill = d < 1 ? '<span class="new">NEW</span>' : '';
     return `<tr>
       <td class="firm">${{esc(j.firm)}}</td>
       <td class="pos">${{esc(j.title)}}${{loc}}</td>
-      <td class="date hide-sm">${{date}}</td>
+      <td class="date hide-sm">${{pill}}${{ageLabel(d)}}</td>
       <td><a class="apply" href="${{j.url}}" target="_blank" rel="noopener">Apply →</a></td>
     </tr>`;
   }}).join('');
 }}
 q.addEventListener('input', render);
 firmSel.addEventListener('change', render);
+freshChk.addEventListener('change', render);
 render();
 </script>
 </body>
