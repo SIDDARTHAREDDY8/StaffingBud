@@ -27,16 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 506 new roles this update · 506 tracked total · updated `2026-06-19T20:07:36+00:00`
+### 🆕 534 new roles this update · 534 tracked total · updated `2026-06-19T20:19:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Apex Systems | 185 |
 | Robert Half | 85 |
-| Kforce | 64 |
+| Kforce | 61 |
 | Collabera | 54 |
 | TEKsystems | 37 |
+| Njoyn (CGI) | 18 |
 | Agility Connect | 17 |
+| Beacon Hill | 13 |
 | Insight Global | 10 |
 | Gina's Tech Jobs | 10 |
 | Belcan | 10 |
@@ -67,13 +69,13 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2168982P1~99/ApplyOnline/?event=candidate.apply&Industry=CBROWN2@KFORCE.COM) | Kforce | Fort Lauderdale, FL | 2026-06-19 |
 | [Data Engineer Tableau - ETL](http://www.kforce.com/Jobs/1696~AQG~2179660T1~99/ApplyOnline/?event=candidate.apply&Industry=SGANDHI@KFORCE.COM) | Kforce | Westlake, TX | 2026-06-19 |
 | [AI/Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2177870P1~99/ApplyOnline/?event=candidate.apply&Industry=MBICKHAUS@KFORCE.COM) | Kforce | Riviera Beach, FL | 2026-06-19 |
-| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2177981T1~99/ApplyOnline/?event=candidate.apply&Industry=PBERK@KFORCE.COM) | Kforce | Deerfield Beach, FL | 2026-06-19 |
-| [Data Engineer- Infrastructure](http://www.kforce.com/Jobs/1696~AQG~2176579P1~99/ApplyOnline/?event=candidate.apply&Industry=SHALE@KFORCE.COM) | Kforce | New York, NY | 2026-06-19 |
 | [Lead Data Architect - Remote](http://www.kforce.com/Jobs/1696~WQG~2180098T1~99/ApplyOnline/?event=candidate.apply&Industry=JZECH@KFORCE.COM) | Kforce | San Antonio, TX | 2026-06-19 |
+| [Data Engineer- Infrastructure](http://www.kforce.com/Jobs/1696~AQG~2176579P1~99/ApplyOnline/?event=candidate.apply&Industry=SHALE@KFORCE.COM) | Kforce | New York, NY | 2026-06-19 |
+| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2177981T1~99/ApplyOnline/?event=candidate.apply&Industry=PBERK@KFORCE.COM) | Kforce | Deerfield Beach, FL | 2026-06-19 |
 | [Cloud Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2169183T1~99/ApplyOnline/?event=candidate.apply&Industry=SGANDHI@KFORCE.COM) | Kforce | Boston, MA | 2026-06-19 |
 | [Programmer Analyst - Data Engineering](http://www.kforce.com/Jobs/1696~EQG~2170288T1~99/ApplyOnline/?event=candidate.apply&Industry=SMCKAY@KFORCE.COM) | Kforce | Juno Beach, FL | 2026-06-19 |
-| [Data Scientist](http://www.kforce.com/Jobs/1696~TVT~2175691T1~99/ApplyOnline/?event=candidate.apply&Industry=JMCALLISTER@KFORCE.COM) | Kforce | San Antonio, TX | 2026-06-19 |
 | [Part-Time Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2179712T1~99/ApplyOnline/?event=candidate.apply&Industry=COTTO2@KFORCE.COM) | Kforce | Saint Louis, MO | 2026-06-19 |
+| [Data Scientist](http://www.kforce.com/Jobs/1696~TVT~2175691T1~99/ApplyOnline/?event=candidate.apply&Industry=JMCALLISTER@KFORCE.COM) | Kforce | San Antonio, TX | 2026-06-19 |
 | [Senior Snowflake Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2174770T1~99/ApplyOnline/?event=candidate.apply&Industry=SCHADDOCK@KFORCE.COM) | Kforce | Davie, FL | 2026-06-19 |
 | [Business / Data Analyst - Senior Level](http://www.kforce.com/Jobs/1696~TVT~2180149T1~99/ApplyOnline/?event=candidate.apply&Industry=SOLSON@KFORCE.COM) | Kforce | Plano, TX | 2026-06-19 |
 | [Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2172792T1~99/ApplyOnline/?event=candidate.apply&Industry=KNAGLE@KFORCE.COM) | Kforce | Merrimack, NH | 2026-06-19 |
@@ -83,19 +85,19 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Associate Data Scientist II](http://www.kforce.com/Jobs/1696~EQG~2177110P1~99/ApplyOnline/?event=candidate.apply&Industry=MNESTOJKO@KFORCE.COM) | Kforce | Brentwood, MO | 2026-06-19 |
 | [Data Scientist - Revenue Management](http://www.kforce.com/Jobs/1696~AQG~2178986T1~99/ApplyOnline/?event=candidate.apply&Industry=SCRANE@KFORCE.COM) | Kforce | Long Island City, NY | 2026-06-19 |
 | [Labor / Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2179528P1~99/ApplyOnline/?event=candidate.apply&Industry=NMANUELLI@KFORCE.COM) | Kforce | Tysons Corner, VA | 2026-06-19 |
-| [Data Scientist - Tech Ops](http://www.kforce.com/Jobs/1696~AQG~2179010T1~99/ApplyOnline/?event=candidate.apply&Industry=SCRANE@KFORCE.COM) | Kforce | Long Island City, NY | 2026-06-19 |
 | [Cloud Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2173347T1~99/ApplyOnline/?event=candidate.apply&Industry=MDELAVEGA@KFORCE.COM) | Kforce | Minneapolis, MN | 2026-06-19 |
+| [Data Scientist - Tech Ops](http://www.kforce.com/Jobs/1696~AQG~2179010T1~99/ApplyOnline/?event=candidate.apply&Industry=SCRANE@KFORCE.COM) | Kforce | Long Island City, NY | 2026-06-19 |
 | [AI/ML Data Scientist](http://www.kforce.com/Jobs/1696~TVT~2177940T1~99/ApplyOnline/?event=candidate.apply&Industry=ATHURBY@KFORCE.COM) | Kforce | Charlotte, NC | 2026-06-19 |
-| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2178968T1~99/ApplyOnline/?event=candidate.apply&Industry=ASCHAMORE@KFORCE.COM) | Kforce | Altamonte Springs, FL | 2026-06-19 |
 | [Senior Data & Analytics / Applied AI Lead](http://www.kforce.com/Jobs/1696~EQG~2174283T1~99/ApplyOnline/?event=candidate.apply&Industry=CBROWN2@KFORCE.COM) | Kforce | Nashville, TN | 2026-06-19 |
+| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2178968T1~99/ApplyOnline/?event=candidate.apply&Industry=ASCHAMORE@KFORCE.COM) | Kforce | Altamonte Springs, FL | 2026-06-19 |
 | [Data Engineer (Oracle PL/SQL)](http://www.kforce.com/Jobs/1696~AQG~2178443T1~99/ApplyOnline/?event=candidate.apply&Industry=KNAGLE@KFORCE.COM) | Kforce | Durham, NC | 2026-06-19 |
 | [Sr IT Contact Center Data & Analytics Engineer](http://www.kforce.com/Jobs/1696~WQG~2179687P1~99/ApplyOnline/?event=candidate.apply&Industry=SMILLER@KFORCE.COM) | Kforce | Greenwood Village, CO | 2026-06-19 |
 | [Senior Post Market Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2175972T1~99/ApplyOnline/?event=candidate.apply&Industry=CMURTAGH@KFORCE.COM) | Kforce | Acton, MA | 2026-06-19 |
 | [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2057050T1~99/ApplyOnline/?event=candidate.apply&Industry=ATAURIAINEN@KFORCE.COM) | Kforce | Denver, CO | 2026-06-19 |
 | [Data Analyst](http://www.kforce.com/Jobs/1696~TVT~2057896T1~99/ApplyOnline/?event=candidate.apply&Industry=NPHELPS@KFORCE.COM) | Kforce | San Francisco, CA | 2026-06-19 |
 | [Data Platform Engineer](http://www.kforce.com/Jobs/1696~TVT~2178913T1~99/ApplyOnline/?event=candidate.apply&Industry=BJOHNSON2@KFORCE.COM) | Kforce | Greenwood Village, CO | 2026-06-19 |
-| [Administrator Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2178714T1~99/ApplyOnline/?event=candidate.apply&Industry=KNAGLE@KFORCE.COM) | Kforce | Merrimack, NH | 2026-06-19 |
 | [Data Scientist Level 2](http://www.kforce.com/Jobs/1696~EQG~2178881T1~99/ApplyOnline/?event=candidate.apply&Industry=TGRECO@KFORCE.COM) | Kforce | Cincinnati, OH | 2026-06-19 |
+| [Administrator Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2178714T1~99/ApplyOnline/?event=candidate.apply&Industry=KNAGLE@KFORCE.COM) | Kforce | Merrimack, NH | 2026-06-19 |
 | [BA Global Data Management & AI Enablement](http://www.kforce.com/Jobs/1696~WQG~2179183T1~99/ApplyOnline/?event=candidate.apply&Industry=MHAMPTON@KFORCE.COM) | Kforce | Austin, TX | 2026-06-19 |
 | [Manager AI Product and Data Architecture](http://www.kforce.com/Jobs/1696~NRC~2176688P1~99/ApplyOnline/?event=candidate.apply&Industry=CCAMPBELL3@KFORCE.COM) | Kforce | Tampa, FL | 2026-06-19 |
 | [Technical Architect (Workday Prism) - Remote](http://www.kforce.com/Jobs/1696~AQG~2178435P1~99/ApplyOnline/?event=candidate.apply&Industry=JPierrakos@kforce.com) | Kforce | Boston, MA | 2026-06-19 |
@@ -103,19 +105,16 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Azure GenAI Engineer - Remote](http://www.kforce.com/Jobs/1696~WQG~2180109T1~99/ApplyOnline/?event=candidate.apply&Industry=JZECH@KFORCE.COM) | Kforce | San Antonio, TX | 2026-06-19 |
 | [Markit EDM Developer](http://www.kforce.com/Jobs/1696~AQG~2177661T1~99/ApplyOnline/?event=candidate.apply&Industry=RPOLLOCK@KFORCE.COM) | Kforce | New York, NY | 2026-06-19 |
 | [AI Governance/Compliance Analyst](http://www.kforce.com/Jobs/1696~AQG~2178922T1~99/ApplyOnline/?event=candidate.apply&Industry=DFULTON@KFORCE.COM) | Kforce | Fairfax, VA | 2026-06-19 |
-| [Senior Programmer Analyst (CRM)](http://www.kforce.com/Jobs/1696~EQG~2179978P1~99/ApplyOnline/?event=candidate.apply&Industry=ATHOMAS4@KFORCE.COM) | Kforce | Orlando, FL | 2026-06-19 |
-| [RPA Developer / Analytics Automation Developer](http://www.kforce.com/Jobs/1696~EQG~2180168T1~99/ApplyOnline/?event=candidate.apply&Industry=LHEMMINGS@KFORCE.COM) | Kforce | Orlando, FL | 2026-06-19 |
-| [Senior .NET Software Engineers](http://www.kforce.com/Jobs/1696~WQG~2172771P1~99/ApplyOnline/?event=candidate.apply&Industry=pmontoya@kforce.com) | Kforce | Phoenix, AZ | 2026-06-19 |
-| [Mainframe Utilities Developer](http://www.kforce.com/Jobs/1696~WQG~2180113T1~99/ApplyOnline/?event=candidate.apply&Industry=GLEAL@KFORCE.COM) | Kforce | Chandler, AZ | 2026-06-19 |
 | [AI/ML Engineer](http://www.kforce.com/Jobs/1696~EQG~2165458T1~99/ApplyOnline/?event=candidate.apply&Industry=SMCKAY@KFORCE.COM) | Kforce | Juno Beach, FL | 2026-06-19 |
+| [Mainframe Utilities Developer](http://www.kforce.com/Jobs/1696~WQG~2180113T1~99/ApplyOnline/?event=candidate.apply&Industry=GLEAL@KFORCE.COM) | Kforce | Chandler, AZ | 2026-06-19 |
+| [Senior .NET Software Engineers](http://www.kforce.com/Jobs/1696~WQG~2172771P1~99/ApplyOnline/?event=candidate.apply&Industry=pmontoya@kforce.com) | Kforce | Phoenix, AZ | 2026-06-19 |
 | [.NET / C# Developer](http://www.kforce.com/Jobs/1696~EQG~2167443T1~99/ApplyOnline/?event=candidate.apply&Industry=SMCKAY@KFORCE.COM) | Kforce | Houston, TX | 2026-06-19 |
-| [Power BI Report Developer](http://www.kforce.com/Jobs/1696~EQG~2177754T1~99/ApplyOnline/?event=candidate.apply&Industry=PBERK@KFORCE.COM) | Kforce | Deerfield Beach, FL | 2026-06-19 |
 | [Smartsheet Platform Engineer](http://www.kforce.com/Jobs/1696~WQG~2179754T1~99/ApplyOnline/?event=candidate.apply&Industry=MLINAHAN@KFORCE.COM) | Kforce | San Antonio, TX | 2026-06-19 |
+| [Power BI Report Developer](http://www.kforce.com/Jobs/1696~EQG~2177754T1~99/ApplyOnline/?event=candidate.apply&Industry=PBERK@KFORCE.COM) | Kforce | Deerfield Beach, FL | 2026-06-19 |
 | [AI Forward Deployment Engineer](http://www.kforce.com/Jobs/1696~EQG~2180013T1~99/ApplyOnline/?event=candidate.apply&Industry=BBARRETT@KFORCE.COM) | Kforce | Doral, FL | 2026-06-19 |
 | [AI Governance & Explainability Engineer](http://www.kforce.com/Jobs/1696~NRC~2179920T1~99/ApplyOnline/?event=candidate.apply&Industry=CCAMPBELL3@KFORCE.COM) | Kforce | Tampa, FL | 2026-06-19 |
 | [Senior Backend / API Developer](http://www.kforce.com/Jobs/1696~WQG~2179316T1~99/ApplyOnline/?event=candidate.apply&Industry=DWOOD2@KFORCE.COM) | Kforce | Houston, TX | 2026-06-19 |
-| [Oracle EPM Software Engineer (Hybrid Onsite)](http://www.kforce.com/Jobs/1696~WQG~2179801P1~99/ApplyOnline/?event=candidate.apply&Industry=clowe@kforce.com) | Kforce | Chicago, IL | 2026-06-19 |
-| [ServiceNow Solutions Architect - Source-to-Pay](http://www.kforce.com/Jobs/1696~TVT~2180204T1~99/ApplyOnline/?event=candidate.apply&Industry=MMCKEE@KFORCE.COM) | Kforce | Austin, TX | 2026-06-19 |
+| [Infrastructure Engineer](http://www.kforce.com/Jobs/1696~EQG~2175031T1~99/ApplyOnline/?event=candidate.apply&Industry=ISAITOVA@KFORCE.COM) | Kforce | Delray Beach, FL | 2026-06-19 |
 | [Cyber Security Engineer](https://apply.teksystems.com/v1/s?opco=TEK&params=vbyq%2BC1O70TOkAYg4YnQIEGnXX0Tdohj3pubZsij5qi7Pykf2H%2FXe6FgtC6EZ86lzUNEd8mNXAh%2FWFrgRu%2BDPAwKxmCBTUBxhYUljyGwcFrIxVPu7gXHRwvbrsAPCOes&s_id=108&jdg=false) | TEKsystems | Terre Haute, Indiana | 2026-06-19 |
 | [IT Solutions Architect](https://apply.teksystems.com/v1/s?opco=TEK&params=WUxI42eoQz%2BJZF%2F0A%2FIAx9k9dSuuFA%2FQvfwIhm5jBj7rHZMXdZijQ92gKP0KpfsFh7e7ZFOTXPKJDiLOltggC6KwNLNF8cxzieXL4097ctBg%2FLHHxJ6BNqo%2Flyg8Xjw%2F&s_id=108&jdg=false) | TEKsystems | Ypsilanti, Michigan | 2026-06-19 |
 | [Solutions Architect](https://apply.teksystems.com/v1/s?opco=TEK&params=2H4MzUO6va4IhRdfRCNMKxMNHhmsibjZB3INcMGZ0nCFKo%2FpptyNlJq5FaglNuM1P2sOT5chTYv9nxGrvjPN8n5Qze1EddLhVQNsocs7CsoxCvuvm9i%2BnCydAsa1hBUj&s_id=108&jdg=false) | TEKsystems | Ypsilanti, Michigan | 2026-06-19 |
@@ -452,8 +451,11 @@ direct apply link, so you only ever see what's new since you last looked.
 | [Software Engineer III](https://jobs.smartrecruiters.com/Collabera2/743999654464475) | Collabera | Boca Raton, FL | 2026-06-19 |
 | [Front-End Developer](https://jobs.smartrecruiters.com/Collabera2/743999654464411) | Collabera | New Providence, NJ | 2026-06-19 |
 | [PHP Developer](https://jobs.smartrecruiters.com/Collabera2/743999654464344) | Collabera | New Providence, NJ | 2026-06-19 |
+| [Software Engineer III](https://jobs.smartrecruiters.com/Collabera2/743999654240821) | Collabera | Alpharetta, GA | 2026-06-19 |
+| [Data Analyst](https://jobs.smartrecruiters.com/Collabera2/743999653743455) | Collabera | Kraków, Lesser Poland Voivodeship | 2026-06-19 |
+| [Senior Java Developer](https://jobs.smartrecruiters.com/Collabera2/743999653743295) | Collabera | Wrocław, Lower Silesian Voivodeship | 2026-06-19 |
 
-_…and 106 more new roles in [`data/jobs.json`](data/jobs.json)._
+_…and 134 more new roles in [`data/jobs.json`](data/jobs.json)._
 <!-- JOBS:END -->
 
 ## How it works

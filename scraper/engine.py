@@ -156,37 +156,74 @@ def scrape_api_html(firm: dict, http) -> list[dict]:
     'WP Job Manager' jm-ajax/get_listings returns {found_jobs, html}). We fetch the
     JSON, pull the html field, and parse job cards with CSS selectors via BeautifulSoup.
     """
+    api = firm["api"]
+    pages = api.get("pages", 1)
+    jobs: list[dict] = []
+    for page in range(1, pages + 1):
+        form = dict(api.get("form") or {})
+        if pages > 1:
+            form[api.get("page_param", "page")] = page
+        if api.get("method", "POST").upper() == "POST":
+            resp = http.post(api["url"], data=form or None, json=api.get("json_body"),
+                             headers=api.get("headers"), timeout=30)
+        else:
+            resp = http.get(api["url"], params=api.get("params"), headers=api.get("headers"), timeout=30)
+        resp.raise_for_status()
+        html = resp.json().get(api.get("html_field", "html"), "")
+        page_jobs = _parse_cards(html, firm)
+        jobs.extend(page_jobs)
+        if not page_jobs:
+            break
+    return jobs
+
+
+def scrape_html(firm: dict, http) -> list[dict]:
+    """Fetch a server-rendered HTML page directly (no browser) and parse job cards
+    with CSS selectors. Pairs with the curl_cffi client to read sites that block
+    headless browsers (Cloudflare, Radware/perfdrive) but serve plain HTTP clients.
+    """
+    h = firm.get("http", {})
+    resp = http.get(firm["url"], params=h.get("params"), headers=h.get("headers"), timeout=30)
+    resp.raise_for_status()
+    return _parse_cards(resp.text, firm)
+
+
+def _parse_cards(html: str, firm: dict) -> list[dict]:
+    """Shared CSS-selector card parser for api_html / html modes.
+
+    sel.link may be omitted — then the card's own href is used (when the card is
+    an <a>). url_prefix (firm-level or under api/http) resolves relative hrefs.
+    """
     from bs4 import BeautifulSoup
 
-    api = firm["api"]
-    method = api.get("method", "POST").upper()
-    if method == "POST":
-        resp = http.post(api["url"], data=api.get("form"), json=api.get("json_body"),
-                         headers=api.get("headers"), timeout=30)
-    else:
-        resp = http.get(api["url"], params=api.get("params"), headers=api.get("headers"), timeout=30)
-    resp.raise_for_status()
-    html = resp.json().get(api.get("html_field", "html"), "")
-
     sel = firm["selectors"]
+    prefix = (firm.get("url_prefix")
+              or (firm.get("api") or {}).get("url_prefix")
+              or (firm.get("http") or {}).get("url_prefix"))
     soup = BeautifulSoup(html, "html.parser")
     jobs: list[dict] = []
     for card in soup.select(sel["card"]):
-        title_el = card.select_one(sel["title"])
-        if not title_el:
-            continue
-        title = _clean(title_el.get_text())
+        title_el = card.select_one(sel["title"]) if sel.get("title") else None
+        title = _clean(title_el.get_text() if title_el else card.get_text())
         if not title:
             continue
-        link_el = card.select_one(sel.get("link", "a"))
-        href = link_el.get("href") if link_el else ""
+        link_el = card.select_one(sel["link"]) if sel.get("link") else None
+        href = (link_el.get("href") if link_el else None)
+        if not href and card.name == "a":
+            href = card.get("href")
+        if sel.get("require_link") and not href:
+            continue
+        url = href or firm.get("search_url", "")
+        if href and prefix and not str(href).startswith("http"):
+            url = prefix.rstrip("/") + "/" + str(href).lstrip("/")
         loc_el = card.select_one(sel["location"]) if sel.get("location") else None
+        location = _clean(loc_el.get_text()) if loc_el else ""
+        split = firm.get("location_split")
+        if split and location:
+            location = _clean(location.split(split)[0])
         jobs.append({
-            "firm": firm["name"],
-            "title": title,
-            "location": _clean(loc_el.get_text()) if loc_el else "",
-            "url": href or firm.get("search_url", ""),
-            "posted": "",
+            "firm": firm["name"], "title": title, "location": location,
+            "url": url, "posted": "",
         })
     return jobs
 

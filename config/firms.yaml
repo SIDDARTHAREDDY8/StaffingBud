@@ -388,22 +388,36 @@ firms:
       link: "a"
     location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
-  # ---- walled (Cloudflare / bot) -> Apify Google-index trick. Needs APIFY_TOKEN ----
-  # (Apex + Robert Half moved to FREE sitemap mode above — no Apify needed.)
+  # ---- bot-walled, cracked FREE via curl_cffi (real-browser TLS, no Apify) ----
+  # Beacon Hill: Cloudflare + WordPress WP Job Manager. We hit its jm-ajax endpoint
+  # (no keyword = all divisions) through curl_cffi, parse the custom card markup,
+  # then the focused filter keeps only the tech/data/SWE roles.
   - name: "Beacon Hill"
-    mode: apify_search
-    search_url: "https://bhsg.com/jobs/job-search/?_prime_category=technology"
-    apify:
-      actor: "apify~rag-web-browser"
-      query: "site:bhsg.com data engineer OR machine learning OR data analyst job"
-      max_results: 15
+    mode: api_html
+    search_url: "https://bhsg.com/jobs/job-search/"
+    api:
+      method: POST
+      url: "https://bhsg.com/jobs/jm-ajax/get_listings/"
+      form: { per_page: 100, page: 1, orderby: "date", order: "DESC" }
+      pages: 4
+      page_param: "page"
+      html_field: "html"
+    selectors:
+      card: "a:has(div.parv_row_parent)"
+      title: "h3"
     location_filter: []
 
+  # Njoyn (CGI): Radware/perfdrive + hCaptcha wall, but server-rendered ASP table.
+  # curl_cffi gets the HTML; we parse the JobList table cells.
   - name: "Njoyn (CGI)"
-    mode: apify_search
+    mode: html
     search_url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
-    apify:
-      actor: "apify~rag-web-browser"
-      query: "site:njoyn.com data engineer OR data analyst OR machine learning"
-      max_results: 15
+    url: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?page=joblisting&CLID=21001"
+    url_prefix: "https://cgi.njoyn.com/CORP/xweb/"
+    selectors:
+      card: "tr:has(a[href*=JobDetails])"
+      title: "td:nth-of-type(2)"
+      location: "td:nth-of-type(4)"
+      link: "a[href*=JobDetails]"
+      require_link: true
     location_filter: []

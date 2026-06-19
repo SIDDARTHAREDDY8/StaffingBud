@@ -39,16 +39,23 @@ def run(only=None, headful=False):
         return
 
     needs_browser = any(f["mode"] == "dom" for f in firms)
-    needs_http = any(f["mode"] in ("api", "apify_search", "api_html", "sitemap") for f in firms)
+    needs_http = any(f["mode"] in ("api", "apify_search", "api_html", "sitemap", "html") for f in firms)
     apify_token = os.environ.get("APIFY_TOKEN")
 
     all_jobs: list[dict] = []
     browser = http = pw = None
 
     if needs_http:
-        import requests
-        http = requests.Session()
-        http.headers.update({"User-Agent": "Mozilla/5.0 StaffingBuddy"})
+        # curl_cffi impersonates a real Chrome TLS fingerprint, which slips past
+        # Cloudflare / Radware bot-walls (Beacon Hill, Njoyn). Falls back to plain
+        # requests if unavailable. API-compatible: .get/.post/.json/.text/.content.
+        try:
+            from curl_cffi import requests as _cf
+            http = _cf.Session(impersonate="chrome120")
+        except ImportError:
+            import requests
+            http = requests.Session()
+            http.headers.update({"User-Agent": "Mozilla/5.0 StaffingBuddy"})
 
     if needs_browser:
         from playwright.sync_api import sync_playwright
@@ -72,6 +79,8 @@ def run(only=None, headful=False):
                     raw = engine.scrape_api_html(firm, http)
                 elif firm["mode"] == "sitemap":
                     raw = engine.scrape_sitemap(firm, http)
+                elif firm["mode"] == "html":
+                    raw = engine.scrape_html(firm, http)
                 else:
                     raw = engine.scrape_api(firm, http)
             except Exception as e:  # one firm failing must not kill the run
