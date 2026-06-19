@@ -1,66 +1,87 @@
 """Keyword + location filtering for scraped jobs.
 
-Goal: keep ALL IT / software / data roles, drop clearly non-IT roles (these
-staffing firms also post warehouse, nursing, mechanical-engineering, sales, etc.).
+Focused scope: core SOFTWARE ENGINEERING + DATA + AI/ML roles (plus a couple of
+niche titles like Member of Technical Staff / Forward Deployed Engineer).
+NOT broad IT — we drop help desk, network/sysadmin, business analyst, project
+manager, QA, functional ERP/CRM consultants, support, etc.
 """
 from __future__ import annotations
 
-# A job is kept if its title matches ANY of these (broad IT allowlist).
-# Ambiguous short tokens are space-padded so they match as words, not substrings.
+# Keep a job only if its title matches ANY of these (focused allowlist).
+# We avoid bare "engineer" (matches mechanical/network/sales) and use phrases instead.
 KEYWORDS = [
-    # software / general engineering
-    "software", "developer", "engineer", "programmer", "sde", "swe",
-    "full stack", "fullstack", "full-stack", "front end", "frontend", "front-end",
-    "back end", "backend", "back-end", "web dev", "application dev", "applications dev",
-    # languages / frameworks
-    "java", "python", "javascript", "typescript", "react", "angular", "vue",
-    "node", ".net", "c#", "c++", "golang", " go ", "ruby", "php", "scala",
-    "kotlin", "swift", "rust", "perl",
-    # mobile
-    "mobile", "ios", "android",
-    # cloud / infra / devops
-    "devops", " sre", "site reliability", "cloud", "aws", "azure", "gcp",
-    "kubernetes", "docker", "terraform", "linux", "infrastructure", "systems",
-    "network", "sysadmin", "system admin", "platform", "site reliab",
-    # data / ml / ai
-    "data", "machine learning", " ml ", " ai ", "artificial intelligence",
-    "analytics", "analyst", "scientist", "database", " sql", "etl", "snowflake",
-    "spark", "hadoop", "tableau", "power bi", "dba",
-    # qa / security
-    " qa ", "sdet", "tester", "test engineer", "automation", "security",
-    "cyber", "penetration",
-    # roles / tech misc
-    "architect", " it ", "information technology", "salesforce", "sap", "oracle",
-    "servicenow", "sharepoint", "business analyst", "scrum master", "product owner",
-    "product manager", "technical", "integration", " api ", " ui ", " ux",
-    "helpdesk", "help desk", "support engineer", "support analyst", "technology",
-    "programmer analyst", "web ", "blockchain",
+    # software engineer / developer (all flavors)
+    "software engineer", "software developer", "software development engineer",
+    "sde", " swe", "developer", "programmer",
+    "full stack", "fullstack", "full-stack", "full stack engineer",
+    "front end", "frontend", "front-end", "back end", "backend", "back-end",
+    "web developer", "web engineer", "mobile engineer", "mobile developer",
+    "ios engineer", "ios developer", "android engineer", "android developer",
+    "embedded engineer", "embedded software", "firmware engineer", "game developer",
+    "application engineer", "applications engineer", "api engineer",
+    # software-adjacent engineering (write code)
+    "platform engineer", "cloud engineer", "devops engineer", "devops",
+    "site reliability", "sre", "security engineer", "infrastructure engineer",
+    "systems software", "distributed systems",
+    # data
+    "data engineer", "data scientist", "data science", "data analyst",
+    "data analytics", "analytics engineer", "data architect", "database engineer",
+    "big data", "etl developer", "etl engineer", "bi developer",
+    # ai / ml
+    "machine learning", " ml ", " mle", "ml engineer", "ai engineer", " ai ",
+    "artificial intelligence", "deep learning", "nlp", "natural language",
+    "llm", "genai", "generative ai", "computer vision", "applied scientist",
+    "research scientist", "research engineer", "mlops", "ai/ml", "ml/ai",
+    # architects (software/data/cloud only)
+    "software architect", "data architect", "cloud architect", "solutions architect",
+    "application architect", "technical architect",
+    # niche titles the user called out
+    "member of technical staff", "member of the technical staff", "technical staff",
+    "forward deployed",
 ]
 
-# Drop these even if a keyword matched — clearly non-IT or staffing-internal roles.
+# Drop these even if a keyword matched — non-IT, broad-IT, or non-engineering.
 EXCLUDE = [
-    # staffing-firm internal / sales
+    # staffing-internal / sales / clearance
     "sales", "account manager", "account executive", "recruiter",
     "business development", "talent acquisition", "staffing consultant",
-    # security clearance (not viable for many candidates)
     "clearance", "secret", "ts/sci", "polygraph",
+    # broad IT / ops that aren't core SWE/data/ML
+    "help desk", "helpdesk", "service desk", "desktop support", "desktop technician",
+    "field service", "field technician", "technical support", "support technician",
+    "support analyst", "support engineer", "production support", "application support",
+    "network engineer", "network administrator", "network architect", "network analyst",
+    "system administrator", "systems administrator", "sysadmin", "system admin",
+    "infrastructure analyst", "noc ", "telecom", "voip", "datacenter technician",
+    "data center technician",
+    # non-engineering roles
+    "business analyst", "business systems analyst", "systems analyst",
+    "project manager", "program manager", "project coordinator", "project analyst",
+    "scrum master", "product owner", "product manager", "release manager",
+    "technical writer", "technical recruiter", "delivery manager", "engagement manager",
+    # functional ERP/CRM/config (not coding)
+    "sap ", "oracle apps", "oracle ebs", "peoplesoft", "workday consultant",
+    "workday analyst", "servicenow admin", "sharepoint admin", "salesforce admin",
+    "salesforce consultant", "functional consultant", "functional analyst", "erp ",
+    # QA (user didn't ask for it)
+    "quality assurance", " qa ", "qa engineer", "qa analyst", "test engineer",
+    "tester", "manual test", "sdet",
+    # DBA / admin
+    "database administrator", "dba ", "sccm",
     # non-IT engineering disciplines
     "mechanical engineer", "civil engineer", "chemical engineer", "aerospace",
     "structural engineer", "process engineer", "manufacturing engineer",
     "field engineer", "sales engineer", "electrical engineer", "industrial engineer",
-    "environmental engineer", "petroleum", "geotechnical",
+    "environmental engineer", "petroleum", "geotechnical", "project engineer",
+    "design engineer", "machining", " cnc",
     # clearly non-IT roles
     "nurse", " rn ", "clinical", "physician", "therapist", "pharmacy", "caregiver",
     "warehouse", "forklift", "driver", " cdl", "welder", "machinist", "assembler",
     "custodian", "janitor", "cashier", "bartender", "chef", "cook", "hvac",
     "plumber", "electrician", "mechanic", "laborer", "receptionist",
     "accountant", "bookkeeper", "attorney", "paralegal", "teacher", "phlebot",
-    "machine operator", "production operator", "maintenance technician",
-    # non-IT "analyst"/"engineer"/specialist roles that match broad keywords
-    "financial analyst", "tax analyst", "accounting analyst", "credit analyst",
-    "budget analyst", "research analyst", "marketing analyst", "supply chain analyst",
-    "logistics", "procurement", "machining", " cnc", "project engineer",
-    "manufacturing", "tax ", "payroll", "warehouse", "buyer", "merchandis",
+    "financial analyst", "tax analyst", "accounting analyst", "logistics",
+    "procurement", "buyer", "merchandis", "payroll", "marketing",
 ]
 
 
