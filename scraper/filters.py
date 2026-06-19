@@ -1,19 +1,61 @@
-"""Keyword + location filtering for scraped jobs."""
+"""Keyword + location filtering for scraped jobs.
+
+Goal: keep ALL IT / software / data roles, drop clearly non-IT roles (these
+staffing firms also post warehouse, nursing, mechanical-engineering, sales, etc.).
+"""
 from __future__ import annotations
 
-# Roles you care about. A job is kept if its title matches ANY of these.
+# A job is kept if its title matches ANY of these (broad IT allowlist).
+# Ambiguous short tokens are space-padded so they match as words, not substrings.
 KEYWORDS = [
-    "data", "machine learning", "ml ", "ai ", "artificial intelligence",
-    "python", "data scien", "data engineer", "analytics", "analyst",
-    "mlops", "nlp", "deep learning", "recommendation", "recsys",
-    "llm", "genai", "data analyst", "etl", "snowflake", "spark",
+    # software / general engineering
+    "software", "developer", "engineer", "programmer", "sde", "swe",
+    "full stack", "fullstack", "full-stack", "front end", "frontend", "front-end",
+    "back end", "backend", "back-end", "web dev", "application dev", "applications dev",
+    # languages / frameworks
+    "java", "python", "javascript", "typescript", "react", "angular", "vue",
+    "node", ".net", "c#", "c++", "golang", " go ", "ruby", "php", "scala",
+    "kotlin", "swift", "rust", "perl",
+    # mobile
+    "mobile", "ios", "android",
+    # cloud / infra / devops
+    "devops", " sre", "site reliability", "cloud", "aws", "azure", "gcp",
+    "kubernetes", "docker", "terraform", "linux", "infrastructure", "systems",
+    "network", "sysadmin", "system admin", "platform", "site reliab",
+    # data / ml / ai
+    "data", "machine learning", " ml ", " ai ", "artificial intelligence",
+    "analytics", "analyst", "scientist", "database", " sql", "etl", "snowflake",
+    "spark", "hadoop", "tableau", "power bi", "dba",
+    # qa / security
+    " qa ", "sdet", "tester", "test engineer", "automation", "security",
+    "cyber", "penetration",
+    # roles / tech misc
+    "architect", " it ", "information technology", "salesforce", "sap", "oracle",
+    "servicenow", "sharepoint", "business analyst", "scrum master", "product owner",
+    "product manager", "technical", "integration", " api ", " ui ", " ux",
+    "helpdesk", "help desk", "support engineer", "support analyst", "technology",
+    "programmer analyst", "web ", "blockchain",
 ]
 
-# Drop obvious noise (senior leadership, sales, unrelated).
+# Drop these even if a keyword matched — clearly non-IT or staffing-internal roles.
 EXCLUDE = [
+    # staffing-firm internal / sales
     "sales", "account manager", "account executive", "recruiter",
-    "business development", "director", "vp ", "vice president",
-    "intern", "clearance", "secret",
+    "business development", "talent acquisition", "staffing consultant",
+    # security clearance (not viable for many candidates)
+    "clearance", "secret", "ts/sci", "polygraph",
+    # non-IT engineering disciplines
+    "mechanical engineer", "civil engineer", "chemical engineer", "aerospace",
+    "structural engineer", "process engineer", "manufacturing engineer",
+    "field engineer", "sales engineer", "electrical engineer", "industrial engineer",
+    "environmental engineer", "petroleum", "geotechnical",
+    # clearly non-IT roles
+    "nurse", " rn ", "clinical", "physician", "therapist", "pharmacy", "caregiver",
+    "warehouse", "forklift", "driver", " cdl", "welder", "machinist", "assembler",
+    "custodian", "janitor", "cashier", "bartender", "chef", "cook", "hvac",
+    "plumber", "electrician", "mechanic", "laborer", "receptionist",
+    "accountant", "bookkeeper", "attorney", "paralegal", "teacher", "phlebot",
+    "machine operator", "production operator", "maintenance technician",
 ]
 
 

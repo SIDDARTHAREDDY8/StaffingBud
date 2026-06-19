@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Inject the current jobs from data/jobs.json into README.md between markers.
+"""Inject NEW jobs from data/jobs.json into README.md between markers.
 
-Keeps everything outside the <!-- JOBS:START --> / <!-- JOBS:END --> markers intact,
-so the project description and docs stay put while the job list refreshes each run.
+"Show once" rule: a job is listed in the README only on the run it is first
+discovered. After it's posted we set `readme_posted: true` on it (persisted back
+into data/jobs.json), so it never appears in the README again — the README is a
+feed of *new* roles, while site/index.html stays the full browsable archive.
 """
 import collections
 import json
@@ -14,66 +16,66 @@ README = ROOT / "README.md"
 
 START = "<!-- JOBS:START -->"
 END = "<!-- JOBS:END -->"
-MAX_ROWS = 250  # keep the README readable
+MAX_ROWS = 400
 
 
 def md_escape(text: str) -> str:
     return (text or "").replace("|", "\\|").strip()
 
 
-def build_jobs_md() -> str:
-    data = json.loads(DATA.read_text()) if DATA.exists() else {"jobs": [], "count": 0, "updated": "never"}
-    jobs = data.get("jobs", [])
-    updated = data.get("updated", "never")
-    by_firm = collections.Counter(j["firm"] for j in jobs)
-
+def render(new_jobs: list[dict], total: int, updated: str) -> str:
     lines = []
-    lines.append(f"### 📊 {len(jobs)} open contract roles · {len(by_firm)} firms · updated `{updated}`")
-    lines.append("")
+    if not new_jobs:
+        lines.append(f"### 🟢 No new roles since last update · {total} tracked total · updated `{updated}`")
+        return "\n".join(lines)
 
-    # Per-firm summary
-    lines.append("| Firm | Open roles |")
+    by_firm = collections.Counter(j["firm"] for j in new_jobs)
+    lines.append(f"### 🆕 {len(new_jobs)} new roles this update · {total} tracked total · updated `{updated}`")
+    lines.append("")
+    lines.append("| Firm | New roles |")
     lines.append("| --- | ---: |")
     for firm, n in by_firm.most_common():
         lines.append(f"| {md_escape(firm)} | {n} |")
     lines.append("")
 
-    # Newest jobs first
-    jobs_sorted = sorted(jobs, key=lambda j: j.get("first_seen", ""), reverse=True)
-    shown = jobs_sorted[:MAX_ROWS]
-
-    lines.append("| Role | Firm | Location | First seen |")
+    new_sorted = sorted(new_jobs, key=lambda j: j.get("first_seen", ""), reverse=True)
+    lines.append("| Role | Firm | Location | Found |")
     lines.append("| --- | --- | --- | --- |")
-    for j in shown:
+    for j in new_sorted[:MAX_ROWS]:
         role = md_escape(j["title"])
         url = j.get("url", "")
         role_cell = f"[{role}]({url})" if url else role
         loc = md_escape(j.get("location", "")) or "—"
         seen = (j.get("first_seen", "") or "")[:10]
         lines.append(f"| {role_cell} | {md_escape(j['firm'])} | {loc} | {seen} |")
-
-    if len(jobs_sorted) > MAX_ROWS:
+    if len(new_sorted) > MAX_ROWS:
         lines.append("")
-        lines.append(f"_…and {len(jobs_sorted) - MAX_ROWS} more. See [`data/jobs.json`](data/jobs.json) for the full list._")
-
+        lines.append(f"_…and {len(new_sorted) - MAX_ROWS} more new roles in [`data/jobs.json`](data/jobs.json)._")
     return "\n".join(lines)
 
 
 def main():
-    jobs_md = build_jobs_md()
-    text = README.read_text() if README.exists() else ""
+    payload = json.loads(DATA.read_text()) if DATA.exists() else {"jobs": [], "count": 0, "updated": "never"}
+    jobs = payload.get("jobs", [])
 
+    new_jobs = [j for j in jobs if not j.get("readme_posted")]
+    jobs_md = render(new_jobs, len(jobs), payload.get("updated", "never"))
+
+    # README injection
+    text = README.read_text() if README.exists() else ""
     block = f"{START}\n{jobs_md}\n{END}"
     if START in text and END in text:
-        pre = text.split(START)[0]
-        post = text.split(END, 1)[1]
-        text = pre + block + post
+        text = text.split(START)[0] + block + text.split(END, 1)[1]
     else:
-        # markers missing — append a Live Jobs section
         text = text.rstrip() + "\n\n## Live Jobs\n\n" + block + "\n"
-
     README.write_text(text)
-    print(f"README updated with jobs ({jobs_md.splitlines()[0]})")
+
+    # Mark posted + persist so they never show again
+    for j in new_jobs:
+        j["readme_posted"] = True
+    DATA.write_text(json.dumps(payload, indent=2))
+
+    print(f"README updated: {len(new_jobs)} new roles posted (of {len(jobs)} tracked)")
 
 
 if __name__ == "__main__":
