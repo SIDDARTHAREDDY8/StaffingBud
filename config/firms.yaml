@@ -139,6 +139,7 @@ firms:
     # insightglobal.com is just marketing — that's why it looked Bullhorn-walled).
     # No Cloudflare here; clean DOM. ~1,400+ "data engineer" results.
     search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
+    detail_date: true   # real Post Date is microdata on the detail page, not the listing
     selectors:
       card: "div.result"
       title: ".job-title"

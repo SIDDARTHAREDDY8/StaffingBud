@@ -398,27 +398,39 @@ def _location(item: dict, spec) -> str:
 
 
 def extract_posted_date(html: str) -> str:
-    """Pull a posting date from a job detail page. Most firms embed a schema.org
-    JobPosting `datePosted`; fall back to a plain date or 'Posted Mon DD, YYYY'.
+    """Pull a posting date from a job detail page. Handles schema.org JSON-LD
+    (`"datePosted":`), microdata (`itemprop="datePosted">Mar 03, 2026<`, used by
+    Insight Global), and visible 'Post Date / Posted: Mon DD, YYYY' labels.
     """
     import re as _re
-    for pat in (r'"datePosted"\s*:\s*"([0-9][0-9T:.\-+ Z]{7,39})"',
-                r'datePosted["\']?\s*[:=]\s*["\']?([0-9]{4}-[0-9]{1,2}-[0-9]{1,2})',
-                r'[Pp]osted[:\s]+([A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+\d{4})'):
+    for pat in (
+        r'"datePosted"\s*:\s*"([0-9][0-9T:.\-+ Z]{7,39})"',
+        r'itemprop=["\']datePosted["\'][^>]*>\s*([^<]{4,40}?)\s*<',
+        r'datePosted["\']?\s*[:=]\s*["\']?([0-9]{4}-[0-9]{1,2}-[0-9]{1,2})',
+        r'[Pp]ost(?:ed)?\s*Date[^A-Za-z0-9]{0,18}([A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+\d{4})',
+        r'[Pp]osted[:\s]+([A-Z][a-z]{2,8}\.?\s+\d{1,2},?\s+\d{4})',
+    ):
         m = _re.search(pat, html)
         if m:
-            return m.group(1).strip()
+            val = m.group(1).strip()
+            if _re.search(r'\d{4}', val):   # sanity: must contain a 4-digit year
+                return val
     return ""
 
 
-def enrich_posted_dates(jobs: list[dict], http, known_ids: set, job_id) -> int:
-    """For NEW jobs (id not in known_ids) of firms that only expose the date on the
-    detail page, fetch the page once and set job['posted']. Returns count enriched.
-    Only new jobs are fetched, so steady-state cost is tiny.
+def enrich_posted_dates(jobs: list[dict], http, known: dict, job_id) -> int:
+    """For firms that expose the posting date only on the detail page, set
+    job['posted'] from that page. Reuses a previously-stored date (no fetch); only
+    fetches when the date is genuinely missing — so it self-heals old date-less
+    jobs once, then costs ~nothing. Returns count newly fetched.
     """
     n = 0
     for job in jobs:
-        if job.get("posted") or job_id(job) in known_ids:
+        if job.get("posted"):
+            continue
+        prev = known.get(job_id(job))
+        if prev and prev.get("posted"):
+            job["posted"] = prev["posted"]   # already have it — don't refetch
             continue
         try:
             html = http.get(job["url"], timeout=20).text

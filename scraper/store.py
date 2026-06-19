@@ -44,9 +44,11 @@ def merge_and_save(new_jobs: list[dict]) -> dict:
         if jid in existing:
             existing[jid]["id"] = jid
             existing[jid]["last_seen"] = now
-            # refresh derived/volatile fields so URL-logic changes propagate
-            existing[jid]["url"] = job.get("url", existing[jid].get("url"))
-            existing[jid]["posted"] = job.get("posted", existing[jid].get("posted"))
+            # refresh derived fields so URL-logic changes propagate; never overwrite
+            # a known posted date with an empty one (listing scrapes lack the date)
+            existing[jid]["url"] = job.get("url") or existing[jid].get("url")
+            if job.get("posted"):
+                existing[jid]["posted"] = job["posted"]
         else:
             job["id"] = jid
             job["first_seen"] = now

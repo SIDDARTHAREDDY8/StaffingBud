@@ -39,7 +39,11 @@ def run(only=None, headful=False):
         return
 
     needs_browser = any(f["mode"] == "dom" for f in firms)
-    needs_http = any(f["mode"] in ("api", "apify_search", "api_html", "sitemap", "html") for f in firms)
+    # http client is needed for API-type modes AND for detail-date enrichment
+    needs_http = any(
+        f["mode"] in ("api", "apify_search", "api_html", "sitemap", "html") or f.get("detail_date")
+        for f in firms
+    )
     apify_token = os.environ.get("APIFY_TOKEN")
 
     all_jobs: list[dict] = []
@@ -91,7 +95,7 @@ def run(only=None, headful=False):
             # firms that only expose the posting date on the detail page: fetch it
             # for NEW jobs so freshness reflects the true posted date, not first_seen
             if firm.get("detail_date") and http:
-                known = set(store.load().keys())
+                known = store.load()
                 got = engine.enrich_posted_dates(kept, http, known, store._job_id)
                 if got:
                     print(f"  enriched {got} posted-dates from detail pages", flush=True)
