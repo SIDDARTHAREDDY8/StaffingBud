@@ -16,59 +16,80 @@ TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>StaffingBuddy — Contract Roles</title>
+<title>StaffingBuddy — Contract IT Roles</title>
 <style>
-  :root {{ --bg:#0f1115; --card:#1a1d24; --fg:#e6e9ef; --mut:#8b93a7; --acc:#4f8cff; }}
   * {{ box-sizing:border-box; }}
-  body {{ margin:0; font:15px/1.5 -apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--fg); }}
-  header {{ padding:24px 20px; border-bottom:1px solid #252a33; }}
-  h1 {{ margin:0; font-size:20px; }}
-  .meta {{ color:var(--mut); font-size:13px; margin-top:4px; }}
-  .controls {{ padding:16px 20px; display:flex; gap:10px; flex-wrap:wrap; }}
-  input,select {{ background:var(--card); border:1px solid #2b313c; color:var(--fg); padding:8px 12px; border-radius:8px; font-size:14px; }}
+  body {{ margin:0; font:14px/1.5 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+         background:#fff; color:#000; }}
+  header {{ padding:22px 20px 14px; border-bottom:2px solid #000; }}
+  h1 {{ margin:0; font-size:22px; letter-spacing:-.5px; }}
+  .meta {{ color:#555; font-size:12px; margin-top:4px; }}
+  .controls {{ padding:14px 20px; display:flex; gap:10px; flex-wrap:wrap;
+              border-bottom:1px solid #ccc; position:sticky; top:0; background:#fff; }}
+  input, select {{ background:#fff; border:1px solid #000; color:#000; padding:8px 10px;
+                  font-size:13px; border-radius:0; }}
   input {{ flex:1; min-width:200px; }}
-  .list {{ padding:0 20px 40px; display:grid; gap:10px; }}
-  .job {{ background:var(--card); border:1px solid #232834; border-radius:10px; padding:14px 16px; }}
-  .job a {{ color:var(--fg); text-decoration:none; font-weight:600; }}
-  .job a:hover {{ color:var(--acc); }}
-  .row {{ display:flex; gap:10px; flex-wrap:wrap; color:var(--mut); font-size:13px; margin-top:6px; }}
-  .firm {{ color:var(--acc); }}
-  .new {{ background:#10331f; color:#5bd98a; font-size:11px; padding:1px 7px; border-radius:20px; margin-left:8px; }}
-  .empty {{ color:var(--mut); padding:40px 20px; text-align:center; }}
+  .wrap {{ padding:0 20px 60px; }}
+  table {{ width:100%; border-collapse:collapse; }}
+  th {{ text-align:left; font-size:11px; text-transform:uppercase; letter-spacing:.5px;
+       color:#000; border-bottom:2px solid #000; padding:10px 12px 8px; position:sticky; top:55px; background:#fff; }}
+  td {{ border-bottom:1px solid #ddd; padding:11px 12px; vertical-align:top; }}
+  tr:hover td {{ background:#f4f4f4; }}
+  .firm {{ font-weight:700; white-space:nowrap; }}
+  .pos {{ font-weight:500; }}
+  .date {{ color:#555; white-space:nowrap; font-variant-numeric:tabular-nums; }}
+  .apply {{ display:inline-block; border:1px solid #000; padding:4px 12px; text-decoration:none;
+           color:#000; font-weight:600; font-size:12px; white-space:nowrap; }}
+  .apply:hover {{ background:#000; color:#fff; }}
+  .empty {{ padding:50px 20px; text-align:center; color:#555; }}
+  @media (max-width:640px) {{ .hide-sm {{ display:none; }} th,td {{ padding:9px 8px; }} }}
 </style>
 </head>
 <body>
 <header>
   <h1>StaffingBuddy</h1>
-  <div class="meta">Contract roles from staffing firms &amp; IT vendors · {count} jobs · updated {updated}</div>
+  <div class="meta">Contract IT roles from staffing firms &amp; vendors · <span id="shown">{count}</span> of {count} roles · updated {updated}</div>
 </header>
 <div class="controls">
-  <input id="q" placeholder="Filter by title or location…">
+  <input id="q" placeholder="Search position…">
   <select id="firm"><option value="">All firms</option>{firm_opts}</select>
 </div>
-<div class="list" id="list"></div>
+<div class="wrap">
+  <table>
+    <thead><tr>
+      <th>Firm</th><th>Position</th><th class="hide-sm">Date</th><th>Apply</th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="empty" id="empty" style="display:none">No matching roles.</div>
+</div>
 <script>
 const JOBS = {jobs_json};
-const list = document.getElementById('list');
+const rowsEl = document.getElementById('rows');
+const emptyEl = document.getElementById('empty');
+const shownEl = document.getElementById('shown');
 const q = document.getElementById('q');
 const firmSel = document.getElementById('firm');
+function esc(s) {{ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }}
 function render() {{
   const term = q.value.toLowerCase();
   const firm = firmSel.value;
   const rows = JOBS.filter(j =>
     (!firm || j.firm === firm) &&
-    (!term || (j.title + ' ' + j.location).toLowerCase().includes(term))
+    (!term || (j.title + ' ' + (j.location||'')).toLowerCase().includes(term))
   );
-  if (!rows.length) {{ list.innerHTML = '<div class="empty">No matching jobs.</div>'; return; }}
-  list.innerHTML = rows.map(j => `
-    <div class="job">
-      <a href="${{j.url}}" target="_blank" rel="noopener">${{j.title}}</a>
-      <div class="row">
-        <span class="firm">${{j.firm}}</span>
-        <span>${{j.location || '—'}}</span>
-        <span>first seen ${{(j.first_seen||'').slice(0,10)}}</span>
-      </div>
-    </div>`).join('');
+  shownEl.textContent = rows.length;
+  emptyEl.style.display = rows.length ? 'none' : 'block';
+  rowsEl.innerHTML = rows.map(j => {{
+    const loc = j.location ? ` <span style="color:#777">· ${{esc(j.location)}}</span>` : '';
+    const date = (j.first_seen||'').slice(0,10) || '—';
+    return `<tr>
+      <td class="firm">${{esc(j.firm)}}</td>
+      <td class="pos">${{esc(j.title)}}${{loc}}</td>
+      <td class="date hide-sm">${{date}}</td>
+      <td><a class="apply" href="${{j.url}}" target="_blank" rel="noopener">Apply →</a></td>
+    </tr>`;
+  }}).join('');
 }}
 q.addEventListener('input', render);
 firmSel.addEventListener('change', render);
