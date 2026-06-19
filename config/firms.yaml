@@ -156,6 +156,62 @@ firms:
       max_results: 20
     location_filter: []     # location not in search snippets; keep all US
 
+  # ============================================================ SMARTRECRUITERS ==
+  # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
+  # and change the company id in BOTH the api.url and api.url_prefix. Find the id by
+  # testing https://api.smartrecruiters.com/v1/companies/<Id>/postings?limit=1
+  - name: "Collabera"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/Collabera2"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/Collabera2/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 StaffingBuddy" }
+      params: { limit: 100, offset: 0 }
+      paginate: { in: params, param: offset, size: 100, max_pages: 3 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/Collabera2"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Mastech Digital"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/MastechDigital"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/MastechDigital/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 StaffingBuddy" }
+      params: { limit: 100, offset: 0 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/MastechDigital"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
+  - name: "Synechron"
+    mode: api
+    search_url: "https://careers.smartrecruiters.com/Synechron"
+    api:
+      method: GET
+      url: "https://api.smartrecruiters.com/v1/companies/Synechron/postings"
+      headers: { Accept: "application/json", User-Agent: "Mozilla/5.0 StaffingBuddy" }
+      params: { limit: 100, offset: 0 }
+      list_path: "content"
+      url_prefix: "https://jobs.smartrecruiters.com/Synechron"
+      fields:
+        title: "name"
+        location: ["location.city", "location.region"]
+        url: "id"
+        posted: "releasedDate"
+    location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
+
   # ================================================================ BATCH 2 ====
   # 16 more staffing/vendor sources, calibrated 2026-06-19.
 
