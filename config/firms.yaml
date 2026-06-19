@@ -43,6 +43,8 @@ firms:
         max_pages: 3
       list_path: "value"
       url_prefix: "https://www.kforce.com"
+      # ApplyUrl points at the apply flow; strip '/ApplyOnline...' -> job-description page
+      url_regex_sub: { pattern: "/ApplyOnline.*$", repl: "/" }
       fields:
         title: "Title"
         location: ["City", "State"]
@@ -89,6 +91,9 @@ firms:
         size: 100
         max_pages: 3
       list_path: "refineSearch.data.jobs"
+      # applyUrl goes to apply.teksystems.com (apply flow). Build the JD page URL
+      # from jobId + a hyphenated title slug instead.
+      url_template: "https://careers.teksystems.com/us/en/job/{jobId}/{slug:title}"
       fields:
         title: "title"
         location: "cityState"
@@ -146,14 +151,19 @@ firms:
   # These sites block headless browsers, but serve their XML job sitemap to search
   # engines — so we read it directly. No browser, no Apify, no cost. Title is
   # derived from the URL slug; location/date are limited (sitemap only).
+  # Apex Systems: DISABLED. Its sitemap.xml is a stale 2021-2024 cache — every job
+  # is "Job Not Found" (dead links). Free live sources all blocked: the live search
+  # is a JS app behind Cloudflare, and Bing/DDG/Google block our scraper. The only
+  # working LIVE source is the Apify Google-index trick (paid). To re-enable Apex,
+  # switch mode back to apify_search (needs APIFY_TOKEN) — see git history.
   - name: "Apex Systems"
     mode: sitemap
-    search_url: "https://www.apexsystems.com/consultant-careers"
+    enabled: false
+    search_url: "https://www.apexsystems.com/search-results-usa"
     sitemap:
       url: "https://www.apexsystems.com/sitemap.xml"
       job_match: "/job/"
-      max: 3000
-    location_filter: []     # no location in sitemap; keep all
+    location_filter: []
 
   - name: "Robert Half"
     mode: sitemap
@@ -162,6 +172,7 @@ firms:
       url: "https://www.roberthalf.com/content/roberthalf.sitemap.us-external-job-details-sitemap.xml"
       job_match: "/job/"
       max: 4000
+      max_age_days: 30     # drop stale sitemap entries; keep recently-posted jobs
     location_filter: []
 
   # ============================================================ SMARTRECRUITERS ==

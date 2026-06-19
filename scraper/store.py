@@ -32,6 +32,9 @@ def merge_and_save(new_jobs: list[dict]) -> dict:
         seen_ids.add(jid)
         if jid in existing:
             existing[jid]["last_seen"] = now
+            # refresh derived/volatile fields so URL-logic changes propagate
+            existing[jid]["url"] = job.get("url", existing[jid].get("url"))
+            existing[jid]["posted"] = job.get("posted", existing[jid].get("posted"))
         else:
             job["id"] = jid
             job["first_seen"] = now

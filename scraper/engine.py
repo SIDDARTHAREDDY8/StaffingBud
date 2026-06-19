@@ -141,6 +141,7 @@ def _fetch_page(firm: dict, http, api: dict, override: dict | None = None) -> li
         url = _dig(item, fields["url"]) or firm.get("search_url", "")
         if url and api.get("url_prefix") and not str(url).startswith("http"):
             url = api["url_prefix"].rstrip("/") + "/" + str(url).lstrip("/")
+        url = _apply_url_transforms(str(url), item, api)
         jobs.append({
             "firm": firm["name"],
             "title": title,
@@ -270,11 +271,25 @@ def scrape_sitemap(firm: dict, http) -> list[dict]:
     else:
         entries = _re.findall(r"<loc>\s*([^<\s]+)\s*</loc>(?:\s*<lastmod>\s*([^<\s]+))?", body)
 
+    # Optional recency filter — drop entries whose <lastmod> is older than N days
+    # (sitemaps can list expired jobs; recent lastmod is a freshness proxy).
+    cutoff = None
+    if sm.get("max_age_days"):
+        from datetime import datetime, timedelta, timezone
+        cutoff = datetime.now(timezone.utc) - timedelta(days=sm["max_age_days"])
+
     jobs: list[dict] = []
     seen = set()
     for loc, lastmod in entries:
         if job_match not in loc or loc in seen:
             continue
+        if cutoff and lastmod:
+            try:
+                from datetime import datetime
+                if datetime.fromisoformat(lastmod.replace("Z", "+00:00")) < cutoff:
+                    continue
+            except Exception:
+                pass
         seen.add(loc)
         title = _title_from_url(loc)
         if not title:
@@ -359,6 +374,30 @@ def _location(item: dict, spec) -> str:
         if val and val.lower() not in ("none", "null"):
             parts.append(val)
     return _clean(", ".join(parts))
+
+
+def _apply_url_transforms(url: str, item: dict, api: dict) -> str:
+    """Turn an apply URL into the job-description (JD) URL.
+
+      url_regex_sub: {pattern, repl}  -> re.sub on the resolved url
+                                         (Kforce: strip '/ApplyOnline...' -> JD)
+      url_template:  "https://.../job/{jobId}/{slug:title}" built from item fields;
+                     {slug:field} hyphenates the field (TEKsystems JD path).
+    """
+    import re
+    sub = api.get("url_regex_sub")
+    if sub:
+        url = re.sub(sub["pattern"], sub.get("repl", ""), url)
+    tmpl = api.get("url_template")
+    if tmpl:
+        def repl(m):
+            key = m.group(1)
+            if key.startswith("slug:"):
+                val = str(_dig(item, key[5:]))
+                return re.sub(r"[^A-Za-z0-9]+", "-", val).strip("-")
+            return str(_dig(item, key))
+        url = re.sub(r"\{([^}]+)\}", repl, tmpl)
+    return url
 
 
 def _dig(item: dict, path: str):
