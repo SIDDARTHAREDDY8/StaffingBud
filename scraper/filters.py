@@ -92,6 +92,43 @@ def matches_keywords(title: str) -> bool:
     return any(k in t for k in KEYWORDS)
 
 
+# Drop clearly non-US locations (these staffing firms post global/offshore roles).
+# Deny-list known foreign countries / Canadian provinces / offshore cities; keep US
+# and ambiguous/empty locations. Add to this if a foreign city slips through.
+NON_US = [
+    # countries
+    "canada", "india", "united kingdom", " uk", "england", "scotland", "wales",
+    "ireland", "poland", "belgium", "netherlands", "germany", "france",
+    "switzerland", "portugal", "spain", "italy", "mexico", "brazil", "colombia",
+    "argentina", "philippines", "singapore", "australia", "china", "japan",
+    "romania", "ukraine", "czech", "hungary", "austria", "sweden", "denmark",
+    # canadian provinces (names + ", XX" codes — none overlap US state codes)
+    "ontario", "quebec", "québec", "alberta", "british columbia", "manitoba",
+    "saskatchewan", "nova scotia", "new brunswick", "newfoundland",
+    ", on", ", qc", ", ab", ", bc", ", mb", ", sk", ", ns", ", nb", ", nl", ", pe",
+    # canadian cities
+    "toronto", "montreal", "montréal", "vancouver", "calgary", "ottawa", "halifax",
+    "sherbrooke", "moncton", "winnipeg", "edmonton", "mississauga", "waterloo",
+    # india cities
+    "hyderabad", "chennai", "bangalore", "bengaluru", "mumbai", "pune", "delhi",
+    "noida", "gurgaon", "gurugram", "kolkata", "ahmedabad", "coimbatore",
+    "chandigarh", "trivandrum", "kochi", "indore", "jaipur",
+    # europe / other offshore cities
+    "london", "leeds", "manchester", "dublin", "lisbon", "porto", "wrocław",
+    "wroclaw", "kraków", "krakow", "warsaw", "mechelen", "brussels", "geneva",
+    "zurich", "amsterdam", "paris", "berlin", "munich", "madrid", "barcelona",
+    "milan", "rome", "bucharest", "prague", "manila", "sydney", "melbourne",
+    "flanders", "voivod",
+]
+
+
+def is_non_us(location: str) -> bool:
+    if not location:
+        return False  # unknown -> keep (firms here are US-focused)
+    l = f" {location.lower()} "
+    return any(tok in l for tok in NON_US)
+
+
 def matches_location(location: str, allowed: list[str]) -> bool:
     if not allowed:
         return True
@@ -106,6 +143,8 @@ def apply_filters(jobs: list[dict], firm: dict) -> list[dict]:
     out = []
     for j in jobs:
         if not matches_keywords(j["title"]):
+            continue
+        if is_non_us(j["location"]):          # US-only board: drop offshore roles
             continue
         if not matches_location(j["location"], allowed):
             continue
