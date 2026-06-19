@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
-"""Render data/jobs.json into site/index.html (static, no backend)."""
+"""Render data/jobs.json into docs/index.html (static, no backend).
+
+Output lives in docs/ so GitHub Pages can serve it directly
+(Settings → Pages → Deploy from branch → main → /docs).
+"""
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "jobs.json"
-OUT = ROOT / "site" / "index.html"
+OUT = ROOT / "docs" / "index.html"
 
 TEMPLATE = """<!doctype html>
 <html lang="en">
@@ -88,6 +92,7 @@ def main():
     )
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html)
+    (OUT.parent / ".nojekyll").write_text("")  # serve raw HTML, skip Jekyll
     print(f"built {OUT} with {len(jobs)} jobs")
 
 

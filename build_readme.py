@@ -24,9 +24,12 @@ def md_escape(text: str) -> str:
 
 
 def render(new_jobs: list[dict], total: int, updated: str) -> str:
+    BOARD = "https://siddarthareddy8.github.io/StaffingBud/"
     lines = []
     if not new_jobs:
-        lines.append(f"### 🟢 No new roles since last update · {total} tracked total · updated `{updated}`")
+        lines.append(f"### 🟢 No new roles this update · **{total}** roles open total · updated `{updated}`")
+        lines.append("")
+        lines.append(f"Nothing new since the last run — [browse all {total} open roles on the board »]({BOARD})")
         return "\n".join(lines)
 
     by_firm = collections.Counter(j["firm"] for j in new_jobs)
