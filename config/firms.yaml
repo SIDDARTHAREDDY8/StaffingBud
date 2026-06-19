@@ -142,19 +142,27 @@ firms:
     location_split: "|"     # job-info is "City, ST | Category | Perm | $..."
     location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
-  # ----------------------------------------------- APIFY (Cloudflare bypass) ---
-  # Apex Systems: site is Cloudflare-walled to headless Chromium AND rebranded to
-  # "Everforth Apex". Solved via Apify rag-web-browser in Google-search mode —
-  # Google has already indexed past Cloudflare, so we enumerate job pages cheaply.
-  # Requires APIFY_TOKEN env var (GitHub secret). ~$0.015 per run.
+  # ---------------------------------- FREE sitemap bypass (Cloudflare-walled) ---
+  # These sites block headless browsers, but serve their XML job sitemap to search
+  # engines — so we read it directly. No browser, no Apify, no cost. Title is
+  # derived from the URL slug; location/date are limited (sitemap only).
   - name: "Apex Systems"
-    mode: apify_search
+    mode: sitemap
     search_url: "https://www.apexsystems.com/consultant-careers"
-    apify:
-      actor: "apify~rag-web-browser"
-      query: "site:apexsystems.com/job data engineer OR machine learning OR data scientist OR python"
-      max_results: 20
-    location_filter: []     # location not in search snippets; keep all US
+    sitemap:
+      url: "https://www.apexsystems.com/sitemap.xml"
+      job_match: "/job/"
+      max: 3000
+    location_filter: []     # no location in sitemap; keep all
+
+  - name: "Robert Half"
+    mode: sitemap
+    search_url: "https://www.roberthalf.com/us/en/jobs"
+    sitemap:
+      url: "https://www.roberthalf.com/content/roberthalf.sitemap.us-external-job-details-sitemap.xml"
+      job_match: "/job/"
+      max: 4000
+    location_filter: []
 
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
@@ -381,15 +389,7 @@ firms:
     location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
   # ---- walled (Cloudflare / bot) -> Apify Google-index trick. Needs APIFY_TOKEN ----
-  - name: "Robert Half"
-    mode: apify_search
-    search_url: "https://www.roberthalf.com/us/en/jobs"
-    apify:
-      actor: "apify~rag-web-browser"
-      query: "site:roberthalf.com/us/en/job data engineer OR machine learning OR python OR data analyst"
-      max_results: 20
-    location_filter: []
-
+  # (Apex + Robert Half moved to FREE sitemap mode above — no Apify needed.)
   - name: "Beacon Hill"
     mode: apify_search
     search_url: "https://bhsg.com/jobs/job-search/?_prime_category=technology"

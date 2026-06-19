@@ -39,7 +39,7 @@ def run(only=None, headful=False):
         return
 
     needs_browser = any(f["mode"] == "dom" for f in firms)
-    needs_http = any(f["mode"] in ("api", "apify_search", "api_html") for f in firms)
+    needs_http = any(f["mode"] in ("api", "apify_search", "api_html", "sitemap") for f in firms)
     apify_token = os.environ.get("APIFY_TOKEN")
 
     all_jobs: list[dict] = []
@@ -70,6 +70,8 @@ def run(only=None, headful=False):
                     raw = engine.scrape_apify_search(firm, http, apify_token)
                 elif firm["mode"] == "api_html":
                     raw = engine.scrape_api_html(firm, http)
+                elif firm["mode"] == "sitemap":
+                    raw = engine.scrape_sitemap(firm, http)
                 else:
                     raw = engine.scrape_api(firm, http)
             except Exception as e:  # one firm failing must not kill the run

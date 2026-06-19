@@ -191,6 +191,83 @@ def scrape_api_html(firm: dict, http) -> list[dict]:
     return jobs
 
 
+def scrape_sitemap(firm: dict, http) -> list[dict]:
+    """FREE bypass for bot-walled sites (Cloudflare etc.): their XML sitemap is
+    served to search engines, so we read it directly — no browser, no Apify.
+
+    Config (firm['sitemap']):
+      url:      sitemap URL (may be a <sitemapindex>; we recurse one level)
+      job_match: substring a URL must contain to count as a job (default '/job')
+      index_match: (optional) only recurse child sitemaps whose URL contains this
+      max: cap on job URLs to parse (default 3000)
+    Title is derived from the URL slug; location isn't in sitemaps (left blank).
+    """
+    import gzip
+    import re as _re
+
+    sm = firm["sitemap"]
+    job_match = sm.get("job_match", "/job")
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+               "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"}
+
+    def fetch(url: str) -> str:
+        r = http.get(url, headers=headers, timeout=30)
+        r.raise_for_status()
+        if url.endswith(".gz"):
+            return gzip.decompress(r.content).decode("utf-8", "ignore")
+        return r.text
+
+    body = fetch(sm["url"])
+    # entries: list of (loc, lastmod)
+    entries: list[tuple[str, str]] = []
+    if "<sitemapindex" in body:
+        children = _re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", body)
+        if sm.get("index_match"):
+            children = [c for c in children if sm["index_match"] in c]
+        for child in children[: sm.get("max_children", 20)]:
+            try:
+                cbody = fetch(child)
+            except Exception:
+                continue
+            entries += _re.findall(r"<loc>\s*([^<\s]+)\s*</loc>(?:\s*<lastmod>\s*([^<\s]+))?", cbody)
+    else:
+        entries = _re.findall(r"<loc>\s*([^<\s]+)\s*</loc>(?:\s*<lastmod>\s*([^<\s]+))?", body)
+
+    jobs: list[dict] = []
+    seen = set()
+    for loc, lastmod in entries:
+        if job_match not in loc or loc in seen:
+            continue
+        seen.add(loc)
+        title = _title_from_url(loc)
+        if not title:
+            continue
+        jobs.append({
+            "firm": firm["name"],
+            "title": title,
+            "location": "",
+            "url": loc,
+            "posted": (lastmod or "")[:10],
+        })
+        if len(jobs) >= sm.get("max", 3000):
+            break
+    return jobs
+
+
+def _title_from_url(url: str) -> str:
+    """Derive a job title from a URL slug. Picks the last path segment that's
+    word-like (more letters than digits), so it works whether the title is the
+    final segment (Apex) or sits before a numeric id segment (Robert Half)."""
+    import re as _re
+    segs = [s for s in url.rstrip("/").split("/") if s]
+    for seg in reversed(segs):
+        letters = sum(c.isalpha() for c in seg)
+        digits = sum(c.isdigit() for c in seg)
+        if letters >= 4 and letters > digits:
+            return _clean(_re.sub(r"[-_]+", " ", seg)).title()
+    return _clean(_re.sub(r"[-_]+", " ", segs[-1])).title() if segs else ""
+
+
 def scrape_apify_search(firm: dict, http, token: str) -> list[dict]:
     """Enumerate a firm's jobs via Apify's rag-web-browser in Google-search mode.
 
