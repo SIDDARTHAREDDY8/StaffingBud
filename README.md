@@ -27,25 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 616 tracked total · updated `2026-06-20T18:17:00+00:00`
+### 🟢 No new roles this update · **651** roles open total · updated `2026-06-20T18:40:43+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Vernovis | 5 |
-| Kforce | 1 |
-| Apex Systems | 1 |
-| KellyMitchell | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Infrastructure Engineer](http://www.kforce.com/Jobs/1696~EQG~2175031T1~99/) | Kforce | Delray Beach, FL | 2026-06-20 |
-| [Remote Mainframe Cobol Developer](https://www.apexsystems.com/job/3039276_usa/remote-mainframe-cobol-developer) | Apex Systems | Milwaukee, WI | 2026-06-20 |
-| [Junior Data Analyst](https://www.careers.kellymitchell.com/jobs/141881) | KellyMitchell | — | 2026-06-20 |
-| [Data Engineer](https://vernovis.com/blog/jobs/11872/) | Vernovis | New York, | 2026-06-20 |
-| [Data Engineer](https://vernovis.com/blog/jobs/11876/) | Vernovis | Cincinnati, | 2026-06-20 |
-| [Infor LX Programmer / Analyst](https://vernovis.com/blog/jobs/11899/) | Vernovis | Cincinnati, | 2026-06-20 |
-| [Senior Software Developer – HR & Benefits](https://vernovis.com/blog/jobs/11768/) | Vernovis | Cincinnati, | 2026-06-20 |
-| [Software Developer, DevSecOps](https://vernovis.com/blog/jobs/11856/) | Vernovis | Westerville, | 2026-06-20 |
+Nothing new since the last run — [browse all 651 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
