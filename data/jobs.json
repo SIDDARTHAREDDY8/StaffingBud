@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-20T21:27:21+00:00",
-  "count": 779,
+  "updated": "2026-06-20T21:28:16+00:00",
+  "count": 792,
   "jobs": [
+    {
+      "firm": "Mindlance",
+      "title": "RHTP Cloud Solutions Architect",
+      "location": "Boston, MA",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28654313#/jobs/28654313",
+      "posted": "2026-06-18",
+      "id": "0ba172effe96",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Software Engineer",
+      "location": "Orlando, FL",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28654008#/jobs/28654008",
+      "posted": "2026-06-18",
+      "id": "39bb1fddc5d1",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Office/Administration - AP Data Analyst",
+      "location": "Dallas, TX",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28651424#/jobs/28651424",
+      "posted": "2026-06-18",
+      "id": "e97902bb1537",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Data Analyst",
+      "location": "Oldsmarr, FL",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28653707#/jobs/28653707",
+      "posted": "2026-06-18",
+      "id": "a6e91bb9ef39",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Senior Full Stack Developer",
+      "location": "McLean, VA",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28653229#/jobs/28653229",
+      "posted": "2026-06-18",
+      "id": "275420dbd545",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Senior Python Developer",
+      "location": "McLean, VA",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28652162#/jobs/28652162",
+      "posted": "2026-06-18",
+      "id": "ab8f3d735394",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Research Scientist I",
+      "location": "Lexington, MA",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28648724#/jobs/28648724",
+      "posted": "2026-06-17",
+      "id": "e914db00d00a",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Software Engineer",
+      "location": "Orlando, FL",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28647008#/jobs/28647008",
+      "posted": "2026-06-17",
+      "id": "42cb9bc2a6c9",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Software Engineer",
+      "location": "Orlando, FL",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28647007#/jobs/28647007",
+      "posted": "2026-06-17",
+      "id": "e77cf60f1d55",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Software Engineer III",
+      "location": "Wilmington, DE",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28646951#/jobs/28646951",
+      "posted": "2026-06-17",
+      "id": "ede4fe1eb429",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Data Analyst",
+      "location": "Orlando, FL",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28646877#/jobs/28646877",
+      "posted": "2026-06-17",
+      "id": "97650f57eaf3",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Information Technology - Net Developer",
+      "location": "Neenah, WI",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28646609#/jobs/28646609",
+      "posted": "2026-06-17",
+      "id": "e82cb4f2f426",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
+    {
+      "firm": "Mindlance",
+      "title": "Senior Front End Web Developer",
+      "location": "McLean, VA",
+      "url": "https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28646165#/jobs/28646165",
+      "posted": "2026-06-17",
+      "id": "94de2f95565f",
+      "first_seen": "2026-06-20T21:28:16+00:00",
+      "last_seen": "2026-06-20T21:28:16+00:00"
+    },
     {
       "firm": "ASK Consulting",
       "title": "Data Scientist",

@@ -307,6 +307,15 @@ firms:
       pages: 3
     location_filter: []
 
+  - name: "Mindlance"
+    mode: jobdiva
+    search_url: "https://mindlance.com/job-board/"
+    jobdiva:
+      a: "7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo"
+      compid: "0"
+      pages: 3
+    location_filter: []
+
   - name: "Net2Source"
     mode: jobdiva
     search_url: "https://www.net2source.com/in-house-jobs"
