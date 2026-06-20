@@ -276,6 +276,15 @@ firms:
       pages: 3
     location_filter: []
 
+  - name: "Net2Source"
+    mode: jobdiva
+    search_url: "https://www.net2source.com/in-house-jobs"
+    jobdiva:
+      a: "fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi"
+      compid: "0"
+      pages: 3
+    location_filter: []
+
   # =================================================== CEIPAL C2C VENDORS =======
   # Generic Ceipal adapter. To add a Ceipal firm: view-source its careers page,
   # find data-ceipal-api-key (apikey) and data-ceipal-career-portal-id (cp_id).
