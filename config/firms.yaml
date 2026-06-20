@@ -134,12 +134,23 @@ firms:
     location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
   - name: "Insight Global"
-    mode: dom
-    # CONFIRMED working. The real jobs live on the jobs.* SUBDOMAIN (the main
-    # insightglobal.com is just marketing — that's why it looked Bullhorn-walled).
-    # No Cloudflare here; clean DOM. ~1,400+ "data engineer" results.
+    mode: html
+    # Jobs are server-rendered (curl_cffi reads them) on the jobs.* subdomain.
+    # The site paginates via ASP.NET POST (no GET param works), so instead we run
+    # several search terms and merge — each term returns ~10 results.
     search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
+    url_prefix: "https://jobs.insightglobal.com"
     detail_date: true   # real Post Date is microdata on the detail page, not the listing
+    urls:
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=software+engineer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+scientist"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=full+stack+developer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=python+developer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+analyst"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=devops+engineer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=cloud+engineer"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=machine+learning"
     selectors:
       card: "div.result"
       title: ".job-title"
@@ -182,6 +193,21 @@ firms:
       job_match: "/job/"
       max: 4000
       max_age_days: 30     # drop stale sitemap entries; keep recently-posted jobs
+    location_filter: []
+
+  # Vaco: SPA with a CSRF-protected search API (hard), but exposes a job sitemap.
+  # The sitemap has no location/date, so detail_date enrichment backfills both, then
+  # the US + recency (45d) filters run post-enrichment.
+  - name: "Vaco"
+    mode: sitemap
+    search_url: "https://jobs.vaco.com/home"
+    detail_date: true
+    max_age_days: 45
+    sitemap:
+      url: "https://jobs.vaco.com/jobs-sitemap.xml"
+      job_match: "/job/"
+      ignore_lastmod: true   # sitemap stamps everything with today; use real datePosted
+      max: 4000
     location_filter: []
 
   # ============================================================ SMARTRECRUITERS ==

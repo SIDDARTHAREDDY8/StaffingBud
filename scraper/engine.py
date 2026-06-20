@@ -320,7 +320,9 @@ def scrape_sitemap(firm: dict, http) -> list[dict]:
             "title": title,
             "location": "",
             "url": loc,
-            "posted": (lastmod or "")[:10],
+            # some sitemaps stamp every entry with today's <lastmod> (useless as a
+            # post date) — ignore_lastmod leaves it empty so enrichment fills the real one
+            "posted": "" if sm.get("ignore_lastmod") else (lastmod or "")[:10],
         })
         if len(jobs) >= sm.get("max", 3000):
             break
@@ -397,6 +399,28 @@ def _location(item: dict, spec) -> str:
     return _clean(", ".join(parts))
 
 
+def normalize_posted(s: str) -> str:
+    """Convert relative posting strings to an ISO date so freshness sorts correctly.
+    Workday gives 'Posted 30+ Days Ago' / 'Posted 7 Days Ago' / 'Posted Today' —
+    those don't parse as dates, so without this they'd wrongly fall back to NEW.
+    """
+    if not s:
+        return s
+    import re as _re
+    from datetime import datetime, timedelta, timezone
+    low = s.lower()
+    today = datetime.now(timezone.utc).date()
+    if "today" in low or "just posted" in low:
+        return today.isoformat()
+    if "yesterday" in low:
+        return (today - timedelta(days=1)).isoformat()
+    for unit, days in (("day", 1), ("week", 7), ("month", 30), ("year", 365)):
+        m = _re.search(r"(\d+)\+?\s*" + unit, low)
+        if m:
+            return (today - timedelta(days=int(m.group(1)) * days)).isoformat()
+    return s
+
+
 def extract_posted_date(html: str) -> str:
     """Pull a posting date from a job detail page. Handles schema.org JSON-LD
     (`"datePosted":`), microdata (`itemprop="datePosted">Mar 03, 2026<`, used by
@@ -416,6 +440,43 @@ def extract_posted_date(html: str) -> str:
             if _re.search(r'\d{4}', val):   # sanity: must contain a 4-digit year
                 return val
     return ""
+
+
+def extract_location(html: str) -> str:
+    """Pull 'City, ST' from a job detail page (schema.org address or microdata)."""
+    import re as _re
+    city = _re.search(r'"addressLocality"\s*:\s*"([^"]{2,40})"', html)
+    region = _re.search(r'"addressRegion"\s*:\s*"([^"]{2,40})"', html)
+    parts = [m.group(1).strip() for m in (city, region) if m]
+    if parts:
+        return ", ".join(parts)
+    m = _re.search(r'itemprop=["\']addressLocality["\'][^>]*>\s*([^<]{2,30}?)\s*<', html)
+    return m.group(1).strip() if m else ""
+
+
+def within_age(posted: str, max_days: int) -> bool:
+    """True if `posted` parses to within max_days, or is missing/unparseable
+    (don't drop what we can't date)."""
+    if not posted or not max_days:
+        return True
+    import re as _re
+    from datetime import datetime, timezone
+    s = posted.strip().replace("Z", "+00:00")
+    dt = None
+    try:
+        dt = datetime.fromisoformat(s)
+    except Exception:
+        for f in ("%Y-%m-%d", "%m/%d/%Y", "%b %d, %Y", "%B %d, %Y"):
+            try:
+                dt = datetime.strptime(posted.strip()[:20], f)
+                break
+            except Exception:
+                pass
+    if dt is None:
+        return True
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - dt).days <= max_days
 
 
 def enrich_posted_dates(jobs: list[dict], http, known: dict, job_id) -> int:
@@ -440,6 +501,10 @@ def enrich_posted_dates(jobs: list[dict], http, known: dict, job_id) -> int:
         if dt:
             job["posted"] = dt[:10] if dt[:1].isdigit() else dt
             n += 1
+        if not job.get("location"):           # also backfill location while here
+            loc = extract_location(html)
+            if loc:
+                job["location"] = loc
     return n
 
 

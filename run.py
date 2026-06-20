@@ -92,6 +92,8 @@ def run(only=None, headful=False):
                 continue
 
             kept = filters.apply_filters(raw, firm)
+            for j in kept:                       # 'Posted 7 Days Ago' -> ISO date
+                j["posted"] = engine.normalize_posted(j.get("posted", ""))
             # firms that only expose the posting date on the detail page: fetch it
             # for NEW jobs so freshness reflects the true posted date, not first_seen
             if firm.get("detail_date") and http:
@@ -99,6 +101,13 @@ def run(only=None, headful=False):
                 got = engine.enrich_posted_dates(kept, http, known, store._job_id)
                 if got:
                     print(f"  enriched {got} posted-dates from detail pages", flush=True)
+                # locations/dates are now populated — re-apply US + recency filters
+                before = len(kept)
+                kept = [j for j in kept if not filters.is_non_us(j.get("location", ""))]
+                if firm.get("max_age_days"):
+                    kept = [j for j in kept if engine.within_age(j.get("posted", ""), firm["max_age_days"])]
+                if len(kept) != before:
+                    print(f"  dropped {before - len(kept)} non-US/stale after enrichment", flush=True)
             print(f"  scraped {len(raw)}, kept {len(kept)} after filters")
             all_jobs.extend(kept)
     finally:
