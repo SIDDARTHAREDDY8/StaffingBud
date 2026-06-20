@@ -27,43 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 27 new roles this update · 635 tracked total · updated `2026-06-20T04:36:28+00:00`
+### 🆕 2 new roles this update · 637 tracked total · updated `2026-06-20T07:34:40+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 25 |
-| Insight Global | 1 |
-| KellyMitchell | 1 |
+| Insight Global | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [DevOps Engineer – Cloud, Infrastructure & Automation](https://careers.teksystems.com/us/en/job/JP-006095002/DevOps-Engineer-Cloud-Infrastructure-Automation) | TEKsystems | Denver, Colorado | 2026-06-20 |
-| [C# Software Developer](https://careers.teksystems.com/us/en/job/JP-006106204/C-Software-Developer) | TEKsystems | Billings, Montana | 2026-06-20 |
-| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006093690/Data-Engineer) | TEKsystems | South Sioux City, Nebraska | 2026-06-20 |
-| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006093707/Data-Engineer) | TEKsystems | South Sioux City, Nebraska | 2026-06-20 |
-| [Software Architect](https://careers.teksystems.com/us/en/job/JP-006098824/Software-Architect) | TEKsystems | Topeka, Kansas | 2026-06-20 |
-| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006098802/Senior-Software-Engineer) | TEKsystems | Kansas City, Missouri | 2026-06-20 |
-| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006103443/Solutions-Architect) | TEKsystems | Minneapolis, Minnesota | 2026-06-20 |
-| [Full Stack Python/React Developer](https://careers.teksystems.com/us/en/job/JP-006097858/Full-Stack-Python-React-Developer) | TEKsystems | Minneapolis, Minnesota | 2026-06-20 |
-| [Openshift Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006100398/Openshift-Platform-Engineer) | TEKsystems | Chandler, Arizona | 2026-06-20 |
-| [Full Stack Python/React Developer (W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006097846/Full-Stack-Python-React-Developer-W2-ONLY) | TEKsystems | Chandler, Arizona | 2026-06-20 |
-| [Kubernetes / OpenShift AI Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006103030/Kubernetes-OpenShift-AI-Platform-Engineer) | TEKsystems | Chandler, Arizona | 2026-06-20 |
-| [Cloud Engineer](https://careers.teksystems.com/us/en/job/JP-006095238/Cloud-Engineer) | TEKsystems | Tucson, Arizona | 2026-06-20 |
-| [Lead Azure Fabric Data Engineer](https://careers.teksystems.com/us/en/job/JP-006091385/Lead-Azure-Fabric-Data-Engineer) | TEKsystems | Dallas, Texas | 2026-06-20 |
-| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006081194/Solutions-Architect) | TEKsystems | Dallas, Texas | 2026-06-20 |
-| [Lead AWS DevOps Cloud Engineer (Full-time Remote)](https://careers.teksystems.com/us/en/job/JP-006085533/Lead-AWS-DevOps-Cloud-Engineer-Full-time-Remote) | TEKsystems | Dallas, Texas | 2026-06-20 |
-| [Azure Practice Architect-AI/ML (Fulltime Remote)](https://careers.teksystems.com/us/en/job/JP-006085918/Azure-Practice-Architect-AI-ML-Fulltime-Remote) | TEKsystems | Dallas, Texas | 2026-06-20 |
-| [Azure Practice Architect II - AI/ML (Remote Full-Time)](https://careers.teksystems.com/us/en/job/JP-006100838/Azure-Practice-Architect-II-AI-ML-Remote-Full-Time) | TEKsystems | Dallas, Texas | 2026-06-20 |
-| [Full Stack Python/React Developer (W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006097833/Full-Stack-Python-React-Developer-W2-ONLY) | TEKsystems | Irving, Texas | 2026-06-20 |
-| [Materials And Chemicals Data Analyst](https://careers.teksystems.com/us/en/job/JP-006105610/Materials-And-Chemicals-Data-Analyst) | TEKsystems | Austin, Texas | 2026-06-20 |
-| [VMWare Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006081159/VMWare-Solutions-Architect) | TEKsystems | Austin, Texas | 2026-06-20 |
-| [Program Principal AI/ML](https://careers.teksystems.com/us/en/job/JP-006101468/Program-Principal-AI-ML) | TEKsystems | Austin, Texas | 2026-06-20 |
-| [Azure Data Engineer](https://careers.teksystems.com/us/en/job/JP-006082880/Azure-Data-Engineer) | TEKsystems | San Diego, California | 2026-06-20 |
-| [AI Business Data Consultant](https://careers.teksystems.com/us/en/job/JP-006082898/AI-Business-Data-Consultant) | TEKsystems | Torrance, California | 2026-06-20 |
-| [Product Data Analyst](https://careers.teksystems.com/us/en/job/JP-006083072/Product-Data-Analyst) | TEKsystems | Sunnyvale, California | 2026-06-20 |
-| [Full Stack Software Engineer](https://careers.teksystems.com/us/en/job/JP-006103478/Full-Stack-Software-Engineer) | TEKsystems | San Jose, California | 2026-06-20 |
-| [Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/florida/deerfield-beach/software-engineer/job-533819/) | Insight Global | Deerfield Beach, FL | 2026-06-20 |
-| [Junior Data Analyst](https://www.careers.kellymitchell.com/jobs/141881) | KellyMitchell | — | 2026-06-20 |
+| [Full Stack Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/hamilton/full-stack-developer/job-529526/) | Insight Global | Hamilton, NJ | 2026-06-20 |
+| [Python Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-york/new-york/python-developer/job-525332/) | Insight Global | New York, NY | 2026-06-20 |
 <!-- JOBS:END -->
 
 ## How it works
