@@ -366,6 +366,18 @@ firms:
     location_filter: ["United States", "USA", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
   # ---- DOM scrapeable ----
+  - name: "Vernovis"
+    mode: dom
+    # Cincinnati-based IT + finance contract/direct-hire staffing. WordPress+FacetWP.
+    # Blocks curl_cffi (403) so must use Playwright; location is in the listing.
+    search_url: "https://vernovis.com/search-jobs/"
+    selectors:
+      card: "div.fwpl-row"
+      title: ".job-search-title"
+      location: ".job-search-city"
+      link: ".job-search-title a"
+    location_filter: []
+
   - name: "Belcan"
     mode: dom
     search_url: "https://belcanjobs.smartsearchonline.com/careersv2/process_jobsearch.asp"
