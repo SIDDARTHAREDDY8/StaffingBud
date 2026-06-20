@@ -27,17 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 643 tracked total · updated `2026-06-20T12:48:29+00:00`
+### 🆕 2 new roles this update · 645 tracked total · updated `2026-06-20T15:41:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 1 |
-| Insight Global | 1 |
+| TEKsystems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Infrastructure Engineer](http://www.kforce.com/Jobs/1696~EQG~2175031T1~99/) | Kforce | Delray Beach, FL | 2026-06-20 |
-| [Sr. Full Stack Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/sr-full-stack-developer/job-528430/) | Insight Global | Newark, NJ | 2026-06-20 |
+| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006103440/Solutions-Architect) | TEKsystems | San Francisco, California | 2026-06-20 |
+| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006103438/Solutions-Architect) | TEKsystems | Seattle, Washington | 2026-06-20 |
 <!-- JOBS:END -->
 
 ## How it works
