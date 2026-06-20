@@ -276,6 +276,37 @@ firms:
       pages: 3
     location_filter: []
 
+  - name: "ASK Consulting"
+    mode: html
+    # Curately/ApostropheCMS — /jobs/list returns HTML cards; data is in
+    # data-job-* attributes (read via @attr selectors).
+    search_url: "https://careers.askconsulting.com/"
+    http: { headers: { Referer: "https://careers.askconsulting.com/", Accept: "*/*" } }
+    urls:
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=0&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=1&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=2&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=3&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=4&keyword=&aposLocale=en"
+      - "https://careers.askconsulting.com/api/v1/jobs/list?pageCount=5&keyword=&aposLocale=en"
+    selectors:
+      card: "[data-job-id]"
+      title: "@data-job-title"
+      location: "@data-job-location"
+      link: "@data-job-applylink"
+      require_link: true
+    location_filter: []
+
+  - name: "Artech"
+    mode: jobdiva
+    search_url: "https://consultingjobs.artech.com/"
+    jobdiva:
+      a: "kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s"
+      compid: "0"
+      portal: "https://www1.jobdiva.com/"
+      pages: 3
+    location_filter: []
+
   - name: "Net2Source"
     mode: jobdiva
     search_url: "https://www.net2source.com/in-house-jobs"

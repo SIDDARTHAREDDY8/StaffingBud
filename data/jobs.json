@@ -1,7 +1,377 @@
 {
-  "updated": "2026-06-20T21:21:09+00:00",
-  "count": 742,
+  "updated": "2026-06-20T21:27:21+00:00",
+  "count": 779,
   "jobs": [
+    {
+      "firm": "ASK Consulting",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA, 94107",
+      "url": "https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125017/Data Scientist",
+      "posted": "",
+      "id": "565c46b82fdd",
+      "first_seen": "2026-06-20T21:27:21+00:00",
+      "last_seen": "2026-06-20T21:27:21+00:00"
+    },
+    {
+      "firm": "ASK Consulting",
+      "title": "Full Stack Developer",
+      "location": "Atlanta, GA, 30339",
+      "url": "https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/124909/Full Stack Developer",
+      "posted": "",
+      "id": "3b770b7988ae",
+      "first_seen": "2026-06-20T21:27:21+00:00",
+      "last_seen": "2026-06-20T21:27:21+00:00"
+    },
+    {
+      "firm": "ASK Consulting",
+      "title": "Sr Developer",
+      "location": "DURHAM, NC, NC, 27707",
+      "url": "https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/124816/Sr Developer",
+      "posted": "",
+      "id": "af9859d4f86d",
+      "first_seen": "2026-06-20T21:27:21+00:00",
+      "last_seen": "2026-06-20T21:27:21+00:00"
+    },
+    {
+      "firm": "ASK Consulting",
+      "title": "Supply Chain Data Analyst",
+      "location": "Santa Ana, CA, 92707",
+      "url": "https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/124794/Supply Chain Data Analyst",
+      "posted": "",
+      "id": "b6749d1d1b93",
+      "first_seen": "2026-06-20T21:27:21+00:00",
+      "last_seen": "2026-06-20T21:27:21+00:00"
+    },
+    {
+      "firm": "ASK Consulting",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA, 94107",
+      "url": "https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/125208/Data Scientist",
+      "posted": "",
+      "id": "df9277102859",
+      "first_seen": "2026-06-20T21:26:41+00:00",
+      "last_seen": "2026-06-20T21:27:21+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "IT Security Engineer",
+      "location": "Pennington, NJ",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475423#/jobs/32475423",
+      "posted": "2026-06-19",
+      "id": "93268ef92ca2",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Enterprise Cloud Architect",
+      "location": "Downey, CA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32476857#/jobs/32476857",
+      "posted": "2026-06-19",
+      "id": "40649c20d9eb",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Data Scientist",
+      "location": "Dallas, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32476675#/jobs/32476675",
+      "posted": "2026-06-19",
+      "id": "c72d2a6a076c",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Senior DevOps Engineer",
+      "location": "Remote",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32476624#/jobs/32476624",
+      "posted": "2026-06-19",
+      "id": "061fce9a3a6a",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "UI/UX - Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32476505#/jobs/32476505",
+      "posted": "2026-06-19",
+      "id": "960f37779e70",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Senior .NET AI Developer",
+      "location": "San Antonio, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475419#/jobs/32475419",
+      "posted": "2026-06-19",
+      "id": "644e337dd1e6",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Java Developer (F2F)",
+      "location": "Plano, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475744#/jobs/32475744",
+      "posted": "2026-06-19",
+      "id": "df079a9e196d",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Application Implementation Developer",
+      "location": "Remote, NY",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475989#/jobs/32475989",
+      "posted": "2026-06-19",
+      "id": "5f60ce76bf14",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "NC Programmer",
+      "location": "Hybd, CA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32476078#/jobs/32476078",
+      "posted": "2026-06-19",
+      "id": "8d464ef1cd6a",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Interface Developer",
+      "location": "Remote, NY",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475976#/jobs/32475976",
+      "posted": "2026-06-19",
+      "id": "e4b29b6dc899",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "DevOps Engineer",
+      "location": "Remote, NY",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475959#/jobs/32475959",
+      "posted": "2026-06-19",
+      "id": "29721a78f9be",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Job Opportunity for Mainframe z/OS Developer with our Federal Client",
+      "location": "Home, VA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475776#/jobs/32475776",
+      "posted": "2026-06-19",
+      "id": "5661040ffb1f",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Oracle HCM Cloud Architect",
+      "location": "Plano, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475528#/jobs/32475528",
+      "posted": "2026-06-19",
+      "id": "eb5496059bea",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Gen AI/ML engineer (Local to NJ/NY/TX)",
+      "location": "Dallas, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475350#/jobs/32475350",
+      "posted": "2026-06-19",
+      "id": "f5b8e78268b5",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "GEN AI /ML Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475341#/jobs/32475341",
+      "posted": "2026-06-19",
+      "id": "045186a525f7",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Cyber Security Engineer",
+      "location": "REMOTE",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475416#/jobs/32475416",
+      "posted": "2026-06-19",
+      "id": "e91f071f822e",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Mainframe Developer",
+      "location": "ALPHARETTA, GA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475352#/jobs/32475352",
+      "posted": "2026-06-19",
+      "id": "ec4468e01074",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Sr. Java Developer",
+      "location": "Charlotte, NC",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32475247#/jobs/32475247",
+      "posted": "2026-06-19",
+      "id": "3035a1815d18",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Data Engineer - Databricks, AWS",
+      "location": "North Quincy, MA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32474869#/jobs/32474869",
+      "posted": "2026-06-19",
+      "id": "5fb0130bf382",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "US Application Developer - Devops",
+      "location": "Rochester, MN",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32430589#/jobs/32430589",
+      "posted": "2026-06-19",
+      "id": "618b1802368c",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": ".Net Developer",
+      "location": "Newark, NJ",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32472016#/jobs/32472016",
+      "posted": "2026-06-18",
+      "id": "1b68d5a4f319",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "AWS Cloud Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32472149#/jobs/32472149",
+      "posted": "2026-06-18",
+      "id": "de43be060aea",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Backend AI Architect",
+      "location": "Philadelphia, PA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32471268#/jobs/32471268",
+      "posted": "2026-06-18",
+      "id": "2d08bcc6caaf",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Platform Engineer",
+      "location": "Boston, MA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32468487#/jobs/32468487",
+      "posted": "2026-06-18",
+      "id": "4d8bee93a0c2",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Technology and Data - Specialty Software Engineer 4 - Contingent",
+      "location": "CHANDLER, AZ",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32472988#/jobs/32472988",
+      "posted": "2026-06-18",
+      "id": "ea7318f26e79",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Data Engineer",
+      "location": "Remote",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32470739#/jobs/32470739",
+      "posted": "2026-06-18",
+      "id": "d426452e97ad",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": ".NET Developer",
+      "location": "Plano, TX",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32471262#/jobs/32471262",
+      "posted": "2026-06-18",
+      "id": "a074865b5e1a",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Technology and Data - Specialty Software Engineer 4 - Contingent",
+      "location": "CHARLOTTE, NC",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32470389#/jobs/32470389",
+      "posted": "2026-06-18",
+      "id": "b0140efca745",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Information Technology - Oracle ARCS Developer",
+      "location": "Remote, VA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32470352#/jobs/32470352",
+      "posted": "2026-06-18",
+      "id": "2c47c57da767",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Java React Developer-Full Stack Senior",
+      "location": "McLean, VA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32470493#/jobs/32470493",
+      "posted": "2026-06-18",
+      "id": "391727320dcb",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "Information Technology - Solutions Architect",
+      "location": "Remote, MI",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32469781#/jobs/32469781",
+      "posted": "2026-06-18",
+      "id": "b4fdfd0e5982",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
+    {
+      "firm": "Artech",
+      "title": "ForgeRock/Ping Identity Developer | Java Integration Specialist",
+      "location": "Alpharetta, GA",
+      "url": "https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32468606#/jobs/32468606",
+      "posted": "2026-06-18",
+      "id": "21c8fb599f2c",
+      "first_seen": "2026-06-20T21:24:13+00:00",
+      "last_seen": "2026-06-20T21:24:13+00:00"
+    },
     {
       "firm": "Net2Source",
       "title": "Embedded Software Engineer 2",

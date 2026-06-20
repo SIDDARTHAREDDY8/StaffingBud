@@ -215,15 +215,26 @@ def _parse_cards(html: str, firm: dict) -> list[dict]:
     prefix = (firm.get("url_prefix")
               or (firm.get("api") or {}).get("url_prefix")
               or (firm.get("http") or {}).get("url_prefix"))
+    def get(card, spec):
+        """A selector, or '@attr' to read an attribute off the card itself."""
+        if spec and spec.startswith("@"):
+            return _clean(card.get(spec[1:], "")), card.get(spec[1:], "")
+        el = card.select_one(spec) if spec else None
+        return (_clean(el.get_text()) if el else ""), el
+
     soup = BeautifulSoup(html, "html.parser")
     jobs: list[dict] = []
     for card in soup.select(sel["card"]):
-        title_el = card.select_one(sel["title"]) if sel.get("title") else None
-        title = _clean(title_el.get_text() if title_el else card.get_text())
+        title, _ = get(card, sel.get("title"))
+        if not title:
+            title = _clean(card.get_text())
         if not title:
             continue
-        link_el = card.select_one(sel["link"]) if sel.get("link") else None
-        href = (link_el.get("href") if link_el else None)
+        if sel.get("link", "").startswith("@"):
+            href = card.get(sel["link"][1:])
+        else:
+            link_el = card.select_one(sel["link"]) if sel.get("link") else None
+            href = (link_el.get("href") if link_el else None)
         if not href and card.name == "a":
             href = card.get("href")
         if sel.get("require_link") and not href:
@@ -231,14 +242,13 @@ def _parse_cards(html: str, firm: dict) -> list[dict]:
         url = href or firm.get("search_url", "")
         if href and prefix and not str(href).startswith("http"):
             url = prefix.rstrip("/") + "/" + str(href).lstrip("/")
-        # location: a single selector, or a list of selectors joined (e.g. city+state)
+        # location: a single selector, list of selectors joined, or '@attr'
         loc_spec = sel.get("location")
         if isinstance(loc_spec, list):
             parts = [card.select_one(s) for s in loc_spec]
             location = _clean(", ".join(p.get_text(strip=True) for p in parts if p))
         else:
-            loc_el = card.select_one(loc_spec) if loc_spec else None
-            location = _clean(loc_el.get_text()) if loc_el else ""
+            location, _ = get(card, loc_spec) if loc_spec else ("", None)
         split = firm.get("location_split")
         if split and location:
             location = _clean(location.split(split)[0])
@@ -354,8 +364,9 @@ def scrape_jobdiva(firm: dict, http=None) -> list[dict]:
     c = firm["jobdiva"]
     atok, compid = c["a"], str(c.get("compid", "1"))
     base = "https://ws.jobdiva.com/candPortal/rest"
+    referer = c.get("portal", "https://www2.jobdiva.com/")
     s = _cf.Session(impersonate="chrome120")
-    s.headers.update({"Referer": "https://www2.jobdiva.com/"})
+    s.headers.update({"Referer": referer})
     try:
         auth = s.get(f"{base}/auth/a", timeout=25, headers={
             "Authorization": "Basic YXhlbG9uOmF4ZWxvbg==", "portalid": "1", "compid": compid, "a": atok}).json()
@@ -400,7 +411,7 @@ def scrape_jobdiva(firm: dict, http=None) -> list[dict]:
                 "firm": firm["name"], "title": title, "location": _clean(str(loc)),
                 # job id lives in the #fragment (which our identity strips), so also
                 # put it in the query — keeps each job distinct and the link still works
-                "url": f"https://www2.jobdiva.com/portal/?a={atok}&compid={compid}&jobid={d.get('id')}#/jobs/{d.get('id')}",
+                "url": f"{referer.rstrip('/')}/portal/?a={atok}&compid={compid}&jobid={d.get('id')}#/jobs/{d.get('id')}",
                 "posted": jd_date(d.get("postDate")),
             })
     return jobs
