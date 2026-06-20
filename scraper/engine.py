@@ -343,6 +343,69 @@ def _title_from_url(url: str) -> str:
     return _clean(_re.sub(r"[-_]+", " ", segs[-1])).title() if segs else ""
 
 
+def scrape_jobdiva(firm: dict, http=None) -> list[dict]:
+    """Generic adapter for JobDiva candidate-portal staffing firms. Two-step:
+    auth/a (Basic + a/compid/portalid headers) -> token, then POST searchjobsportal.
+    Config: jobdiva:{a, compid, pages}. Find `a` token in the vendor's
+    www2.jobdiva.com/portal/?a=... link, and compid in the same URL.
+    """
+    from curl_cffi import requests as _cf
+
+    c = firm["jobdiva"]
+    atok, compid = c["a"], str(c.get("compid", "1"))
+    base = "https://ws.jobdiva.com/candPortal/rest"
+    s = _cf.Session(impersonate="chrome120")
+    s.headers.update({"Referer": "https://www2.jobdiva.com/"})
+    try:
+        auth = s.get(f"{base}/auth/a", timeout=25, headers={
+            "Authorization": "Basic YXhlbG9uOmF4ZWxvbg==", "portalid": "1", "compid": compid, "a": atok}).json()
+        token, pid = auth["token"], auth["portalID"]
+    except Exception:
+        return []
+
+    def jd_date(v):
+        try:
+            from datetime import datetime, timezone
+            return datetime.fromtimestamp(int(v) / 1000, timezone.utc).date().isoformat()
+        except Exception:
+            return ""
+
+    per = 50
+    jobs: list[dict] = []
+    for page in range(c.get("pages", 2)):
+        frm, to = page * per + 1, (page + 1) * per
+        body = {"city": "", "country": "", "from": str(frm), "to": str(to), "keywords": "",
+                "portalID": str(pid), "unit": "mi", "zipcode": "", "jobCategories": "",
+                "jobDivisions": "", "jobTypes": "", "miles": "", "onsiteFlex": "",
+                "qualifications": "", "states": ""}
+        try:
+            data = s.post(f"{base}/job/searchjobsportal", timeout=25,
+                          headers={"Content-Type": "application/x-www-form-urlencoded",
+                                   "token": token, "a": atok, "portalid": str(pid)},
+                          data=body).json().get("data", [])
+        except Exception:
+            break
+        if not data:
+            break
+        for d in data:
+            title = _clean(d.get("title", ""))
+            if not title:
+                continue
+            loc = d.get("mainLocation") or d.get("location") or ""
+            if isinstance(loc, dict):
+                loc = ", ".join(str(loc.get(k, "")) for k in ("city", "state", "country") if loc.get(k))
+            elif isinstance(loc, list) and loc:
+                loc = ", ".join(str(x.get("city", x) if isinstance(x, dict) else x) for x in loc[:1])
+            jobs.append({
+                "firm": firm["name"], "title": title, "location": _clean(str(loc)),
+                # job id lives in the #fragment (which our identity strips), so also
+                # put it in the query — keeps each job distinct and the link still works
+                "url": f"https://www2.jobdiva.com/portal/?a={atok}&compid={compid}&jobid={d.get('id')}#/jobs/{d.get('id')}",
+                "posted": jd_date(d.get("postDate")),
+            })
+    return jobs
+
+
 def scrape_ceipal(firm: dict, http=None) -> list[dict]:
     """Generic adapter for Ceipal-powered staffing firms (huge in the C2C space).
     The embedded widget's job API checks an X-Referer-Host header and posts a

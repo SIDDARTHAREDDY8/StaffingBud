@@ -266,6 +266,16 @@ firms:
         posted: "releasedDate"
     location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
+  # Russell Tobin (Pride Global) — JobDiva candidate portal.
+  - name: "Russell Tobin"
+    mode: jobdiva
+    search_url: "https://www.russelltobin.com/find-work/"
+    jobdiva:
+      a: "nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r"
+      compid: "2"
+      pages: 3
+    location_filter: []
+
   # =================================================== CEIPAL C2C VENDORS =======
   # Generic Ceipal adapter. To add a Ceipal firm: view-source its careers page,
   # find data-ceipal-api-key (apikey) and data-ceipal-career-portal-id (cp_id).
