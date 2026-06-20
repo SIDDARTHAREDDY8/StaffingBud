@@ -85,6 +85,8 @@ def run(only=None, headful=False):
                     raw = engine.scrape_sitemap(firm, http)
                 elif firm["mode"] == "html":
                     raw = engine.scrape_html(firm, http)
+                elif firm["mode"] == "ceipal":
+                    raw = engine.scrape_ceipal(firm)
                 else:
                     raw = engine.scrape_api(firm, http)
             except Exception as e:  # one firm failing must not kill the run

@@ -343,6 +343,54 @@ def _title_from_url(url: str) -> str:
     return _clean(_re.sub(r"[-_]+", " ", segs[-1])).title() if segs else ""
 
 
+def scrape_ceipal(firm: dict, http=None) -> list[dict]:
+    """Generic adapter for Ceipal-powered staffing firms (huge in the C2C space).
+    The embedded widget's job API checks an X-Referer-Host header and posts a
+    multipart form; we replicate it. Parameterized by api_key + cp_id (found in the
+    vendor page's data-ceipal-api-key / data-ceipal-career-portal-id attributes).
+    """
+    import re as _re
+    import requests as _rq
+
+    c = firm["ceipal"]
+    apikey, cpid = c["apikey"], c["cp_id"]
+    base = f"https://careerapi.ceipal.com/{apikey}/CareerPortalJobPostings/"
+    headers = {"Referer": "https://jobsapi.ceipal.com/", "X-Requested-With": "XMLHttpRequest",
+               "User-Agent": "Mozilla/5.0"}
+
+    def ceipal_date(s: str) -> str:        # MM/DD/YY -> YYYY-MM-DD
+        m = _re.match(r"(\d{1,2})/(\d{1,2})/(\d{2})", s or "")
+        return f"20{m.group(3)}-{int(m.group(1)):02d}-{int(m.group(2)):02d}" if m else (s or "")
+
+    jobs: list[dict] = []
+    for page in range(1, c.get("pages", 12) + 1):
+        fields = {"from_chatbot": "0", "page": str(page), "api_key": apikey,
+                  "method": "CareerPortalJobPostings", "cp_id": cpid, "from_career_portal": "1"}
+        try:
+            r = _rq.post(f"{base}?page={page}", headers=headers,
+                         files={k: (None, v) for k, v in fields.items()}, timeout=30)
+            results = r.json().get("results", [])
+        except Exception:
+            break
+        if not results:
+            break
+        for d in results:
+            title = _clean(d.get("position_title", ""))
+            if not title:
+                continue
+            loc = [d.get("city", ""), d.get("state", "")]
+            country = (d.get("country") or "").strip()
+            if country and country.lower() not in ("us", "usa", "united states", "u.s.", "u.s"):
+                loc.append(country)          # surface foreign country so US filter catches it
+            jobs.append({
+                "firm": firm["name"], "title": title,
+                "location": _clean(", ".join(x for x in loc if x)),
+                "url": d.get("campus_portal_job_details_url") or firm.get("search_url", ""),
+                "posted": ceipal_date(d.get("created", "")),
+            })
+    return jobs
+
+
 def scrape_apify_search(firm: dict, http, token: str) -> list[dict]:
     """Enumerate a firm's jobs via Apify's rag-web-browser in Google-search mode.
 

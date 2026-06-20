@@ -1,17 +1,346 @@
 {
-  "updated": "2026-06-20T18:17:00+00:00",
-  "count": 616,
+  "updated": "2026-06-20T20:57:12+00:00",
+  "count": 685,
   "jobs": [
     {
-      "firm": "Kforce",
-      "title": "Infrastructure Engineer",
-      "location": "Delray Beach, FL",
-      "url": "http://www.kforce.com/Jobs/1696~EQG~2175031T1~99/",
-      "posted": "2026-06-17T11:55:13Z",
-      "id": "bd6e0ae1403e",
-      "first_seen": "2026-06-20T18:17:00+00:00",
-      "last_seen": "2026-06-20T18:17:00+00:00",
-      "readme_posted": true
+      "firm": "Cynet Systems",
+      "title": "Azure / Power Platfrom Developer",
+      "location": "New Jersey",
+      "url": "https://candidateportal.ceipal.com/job-details/VTjts4DiTmsyT6OLyun_7H04trJimJj2qQslktV0m14",
+      "posted": "2026-04-22",
+      "id": "db0a848aba58",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Guidewire Integration Developer",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/YgY0hrxHFvqvTJQSyrDBLQmqqL__gJw0wFftoa1G4B8",
+      "posted": "2026-06-18",
+      "id": "04013e271dee",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Java Developer",
+      "location": "New Jersey",
+      "url": "https://candidateportal.ceipal.com/job-details/K1Qh9FfJrcxHoqjo6K0bbqsfZ0AfbY7s1Vnx_P0QD9k",
+      "posted": "2026-06-18",
+      "id": "7ee4c5068f3a",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "AEM Developer / Architect",
+      "location": "New York",
+      "url": "https://candidateportal.ceipal.com/job-details/jAwuZzn17iXZXjhmtdr-lwLtwsROadV72YmqgQ3Ochw",
+      "posted": "2026-06-10",
+      "id": "49473d63c2e6",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Full-stack .NET Developer",
+      "location": "Texas",
+      "url": "https://candidateportal.ceipal.com/job-details/GLuJ9U1HuCf-VNg5SeIh7t90mlWg5xxciOoJqVoC6O4",
+      "posted": "2026-06-19",
+      "id": "f441ada1fd47",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Python Automation Developer",
+      "location": "",
+      "url": "https://candidateportal.ceipal.com/job-details/aMrP0E6eehgv2Iu3VOIIEUEgNVBr-vcMr36qQVhuNu4",
+      "posted": "2026-06-19",
+      "id": "1d63616b0a45",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Java Developer",
+      "location": "Texas",
+      "url": "https://candidateportal.ceipal.com/job-details/He1GaW_PagrrnYHOIKsHgebzWVhMoa4MyKGhjV03Yco",
+      "posted": "2026-06-19",
+      "id": "00a2473113ba",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "DotNet Developer",
+      "location": "North Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/c5_D8WI_ad0YmCzxR28RaUlZBetJLEjJEp_j2Fjmmtk",
+      "posted": "2026-06-19",
+      "id": "e0a1b0223f3f",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Full Stack Developer (ASP.net + PrimeNG)",
+      "location": "South Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/wHk25JT7a5XCtz_cpqeZI-j-TCqAQYVImElqqKQcNQE",
+      "posted": "2026-06-12",
+      "id": "3ef7e3221a5b",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Python Developer",
+      "location": "Georgia",
+      "url": "https://candidateportal.ceipal.com/job-details/ErhALFrN9YsEA0IEL-8u7IIC3y1U-srfzbBTxdL2KFM",
+      "posted": "2026-06-17",
+      "id": "0d5e8046cd67",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Markit EDM Developer",
+      "location": "South Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/AlCSbvpQpKs1S38TWa3LmwEzgOyoLXphtwNtgDx1-AM",
+      "posted": "2026-06-18",
+      "id": "c8067e4a3b23",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Java Backend Developer",
+      "location": "Missouri",
+      "url": "https://candidateportal.ceipal.com/job-details/Dd99LC1nDcBVO6ylEj4Rcj2T7KkatxgccHKN9FrxvZU",
+      "posted": "2026-06-18",
+      "id": "8e094eda3221",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Java Software Engineer",
+      "location": "Arizona",
+      "url": "https://candidateportal.ceipal.com/job-details/qU359QnOPUQ-3TzWbHbSt-flSIen3Ew8wOQubcY1oD4",
+      "posted": "2026-06-18",
+      "id": "7b7e54c59f35",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "OpenShift/Cloud Engineer",
+      "location": "Texas",
+      "url": "https://candidateportal.ceipal.com/job-details/iQjzJjisdX5DAEKZtugLcstwkkJ9McjTqEKv72-he1s",
+      "posted": "2026-06-18",
+      "id": "852fb66bf543",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "AI Scientist / AI Architect",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/Wag1rWA3qoz_Aj5F_rD2wQWDjGRH-QLcgLBAVecXT5U",
+      "posted": "2026-06-18",
+      "id": "3a9a2b0c8efe",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior AI Engineer",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/fwnJvBDCXK7eL3zNgNPKH3Sb1ymEBa4VqxcdCxX-mGk",
+      "posted": "2026-06-18",
+      "id": "50ae046d2be6",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Snowflake Solutions Architect",
+      "location": "New Jersey",
+      "url": "https://candidateportal.ceipal.com/job-details/DzE92uOI3N4815-_0_1OLKtEBmumyb58poMgTTehfRI",
+      "posted": "2026-06-18",
+      "id": "bbba56b06df7",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "GEN AI Lead",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/YMRO34l_-UXD6bawWZb-vabr3fNe70_O_zh_0DiVGOc",
+      "posted": "2026-03-10",
+      "id": "703b67ca18ff",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Mainframe Developer",
+      "location": "New Jersey",
+      "url": "https://candidateportal.ceipal.com/job-details/F45LUW6esuMANB32-_3muIG_ur5hos9x2_5byrBzgj4",
+      "posted": "2026-06-17",
+      "id": "1995a950d72e",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Java with Typescript Developer",
+      "location": "New Hampshire",
+      "url": "https://candidateportal.ceipal.com/job-details/jN7PDIFiUZ-hq_saLS3BjazKQRUKn48z5CJ3J_hohZo",
+      "posted": "2026-06-15",
+      "id": "419e3d0c572e",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Angular UI Developer",
+      "location": "Pennsylvania",
+      "url": "https://candidateportal.ceipal.com/job-details/HuU5JL9tGnSjuHVIZlzdjyOVEnyQoAzLeJB3Fi3aKPc",
+      "posted": "2026-06-17",
+      "id": "b1b998ec59b8",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Frontend Engineer (ReactJS, TypeScript)",
+      "location": "Colorado",
+      "url": "https://candidateportal.ceipal.com/job-details/yZxmy-KDczOh_3oahquQX8vnRZzso_eSORGNQq5KqeE",
+      "posted": "2026-06-17",
+      "id": "9860f97063c7",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "MS Power Platform Developer",
+      "location": "North Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/Oq2D3Xxl5al4yZ_8MqmBS30Nsj1m-Hf8QoEKp0EPSZw",
+      "posted": "2026-06-17",
+      "id": "022e4020526f",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "MS Power Platform Developer",
+      "location": "North Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/GB_06NCmo6Nq6tiKnwPudm-q1H3D3aX2rgR7JfpBIY8",
+      "posted": "2026-06-17",
+      "id": "0a140457a9c3",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Programmer Analyst 4",
+      "location": "Virginia",
+      "url": "https://candidateportal.ceipal.com/job-details/_kEf0KI18bzOFp7TsqH7RQu7CkK5shJLrNvc0JK66rA",
+      "posted": "2026-06-17",
+      "id": "d718a707012f",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior ServiceNow Developer",
+      "location": "Georgia",
+      "url": "https://candidateportal.ceipal.com/job-details/PlToOayvWgCsYWeQ1o0-B04pnJDuJjMat_NUDYqfaRs",
+      "posted": "2026-06-17",
+      "id": "9983ca0c2095",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Agentic AI Developer",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/GnNw42Q5oC99lD7Kb8I3IQKLo533L-wfjkneDSsb1MQ",
+      "posted": "2026-06-17",
+      "id": "d20141010409",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Java Developer",
+      "location": "Texas",
+      "url": "https://candidateportal.ceipal.com/job-details/0-X5H3a6hwFV_JcbDbQfhwm49SqGgeq88fDOsVs3LIk",
+      "posted": "2026-05-12",
+      "id": "6421bf71ba13",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Data Analyst",
+      "location": "Illinois",
+      "url": "https://candidateportal.ceipal.com/job-details/Tzq_USDFVP6-gmzigZkowThOdWgULmg5MQC0zMTeBZ8",
+      "posted": "2026-06-16",
+      "id": "ceefb4b482e9",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Java Full Stack Engineer",
+      "location": "North Carolina",
+      "url": "https://candidateportal.ceipal.com/job-details/SneGl3NUKL_qub9P_lzKlKgpjQGKcqzfdJ2ranpiNDc",
+      "posted": "2026-06-16",
+      "id": "9032a1474c2b",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior Azure Devops Engineer",
+      "location": "Texas",
+      "url": "https://candidateportal.ceipal.com/job-details/J3CbXb9asWOAd-uji9zC66foZbM797mGEULXulNqKG8",
+      "posted": "2026-06-16",
+      "id": "fc10b3b7a4ac",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Java Software Engineer",
+      "location": "California",
+      "url": "https://candidateportal.ceipal.com/job-details/BAe9PGt6s68iPkNjTdDtr1UO09WSAuUEF8Ojmq1I6mc",
+      "posted": "2026-06-16",
+      "id": "4394c3899299",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Python Developer",
+      "location": "Ohio",
+      "url": "https://candidateportal.ceipal.com/job-details/yV2yRuYIsKJBzKj2uh1OdKcJYgaws2qQZ8ph7R-okSE",
+      "posted": "2026-06-15",
+      "id": "c6ee8df5c6be",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
+    },
+    {
+      "firm": "Cynet Systems",
+      "title": "Senior AWS DevOps Engineer",
+      "location": "Oklahoma",
+      "url": "https://candidateportal.ceipal.com/job-details/BHlrB0BDV-2qnYOeWLvcwg6wAefRIvcxHCjFmXS5tgc",
+      "posted": "2026-06-15",
+      "id": "6d7bc5708779",
+      "first_seen": "2026-06-20T20:57:12+00:00",
+      "last_seen": "2026-06-20T20:57:12+00:00"
     },
     {
       "firm": "Apex Systems",
@@ -20,17 +349,6 @@
       "url": "https://www.apexsystems.com/job/3039276_usa/remote-mainframe-cobol-developer",
       "posted": "6/20/2026",
       "id": "a1b101b91b48",
-      "first_seen": "2026-06-20T18:17:00+00:00",
-      "last_seen": "2026-06-20T18:17:00+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "KellyMitchell",
-      "title": "Junior Data Analyst",
-      "location": "",
-      "url": "https://www.careers.kellymitchell.com/jobs/141881",
-      "posted": "1779892073",
-      "id": "da37778171c6",
       "first_seen": "2026-06-20T18:17:00+00:00",
       "last_seen": "2026-06-20T18:17:00+00:00",
       "readme_posted": true
@@ -198,6 +516,17 @@
       "id": "e4cac51db0c7",
       "first_seen": "2026-06-20T07:34:40+00:00",
       "last_seen": "2026-06-20T07:34:40+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "KellyMitchell",
+      "title": "Junior Data Analyst",
+      "location": "",
+      "url": "https://www.careers.kellymitchell.com/jobs/141881",
+      "posted": "1779892073",
+      "id": "da37778171c6",
+      "first_seen": "2026-06-20T04:36:28+00:00",
+      "last_seen": "2026-06-20T15:41:10+00:00",
       "readme_posted": true
     },
     {
@@ -484,17 +813,6 @@
       "id": "bf4de35b4db8",
       "first_seen": "2026-06-20T04:36:28+00:00",
       "last_seen": "2026-06-20T12:48:29+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "KellyMitchell",
-      "title": "Junior Data Analyst",
-      "location": "",
-      "url": "https://www.careers.kellymitchell.com/jobs/141881",
-      "posted": "1779892073",
-      "id": "da37778171c6",
-      "first_seen": "2026-06-20T04:36:28+00:00",
-      "last_seen": "2026-06-20T15:41:10+00:00",
       "readme_posted": true
     },
     {

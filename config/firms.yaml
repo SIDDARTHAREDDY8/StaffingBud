@@ -266,6 +266,18 @@ firms:
         posted: "releasedDate"
     location_filter: ["United States", "USA", "US", "OH", "Ohio", "Cincinnati", "Remote", ""]
 
+  # =================================================== CEIPAL C2C VENDORS =======
+  # Generic Ceipal adapter. To add a Ceipal firm: view-source its careers page,
+  # find data-ceipal-api-key (apikey) and data-ceipal-career-portal-id (cp_id).
+  - name: "Cynet Systems"
+    mode: ceipal
+    search_url: "https://www.cynetsystems.com/jobs"
+    ceipal:
+      apikey: "ZS9ZemN0eVplUjFrdGU3U3hHS2t5dz09"
+      cp_id: "Z3RkUkt2OXZJVld2MjFpOVRSTXoxZz09"
+      pages: 15
+    location_filter: []
+
   # ================================================================ BATCH 2 ====
   # 16 more staffing/vendor sources, calibrated 2026-06-19.
 
