@@ -27,16 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 637 tracked total · updated `2026-06-20T07:34:40+00:00`
+### 🆕 4 new roles this update · 641 tracked total · updated `2026-06-20T10:08:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Insight Global | 2 |
+| TEKsystems | 3 |
+| Insight Global | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/hamilton/full-stack-developer/job-529526/) | Insight Global | Hamilton, NJ | 2026-06-20 |
-| [Python Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-york/new-york/python-developer/job-525332/) | Insight Global | New York, NY | 2026-06-20 |
+| [Principal Cloud Engineer (GA Or NJ)](https://careers.teksystems.com/us/en/job/JP-006096065/Principal-Cloud-Engineer-GA-Or-NJ) | TEKsystems | Roseland, New Jersey | 2026-06-20 |
+| [.NET Mortgage & Trading Analytics Lead Developer](https://careers.teksystems.com/us/en/job/JP-006076743/NET-Mortgage-Trading-Analytics-Lead-Developer) | TEKsystems | New York, New York | 2026-06-20 |
+| [Cobol Developer](https://careers.teksystems.com/us/en/job/JP-006105599/Cobol-Developer) | TEKsystems | Albany, New York | 2026-06-20 |
+| [Cloud Engineer III](https://jobs.insightglobal.com/jobs/find_a_job/alabama/huntsville/cloud-engineer-iii/job-515525/) | Insight Global | Huntsville, AL | 2026-06-20 |
 <!-- JOBS:END -->
 
 ## How it works
