@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-20T20:57:12+00:00",
-  "count": 685,
+  "updated": "2026-06-20T21:04:51+00:00",
+  "count": 691,
   "jobs": [
+    {
+      "firm": "Compunnel",
+      "title": "Cloud Infrastructure Engineer",
+      "location": "Lisle, Illinois, United States",
+      "url": "https://jobs.compunnel.com/jobs/5824528",
+      "posted": "Jun 09, 2026",
+      "id": "985b1bafc8cd",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
+    {
+      "firm": "Compunnel",
+      "title": "Senior AI Engineer",
+      "location": "Coppell, Texas, United States",
+      "url": "https://jobs.compunnel.com/jobs/5808867",
+      "posted": "May 22, 2026",
+      "id": "7837e21de9d0",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
+    {
+      "firm": "Compunnel",
+      "title": "Software Engineer in Test",
+      "location": "Westlake, Texas, United States",
+      "url": "https://jobs.compunnel.com/jobs/5818011",
+      "posted": "May 29, 2026",
+      "id": "b3825dcca27a",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
+    {
+      "firm": "Compunnel",
+      "title": "Sr. Principal AI Interconnect Architect",
+      "location": "Milpitas, California, United States",
+      "url": "https://jobs.compunnel.com/jobs/5804096",
+      "posted": "May 14, 2026",
+      "id": "9d0d3af75ece",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
+    {
+      "firm": "Compunnel",
+      "title": "Mainframe Developer",
+      "location": "Westlake, Texas, United States",
+      "url": "https://jobs.compunnel.com/jobs/5803912",
+      "posted": "May 13, 2026",
+      "id": "87f62056b531",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
+    {
+      "firm": "Compunnel",
+      "title": "Cloud Engineer",
+      "location": "Durham, North Carolina, United States",
+      "url": "https://jobs.compunnel.com/jobs/5821569",
+      "posted": "Jun 05, 2026",
+      "id": "42590ba85799",
+      "first_seen": "2026-06-20T21:04:51+00:00",
+      "last_seen": "2026-06-20T21:04:51+00:00"
+    },
     {
       "firm": "Cynet Systems",
       "title": "Azure / Power Platfrom Developer",

@@ -278,6 +278,40 @@ firms:
       pages: 15
     location_filter: []
 
+  # Compunnel — StafflinePro platform (app.stafflinepro.com). Azure API gateway
+  # needs ocp-apim-subscription-key + secretkey headers.
+  - name: "Compunnel"
+    mode: api
+    search_url: "https://jobs.compunnel.com"
+    api:
+      method: POST
+      url: "https://prod-centralindia-njp-svc-gateway.azure-api.net/search/v1/job"
+      headers:
+        ocp-apim-subscription-key: "46b7a5e5064046db8eb413c66d43b863"
+        secretkey: "sda43WfR797sWQE"
+        Content-Type: "application/json"
+        Accept: "application/json, text/plain, */*"
+      json_body:
+        keywords: ""
+        location: []
+        radius: "50"
+        jobOwnerName: [1, 3, 5, 6, 7, 9]
+        experience: [0, 30]
+        _limit: 100
+        _page: 1
+        searchType: "Any"
+        _sortOrder: "desc"
+        _relocate: "n"
+      paginate: { in: json_body, param: _page, size: 100, max_pages: 3 }
+      list_path: "data.job"
+      url_prefix: "https://jobs.compunnel.com/jobs"
+      fields:
+        title: "title"
+        location: "cityStateCountry"
+        url: "clientPrimaryKey"
+        posted: "postingDate"
+    location_filter: []
+
   # ================================================================ BATCH 2 ====
   # 16 more staffing/vendor sources, calibrated 2026-06-19.
 
