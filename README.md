@@ -27,9 +27,26 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **504** roles open total · updated `2026-06-19T21:58:06+00:00`
+### 🆕 11 new roles this update · 515 tracked total · updated `2026-06-20T01:08:20+00:00`
 
-Nothing new since the last run — [browse all 504 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 10 |
+| Robert Half | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Jr. Software Engineer – Java (Aviation Systems) (LOCAL CANDIDATES ONLY)](https://careers.teksystems.com/us/en/job/JP-006100335/Jr-Software-Engineer-Java-Aviation-Systems-LOCAL-CANDIDATES-ONLY) | TEKsystems | Annapolis, Maryland | 2026-06-20 |
+| [GCP Practice Architect II-AI/ML](https://careers.teksystems.com/us/en/job/JP-006105579/GCP-Practice-Architect-II-AI-ML) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [Lead Cloud Engineer](https://careers.teksystems.com/us/en/job/JP-006096721/Lead-Cloud-Engineer) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [Practice Architect-AI/ML](https://careers.teksystems.com/us/en/job/JP-006099727/Practice-Architect-AI-ML) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [Senior Software Developer](https://careers.teksystems.com/us/en/job/JP-006084027/Senior-Software-Developer) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [DevOps & Cloud Engineer II-AWS](https://careers.teksystems.com/us/en/job/JP-006104853/DevOps-Cloud-Engineer-II-AWS) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [Python Lead Developer](https://careers.teksystems.com/us/en/job/JP-006092453/Python-Lead-Developer) | TEKsystems | Baltimore, Maryland | 2026-06-20 |
+| [Principal Cloud Engineer (GA Or NJ)](https://careers.teksystems.com/us/en/job/JP-006096065/Principal-Cloud-Engineer-GA-Or-NJ) | TEKsystems | Roseland, New Jersey | 2026-06-20 |
+| [.NET Mortgage & Trading Analytics Lead Developer](https://careers.teksystems.com/us/en/job/JP-006076743/NET-Mortgage-Trading-Analytics-Lead-Developer) | TEKsystems | New York, New York | 2026-06-20 |
+| [Cobol Developer](https://careers.teksystems.com/us/en/job/JP-006105599/Cobol-Developer) | TEKsystems | Albany, New York | 2026-06-20 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/dayton-oh/data-analyst/03370-9504352028-usen) | Robert Half | — | 2026-06-20 |
 <!-- JOBS:END -->
 
 ## How it works
