@@ -269,6 +269,24 @@ firms:
       max: 4000
     location_filter: []
 
+  # SolTech: Atlanta software/dev staffing. Old iCIMS portal is dead — jobs now on
+  # a Tracker-RMS "Lite" portal that server-renders every job (title h3, location,
+  # "Posted on DD Month YY" date, and a /Opportunity/LiteJob?...&id= link).
+  - name: "SolTech"
+    mode: html
+    search_url: "https://evoportalus.tracker-rms.com/Opportunity/Lite/?db=Soltech"
+    url: "https://evoportalus.tracker-rms.com/Opportunity/Lite/?db=Soltech"
+    url_prefix: "https://evoportalus.tracker-rms.com"
+    max_age_days: 60
+    selectors:
+      card: "div.fj_post"
+      title: "h3"
+      link: "a[href*='LiteJob']"
+      location: "ul.featurej_post li"
+      posted: "span.fw600"
+      require_link: true
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

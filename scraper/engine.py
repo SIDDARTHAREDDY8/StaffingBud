@@ -597,6 +597,22 @@ def normalize_posted(s: str) -> str:
             return datetime(y, mo, d).date().isoformat()
         except ValueError:
             pass
+    # spelled-out dates: "11 June 26", "11 Jun 2026", "June 11, 2026"
+    months = {m[:3].lower(): i for i, m in enumerate(
+        ["January", "February", "March", "April", "May", "June", "July",
+         "August", "September", "October", "November", "December"], 1)}
+    m = (_re.search(r"(\d{1,2})\s+([A-Za-z]{3,9})\.?\s+(\d{2,4})", s)
+         or _re.search(r"([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s+(\d{2,4})", s))
+    if m:
+        g = m.groups()
+        d, mon, y = (g[0], g[1], g[2]) if g[0].isdigit() else (g[1], g[0], g[2])
+        mo = months.get(mon[:3].lower())
+        if mo:
+            y = int(y); y += 2000 if y < 100 else 0
+            try:
+                return datetime(y, mo, int(d)).date().isoformat()
+            except ValueError:
+                pass
     return s
 
 

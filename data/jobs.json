@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-21T22:24:18+00:00",
-  "count": 1136,
+  "updated": "2026-06-21T23:13:12+00:00",
+  "count": 1139,
   "jobs": [
+    {
+      "firm": "SolTech",
+      "title": "Senior Full Stack Software Engineer (Ruby / Svelte / AWS) \u2013 Contract",
+      "location": "Remote/Pacific Time Hours",
+      "url": "https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4815",
+      "posted": "2026-06-11",
+      "id": "144033b1b070",
+      "first_seen": "2026-06-21T23:13:12+00:00",
+      "last_seen": "2026-06-21T23:13:12+00:00"
+    },
+    {
+      "firm": "SolTech",
+      "title": "Data Scientist",
+      "location": "Duluth, GA",
+      "url": "https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4772",
+      "posted": "2026-05-19",
+      "id": "5060a5bda343",
+      "first_seen": "2026-06-21T23:13:12+00:00",
+      "last_seen": "2026-06-21T23:13:12+00:00"
+    },
+    {
+      "firm": "SolTech",
+      "title": "Full-Stack React Native/.NET Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4807",
+      "posted": "2026-05-09",
+      "id": "2ef18e2cd218",
+      "first_seen": "2026-06-21T23:13:12+00:00",
+      "last_seen": "2026-06-21T23:13:12+00:00"
+    },
     {
       "firm": "Alldus",
       "title": "Ai Researcher California",
