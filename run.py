@@ -41,7 +41,7 @@ def run(only=None, headful=False):
     needs_browser = any(f["mode"] == "dom" for f in firms)
     # http client is needed for API-type modes AND for detail-date enrichment
     needs_http = any(
-        f["mode"] in ("api", "apify_search", "api_html", "sitemap", "html") or f.get("detail_date")
+        f["mode"] in ("api", "apify_search", "api_html", "sitemap", "html", "rss") or f.get("detail_date")
         for f in firms
     )
     apify_token = os.environ.get("APIFY_TOKEN")
@@ -84,6 +84,8 @@ def run(only=None, headful=False):
                     raw = engine.scrape_api_html(firm, http)
                 elif firm["mode"] == "sitemap":
                     raw = engine.scrape_sitemap(firm, http)
+                elif firm["mode"] == "rss":
+                    raw = engine.scrape_rss(firm, http)
                 elif firm["mode"] == "html":
                     raw = engine.scrape_html(firm, http)
                 elif firm["mode"] == "ceipal":
@@ -99,6 +101,10 @@ def run(only=None, headful=False):
             kept = filters.apply_filters(raw, firm)
             for j in kept:                       # 'Posted 7 Days Ago' -> ISO date
                 j["posted"] = engine.normalize_posted(j.get("posted", ""))
+            # firms that expose a real posted date directly (e.g. RSS pubDate) but
+            # aren't detail-enriched: apply the same recency cap so stale reqs drop
+            if firm.get("max_age_days") and not firm.get("detail_date"):
+                kept = [j for j in kept if engine.within_age(j.get("posted", ""), firm["max_age_days"])]
             # firms that only expose the posting date on the detail page: fetch it
             # for NEW jobs so freshness reflects the true posted date, not first_seen
             if firm.get("detail_date") and http:

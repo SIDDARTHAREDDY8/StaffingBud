@@ -339,6 +339,50 @@ def scrape_sitemap(firm: dict, http) -> list[dict]:
     return jobs
 
 
+def scrape_rss(firm: dict, http) -> list[dict]:
+    """Generic job-RSS adapter. Reads each <item>'s title / link / pubDate. Powers
+    Top Echelon / Big Biller `.smpl` staffing boards (rss/rss.smpl), whose link
+    slugs embed the location as '...-Jobs-in-<City>-<State>/<id>'. Config:
+    rss:{url}.  Works for any standard job RSS feed."""
+    import re as _re
+    import email.utils as _eu
+
+    cfg = firm.get("rss", {})
+    url = cfg.get("url") or firm["rss_url"]
+    body = http.get(url, timeout=25, allow_redirects=True).text
+
+    def _cd(tag, blob):
+        m = _re.search(rf"<{tag}[^>]*>\s*(?:<!\[CDATA\[(.*?)\]\]>|(.*?))\s*</{tag}>",
+                       blob, _re.S)
+        return _clean((m.group(1) or m.group(2) or "")) if m else ""
+
+    jobs, seen = [], set()
+    for it in _re.findall(r"<item\b.*?</item>", body, _re.S):
+        title = _cd("title", it)
+        link = _cd("link", it) or _cd("guid", it)
+        if not title or not link or link in seen:
+            continue
+        seen.add(link)
+        loc = ""
+        m = _re.search(r"-Jobs-in-([A-Za-z][A-Za-z-]*)/\d+", link)  # Big Biller slug
+        if m:
+            loc = m.group(1).replace("-", " ").strip()
+        posted = ""
+        pub = _cd("pubDate", it)
+        if pub:
+            try:
+                dt = _eu.parsedate_to_datetime(pub)
+                if dt:
+                    posted = dt.date().isoformat()
+            except Exception:
+                pass
+        jobs.append({"firm": firm["name"], "title": title, "location": loc,
+                     "url": link, "posted": posted})
+        if len(jobs) >= cfg.get("max", 3000):
+            break
+    return jobs
+
+
 def _title_from_url(url: str) -> str:
     """Derive a job title from a URL slug. Picks the last path segment that's
     word-like (more letters than digits), so it works whether the title is the

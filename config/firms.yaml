@@ -230,6 +230,16 @@ firms:
       max: 4000
     location_filter: []
 
+  # CornerStone TTS (Technology Talent Services): woman-owned IT staffing (TX/NC/
+  # SC/GA/FL/AZ). Top Echelon / Big Biller board — the search page is JS-rendered,
+  # but rss/rss.smpl exposes every job with a clean title, link, and real pubDate.
+  - name: "CornerStone TTS"
+    mode: rss
+    search_url: "https://jobs.cornerstonetechtalent.com/"
+    max_age_days: 60
+    rss:
+      url: "https://jobs.cornerstonetechtalent.com/rss/rss.smpl"
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

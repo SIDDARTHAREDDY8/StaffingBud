@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-21T21:53:11+00:00",
-  "count": 982,
+  "updated": "2026-06-21T21:56:51+00:00",
+  "count": 993,
   "jobs": [
+    {
+      "firm": "CornerStone TTS",
+      "title": "Senior Microsoft Application Architect",
+      "location": "Phoenix Arizona",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Senior-Microsoft-Application-Architect-Jobs-in-Phoenix-Arizona/14019323",
+      "posted": "2026-06-19",
+      "id": "1bb1dc98269c",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Data Engineer",
+      "location": "",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Data-Engineer-Jobs-in-/14122815",
+      "posted": "2026-06-19",
+      "id": "dd237b49f545",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "AWS Senior Data Engineer",
+      "location": "Irving Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/AWS-Senior-Data-Engineer-Jobs-in-Irving-Texas/14054749",
+      "posted": "2026-06-19",
+      "id": "ccb49edb100f",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Full Stack Engineer (Palantir Foundry & AIP)",
+      "location": "Richardson Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Full-Stack-Engineer-Palantir-Foundry-AIP-Jobs-in-Richardson-Texas/14128170",
+      "posted": "2026-06-18",
+      "id": "aff709eb240f",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Forward Deployed Engineer",
+      "location": "",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Forward-Deployed-Engineer-Jobs-in-/14126042",
+      "posted": "2026-06-17",
+      "id": "d918a9c51644",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Cloud Solutions Architect 3",
+      "location": "Austin Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Cloud-Solutions-Architect-3-Jobs-in-Austin-Texas/14113183",
+      "posted": "2026-06-17",
+      "id": "c3a518704db5",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Full Stack .NET Developer (Columbia, SC)",
+      "location": "Cayce South Carolina",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Full-Stack-NET-Developer-Columbia-SC-Jobs-in-Cayce-South-Carolina/14117975",
+      "posted": "2026-06-16",
+      "id": "a705ff45ddfd",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Senior AI Solutions Engineer",
+      "location": "Plano Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Senior-AI-Solutions-Engineer-Jobs-in-Plano-Texas/14122529",
+      "posted": "2026-06-16",
+      "id": "997cd903f675",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Staff Software Engineer (AI-Native)",
+      "location": "Tempe Arizona",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Staff-Software-Engineer-AI-Native-Jobs-in-Tempe-Arizona/14054745",
+      "posted": "2026-06-16",
+      "id": "197417dc3603",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Senior AI/ML Software Developer",
+      "location": "Austin Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Senior-AI-ML-Software-Developer-Jobs-in-Austin-Texas/14105281",
+      "posted": "2026-06-16",
+      "id": "5c7d0e6dbb80",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
+    {
+      "firm": "CornerStone TTS",
+      "title": "Senior Java Developer ( Texas Residents only)",
+      "location": "Austin Texas",
+      "url": "https://jobs.cornerstonetechtalent.com/jb/Senior-Java-Developer-Texas-Residents-only-Jobs-in-Austin-Texas/14105282",
+      "posted": "2026-06-12",
+      "id": "8d698d70853e",
+      "first_seen": "2026-06-21T21:56:51+00:00",
+      "last_seen": "2026-06-21T21:56:51+00:00"
+    },
     {
       "firm": "Alldus",
       "title": "Ai Researcher California",
