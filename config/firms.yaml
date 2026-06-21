@@ -240,6 +240,21 @@ firms:
     rss:
       url: "https://jobs.cornerstonetechtalent.com/rss/rss.smpl"
 
+  # Strategic Staffing Solutions (S3): national IT consulting/staffing (Detroit).
+  # Board is WordPress (recruiterwp); the job sitemap enumerates every posting and
+  # detail pages carry JSON-LD JobPosting (datePosted, addressLocality). detail_date
+  # backfills date+location, then US + 60-day filters run (S3 has some intl roles).
+  - name: "Strategic Staffing Solutions"
+    mode: sitemap
+    search_url: "https://jobs.strategicstaff.com/"
+    detail_date: true
+    sitemap:
+      url: "https://jobs.strategicstaff.com/recruiterwp_job-sitemap.xml"
+      job_match: "/jobs/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by
