@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-20T21:34:25+00:00",
-  "count": 826,
+  "updated": "2026-06-21T05:23:19+00:00",
+  "count": 828,
   "jobs": [
+    {
+      "firm": "CRG",
+      "title": "Full Stack Java Developer",
+      "location": "Charlotte, North Carolina",
+      "url": "https://jobs.getcrg.com/jobs/16512",
+      "posted": "",
+      "id": "39d4a2345e3c",
+      "first_seen": "2026-06-21T05:23:19+00:00",
+      "last_seen": "2026-06-21T05:23:19+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "CRG",
+      "title": "AI Solutions Architect",
+      "location": "Knoxville, Tennessee",
+      "url": "https://jobs.getcrg.com/jobs/16292",
+      "posted": "",
+      "id": "088d49543c6e",
+      "first_seen": "2026-06-21T05:23:19+00:00",
+      "last_seen": "2026-06-21T05:23:19+00:00",
+      "readme_posted": true
+    },
     {
       "firm": "Cynet Systems",
       "title": "Azure / Power Platfrom Developer",

@@ -276,6 +276,21 @@ firms:
       pages: 3
     location_filter: []
 
+  - name: "CRG"
+    mode: html
+    # Carolina Recruiting Group — Bullhorn career portal (Angular, server-rendered).
+    # Listing has no location; detail_date enrichment backfills it from the detail page.
+    search_url: "https://jobs.getcrg.com"
+    url: "https://jobs.getcrg.com"
+    url_prefix: "https://jobs.getcrg.com"
+    detail_date: true
+    selectors:
+      card: "div.list-item"
+      title: "a[href*='/jobs/']"
+      link: "a[href*='/jobs/']"
+      require_link: true
+    location_filter: []
+
   - name: "ASK Consulting"
     mode: html
     # Curately/ApostropheCMS — /jobs/list returns HTML cards; data is in
