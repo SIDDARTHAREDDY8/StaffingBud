@@ -339,6 +339,24 @@ firms:
       require_link: true
     location_filter: []
 
+  # KORE1: national IT staffing (software/cloud/DevOps/data/AI). Uses a SmartSearch
+  # (smartsearchonline.com) board that server-renders every job as a list-group-item
+  # with title, location, and a "Posted M/D/YYYY" date — no enrichment needed.
+  - name: "KORE1"
+    mode: html
+    search_url: "https://search10.smartsearchonline.com/koreone/jobs/"
+    url: "https://search10.smartsearchonline.com/koreone/jobs/"
+    url_prefix: "https://search10.smartsearchonline.com/koreone/jobs/"
+    max_age_days: 60
+    selectors:
+      card: "div.list-group-item"
+      title: "a.coloredlink"
+      link: "a.coloredlink"
+      location: "div.thinrow"
+      posted: "div.thinrow:nth-of-type(2)"
+      require_link: true
+    location_filter: []
+
   - name: "ASK Consulting"
     mode: html
     # Curately/ApostropheCMS — /jobs/list returns HTML cards; data is in

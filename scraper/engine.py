@@ -586,6 +586,16 @@ def normalize_posted(s: str) -> str:
         m = _re.search(r"(\d+)\+?\s*" + unit, low)
         if m:
             return (today - timedelta(days=int(m.group(1)) * days)).isoformat()
+    # numeric dates like "Posted 1/7/2026" or "01/07/26" (M/D/Y) -> ISO
+    m = _re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", s)
+    if m:
+        mo, d, y = (int(g) for g in m.groups())
+        if y < 100:
+            y += 2000
+        try:
+            return datetime(y, mo, d).date().isoformat()
+        except ValueError:
+            pass
     return s
 
 

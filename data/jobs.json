@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-21T22:02:19+00:00",
-  "count": 999,
+  "updated": "2026-06-21T22:06:50+00:00",
+  "count": 1010,
   "jobs": [
+    {
+      "firm": "KORE1",
+      "title": "Sr Architect - Front End",
+      "location": "Denver, CO",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23005&apply=yes&",
+      "posted": "2026-06-19",
+      "id": "6b34a8fde5c1",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Data Analyst: SQL, Power BI, Excel, Python, Snowflake",
+      "location": "Chicago, IL",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22979&apply=yes&",
+      "posted": "2026-06-08",
+      "id": "c8583f6c1c5e",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Data Engineer",
+      "location": "Charleston, SC",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22973&apply=yes&",
+      "posted": "2026-06-02",
+      "id": "c59ab4f81e72",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Staff Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23004&apply=yes&",
+      "posted": "2026-06-19",
+      "id": "ac1978f079b5",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "AI Automation Engineer",
+      "location": "Brea, CA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23003&apply=yes&",
+      "posted": "2026-06-19",
+      "id": "64518a13a6a3",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Machine Learning & AI Infrastructure Engineer",
+      "location": "Houston, TX",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22977&apply=yes&",
+      "posted": "2026-06-05",
+      "id": "54a3af83c4ad",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Principal Data Scientist",
+      "location": "Duarte, CA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22951&apply=yes&",
+      "posted": "2026-05-20",
+      "id": "32304784c37b",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "AI Systems Architect \ufffd Azure AI Foundry, Fabric, Copilot & Multi-Agent Systems (Digital Workforce)",
+      "location": "Saint Cloud, MN",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22994&apply=yes&",
+      "posted": "2026-06-16",
+      "id": "6a7796bfef7b",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Network Security Engineer / Architect (Fortinet, FortiGate, Enterprise IT, Segmentation & Zero Trust) \ufffd CUI - US Persons ONLY",
+      "location": "Fountain Valley, CA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22950&apply=yes&",
+      "posted": "2026-05-18",
+      "id": "210577daf210",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Sr. Site Reliability Engineer (SRE): Terraform IAC, Kubernetes, GitLab CI/CD, F5 | Active TS",
+      "location": "Washington, WA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22967&apply=yes&",
+      "posted": "2026-05-27",
+      "id": "05fa7ce71b45",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
+    {
+      "firm": "KORE1",
+      "title": "Data Center Infrastructure Engineer: vBlock + VCP-DCV | Active TS",
+      "location": "Washington, WA",
+      "url": "https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22966&apply=yes&",
+      "posted": "2026-05-27",
+      "id": "52c763f499b2",
+      "first_seen": "2026-06-21T22:06:50+00:00",
+      "last_seen": "2026-06-21T22:06:50+00:00"
+    },
     {
       "firm": "Motion Recruitment",
       "title": "Python Automation Engineer - DevOps",
