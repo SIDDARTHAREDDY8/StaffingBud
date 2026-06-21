@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-21T23:26:06+00:00",
-  "count": 1153,
+  "updated": "2026-06-21T23:39:41+00:00",
+  "count": 1160,
   "jobs": [
+    {
+      "firm": "Stanton House",
+      "title": "Director, Solutions Architect",
+      "location": "USA",
+      "url": "https://www.stantonhouse.com/jobs/31920-Director-Solutions-Architect",
+      "posted": "1779111965",
+      "id": "82bc1e21a549",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Senior AI Engineer",
+      "location": "USA",
+      "url": "https://www.stantonhouse.com/jobs/31612-Senior-AI-Engineer",
+      "posted": "1776109556",
+      "id": "74ee722f65ef",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Client Platform Security Engineer",
+      "location": "US, Remote",
+      "url": "https://www.stantonhouse.com/jobs/32026-Client-Platform-Security-Engineer",
+      "posted": "1779989334",
+      "id": "e1fa05f6d53b",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Security Engineer II",
+      "location": "4 days onsite - Atlanta (GA), La Vista (NE), Oakdale, (CA), Scottsdale (AZ), or St. Petersb",
+      "url": "https://www.stantonhouse.com/jobs/32162-Security-Engineer-II",
+      "posted": "1781629194",
+      "id": "71d49eaeacc2",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Cloud Engineer",
+      "location": "4 days onsite - St. Petersberg (FL), La Vista (NE), Atlanta (GA), Oakdale (CA), or Scottsdale (AZ)",
+      "url": "https://www.stantonhouse.com/jobs/32150-Cloud-Engineer",
+      "posted": "1781552921",
+      "id": "13a7c6463b64",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Platform Security Engineer",
+      "location": "New York City, New York (Onsite)",
+      "url": "https://www.stantonhouse.com/jobs/31969-Platform-Security-Engineer",
+      "posted": "1779399649",
+      "id": "73f5af8fd7db",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
+    {
+      "firm": "Stanton House",
+      "title": "Senior Data Security Engineer",
+      "location": "New York City, New York (Onsite)",
+      "url": "https://www.stantonhouse.com/jobs/31968-Senior-Data-Security-Engineer",
+      "posted": "1779399578",
+      "id": "4cda8a6659c4",
+      "first_seen": "2026-06-21T23:39:41+00:00",
+      "last_seen": "2026-06-21T23:39:41+00:00"
+    },
     {
       "firm": "TRU Staffing Partners",
       "title": "Legal AI Technology Advisor",

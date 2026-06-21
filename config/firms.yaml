@@ -330,6 +330,38 @@ firms:
         location: ["address.city", "address.state"]
     location_filter: []
 
+  # Stanton House: UK-based exec search with a US desk (cyber/IT/finance). Next.js
+  # site backed by Google Cloud Talent Solution (_sf/api/v1/jobs/search.json POST).
+  # address="United States" returns US-only; cursor pagination walks all pages via
+  # the metadata.next_page_token fed back into job_search.page_token.
+  - name: "Stanton House"
+    mode: api
+    search_url: "https://www.stantonhouse.com/jobs"
+    api:
+      url: "https://www.stantonhouse.com/_sf/api/v1/jobs/search.json"
+      method: POST
+      headers:
+        Referer: "https://www.stantonhouse.com/us/jobs"
+      json_body:
+        job_search:
+          query: ""
+          location: {address: "United States", radius: 3000, region: "US", radius_units: "miles"}
+          filters: {}
+      paginate:
+        mode: cursor
+        token_path: "metadata.next_page_token"
+        param: "job_search.page_token"
+        in: "json_body"
+        max_pages: 6
+      list_path: "results"
+      url_prefix: "https://www.stantonhouse.com/jobs"
+      fields:
+        title: "job.title"
+        url: "job.url_slug"
+        location: ["job.original_location"]
+        posted: "job.published_at"
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

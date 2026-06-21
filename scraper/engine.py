@@ -91,13 +91,27 @@ def scrape_api(firm: dict, http) -> list[dict]:
     #   paginate: { in: json_body|params, param: from|skip, size: 100, max_pages: 5 }
     pg = api.get("paginate")
     if not pg:
-        return _fetch_page(firm, http, api)
+        return _fetch_page(firm, http, api)[0]
+
+    # cursor pagination: read an opaque next-page token from the response and feed
+    # it back into the next request (Google Cloud Talent Solution, many job boards).
+    if pg.get("mode") == "cursor":
+        jobs, token = [], None
+        for _ in range(pg.get("max_pages", 10)):
+            ov = ({"where": pg.get("in", "json_body"), "param": pg["param"], "value": token}
+                  if token else None)
+            page_jobs, data = _fetch_page(firm, http, api, ov)
+            jobs.extend(page_jobs)
+            token = _dig(data, pg["token_path"])
+            if not token or not page_jobs:
+                break
+        return jobs
 
     size = pg.get("size", 50)
     jobs: list[dict] = []
     for page in range(pg.get("max_pages", 5)):
         offset = page * size
-        page_jobs = _fetch_page(firm, http, api, _offset(pg, offset))
+        page_jobs, _ = _fetch_page(firm, http, api, _offset(pg, offset))
         jobs.extend(page_jobs)
         if len(page_jobs) < size:
             break  # last page reached
@@ -109,13 +123,23 @@ def _offset(pg: dict, value: int) -> dict:
     return {"where": pg.get("in", "params"), "param": pg["param"], "value": value}
 
 
-def _fetch_page(firm: dict, http, api: dict, override: dict | None = None) -> list[dict]:
+def _set_nested(d: dict, path: str, value) -> None:
+    """Set d[a][b]=value for a dotted path 'a.b' (creating intermediate dicts)."""
+    keys = path.split(".")
+    for k in keys[:-1]:
+        d = d.setdefault(k, {})
+    d[keys[-1]] = value
+
+
+def _fetch_page(firm: dict, http, api: dict, override: dict | None = None):
+    """Returns (jobs, raw_response_json) so callers can read pagination cursors."""
+    import copy
     method = api.get("method", "GET").upper()
-    body = dict(api.get("json_body") or {})
+    body = copy.deepcopy(api.get("json_body") or {})   # deepcopy: nested override safe
     params = dict(api.get("params") or {})
     if override:
         if override["where"] == "json_body":
-            body[override["param"]] = override["value"]
+            _set_nested(body, override["param"], override["value"])
         else:
             params[override["param"]] = override["value"]
 
@@ -149,7 +173,7 @@ def _fetch_page(firm: dict, http, api: dict, override: dict | None = None) -> li
             "url": url,
             "posted": _clean(str(_dig(item, fields.get("posted", "")))),
         })
-    return jobs
+    return jobs, data
 
 
 def scrape_api_html(firm: dict, http) -> list[dict]:
