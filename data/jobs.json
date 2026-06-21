@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-21T23:13:12+00:00",
-  "count": 1139,
+  "updated": "2026-06-21T23:24:16+00:00",
+  "count": 1145,
   "jobs": [
+    {
+      "firm": "Talent Groups",
+      "title": "AI Security Principal",
+      "location": "Greater Dallas/Ft. Worth area, TX",
+      "url": "https://www.talentgroups.com/job-details/ai-security-principal-in-artificial-intelligence-and-machine-learning-jobs-1589300",
+      "posted": "2026-06-08T13:10:08.437",
+      "id": "04d8e6548745",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
+    {
+      "firm": "Talent Groups",
+      "title": "Data Engineer (SQL/Databricks/SSIS/ADF)",
+      "location": "Irving, TX",
+      "url": "https://www.talentgroups.com/job-details/data-engineer-sqldatabricksssisadf-in-quality-assurance-and-testing-jobs-1585865",
+      "posted": "2026-06-04T12:25:04.06",
+      "id": "211ed85362e6",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
+    {
+      "firm": "Talent Groups",
+      "title": "Senior SQL Oracle Developer",
+      "location": "Providence, RI",
+      "url": "https://www.talentgroups.com/job-details/senior-sql-oracle-developer-in-software-development-and-engineering-jobs-1566867",
+      "posted": "2026-05-21T18:00:03.83",
+      "id": "573a678584dd",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
+    {
+      "firm": "Talent Groups",
+      "title": "Senior Analytics Engineer",
+      "location": "Richmond, VA",
+      "url": "https://www.talentgroups.com/job-details/senior-analytics-engineer-in-other-jobs-1564570",
+      "posted": "2026-05-20T15:10:02.46",
+      "id": "7c5d1257cd38",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
+    {
+      "firm": "Talent Groups",
+      "title": "Senior Business Intelligence/MicroStrategy Developer",
+      "location": "Dallas, TX",
+      "url": "https://www.talentgroups.com/job-details/senior-business-intelligencemicrostrategy-developer-in-other-jobs-1549885",
+      "posted": "None",
+      "id": "490edd0d305c",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
+    {
+      "firm": "Talent Groups",
+      "title": "Epic IT Interface Developer/Analyst",
+      "location": "South Weymouth, MA",
+      "url": "https://www.talentgroups.com/job-details/epic-it-interface-developeranalyst-in-front-end-development-jobs-1468938",
+      "posted": "2026-05-11T18:09:11.847",
+      "id": "bf229b418dcd",
+      "first_seen": "2026-06-21T23:24:16+00:00",
+      "last_seen": "2026-06-21T23:24:16+00:00"
+    },
     {
       "firm": "SolTech",
       "title": "Senior Full Stack Software Engineer (Ruby / Svelte / AWS) \u2013 Contract",

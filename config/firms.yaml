@@ -287,6 +287,23 @@ firms:
       require_link: true
     location_filter: []
 
+  # Talent Groups: Healthcare/IT staffing (Bullhorn-backed, Shazamme front-end).
+  # The SPA fetches a public Shazamme JSON feed (list of {data:{...}}) with a
+  # ready-made jobURL and ISO addedOnUTC date — wire it straight as api mode.
+  - name: "Talent Groups"
+    mode: api
+    search_url: "https://www.talentgroups.com/jobs"
+    max_age_days: 60
+    api:
+      url: "https://shazamme.io/job-results/08ee2cd8-7bbf-4fb2-b77a-14b746f4cb57"
+      list_path: ""
+      fields:
+        title: "data.jobName"
+        url: "data.jobURL"
+        location: ["data.city", "data.state"]   # feed is 100% US
+        posted: "data.addedOnUTC"
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by
