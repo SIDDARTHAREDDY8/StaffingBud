@@ -255,6 +255,20 @@ firms:
       max: 4000
     location_filter: []
 
+  # ProFocus Technology: Portland tech staffing (data/BI/AI/cloud/dev). WordPress
+  # + EchoJobs plugin; the echojobs sitemap lists every posting. Detail pages have
+  # no JSON-LD, so no date/location enrichment — title comes from the slug and
+  # freshness from first_seen. Small board (~15) but all IT.
+  - name: "ProFocus"
+    mode: sitemap
+    search_url: "https://www.profocustechnology.com/jobs"
+    sitemap:
+      url: "https://www.profocustechnology.com/echojobs-sitemap.xml"
+      job_match: "/echojobs/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

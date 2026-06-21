@@ -389,8 +389,9 @@ def _title_from_url(url: str) -> str:
     final segment (Apex) or sits before a numeric id segment (Robert Half)."""
     import re as _re
     segs = [s for s in url.rstrip("/").split("/") if s]
-    # drop a leading numeric id token in a slug (e.g. "57698-software-engineer")
-    strip_id = lambda s: _re.sub(r"^\d+[-_]+", "", s)
+    # drop a leading ("57698-software-engineer") or trailing ("data-engineer-3550")
+    # numeric id token. Trailing needs 3+ digits so we don't eat "level-3"/"tier-2".
+    strip_id = lambda s: _re.sub(r"[-_]\d{3,}$", "", _re.sub(r"^\d+[-_]+", "", s))
     for seg in reversed(segs):
         letters = sum(c.isalpha() for c in seg)
         digits = sum(c.isdigit() for c in seg)
