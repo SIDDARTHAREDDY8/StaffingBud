@@ -304,6 +304,32 @@ firms:
         posted: "data.addedOnUTC"
     location_filter: []
 
+  # TRU Staffing Partners: cybersecurity/eDiscovery (Bullhorn career portal). The
+  # SPA hits Bullhorn's PUBLIC REST JobBoardPost query API (no auth) — a reusable
+  # pattern for ANY Bullhorn portal: find the firm's corpToken (72YPD) + swimlane
+  # (rest30) in its network tab. id lives in the #fragment (which identity strips),
+  # so we also stash it as ?jobid= to keep each job unique. Mostly legal roles; the
+  # IT-title filter keeps the few software/AI ones.
+  - name: "TRU Staffing Partners"
+    mode: api
+    search_url: "https://jobs.trustaffingpartners.com/"
+    api:
+      url: "https://public-rest30.bullhornstaffing.com/rest-services/72YPD/query/JobBoardPost"
+      params:
+        fields: "id,title,address(city,state),employmentType,dateLastPublished"
+        where: "(isOpen=true AND isDeleted=false)"
+        orderBy: "-dateLastPublished"
+        count: "200"
+      headers:
+        Referer: "https://jobs.trustaffingpartners.com/"
+      list_path: "data"
+      url_template: "https://jobs.trustaffingpartners.com/?jobid={id}#/jobs/{id}"
+      fields:
+        title: "title"
+        url: "id"
+        location: ["address.city", "address.state"]
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

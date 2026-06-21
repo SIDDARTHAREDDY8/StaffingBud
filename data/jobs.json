@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-21T23:24:16+00:00",
-  "count": 1145,
+  "updated": "2026-06-21T23:26:06+00:00",
+  "count": 1153,
   "jobs": [
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Legal AI Technology Advisor",
+      "location": "New York, New York",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7439#/jobs/7439",
+      "posted": "",
+      "id": "641303b6e693",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "AI Advisor",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7492#/jobs/7492",
+      "posted": "",
+      "id": "6ab90c9d34b6",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Data Scientist (Litigation)",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7494#/jobs/7494",
+      "posted": "",
+      "id": "624d1caabc6e",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Principal of Review & AI Services",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7496#/jobs/7496",
+      "posted": "",
+      "id": "d9de23d7593f",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Senior Application Engineer",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7504#/jobs/7504",
+      "posted": "",
+      "id": "be9d6a8fc7a2",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "Cloud Solutions Architect",
+      "location": "New York, New York",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7514#/jobs/7514",
+      "posted": "",
+      "id": "14e781e54bc4",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "CONTRACT Senior MLOps Solutions Architect",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7538#/jobs/7538",
+      "posted": "",
+      "id": "44371edf6533",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
+    {
+      "firm": "TRU Staffing Partners",
+      "title": "CONTRACT AI Governance Technical Implementation Lead",
+      "location": "Anywhere",
+      "url": "https://jobs.trustaffingpartners.com/?jobid=7539#/jobs/7539",
+      "posted": "",
+      "id": "bfcd39d7aeeb",
+      "first_seen": "2026-06-21T23:26:06+00:00",
+      "last_seen": "2026-06-21T23:26:06+00:00"
+    },
     {
       "firm": "Talent Groups",
       "title": "AI Security Principal",
