@@ -27,16 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 828 tracked total · updated `2026-06-21T05:23:19+00:00`
+### 🟢 No new roles this update · **888** roles open total · updated `2026-06-21T15:49:35+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| CRG | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Full Stack Java Developer](https://jobs.getcrg.com/jobs/16512) | CRG | Charlotte, North Carolina | 2026-06-21 |
-| [AI Solutions Architect](https://jobs.getcrg.com/jobs/16292) | CRG | Knoxville, Tennessee | 2026-06-21 |
+Nothing new since the last run — [browse all 888 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works

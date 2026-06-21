@@ -564,6 +564,32 @@ def extract_posted_date(html: str) -> str:
     return ""
 
 
+def verify_live_jobs(jobs: list[dict], http, cfg: dict) -> list[dict]:
+    """Drop jobs whose detail page is dead. Some firms' sitemaps list expired jobs
+    (e.g. Robert Half) — a dead one redirects away from the live job path. Config:
+      must_contain: substring the LIVE detail URL keeps (dead ones redirect away)
+      dead_markers: phrases present on a dead page
+    On network error we KEEP the job (don't drop on a transient failure).
+    """
+    must = cfg.get("must_contain")
+    markers = [m.lower() for m in cfg.get("dead_markers", [])]
+    out = []
+    for j in jobs:
+        try:
+            r = http.get(j["url"], timeout=15, allow_redirects=True)
+            final = str(getattr(r, "url", "") or j["url"])
+            body = r.text.lower()
+        except Exception:
+            out.append(j)
+            continue
+        if must and must not in final:
+            continue
+        if markers and any(m in body for m in markers):
+            continue
+        out.append(j)
+    return out
+
+
 def extract_location(html: str) -> str:
     """Pull 'City, ST' from a job detail page (schema.org address or microdata)."""
     import re as _re

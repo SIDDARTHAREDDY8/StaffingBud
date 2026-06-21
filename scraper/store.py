@@ -31,8 +31,13 @@ def load() -> dict[str, dict]:
     return {}
 
 
-def merge_and_save(new_jobs: list[dict]) -> dict:
-    """Merge freshly scraped jobs into the store. Returns a small run summary."""
+def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> dict:
+    """Merge freshly scraped jobs into the store. Returns a small run summary.
+
+    refresh_firms: firms that return their COMPLETE current job set each run — any
+    stored job of theirs not seen this run is dropped (so expired/dead jobs leave
+    the board immediately instead of lingering forever).
+    """
     existing = load()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     added = 0
@@ -56,6 +61,14 @@ def merge_and_save(new_jobs: list[dict]) -> dict:
             existing[jid] = job
             added += 1
 
+    # full-refresh firms: drop their stored jobs not seen in this run (expired)
+    removed = 0
+    if refresh_firms:
+        for jid in [k for k, v in existing.items()
+                    if v.get("firm") in refresh_firms and k not in seen_ids]:
+            del existing[jid]
+            removed += 1
+
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated": now,
@@ -63,4 +76,4 @@ def merge_and_save(new_jobs: list[dict]) -> dict:
         "jobs": sorted(existing.values(), key=lambda j: j.get("first_seen", ""), reverse=True),
     }
     DATA_FILE.write_text(json.dumps(payload, indent=2))
-    return {"added": added, "total": len(existing), "scraped": len(new_jobs)}
+    return {"added": added, "removed": removed, "total": len(existing), "scraped": len(new_jobs)}

@@ -47,6 +47,7 @@ def run(only=None, headful=False):
     apify_token = os.environ.get("APIFY_TOKEN")
 
     all_jobs: list[dict] = []
+    refresh_firms: set[str] = set()
     browser = http = pw = None
 
     if needs_http:
@@ -112,6 +113,13 @@ def run(only=None, headful=False):
                     kept = [j for j in kept if engine.within_age(j.get("posted", ""), firm["max_age_days"])]
                 if len(kept) != before:
                     print(f"  dropped {before - len(kept)} non-US/stale after enrichment", flush=True)
+            # verify each job is still live (drop expired sitemap entries e.g. Robert Half)
+            if firm.get("verify_live") and http:
+                before = len(kept)
+                kept = engine.verify_live_jobs(kept, http, firm["verify_live"])
+                refresh_firms.add(firm["name"])     # complete set -> prune dead from store
+                if len(kept) != before:
+                    print(f"  dropped {before - len(kept)} dead/expired jobs", flush=True)
             print(f"  scraped {len(raw)}, kept {len(kept)} after filters")
             all_jobs.extend(kept)
     finally:
@@ -120,8 +128,9 @@ def run(only=None, headful=False):
         if pw:
             pw.stop()
 
-    summary = store.merge_and_save(all_jobs)
-    print(f"\n✅ done — +{summary['added']} new, {summary['total']} total in data/jobs.json")
+    summary = store.merge_and_save(all_jobs, refresh_firms=refresh_firms)
+    print(f"\n✅ done — +{summary['added']} new, -{summary.get('removed', 0)} expired, "
+          f"{summary['total']} total in data/jobs.json")
 
 
 if __name__ == "__main__":

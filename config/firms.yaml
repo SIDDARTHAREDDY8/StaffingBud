@@ -192,7 +192,11 @@ firms:
       url: "https://www.roberthalf.com/content/roberthalf.sitemap.us-external-job-details-sitemap.xml"
       job_match: "/job/"
       max: 4000
-      max_age_days: 30     # drop stale sitemap entries; keep recently-posted jobs
+      max_age_days: 14     # the sitemap lags badly; keep only very recent entries
+    # RH's sitemap lists many EXPIRED jobs (they redirect away from /job/). Verify
+    # each is live and prune dead ones from the board.
+    verify_live:
+      must_contain: "/job/"
     location_filter: []
 
   # Vaco: SPA with a CSRF-protected search API (hard), but exposes a job sitemap.
