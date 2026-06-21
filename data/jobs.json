@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-21T21:56:51+00:00",
-  "count": 993,
+  "updated": "2026-06-21T22:02:19+00:00",
+  "count": 999,
   "jobs": [
+    {
+      "firm": "Motion Recruitment",
+      "title": "Python Automation Engineer - DevOps",
+      "location": "CHANDLER, AZ",
+      "url": "https://motionrecruitment.com/tech-jobs/chandler/contract/python-automation-engineer-devops/880545",
+      "posted": "2026-06-17",
+      "id": "6478991d33d6",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
+    {
+      "firm": "Motion Recruitment",
+      "title": "Technical Curriculum Developer (Semiconductor)",
+      "location": "Bronx, New York",
+      "url": "https://motionrecruitment.com/tech-jobs/bronx/contract/technical-curriculum-developer-semiconductor/880284",
+      "posted": "2026-06-15",
+      "id": "a0332df06663",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
+    {
+      "firm": "Motion Recruitment",
+      "title": "Backend Integration Engineer (AI/Model Services)",
+      "location": "Charlotte, North Carolina",
+      "url": "https://motionrecruitment.com/tech-jobs/charlotte/contract/backend-integration-engineer-ai-model-services/878997",
+      "posted": "2026-06-02",
+      "id": "a3b2012ddd53",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
+    {
+      "firm": "Motion Recruitment",
+      "title": "Senior Full Stack Developer",
+      "location": "Spring, Texas",
+      "url": "https://motionrecruitment.com/tech-jobs/spring/contract/senior-full-stack-developer/877748",
+      "posted": "2026-05-20",
+      "id": "ef6feb4a9279",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
+    {
+      "firm": "Motion Recruitment",
+      "title": "Software Architect",
+      "location": "Framingham, Massachusetts",
+      "url": "https://motionrecruitment.com/tech-jobs/framingham/direct-hire/software-architect/880483",
+      "posted": "2026-06-16",
+      "id": "35868e73277c",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
+    {
+      "firm": "Motion Recruitment",
+      "title": "Cloud Engineer / Remote / PST Only / Short term Contract",
+      "location": "Phoenix, Arizona",
+      "url": "https://motionrecruitment.com/tech-jobs/phoenix/contract/cloud-engineer-remote-pst-only-short-term-contract/880839",
+      "posted": "2026-06-19",
+      "id": "c9f78f292456",
+      "first_seen": "2026-06-21T22:02:19+00:00",
+      "last_seen": "2026-06-21T22:02:19+00:00"
+    },
     {
       "firm": "CornerStone TTS",
       "title": "Senior Microsoft Application Architect",

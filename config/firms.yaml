@@ -321,6 +321,24 @@ firms:
       require_link: true
     location_filter: []
 
+  # Motion Recruitment: national IT/software CONTRACT specialist (Bullhorn-backed).
+  # /tech-jobs server-renders the newest ~20 jobs as <a> cards whose href encodes
+  # city/type/title/id; the list paginates via a hidden JS API, but the newest-20
+  # is exactly what a freshness board wants on a 3h cadence. detail_date backfills
+  # the real datePosted (JSON-LD) from each job page; 60-day default cap prunes old.
+  - name: "Motion Recruitment"
+    mode: html
+    search_url: "https://motionrecruitment.com/tech-jobs"
+    url: "https://motionrecruitment.com/tech-jobs"
+    url_prefix: "https://motionrecruitment.com"
+    detail_date: true
+    selectors:
+      card: "a:has(h2[class*='JobItem_module_title'])"
+      title: "h2[class*='JobItem_module_title']"
+      location: "div[class*='jobDetailsSection'] p"
+      require_link: true
+    location_filter: []
+
   - name: "ASK Consulting"
     mode: html
     # Curately/ApostropheCMS — /jobs/list returns HTML cards; data is in
