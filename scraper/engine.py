@@ -345,12 +345,14 @@ def _title_from_url(url: str) -> str:
     final segment (Apex) or sits before a numeric id segment (Robert Half)."""
     import re as _re
     segs = [s for s in url.rstrip("/").split("/") if s]
+    # drop a leading numeric id token in a slug (e.g. "57698-software-engineer")
+    strip_id = lambda s: _re.sub(r"^\d+[-_]+", "", s)
     for seg in reversed(segs):
         letters = sum(c.isalpha() for c in seg)
         digits = sum(c.isdigit() for c in seg)
         if letters >= 4 and letters > digits:
-            return _clean(_re.sub(r"[-_]+", " ", seg)).title()
-    return _clean(_re.sub(r"[-_]+", " ", segs[-1])).title() if segs else ""
+            return _clean(_re.sub(r"[-_]+", " ", strip_id(seg))).title()
+    return _clean(_re.sub(r"[-_]+", " ", strip_id(segs[-1]))).title() if segs else ""
 
 
 def scrape_jobdiva(firm: dict, http=None) -> list[dict]:

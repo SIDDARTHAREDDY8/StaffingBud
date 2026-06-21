@@ -1,7 +1,217 @@
 {
-  "updated": "2026-06-21T15:49:35+00:00",
-  "count": 961,
+  "updated": "2026-06-21T21:53:11+00:00",
+  "count": 982,
   "jobs": [
+    {
+      "firm": "Alldus",
+      "title": "Ai Researcher California",
+      "location": "California",
+      "url": "https://alldus.com/job/56739-ai-researcher-california/",
+      "posted": "2026-05-20",
+      "id": "a28888b040af",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Senior Software Engineer Data Platform New York",
+      "location": "New York",
+      "url": "https://alldus.com/job/57539-senior-software-engineer-data-platform-new-york/",
+      "posted": "2026-04-22",
+      "id": "0bfd2612c4da",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Senior Forward Deployed Engineer New York City New York",
+      "location": "New York City, New York",
+      "url": "https://alldus.com/job/57540-senior-forward-deployed-engineer-new-york-city-new-york/",
+      "posted": "2026-04-22",
+      "id": "89543857f6d3",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Founding Forward Deployed Engineer San Francisco California",
+      "location": "San Francisco, California",
+      "url": "https://alldus.com/job/57563-founding-forward-deployed-engineer-san-francisco-california/",
+      "posted": "2026-04-24",
+      "id": "473fd0e68226",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Swe Senior Engineer Fullstack New York New York",
+      "location": "New York, New York",
+      "url": "https://alldus.com/job/57595-swe-senior-engineer-fullstack-new-york-new-york/",
+      "posted": "2026-04-29",
+      "id": "f2993c9e8747",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Swe Senior Engineer Backend New York New York",
+      "location": "New York, New York",
+      "url": "https://alldus.com/job/57596-swe-senior-engineer-backend-new-york-new-york/",
+      "posted": "2026-04-29",
+      "id": "0f830ad60eb1",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Founding Applied Ai Engineer Lead Personalization Intelligence New York New York",
+      "location": "New York, New York",
+      "url": "https://alldus.com/job/57599-founding-applied-ai-engineer-lead-personalization-intelligence-new-york-new-york/",
+      "posted": "2026-04-29",
+      "id": "6a82af25e818",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Commissioning Manager Ai Data Center Power Generation San Antonio Texas",
+      "location": "San Antonio, Texas",
+      "url": "https://alldus.com/job/57609-commissioning-manager-ai-data-center-power-generation-san-antonio-texas/",
+      "posted": "2026-05-01",
+      "id": "6e51024dd2aa",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Software Engineer New York City New York",
+      "location": "New York City, New York",
+      "url": "https://alldus.com/job/57612-software-engineer-new-york-city-new-york/",
+      "posted": "2026-04-30",
+      "id": "17f7ffeff9cf",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Forward Deployed Engineer New York City New York",
+      "location": "New York City, New York",
+      "url": "https://alldus.com/job/57613-forward-deployed-engineer-new-york-city-new-york/",
+      "posted": "2026-04-30",
+      "id": "66b183a5a54c",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Head Of Ai Research San Francisco California",
+      "location": "San Francisco, California",
+      "url": "https://alldus.com/job/57664-head-of-ai-research-san-francisco-california/",
+      "posted": "2026-05-05",
+      "id": "d11c911dc921",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Swe Senior Ai Software Engineer New York",
+      "location": "New York",
+      "url": "https://alldus.com/job/57685-swe-senior-ai-software-engineer-new-york/",
+      "posted": "2026-05-07",
+      "id": "b10de764574c",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Software Engineer New York",
+      "location": "New York",
+      "url": "https://alldus.com/job/57698-software-engineer-new-york/",
+      "posted": "2026-06-11",
+      "id": "095016892cfb",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Senior Member Of Technical Staff San Francisco California",
+      "location": "San Francisco, California",
+      "url": "https://alldus.com/job/57699-senior-member-of-technical-staff-san-francisco-california/",
+      "posted": "2026-05-08",
+      "id": "0e2486e6982c",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Forward Deployed Engineer New York",
+      "location": "New York",
+      "url": "https://alldus.com/job/57792-forward-deployed-engineer-new-york/",
+      "posted": "2026-05-18",
+      "id": "18130e2acc02",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Front End Engineer New York New York",
+      "location": "New York, New York",
+      "url": "https://alldus.com/job/57806-front-end-engineer-new-york-new-york/",
+      "posted": "2026-05-20",
+      "id": "8e3da86c2c9a",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Senior Fullstack Software Engineer New York New York",
+      "location": "New York, New York",
+      "url": "https://alldus.com/job/57871-senior-fullstack-software-engineer-new-york-new-york/",
+      "posted": "2026-05-28",
+      "id": "5774b738a5a1",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Back End Engineer New York City New York",
+      "location": "New York City, New York",
+      "url": "https://alldus.com/job/57885-back-end-engineer-new-york-city-new-york/",
+      "posted": "2026-06-02",
+      "id": "38bea035a891",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Full Stack Engineer New York City New York",
+      "location": "New York City, New York",
+      "url": "https://alldus.com/job/57886-full-stack-engineer-new-york-city-new-york/",
+      "posted": "2026-06-02",
+      "id": "7da86b20997d",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Mariadb Sme Technical Architect Virginia",
+      "location": "Virginia",
+      "url": "https://alldus.com/job/57894-mariadb-sme-technical-architect-virginia/",
+      "posted": "2026-06-03",
+      "id": "192a0938ec91",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
+    {
+      "firm": "Alldus",
+      "title": "Director Of Ai San Jose California",
+      "location": "San Jose, California",
+      "url": "https://alldus.com/job/57942-director-of-ai-san-jose-california/",
+      "posted": "2026-06-10",
+      "id": "2aff020ce608",
+      "first_seen": "2026-06-21T21:53:11+00:00",
+      "last_seen": "2026-06-21T21:53:11+00:00"
+    },
     {
       "firm": "Cynet Systems",
       "title": "Azure / Power Platfrom Developer",

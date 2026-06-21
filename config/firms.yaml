@@ -214,6 +214,22 @@ firms:
       max: 4000
     location_filter: []
 
+  # Alldus: AI/ML & Data Engineering specialist (WordPress / Staffing-Future). The
+  # job_listing sitemap enumerates every posting; detail pages carry JSON-LD
+  # JobPosting with addressCountry/Locality + real datePosted. Sitemap lastmods are
+  # all stamped "now", so ignore them and trust datePosted (old internal recruiter
+  # reqs from 2023 get pruned by the 60-day default recency cap).
+  - name: "Alldus"
+    mode: sitemap
+    search_url: "https://www.alldus.com/jobs/"
+    detail_date: true
+    sitemap:
+      url: "https://alldus.com/job_listing-sitemap.xml"
+      job_match: "/job/"
+      ignore_lastmod: true
+      max: 4000
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by
