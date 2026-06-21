@@ -27,111 +27,85 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 91 new roles this update · 1136 tracked total · updated `2026-06-21T22:24:18+00:00`
+### 🆕 65 new roles this update · 1201 tracked total · updated `2026-06-21T23:57:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 34 |
-| Alldus | 21 |
-| CornerStone TTS | 11 |
-| KORE1 | 11 |
-| ProFocus | 7 |
-| Motion Recruitment | 6 |
-| Strategic Staffing Solutions | 1 |
+| TRU Staffing Partners | 8 |
+| Stanton House | 7 |
+| Mondo | 6 |
+| Talent Groups | 6 |
+| SolTech | 3 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Ai Researcher California](https://alldus.com/job/56739-ai-researcher-california/) | Alldus | California | 2026-06-21 |
-| [Senior Software Engineer Data Platform New York](https://alldus.com/job/57539-senior-software-engineer-data-platform-new-york/) | Alldus | New York | 2026-06-21 |
-| [Senior Forward Deployed Engineer New York City New York](https://alldus.com/job/57540-senior-forward-deployed-engineer-new-york-city-new-york/) | Alldus | New York City, New York | 2026-06-21 |
-| [Founding Forward Deployed Engineer San Francisco California](https://alldus.com/job/57563-founding-forward-deployed-engineer-san-francisco-california/) | Alldus | San Francisco, California | 2026-06-21 |
-| [Swe Senior Engineer Fullstack New York New York](https://alldus.com/job/57595-swe-senior-engineer-fullstack-new-york-new-york/) | Alldus | New York, New York | 2026-06-21 |
-| [Swe Senior Engineer Backend New York New York](https://alldus.com/job/57596-swe-senior-engineer-backend-new-york-new-york/) | Alldus | New York, New York | 2026-06-21 |
-| [Founding Applied Ai Engineer Lead Personalization Intelligence New York New York](https://alldus.com/job/57599-founding-applied-ai-engineer-lead-personalization-intelligence-new-york-new-york/) | Alldus | New York, New York | 2026-06-21 |
-| [Commissioning Manager Ai Data Center Power Generation San Antonio Texas](https://alldus.com/job/57609-commissioning-manager-ai-data-center-power-generation-san-antonio-texas/) | Alldus | San Antonio, Texas | 2026-06-21 |
-| [Software Engineer New York City New York](https://alldus.com/job/57612-software-engineer-new-york-city-new-york/) | Alldus | New York City, New York | 2026-06-21 |
-| [Forward Deployed Engineer New York City New York](https://alldus.com/job/57613-forward-deployed-engineer-new-york-city-new-york/) | Alldus | New York City, New York | 2026-06-21 |
-| [Head Of Ai Research San Francisco California](https://alldus.com/job/57664-head-of-ai-research-san-francisco-california/) | Alldus | San Francisco, California | 2026-06-21 |
-| [Swe Senior Ai Software Engineer New York](https://alldus.com/job/57685-swe-senior-ai-software-engineer-new-york/) | Alldus | New York | 2026-06-21 |
-| [Software Engineer New York](https://alldus.com/job/57698-software-engineer-new-york/) | Alldus | New York | 2026-06-21 |
-| [Senior Member Of Technical Staff San Francisco California](https://alldus.com/job/57699-senior-member-of-technical-staff-san-francisco-california/) | Alldus | San Francisco, California | 2026-06-21 |
-| [Forward Deployed Engineer New York](https://alldus.com/job/57792-forward-deployed-engineer-new-york/) | Alldus | New York | 2026-06-21 |
-| [Front End Engineer New York New York](https://alldus.com/job/57806-front-end-engineer-new-york-new-york/) | Alldus | New York, New York | 2026-06-21 |
-| [Senior Fullstack Software Engineer New York New York](https://alldus.com/job/57871-senior-fullstack-software-engineer-new-york-new-york/) | Alldus | New York, New York | 2026-06-21 |
-| [Back End Engineer New York City New York](https://alldus.com/job/57885-back-end-engineer-new-york-city-new-york/) | Alldus | New York City, New York | 2026-06-21 |
-| [Full Stack Engineer New York City New York](https://alldus.com/job/57886-full-stack-engineer-new-york-city-new-york/) | Alldus | New York City, New York | 2026-06-21 |
-| [Mariadb Sme Technical Architect Virginia](https://alldus.com/job/57894-mariadb-sme-technical-architect-virginia/) | Alldus | Virginia | 2026-06-21 |
-| [Director Of Ai San Jose California](https://alldus.com/job/57942-director-of-ai-san-jose-california/) | Alldus | San Jose, California | 2026-06-21 |
-| [Senior Microsoft Application Architect](https://jobs.cornerstonetechtalent.com/jb/Senior-Microsoft-Application-Architect-Jobs-in-Phoenix-Arizona/14019323) | CornerStone TTS | Phoenix Arizona | 2026-06-21 |
-| [Data Engineer](https://jobs.cornerstonetechtalent.com/jb/Data-Engineer-Jobs-in-/14122815) | CornerStone TTS | — | 2026-06-21 |
-| [AWS Senior Data Engineer](https://jobs.cornerstonetechtalent.com/jb/AWS-Senior-Data-Engineer-Jobs-in-Irving-Texas/14054749) | CornerStone TTS | Irving Texas | 2026-06-21 |
-| [Full Stack Engineer (Palantir Foundry & AIP)](https://jobs.cornerstonetechtalent.com/jb/Full-Stack-Engineer-Palantir-Foundry-AIP-Jobs-in-Richardson-Texas/14128170) | CornerStone TTS | Richardson Texas | 2026-06-21 |
-| [Forward Deployed Engineer](https://jobs.cornerstonetechtalent.com/jb/Forward-Deployed-Engineer-Jobs-in-/14126042) | CornerStone TTS | — | 2026-06-21 |
-| [Cloud Solutions Architect 3](https://jobs.cornerstonetechtalent.com/jb/Cloud-Solutions-Architect-3-Jobs-in-Austin-Texas/14113183) | CornerStone TTS | Austin Texas | 2026-06-21 |
-| [Full Stack .NET Developer (Columbia, SC)](https://jobs.cornerstonetechtalent.com/jb/Full-Stack-NET-Developer-Columbia-SC-Jobs-in-Cayce-South-Carolina/14117975) | CornerStone TTS | Cayce South Carolina | 2026-06-21 |
-| [Senior AI Solutions Engineer](https://jobs.cornerstonetechtalent.com/jb/Senior-AI-Solutions-Engineer-Jobs-in-Plano-Texas/14122529) | CornerStone TTS | Plano Texas | 2026-06-21 |
-| [Staff Software Engineer (AI-Native)](https://jobs.cornerstonetechtalent.com/jb/Staff-Software-Engineer-AI-Native-Jobs-in-Tempe-Arizona/14054745) | CornerStone TTS | Tempe Arizona | 2026-06-21 |
-| [Senior AI/ML Software Developer](https://jobs.cornerstonetechtalent.com/jb/Senior-AI-ML-Software-Developer-Jobs-in-Austin-Texas/14105281) | CornerStone TTS | Austin Texas | 2026-06-21 |
-| [Senior Java Developer ( Texas Residents only)](https://jobs.cornerstonetechtalent.com/jb/Senior-Java-Developer-Texas-Residents-only-Jobs-in-Austin-Texas/14105282) | CornerStone TTS | Austin Texas | 2026-06-21 |
-| [Ruby On Rails Developer Gift Cards Vouchers Platform 6 Months](https://jobs.strategicstaff.com/jobs/ruby-on-rails-developer-gift-cards-vouchers-platform-6-months-170352/) | Strategic Staffing Solutions | Remote | 2026-06-21 |
-| [Data Platform Engineer](https://www.profocustechnology.com/echojobs/data-platform-engineer-3550/) | ProFocus | — | 2026-06-21 |
-| [Bi And Ai Solutions Developer Power Bi Sql Ssrs Ssis](https://www.profocustechnology.com/echojobs/bi-and-ai-solutions-developer-power-bi-sql-ssrs-ssis-3547/) | ProFocus | — | 2026-06-21 |
-| [Power Apps Developer](https://www.profocustechnology.com/echojobs/power-apps-developer-3546/) | ProFocus | — | 2026-06-21 |
-| [Data Engineer](https://www.profocustechnology.com/echojobs/data-engineer-3533/) | ProFocus | — | 2026-06-21 |
-| [It Lead Analyst Workday Ai Prism Analytics Reporting](https://www.profocustechnology.com/echojobs/it-lead-analyst-workday-ai-prism-analytics-reporting-3532/) | ProFocus | — | 2026-06-21 |
-| [It Lead Analyst Workday Ai Integrations Extend](https://www.profocustechnology.com/echojobs/it-lead-analyst-workday-ai-integrations-extend-3531/) | ProFocus | — | 2026-06-21 |
-| [Programmer Analyst Net C Sql](https://www.profocustechnology.com/echojobs/programmer-analyst-net-c-sql-3522/) | ProFocus | — | 2026-06-21 |
-| [Python Automation Engineer - DevOps](https://motionrecruitment.com/tech-jobs/chandler/contract/python-automation-engineer-devops/880545) | Motion Recruitment | CHANDLER, AZ | 2026-06-21 |
-| [Technical Curriculum Developer (Semiconductor)](https://motionrecruitment.com/tech-jobs/bronx/contract/technical-curriculum-developer-semiconductor/880284) | Motion Recruitment | Bronx, New York | 2026-06-21 |
-| [Backend Integration Engineer (AI/Model Services)](https://motionrecruitment.com/tech-jobs/charlotte/contract/backend-integration-engineer-ai-model-services/878997) | Motion Recruitment | Charlotte, North Carolina | 2026-06-21 |
-| [Senior Full Stack Developer](https://motionrecruitment.com/tech-jobs/spring/contract/senior-full-stack-developer/877748) | Motion Recruitment | Spring, Texas | 2026-06-21 |
-| [Software Architect](https://motionrecruitment.com/tech-jobs/framingham/direct-hire/software-architect/880483) | Motion Recruitment | Framingham, Massachusetts | 2026-06-21 |
-| [Cloud Engineer / Remote / PST Only / Short term Contract](https://motionrecruitment.com/tech-jobs/phoenix/contract/cloud-engineer-remote-pst-only-short-term-contract/880839) | Motion Recruitment | Phoenix, Arizona | 2026-06-21 |
-| [Sr Architect - Front End](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23005&apply=yes&) | KORE1 | Denver, CO | 2026-06-21 |
-| [Data Analyst: SQL, Power BI, Excel, Python, Snowflake](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22979&apply=yes&) | KORE1 | Chicago, IL | 2026-06-21 |
-| [Data Engineer](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22973&apply=yes&) | KORE1 | Charleston, SC | 2026-06-21 |
-| [Staff Infrastructure Engineer](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23004&apply=yes&) | KORE1 | San Francisco, CA | 2026-06-21 |
-| [AI Automation Engineer](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=23003&apply=yes&) | KORE1 | Brea, CA | 2026-06-21 |
-| [Machine Learning & AI Infrastructure Engineer](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22977&apply=yes&) | KORE1 | Houston, TX | 2026-06-21 |
-| [Principal Data Scientist](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22951&apply=yes&) | KORE1 | Duarte, CA | 2026-06-21 |
-| [AI Systems Architect � Azure AI Foundry, Fabric, Copilot & Multi-Agent Systems (Digital Workforce)](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22994&apply=yes&) | KORE1 | Saint Cloud, MN | 2026-06-21 |
-| [Network Security Engineer / Architect (Fortinet, FortiGate, Enterprise IT, Segmentation & Zero Trust) � CUI - US Persons ONLY](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22950&apply=yes&) | KORE1 | Fountain Valley, CA | 2026-06-21 |
-| [Sr. Site Reliability Engineer (SRE): Terraform IAC, Kubernetes, GitLab CI/CD, F5 \| Active TS](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22967&apply=yes&) | KORE1 | Washington, WA | 2026-06-21 |
-| [Data Center Infrastructure Engineer: vBlock + VCP-DCV \| Active TS](https://search10.smartsearchonline.com/koreone/jobs/jobdetails.asp?jo_num=22966&apply=yes&) | KORE1 | Washington, WA | 2026-06-21 |
-| [Azure / Power Platfrom Developer](https://candidateportal.ceipal.com/job-details/kIP861AvS3GQAWezoF8yhfMuGNup_DkNRBdbCUS-XDE) | Cynet Systems | New Jersey | 2026-06-21 |
-| [Guidewire Integration Developer](https://candidateportal.ceipal.com/job-details/GHv-Zs7CfShLbWy1vvJVj5RQjIQEG_D3iqkt5MU91s0) | Cynet Systems | California | 2026-06-21 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/KHIx8jbbq2CfHBlKZjCIAnndb6le626JEAvE89Jzoe8) | Cynet Systems | New Jersey | 2026-06-21 |
-| [AEM Developer / Architect](https://candidateportal.ceipal.com/job-details/zIwHBzOTCUX8ATRqNTh6GZ-a9o0oW8O8LhSMB9oRYjQ) | Cynet Systems | New York | 2026-06-21 |
-| [Full-stack .NET Developer](https://candidateportal.ceipal.com/job-details/Ji5iPKTIqZ_CLE27ZmEP5WkJnuFJwPwdu4htH5vHXho) | Cynet Systems | Texas | 2026-06-21 |
-| [Python Automation Developer](https://candidateportal.ceipal.com/job-details/TngjN8hGZD9RU2bNchp1o5JydjZpF-FiyCIcVkTk9ws) | Cynet Systems | — | 2026-06-21 |
-| [Senior Java Developer](https://candidateportal.ceipal.com/job-details/kKfB0VbLuspiZoZoIJE9j_z6LjvVgcApqzkgq43c470) | Cynet Systems | Texas | 2026-06-21 |
-| [DotNet Developer](https://candidateportal.ceipal.com/job-details/XWs_RIanAQ3pfPFyJ-pkv6jW-raHhSrop0cF75Fa3wA) | Cynet Systems | North Carolina | 2026-06-21 |
-| [Full Stack Developer (ASP.net + PrimeNG)](https://candidateportal.ceipal.com/job-details/kgOVob5XOkP-RoGAnnMk5p7Jhy5fCoEliTGqlvChW7k) | Cynet Systems | South Carolina | 2026-06-21 |
-| [Python Developer](https://candidateportal.ceipal.com/job-details/Wd8BW4CeTnDaKQpzdMMHFB3DamUdtELk_H8howC1TAY) | Cynet Systems | Georgia | 2026-06-21 |
-| [Markit EDM Developer](https://candidateportal.ceipal.com/job-details/9KHx7DYKf9JMh9CQBZkHJtRb3dj7snOBOyirATPCcho) | Cynet Systems | South Carolina | 2026-06-21 |
-| [Senior Java Backend Developer](https://candidateportal.ceipal.com/job-details/S0jhzCrmYjU5yomwd-7KWPG-PlWO9WGgPhTW25wHGBs) | Cynet Systems | Missouri | 2026-06-21 |
-| [Java Software Engineer](https://candidateportal.ceipal.com/job-details/va6U2FGCK2hrqo6FEjQbVv84hqzisPK41V_w4oW-QR0) | Cynet Systems | Arizona | 2026-06-21 |
-| [OpenShift/Cloud Engineer](https://candidateportal.ceipal.com/job-details/T0mgDtFUhZnlGBxVkGBYuCfRYIZ6lguBslHxg8kntC0) | Cynet Systems | Texas | 2026-06-21 |
-| [AI Scientist / AI Architect](https://candidateportal.ceipal.com/job-details/vf52nJ4UilfoKKNuJx0kzBEMeB5wnBu2PIBKE9QRZmo) | Cynet Systems | California | 2026-06-21 |
-| [Senior AI Engineer](https://candidateportal.ceipal.com/job-details/3FzL0rImwbiwtcNcmWwwvfEMvt8PTRfxLuh3jgDm78Q) | Cynet Systems | California | 2026-06-21 |
-| [Snowflake Solutions Architect](https://candidateportal.ceipal.com/job-details/PZppYi9EAmlZt_NOkS_yUZAjXlxBBCqJt9iHNcIbUHo) | Cynet Systems | New Jersey | 2026-06-21 |
-| [GEN AI Lead](https://candidateportal.ceipal.com/job-details/77B8bvgwWJd2YzKXwUNkpDkhhe4G4m7km5IdakpmCyY) | Cynet Systems | California | 2026-06-21 |
-| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/DymxXZAjdLrx2s4RAUX2aG3_sx06t5Y3XFHF9YUJdVU) | Cynet Systems | New Jersey | 2026-06-21 |
-| [Java with Typescript Developer](https://candidateportal.ceipal.com/job-details/fVGBMDydOsZ6njroSAaHLEkM9XBdptrQMxUqB-ydD8k) | Cynet Systems | New Hampshire | 2026-06-21 |
-| [Angular UI Developer](https://candidateportal.ceipal.com/job-details/-I1dTiyLG2Nx8vskuWoz0QKZ9aiV-0SM7y6XDMPQOes) | Cynet Systems | Pennsylvania | 2026-06-21 |
-| [Senior Frontend Engineer (ReactJS, TypeScript)](https://candidateportal.ceipal.com/job-details/GtUGMVyGlb2-R9qq1gwzfHdQGkVxJXD_unYKI7274rw) | Cynet Systems | Colorado | 2026-06-21 |
-| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/BM6yrHNBlOs12QqVkKMpqxTQ9epknR6ZwU_SHSYQYNU) | Cynet Systems | North Carolina | 2026-06-21 |
-| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/hM2TGpOrRLUkM59OyH9WQx3bwSKtLUY_s9Qwm0CM8zU) | Cynet Systems | North Carolina | 2026-06-21 |
-| [Programmer Analyst 4](https://candidateportal.ceipal.com/job-details/zE2toHYUGWfz8JaKFcKyGx3viuTlqx8DwKMHVvlDroQ) | Cynet Systems | Virginia | 2026-06-21 |
-| [Senior ServiceNow Developer](https://candidateportal.ceipal.com/job-details/QV4CCwr21O0BI3nTdUCaj2FtAXKTViJjq7oCfxYpMNM) | Cynet Systems | Georgia | 2026-06-21 |
-| [Agentic AI Developer](https://candidateportal.ceipal.com/job-details/_nYuhBrVSRmQ21nB-GTvwWn04693hFX3Me4_mNq_QV0) | Cynet Systems | California | 2026-06-21 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/YzidqW8HYw5_q_MbjoGMl8iM_Bf-7ph7f8ztUxwVYzI) | Cynet Systems | Texas | 2026-06-21 |
-| [Senior Data Analyst](https://candidateportal.ceipal.com/job-details/jK3UxHkb2vs-ghX1y0nPe8ZTgyRwCMa3CXApJAjOCBc) | Cynet Systems | Illinois | 2026-06-21 |
-| [Senior Java Full Stack Engineer](https://candidateportal.ceipal.com/job-details/epkSKKAWDuc4AzWph_qL_LaLlc9774F-GOiJTr8NssA) | Cynet Systems | North Carolina | 2026-06-21 |
-| [Senior Azure Devops Engineer](https://candidateportal.ceipal.com/job-details/8ppEZXG25I0K0YiVyKl8tot309pC-W2_KsFmi_sTOPg) | Cynet Systems | Texas | 2026-06-21 |
-| [Java Software Engineer](https://candidateportal.ceipal.com/job-details/2McVmwmSq7X22n7eNHKBT-hHAnKI3Ja459GSMI_cVKs) | Cynet Systems | California | 2026-06-21 |
-| [Python Developer](https://candidateportal.ceipal.com/job-details/gEQ3V9cnPaRL2VkHlNN9PtAyA4uueCYvnpkqelmsqrg) | Cynet Systems | Ohio | 2026-06-21 |
-| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/06FmOrXBhyYfL8ZWI-M9Srl157VL4VkRCnxBajmonwg) | Cynet Systems | Oklahoma | 2026-06-21 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/albuquerque-nm/software-engineer/02800-0013430756-usen) | Robert Half | — | 2026-06-21 |
+| [Azure / Power Platfrom Developer](https://candidateportal.ceipal.com/job-details/jrv90MEsTogHtNP5oiDrZtzEv_RX-r8wBwhcqhfvpNw) | Cynet Systems | New Jersey | 2026-06-21 |
+| [Guidewire Integration Developer](https://candidateportal.ceipal.com/job-details/PTNKh7S8DDqWp-_vlSCoXhSqIREz6QTH5N0wgbt1hMA) | Cynet Systems | California | 2026-06-21 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/DVd6tgKvERDT6WU7PIhdjbsRBdxuAAITr3oP9pkcq3k) | Cynet Systems | New Jersey | 2026-06-21 |
+| [AEM Developer / Architect](https://candidateportal.ceipal.com/job-details/V988e3ruKaOiHbJDcY9qbxcYss6Le2IWFZHDBGSxdVo) | Cynet Systems | New York | 2026-06-21 |
+| [Full-stack .NET Developer](https://candidateportal.ceipal.com/job-details/rGM2I0owD3NVPCZa0NncLj3BHNLhxytpxaqfKeut3BI) | Cynet Systems | Texas | 2026-06-21 |
+| [Python Automation Developer](https://candidateportal.ceipal.com/job-details/YtuegBxn1LX6iucZ2VqfYZR9zn561PglX2KqJgTeIz0) | Cynet Systems | — | 2026-06-21 |
+| [Senior Java Developer](https://candidateportal.ceipal.com/job-details/Ub43msuISsqtZUmua4YcBSTt3BkLG9qOmKxatCzvWH4) | Cynet Systems | Texas | 2026-06-21 |
+| [DotNet Developer](https://candidateportal.ceipal.com/job-details/QQBo25vjLYcBwRzZ9Xja_SGG1wcpyaHIWY8R6-mTe4w) | Cynet Systems | North Carolina | 2026-06-21 |
+| [Full Stack Developer (ASP.net + PrimeNG)](https://candidateportal.ceipal.com/job-details/LJGmCaa0tGS9VE6DpALnPOM8MLLFZ7t9oH9Fo4kHDEg) | Cynet Systems | South Carolina | 2026-06-21 |
+| [Python Developer](https://candidateportal.ceipal.com/job-details/CyO--WaGqgNjxKyh02-_x2y8yDalru2hFteSBwgOaWw) | Cynet Systems | Georgia | 2026-06-21 |
+| [Markit EDM Developer](https://candidateportal.ceipal.com/job-details/KWSu5-pdkw9rqtj1P6jKEsuaUhB8-AQfn2xeQIAnW9k) | Cynet Systems | South Carolina | 2026-06-21 |
+| [Senior Java Backend Developer](https://candidateportal.ceipal.com/job-details/TPFZIjc57pA5kTtLBW3Sl8dwPK58ECDcBoGjQUDpsDY) | Cynet Systems | Missouri | 2026-06-21 |
+| [Java Software Engineer](https://candidateportal.ceipal.com/job-details/KgnFHsrpzNpAJUffbE6yDOT-MnlRH4yM4cI_h4_DiPc) | Cynet Systems | Arizona | 2026-06-21 |
+| [OpenShift/Cloud Engineer](https://candidateportal.ceipal.com/job-details/KXzG0xz-h67veWjb-IBf20giqLTQHRmKKRis2N9zlQw) | Cynet Systems | Texas | 2026-06-21 |
+| [AI Scientist / AI Architect](https://candidateportal.ceipal.com/job-details/e19kwFFPExRsOxHK1LgwZZCzOyNavwb-SUd88Dkm43k) | Cynet Systems | California | 2026-06-21 |
+| [Senior AI Engineer](https://candidateportal.ceipal.com/job-details/tTNXaiX_0-bhL6b-ZvorgfCVYKtCIShFj1jMeCTeweM) | Cynet Systems | California | 2026-06-21 |
+| [Snowflake Solutions Architect](https://candidateportal.ceipal.com/job-details/55g9b0D33w-jowJi60U7lhYN-b_Oyo4TvtS-KtIXqY8) | Cynet Systems | New Jersey | 2026-06-21 |
+| [GEN AI Lead](https://candidateportal.ceipal.com/job-details/qfUlf5EySSYnHVWDwBpToGZvduq8Q4mhcjkCet6mCyI) | Cynet Systems | California | 2026-06-21 |
+| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/Yv14wV4o9Nfajf9gmxZmUPw511rZJ8U_2yn31vuah1I) | Cynet Systems | New Jersey | 2026-06-21 |
+| [Java with Typescript Developer](https://candidateportal.ceipal.com/job-details/HZRzhNkvzt5hQZJZV1URUWCfEye5NjdMpSlnM798jCk) | Cynet Systems | New Hampshire | 2026-06-21 |
+| [Angular UI Developer](https://candidateportal.ceipal.com/job-details/3MkJJwwApNgRFGZ9OJ01-L5ueR6YUEChlSFa2kTYy7M) | Cynet Systems | Pennsylvania | 2026-06-21 |
+| [Senior Frontend Engineer (ReactJS, TypeScript)](https://candidateportal.ceipal.com/job-details/QGb7ZX4kMRwhyExzqWJpYht5QiaKBOnFpT7yOWn0FBg) | Cynet Systems | Colorado | 2026-06-21 |
+| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/XClcUPkiWX5_F0BNbCoVxfjabGW3C9PBkXNNQU_Smg4) | Cynet Systems | North Carolina | 2026-06-21 |
+| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/yTrDyImcHFpaCJ2arWub0aXQ7D33iqC8gk6Vt-LFhUw) | Cynet Systems | North Carolina | 2026-06-21 |
+| [Programmer Analyst 4](https://candidateportal.ceipal.com/job-details/fNQ-1Lu704ixTpAan-fRsUXEmlLCsTkJ5ACg6tTvMjs) | Cynet Systems | Virginia | 2026-06-21 |
+| [Senior ServiceNow Developer](https://candidateportal.ceipal.com/job-details/gegRIQhXE1dDwDDVoyXBDXK3YpE_KaMBzCZm4KVOIP8) | Cynet Systems | Georgia | 2026-06-21 |
+| [Agentic AI Developer](https://candidateportal.ceipal.com/job-details/qLzUMet3TvFUIvI6z9ZQGua42OHBCnbyDjOi3iNOsM4) | Cynet Systems | California | 2026-06-21 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/FBFqfEnM3m96W_I9A33Q8HDKGVmijwsDEqBYwMoA-k0) | Cynet Systems | Texas | 2026-06-21 |
+| [Senior Data Analyst](https://candidateportal.ceipal.com/job-details/euSH97K4ix4boHiSLHCQ80bTXAavvixyEqbdJ0AIkZI) | Cynet Systems | Illinois | 2026-06-21 |
+| [Senior Java Full Stack Engineer](https://candidateportal.ceipal.com/job-details/h23mkxswUIq585oSachy4HW4KYBMDAUsL8gp23NjNAU) | Cynet Systems | North Carolina | 2026-06-21 |
+| [Senior Azure Devops Engineer](https://candidateportal.ceipal.com/job-details/b9C_-RuMRPj3-uYeWv5QU7_JIeVvK4DRF0BR3WT1b8w) | Cynet Systems | Texas | 2026-06-21 |
+| [Java Software Engineer](https://candidateportal.ceipal.com/job-details/RJrlM8Wgm_h11v99eK_hzo7DaR3ao-G30T2lHAPdD1Y) | Cynet Systems | California | 2026-06-21 |
+| [Python Developer](https://candidateportal.ceipal.com/job-details/23U_HK3487siV6-mwNw8-JDtBaIYqMcSwmtEiiQYEFM) | Cynet Systems | Ohio | 2026-06-21 |
+| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/MVLYuP5RUpK6IW32YYd_Rdfh8lkdYCIdZ_b5QFHrc7g) | Cynet Systems | Oklahoma | 2026-06-21 |
+| [Lead Data Engineer](https://mondo.com/jobs/job/lead-data-engineer-los-angeles-ca-91608-32261534/e23237c1-4888-11f1-ada0-024201c20d84) | Mondo | Los Angeles, CA, 91608 | 2026-06-21 |
+| [Staff Software Engineer](https://mondo.com/jobs/job/staff-software-engineer-horsham-pa-19044-32271220/6fa0231a-4990-11f1-ada0-024201c20d84) | Mondo | Horsham, PA, 19044 | 2026-06-21 |
+| [Generative AI Training Automation Specialist](https://mondo.com/jobs/job/generative-ai-training-automation-specialist-new-york-ny-10019-32327484/adf1d58c-538c-11f1-a63d-02420a6c7775) | Mondo | New York, NY, 10019 | 2026-06-21 |
+| [Lead Software Engineer](https://mondo.com/jobs/job/lead-software-engineer-fort-worth-tx-76132-32365283/ba7a0756-59e8-11f1-88e2-02420a6c7775) | Mondo | fort worth, TX, 76132 | 2026-06-21 |
+| [Lead Software Engineer](https://mondo.com/jobs/job/lead-software-engineer-tempe-az-85284-32365290/ba645c0d-59e8-11f1-8757-024201c20d84) | Mondo | tempe, AZ, 85284 | 2026-06-21 |
+| [Lead Software Engineer](https://mondo.com/jobs/job/lead-software-engineer-irving-tx-75062-32365299/ba55407b-59e8-11f1-88e2-02420a6c7775) | Mondo | Irving, TX, 75062 | 2026-06-21 |
+| [Director, Solutions Architect](https://www.stantonhouse.com/jobs/31920-Director-Solutions-Architect) | Stanton House | USA | 2026-06-21 |
+| [Senior AI Engineer](https://www.stantonhouse.com/jobs/31612-Senior-AI-Engineer) | Stanton House | USA | 2026-06-21 |
+| [Client Platform Security Engineer](https://www.stantonhouse.com/jobs/32026-Client-Platform-Security-Engineer) | Stanton House | US, Remote | 2026-06-21 |
+| [Security Engineer II](https://www.stantonhouse.com/jobs/32162-Security-Engineer-II) | Stanton House | 4 days onsite - Atlanta (GA), La Vista (NE), Oakdale, (CA), Scottsdale (AZ), or St. Petersb | 2026-06-21 |
+| [Cloud Engineer](https://www.stantonhouse.com/jobs/32150-Cloud-Engineer) | Stanton House | 4 days onsite - St. Petersberg (FL), La Vista (NE), Atlanta (GA), Oakdale (CA), or Scottsdale (AZ) | 2026-06-21 |
+| [Platform Security Engineer](https://www.stantonhouse.com/jobs/31969-Platform-Security-Engineer) | Stanton House | New York City, New York (Onsite) | 2026-06-21 |
+| [Senior Data Security Engineer](https://www.stantonhouse.com/jobs/31968-Senior-Data-Security-Engineer) | Stanton House | New York City, New York (Onsite) | 2026-06-21 |
+| [Legal AI Technology Advisor](https://jobs.trustaffingpartners.com/?jobid=7439#/jobs/7439) | TRU Staffing Partners | New York, New York | 2026-06-21 |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7492#/jobs/7492) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [Data Scientist (Litigation)](https://jobs.trustaffingpartners.com/?jobid=7494#/jobs/7494) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [Principal of Review & AI Services](https://jobs.trustaffingpartners.com/?jobid=7496#/jobs/7496) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [Senior Application Engineer](https://jobs.trustaffingpartners.com/?jobid=7504#/jobs/7504) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [Cloud Solutions Architect](https://jobs.trustaffingpartners.com/?jobid=7514#/jobs/7514) | TRU Staffing Partners | New York, New York | 2026-06-21 |
+| [CONTRACT Senior MLOps Solutions Architect](https://jobs.trustaffingpartners.com/?jobid=7538#/jobs/7538) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [CONTRACT AI Governance Technical Implementation Lead](https://jobs.trustaffingpartners.com/?jobid=7539#/jobs/7539) | TRU Staffing Partners | Anywhere | 2026-06-21 |
+| [AI Security Principal](https://www.talentgroups.com/job-details/ai-security-principal-in-artificial-intelligence-and-machine-learning-jobs-1589300) | Talent Groups | Greater Dallas/Ft. Worth area, TX | 2026-06-21 |
+| [Data Engineer (SQL/Databricks/SSIS/ADF)](https://www.talentgroups.com/job-details/data-engineer-sqldatabricksssisadf-in-quality-assurance-and-testing-jobs-1585865) | Talent Groups | Irving, TX | 2026-06-21 |
+| [Senior SQL Oracle Developer](https://www.talentgroups.com/job-details/senior-sql-oracle-developer-in-software-development-and-engineering-jobs-1566867) | Talent Groups | Providence, RI | 2026-06-21 |
+| [Senior Analytics Engineer](https://www.talentgroups.com/job-details/senior-analytics-engineer-in-other-jobs-1564570) | Talent Groups | Richmond, VA | 2026-06-21 |
+| [Senior Business Intelligence/MicroStrategy Developer](https://www.talentgroups.com/job-details/senior-business-intelligencemicrostrategy-developer-in-other-jobs-1549885) | Talent Groups | Dallas, TX | 2026-06-21 |
+| [Epic IT Interface Developer/Analyst](https://www.talentgroups.com/job-details/epic-it-interface-developeranalyst-in-front-end-development-jobs-1468938) | Talent Groups | South Weymouth, MA | 2026-06-21 |
+| [Senior Full Stack Software Engineer (Ruby / Svelte / AWS) – Contract](https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4815) | SolTech | Remote/Pacific Time Hours | 2026-06-21 |
+| [Data Scientist](https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4772) | SolTech | Duluth, GA | 2026-06-21 |
+| [Full-Stack React Native/.NET Engineer](https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4807) | SolTech | Atlanta, GA | 2026-06-21 |
 <!-- JOBS:END -->
 
 ## How it works
