@@ -362,6 +362,22 @@ firms:
         posted: "job.published_at"
     location_filter: []
 
+  # Mondo: national digital/tech/data staffing (Addison Group). The /jobs section
+  # is a RecruitingHop widget that 403s plain HTTP and renders only in a browser —
+  # so we use dom mode. /jobs/all-jobs lists every role as li.list-group-item with
+  # an h2 title, a <strong> "City, ST, ZIP", and a /jobs/job/<slug>/<hash> link.
+  - name: "Mondo"
+    mode: dom
+    search_url: "https://mondo.com/jobs/all-jobs"
+    wait_until: domcontentloaded
+    scroll_passes: 14
+    selectors:
+      card: "li.list-group-item"
+      title: "h2"
+      location: "strong"
+      link: "a"
+    location_filter: []
+
   # ============================================================ SMARTRECRUITERS ==
   # Generic adapter: SmartRecruiters public API. To add any SR firm, copy a block
   # and change the company id in BOTH the api.url and api.url_prefix. Find the id by

@@ -23,7 +23,9 @@ def scrape_dom(firm: dict, page) -> list[dict]:
     url = firm["search_url"]
     jobs: list[dict] = []
 
-    page.goto(url, wait_until="networkidle", timeout=45_000)
+    # networkidle is ideal, but widget-heavy sites (RecruitingHop) never go idle —
+    # those set wait_until: domcontentloaded and rely on wait_for_selector below.
+    page.goto(url, wait_until=firm.get("wait_until", "networkidle"), timeout=45_000)
 
     # Give lazy/JS lists a beat, then try to surface every card.
     try:

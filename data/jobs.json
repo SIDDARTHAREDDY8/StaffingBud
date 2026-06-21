@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-21T23:39:41+00:00",
-  "count": 1160,
+  "updated": "2026-06-21T23:46:01+00:00",
+  "count": 1166,
   "jobs": [
+    {
+      "firm": "Mondo",
+      "title": "Lead Data Engineer",
+      "location": "Los Angeles, CA, 91608",
+      "url": "https://mondo.com/jobs/job/lead-data-engineer-los-angeles-ca-91608-32261534/e23237c1-4888-11f1-ada0-024201c20d84",
+      "posted": "",
+      "id": "fe80b378698d",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
+    {
+      "firm": "Mondo",
+      "title": "Staff Software Engineer",
+      "location": "Horsham, PA, 19044",
+      "url": "https://mondo.com/jobs/job/staff-software-engineer-horsham-pa-19044-32271220/6fa0231a-4990-11f1-ada0-024201c20d84",
+      "posted": "",
+      "id": "aaf82b6431ec",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
+    {
+      "firm": "Mondo",
+      "title": "Generative AI Training Automation Specialist",
+      "location": "New York, NY, 10019",
+      "url": "https://mondo.com/jobs/job/generative-ai-training-automation-specialist-new-york-ny-10019-32327484/adf1d58c-538c-11f1-a63d-02420a6c7775",
+      "posted": "",
+      "id": "ddf1c6480b74",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
+    {
+      "firm": "Mondo",
+      "title": "Lead Software Engineer",
+      "location": "fort worth, TX, 76132",
+      "url": "https://mondo.com/jobs/job/lead-software-engineer-fort-worth-tx-76132-32365283/ba7a0756-59e8-11f1-88e2-02420a6c7775",
+      "posted": "",
+      "id": "1512737732c6",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
+    {
+      "firm": "Mondo",
+      "title": "Lead Software Engineer",
+      "location": "tempe, AZ, 85284",
+      "url": "https://mondo.com/jobs/job/lead-software-engineer-tempe-az-85284-32365290/ba645c0d-59e8-11f1-8757-024201c20d84",
+      "posted": "",
+      "id": "5d6720d60fe4",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
+    {
+      "firm": "Mondo",
+      "title": "Lead Software Engineer",
+      "location": "Irving, TX, 75062",
+      "url": "https://mondo.com/jobs/job/lead-software-engineer-irving-tx-75062-32365299/ba55407b-59e8-11f1-88e2-02420a6c7775",
+      "posted": "",
+      "id": "385a2d131479",
+      "first_seen": "2026-06-21T23:46:01+00:00",
+      "last_seen": "2026-06-21T23:46:01+00:00"
+    },
     {
       "firm": "Stanton House",
       "title": "Director, Solutions Architect",
