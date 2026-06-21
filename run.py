@@ -106,11 +106,13 @@ def run(only=None, headful=False):
                 got = engine.enrich_posted_dates(kept, http, known, store._job_id)
                 if got:
                     print(f"  enriched {got} posted-dates from detail pages", flush=True)
-                # locations/dates are now populated — re-apply US + recency filters
+                # locations/dates are now populated — re-apply US + recency filters.
+                # date-enriched firms have RELIABLE post dates, so drop genuinely-old
+                # jobs (default 60d) — firms keep stale listings up for months/years.
                 before = len(kept)
                 kept = [j for j in kept if not filters.is_non_us(j.get("location", ""))]
-                if firm.get("max_age_days"):
-                    kept = [j for j in kept if engine.within_age(j.get("posted", ""), firm["max_age_days"])]
+                max_age = firm.get("max_age_days", 60)
+                kept = [j for j in kept if engine.within_age(j.get("posted", ""), max_age)]
                 if len(kept) != before:
                     print(f"  dropped {before - len(kept)} non-US/stale after enrichment", flush=True)
             # verify each job is still live (drop expired sitemap entries e.g. Robert Half)
