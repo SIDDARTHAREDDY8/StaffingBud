@@ -354,7 +354,7 @@ firms:
         in: "json_body"
         max_pages: 6
       list_path: "results"
-      url_prefix: "https://www.stantonhouse.com/jobs"
+      url_prefix: "https://www.stantonhouse.com/us/jobs"   # bare /jobs/ lands on the UK site
       fields:
         title: "job.title"
         url: "job.url_slug"
