@@ -38,5 +38,10 @@ jobs:
           git config user.name "staffing-buddy-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/jobs.json docs/ README.md
-          git commit -m "update jobs $(date -u +%FT%TZ)" || echo "no changes"
-          git push
+          git commit -m "update jobs $(date -u +%FT%TZ)" || { echo "no changes"; exit 0; }
+          # the branch may have moved (manual pushes / overlapping run) — rebase then
+          # push with retries so a transient non-fast-forward doesn't drop the update
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && break
+            echo "push attempt $i failed; retrying"; sleep 5
+          done
