@@ -112,6 +112,10 @@ def run(only=None, headful=False):
                 got = engine.enrich_posted_dates(kept, http, known, store._job_id)
                 if got:
                     print(f"  enriched {got} posted-dates from detail pages", flush=True)
+                # enrichment writes the raw detail-page date (e.g. "May 29, 2026") —
+                # normalize to ISO so the recency filter + board freshness work
+                for j in kept:
+                    j["posted"] = engine.normalize_posted(j.get("posted", ""))
                 # locations/dates are now populated — re-apply US + recency filters.
                 # date-enriched firms have RELIABLE post dates, so drop genuinely-old
                 # jobs (default 60d) — firms keep stale listings up for months/years.

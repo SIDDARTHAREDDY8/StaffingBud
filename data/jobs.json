@@ -1,7 +1,1307 @@
 {
-  "updated": "2026-06-22T00:09:29+00:00",
-  "count": 1201,
+  "updated": "2026-06-23T15:04:39+00:00",
+  "count": 1157,
   "jobs": [
+    {
+      "firm": "Insight Global",
+      "title": "SR. Data Engineer",
+      "location": "Clearwater, FL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/florida/clearwater/sr-data-engineer/job-544398/",
+      "posted": "2026-06-23",
+      "id": "4525f5824d42",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Software Engineer III, Robotics - Autonomy",
+      "location": "Lynchburg, VA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/virginia/lynchburg/software-engineer-iii-robotics-autonomy/job-544166/",
+      "posted": "2026-06-22",
+      "id": "7ca10c8590cd",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Software Engineer II, Machine Learning Systems",
+      "location": "Lynchburg, VA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/virginia/lynchburg/software-engineer-ii-machine-learning-systems/job-544154/",
+      "posted": "2026-06-22",
+      "id": "8c8d56004b99",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Staff Software Engineer ? Rust (Cloud & Vehicle Platform)",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/palo-alto/staff-software-engineer-rust-cloud-vehicle-platform-/job-544013/",
+      "posted": "2026-06-22",
+      "id": "4778a0907dfa",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "AI Engineer (chicago)",
+      "location": "Lincolnshire, IL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/lincolnshire/ai-engineer-chicago-/job-544000/",
+      "posted": "2026-06-22",
+      "id": "c91210c61524",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Senior Software Engineer, AI Systems (Sunnyvale, CA)",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/sunnyvale/senior-software-engineer-ai-systems-sunnyvale-ca-/job-543915/",
+      "posted": "2026-06-22",
+      "id": "762a921b53dc",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Embedded Software Technical Lead",
+      "location": "Saint-Paul, MN",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/minnesota/saint-paul/embedded-software-technical-lead/job-544296/",
+      "posted": "2026-06-23",
+      "id": "3226bccb4185",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Software Engineer",
+      "location": "Merrimack, NH",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-hampshire/merrimack/software-engineer/job-544200/",
+      "posted": "2026-06-22",
+      "id": "36d62d6df1ab",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Principal Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/oakland/principal-data-scientist/job-542133/",
+      "posted": "2026-06-16",
+      "id": "acdd4f3a089d",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Data Scientist",
+      "location": "Newark, NJ",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/data-scientist/job-541778/",
+      "posted": "2026-06-15",
+      "id": "fbe04cc31899",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Remote Sr. Data Scientist",
+      "location": "Chicago, IL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/chicago/remote-sr-data-scientist/job-539798/",
+      "posted": "2026-06-10",
+      "id": "8174d0f5c480",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Junior Data Scientist",
+      "location": "Warrenville, IL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/warrenville/junior-data-scientist/job-539053/",
+      "posted": "2026-06-08",
+      "id": "75b12775771e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Lead Senior Software Engineer",
+      "location": "Cumru, PA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/pennsylvania/cumru/lead-senior-software-engineer/job-543552/",
+      "posted": "2026-06-19",
+      "id": "11cdf3ec9038",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Full Stack Developer",
+      "location": "Newark, NJ",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/full-stack-developer/job-543268/",
+      "posted": "2026-06-18",
+      "id": "235df8991269",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Sr. Full Stack Developer",
+      "location": "Newark, NJ",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/sr-full-stack-developer/job-542651/",
+      "posted": "2026-06-17",
+      "id": "9283c973b5f7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Software Engineer L4",
+      "location": "Greenwood Village, CO",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/colorado/greenwood-village/software-engineer-l4/job-542622/",
+      "posted": "2026-06-17",
+      "id": "b7a5fee100b3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Fullstack Software Developer",
+      "location": "Fort Worth, TX",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/texas/fort-worth/fullstack-software-developer/job-542474/",
+      "posted": "2026-06-17",
+      "id": "f9285677df41",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Python Developer/Full-Stack Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/jersey-city/python-developer-full-stack-engineer/job-542466/",
+      "posted": "2026-06-17",
+      "id": "9bde3cdb51d1",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Python Developer",
+      "location": "Middletown, NJ",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/middletown/python-developer/job-541721/",
+      "posted": "2026-06-15",
+      "id": "381adb0c70f8",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Senior Backend Java Developer",
+      "location": "Bentonville, AR",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arkansas/bentonville/senior-backend-java-developer/job-541607/",
+      "posted": "2026-06-15",
+      "id": "cdb3cb54eaf3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "GIS Developer",
+      "location": "Stockton, CA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/stockton/gis-developer/job-543956/",
+      "posted": "2026-06-22",
+      "id": "63ae8cb22ef1",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Data Engineer / Data Analyst",
+      "location": "Bellevue, WA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/washington/bellevue/data-engineer-data-analyst/job-543211/",
+      "posted": "2026-06-18",
+      "id": "0a45c3ebc521",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Data Analyst",
+      "location": "Brentwood, TN",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/tennessee/brentwood/data-analyst/job-544203/",
+      "posted": "2026-06-22",
+      "id": "62125569f662",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Fullstack Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/santa-clara/fullstack-engineer/job-543417/",
+      "posted": "2026-06-19",
+      "id": "ff35a13d365f",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "DevOps and Tools Engineer",
+      "location": "Plano, TX",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/texas/plano/devops-and-tools-engineer/job-543336/",
+      "posted": "2026-06-18",
+      "id": "4ba26902426a",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Forward Deployed AI Engineer",
+      "location": "New York, NY",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-york/new-york/forward-deployed-ai-engineer/job-542749/",
+      "posted": "2026-06-17",
+      "id": "23e9c1490d8e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "TS AWS Cloud Engineer",
+      "location": "Patrick Air Force Base, FL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/florida/patrick-air-force-base/ts-aws-cloud-engineer/job-544357/",
+      "posted": "2026-06-23",
+      "id": "17f1255691e7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "AI/ML Software Engineer",
+      "location": "Warren, MI",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/michigan/warren/ai-ml-software-engineer/job-543617/",
+      "posted": "2026-06-18",
+      "id": "45e0bb21b819",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Data Engineer - INTL Brazil",
+      "location": "Northbrook, IL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/northbrook/data-engineer-intl-brazil/job-542554/",
+      "posted": "2026-06-17",
+      "id": "215470afddf8",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Insight Global",
+      "title": "Senior AI / ML Engineer",
+      "location": "Chicago, IL",
+      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/chicago/senior-ai-ml-engineer/job-541082/",
+      "posted": "2026-06-12",
+      "id": "4e38d48f64f7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Software Engineer",
+      "location": "New York, 04836",
+      "url": "https://www.roberthalf.com/us/en/job/manhattan-ny/senior-software-engineer/04836-9504344621-usen",
+      "posted": "2026-06-04",
+      "id": "efaa4f51d166",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Programmeranalyst Ii Intermediate",
+      "location": "Columbus, 04837",
+      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst-ii-intermediate/04837-0013441135-usen",
+      "posted": "2026-06-18",
+      "id": "d083156fa3c7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "San Francisco, 00410",
+      "url": "https://www.roberthalf.com/us/en/job/san-francisco-ca/data-engineer/00410-0013442059-usen",
+      "posted": "2026-06-23",
+      "id": "5e89a6c92ca4",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Fort Lauderdale, 01000",
+      "url": "https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/data-engineer/01000-9504345902-usen",
+      "posted": "2026-06-08",
+      "id": "d193081f663e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst 1 02 Years",
+      "location": "Chicago, 01300",
+      "url": "https://www.roberthalf.com/us/en/job/chicago-il/data-analyst-1-02-years/01300-0013442505-usen",
+      "posted": "2026-06-09",
+      "id": "9d9e084817f5",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Cloud Engineer",
+      "location": "Delray Beach, 01000",
+      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/cloud-engineer/01000-9504346187-usen",
+      "posted": "2026-06-09",
+      "id": "20a60a032d40",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Greer, 03230",
+      "url": "https://www.roberthalf.com/us/en/job/greer-sc/data-engineer/03230-0013441767-usen",
+      "posted": "2026-06-04",
+      "id": "216d954857c3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Greer, 03230",
+      "url": "https://www.roberthalf.com/us/en/job/greer-sc/data-engineer/03230-0013441764-usen",
+      "posted": "2026-06-19",
+      "id": "f4de95253f1e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developer",
+      "location": "Carrollton, 04010",
+      "url": "https://www.roberthalf.com/us/en/job/carrollton-tx/software-developer/04010-0013439514-usen",
+      "posted": "2026-06-15",
+      "id": "2bac1681141c",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Mainframe Systems Programmer",
+      "location": "Bellevue, 04410",
+      "url": "https://www.roberthalf.com/us/en/job/bellevue-wa/mainframe-systems-programmer/04410-0013442317-usen",
+      "posted": "2026-06-17",
+      "id": "c3d52d61d6fa",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Full Stack Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/full-stack-engineer/01120-9504344722-usen",
+      "posted": "2026-06-05",
+      "id": "7e50ac4d9d9b",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Programmeranalyst",
+      "location": "Columbus, 04837",
+      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst/04837-0013443438-usen",
+      "posted": "2026-06-22",
+      "id": "2c776a350357",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst Iv Contractor",
+      "location": "Philadelphia, 04838",
+      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst-iv-contractor/04838-0013440206-usen",
+      "posted": "2026-06-16",
+      "id": "2b3ffe4f6f29",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Azure Developer",
+      "location": "Delray Beach, 01000",
+      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/azure-developer/01000-9504346191-usen",
+      "posted": "2026-06-09",
+      "id": "dff47568094b",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Devops Engineer",
+      "location": "Delray Beach, 01000",
+      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/devops-engineer/01000-9504346189-usen",
+      "posted": "2026-06-09",
+      "id": "8d2e84ffc128",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Ai Architect Consultant Remote 6Month Engagement",
+      "location": "Hartford, 00700",
+      "url": "https://www.roberthalf.com/us/en/job/hartford-ct/senior-ai-architect-consultant-remote-6month-engagement/00700-0013442441-usen",
+      "posted": "2026-06-15",
+      "id": "c94e40da82e0",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Data Engineer Consultant Remote 612 Month Engagement",
+      "location": "Hartford, 00700",
+      "url": "https://www.roberthalf.com/us/en/job/hartford-ct/sr-data-engineer-consultant-remote-612-month-engagement/00700-0013444542-usen",
+      "posted": "2026-06-22",
+      "id": "1b151ef238a5",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Oklahoma City, 03500",
+      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/data-engineer/03500-0013380490-usen",
+      "posted": "2026-06-17",
+      "id": "7b8c4429a784",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Ai Platform Engineer",
+      "location": "Marysville, 04837",
+      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/ai-platform-engineer/04837-0013444635-usen",
+      "posted": "2026-06-08",
+      "id": "a7c6b1e8f6f6",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Infrastructure Devops Engineers",
+      "location": "Memphis, 03900",
+      "url": "https://www.roberthalf.com/us/en/job/memphis-tn/infrastructure-devops-engineers/03900-9504350392-usen",
+      "posted": "2026-06-17",
+      "id": "ed91d308a0a3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Python Developer",
+      "location": "Santa Ana, 00350",
+      "url": "https://www.roberthalf.com/us/en/job/santa-ana-ca/python-developer/00350-0013444788-usen",
+      "posted": "2026-06-17",
+      "id": "b51bf679a490",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Android Developer",
+      "location": "Salt Lake City, 04820",
+      "url": "https://www.roberthalf.com/us/en/job/salt-lake-city-ut/android-developer/04820-0013447785-usen",
+      "posted": "2026-06-17",
+      "id": "3c93139f58c2",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Hanover, 02600",
+      "url": "https://www.roberthalf.com/us/en/job/hanover-nh/software-engineer/02600-0013370566-usen",
+      "posted": "2026-06-02",
+      "id": "27a5a2da1cc7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Programmeranalyst Iii Senior",
+      "location": "Columbus, 04837",
+      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst-iii-senior/04837-0013446132-usen",
+      "posted": "2026-06-10",
+      "id": "96f95be4d805",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Erpcrm Developer",
+      "location": "Zeeland, 02220",
+      "url": "https://www.roberthalf.com/us/en/job/zeeland-mi/erpcrm-developer/02220-0013448154-usen",
+      "posted": "2026-06-02",
+      "id": "2e06c1c2c126",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Fullstack Ai Engineer",
+      "location": "Miami, 01020",
+      "url": "https://www.roberthalf.com/us/en/job/miami-fl/fullstack-ai-engineer/01020-9504350486-usen",
+      "posted": "2026-06-17",
+      "id": "9044527f0ab6",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Ai Automation Engineer",
+      "location": "Charlotte, 03200",
+      "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/ai-automation-engineer/03200-9504349159-usen",
+      "posted": "2026-06-15",
+      "id": "cec6ab067105",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst",
+      "location": "Philadelphia, 03720",
+      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst/03720-0013433005-usen",
+      "posted": "2026-06-11",
+      "id": "155bd4d22806",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developer",
+      "location": "Hampden, 03710",
+      "url": "https://www.roberthalf.com/us/en/job/mechanicsburg-pa/software-developer/03710-0013388887-usen",
+      "posted": "2026-06-11",
+      "id": "ae7314dc559e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Atlanta, 00900",
+      "url": "https://www.roberthalf.com/us/en/job/atlanta-ga/data-engineer/00900-9504349336-usen",
+      "posted": "2026-06-15",
+      "id": "9b18fe41c1a2",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Oracle Technical Architect Mgr",
+      "location": "Hammonton, 03720",
+      "url": "https://www.roberthalf.com/us/en/job/hammonton-nj/oracle-technical-architect-mgr/03720-0013295008-usen",
+      "posted": "2026-06-22",
+      "id": "c7eb58f72b3f",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Beverly Hills, 00320",
+      "url": "https://www.roberthalf.com/us/en/job/beverly-hills-ca/data-engineer/00320-0013447173-usen",
+      "posted": "2026-06-22",
+      "id": "7b623bfee2f5",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Python Developer",
+      "location": "Greer, 03230",
+      "url": "https://www.roberthalf.com/us/en/job/greer-sc/python-developer/03230-0013447291-usen",
+      "posted": "2026-06-17",
+      "id": "9e972c5fa518",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Data Analytics Engineer",
+      "location": "Herndon, 04510",
+      "url": "https://www.roberthalf.com/us/en/job/reston-va/senior-data-analytics-engineer/04510-0013437283-usen",
+      "posted": "2026-06-02",
+      "id": "42aa34c29edd",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Business Analyticsdata Analyst",
+      "location": "Trafford, 03730",
+      "url": "https://www.roberthalf.com/us/en/job/trafford-pa/business-analyticsdata-analyst/03730-0013437043-usen",
+      "posted": "2026-06-22",
+      "id": "dd554f9ffd11",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developer Shopify",
+      "location": "Salt Lake City, 04820",
+      "url": "https://www.roberthalf.com/us/en/job/salt-lake-city-ut/software-developer-shopify/04820-0013447799-usen",
+      "posted": "2026-06-17",
+      "id": "69f26b384729",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developer",
+      "location": "Hampden, 03710",
+      "url": "https://www.roberthalf.com/us/en/job/mechanicsburg-pa/software-developer/03710-0013382883-usen",
+      "posted": "2026-06-11",
+      "id": "2f21b2809277",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Erpcrm Developer",
+      "location": "Salem, 02600",
+      "url": "https://www.roberthalf.com/us/en/job/salem-nh/erpcrm-developer/02600-0013426119-usen",
+      "posted": "2026-06-02",
+      "id": "4a7e3c507d9f",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Security Engineer",
+      "location": "Charlotte, 03200",
+      "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/security-engineer/03200-9504350489-usen",
+      "posted": "2026-06-17",
+      "id": "c2b5c06fd3e7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Report Developer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/report-developer/01120-0013448117-usen",
+      "posted": "2026-06-12",
+      "id": "e159c6ee207d",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Power Bi Developer",
+      "location": "Bethesda, 04510",
+      "url": "https://www.roberthalf.com/us/en/job/bethesda-md/power-bi-developer/04510-0013405687-usen",
+      "posted": "2026-06-02",
+      "id": "9c045698ac03",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Director Devops Security",
+      "location": "American Fork, 04820",
+      "url": "https://www.roberthalf.com/us/en/job/american-fork-ut/director-devops-security/04820-0013426815-usen",
+      "posted": "2026-06-17",
+      "id": "daf06573a07d",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Miami, 01020",
+      "url": "https://www.roberthalf.com/us/en/job/miami-fl/software-engineer/01020-9504350480-usen",
+      "posted": "2026-06-17",
+      "id": "37942cdc997c",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Columbus, 03410",
+      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/software-engineer/03410-0013446172-usen",
+      "posted": "2026-06-03",
+      "id": "74a6ac914b3a",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Washington, 04837",
+      "url": "https://www.roberthalf.com/us/en/job/washington-dc/data-engineer/04837-0013447801-usen",
+      "posted": "2026-06-02",
+      "id": "67ecf68ba113",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Ai Consultant",
+      "location": "Atlanta, 00900",
+      "url": "https://www.roberthalf.com/us/en/job/atlanta-ga/ai-consultant/00900-9504349322-usen",
+      "posted": "2026-06-15",
+      "id": "073d0efb9905",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Software Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/sr-software-engineer/01120-0013448099-usen",
+      "posted": "2026-06-12",
+      "id": "3f68122509fb",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Software Engineer",
+      "location": "Irmo, 03230",
+      "url": "https://www.roberthalf.com/us/en/job/irmo-sc/senior-software-engineer/03230-0013448209-usen",
+      "posted": "2026-06-02",
+      "id": "274f81d08f35",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Cyber Security Engineer",
+      "location": "Salt Lake City, 04820",
+      "url": "https://www.roberthalf.com/us/en/job/draper-ut/cyber-security-engineer/04820-0013405237-usen",
+      "posted": "2026-06-22",
+      "id": "f74266d2bebf",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Power Bi Developer",
+      "location": "Dania, 01000",
+      "url": "https://www.roberthalf.com/us/en/job/dania-beach-fl/power-bi-developer/01000-9504350278-usen",
+      "posted": "2026-06-16",
+      "id": "500cca98b6f2",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Platform Engineer",
+      "location": "Lehi, 04820",
+      "url": "https://www.roberthalf.com/us/en/job/lehi-ut/platform-engineer/04820-0013426401-usen",
+      "posted": "2026-06-17",
+      "id": "5871ccfc77f5",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Mobile Developer Iii",
+      "location": "Providence, 02130",
+      "url": "https://www.roberthalf.com/us/en/job/providence-ri/mobile-developer-iii/02130-0013445252-usen",
+      "posted": "2026-06-09",
+      "id": "7ad0c513061c",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Software Engineer",
+      "location": "Oklahoma City, 03500",
+      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013448530-usen",
+      "posted": "2026-06-17",
+      "id": "a1525350f0e3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Cloud Engineer",
+      "location": "Louisville, 03930",
+      "url": "https://www.roberthalf.com/us/en/job/louisville-ky/cloud-engineer/03930-0013448959-usen",
+      "posted": "2026-06-03",
+      "id": "44eb97c118f9",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Data Engineer",
+      "location": "Boston, 02100",
+      "url": "https://www.roberthalf.com/us/en/job/boston-ma/senior-data-engineer/02100-0013442400-usen",
+      "posted": "2026-06-03",
+      "id": "ef20cbf79977",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Architect",
+      "location": "Needham, 02100",
+      "url": "https://www.roberthalf.com/us/en/job/needham-ma/data-architect/02100-0013447256-usen",
+      "posted": "2026-06-03",
+      "id": "46c3c869a757",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Miami, 01020",
+      "url": "https://www.roberthalf.com/us/en/job/miami-fl/software-engineer/01020-9504351115-usen",
+      "posted": "2026-06-18",
+      "id": "c2742cdc1ac8",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Artificial Intelligence Ai Engineer",
+      "location": "Bell Gardens, 00320",
+      "url": "https://www.roberthalf.com/us/en/job/bell-ca/artificial-intelligence-ai-engineer/00320-0013449050-usen",
+      "posted": "2026-06-03",
+      "id": "df1c6e355bf4",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Business Intelligence And Data Analyst",
+      "location": "Boston, 02100",
+      "url": "https://www.roberthalf.com/us/en/job/boston-ma/business-intelligence-and-data-analyst/02100-0013444009-usen",
+      "posted": "2026-06-03",
+      "id": "cfde7caae969",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst",
+      "location": "Miami, 01020",
+      "url": "https://www.roberthalf.com/us/en/job/miami-fl/data-analyst/01020-9504351119-usen",
+      "posted": "2026-06-18",
+      "id": "a4e3da08b052",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Austin, 04160",
+      "url": "https://www.roberthalf.com/us/en/job/austin-tx/data-engineer/04160-9504351325-usen",
+      "posted": "2026-06-18",
+      "id": "53c47c5d753b",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Cyber Security Engineer",
+      "location": "Maryknoll, 00700",
+      "url": "https://www.roberthalf.com/us/en/job/maryknoll-ny/cyber-security-engineer/00700-0013447979-usen",
+      "posted": "2026-06-03",
+      "id": "544992f1c9ae",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Ai Devops Engineer",
+      "location": "Bell Gardens, 00320",
+      "url": "https://www.roberthalf.com/us/en/job/bell-ca/ai-devops-engineer/00320-0013449091-usen",
+      "posted": "2026-06-03",
+      "id": "4777062b5d5f",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Miami, 01020",
+      "url": "https://www.roberthalf.com/us/en/job/miami-fl/data-engineer/01020-9504351131-usen",
+      "posted": "2026-06-18",
+      "id": "ad3bdd9ca8e8",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Enterprise Data Analytics Engineer",
+      "location": "Boston, 02100",
+      "url": "https://www.roberthalf.com/us/en/job/boston-ma/enterprise-data-analytics-engineer/02100-0013444005-usen",
+      "posted": "2026-06-03",
+      "id": "39291713d538",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Senior Data Analytics Internal Auditor",
+      "location": "Chicago, 01300",
+      "url": "https://www.roberthalf.com/us/en/job/chicago-il/senior-data-analytics-internal-auditor/01300-0013416404-usen",
+      "posted": "2026-06-10",
+      "id": "623847216fff",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "It Manager Platform Engineering",
+      "location": "Waukesha, 04600",
+      "url": "https://www.roberthalf.com/us/en/job/waukesha-wi/it-manager-platform-engineering/04600-0013451552-usen",
+      "posted": "2026-06-23",
+      "id": "7a9f65f7424a",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Security Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/security-engineer/01120-9504352625-usen",
+      "posted": "2026-06-22",
+      "id": "a788469e9ac5",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Infrastructure Security Engineer",
+      "location": "Savannah, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/garden-city-ga/infrastructure-security-engineer/01120-0013448616-usen",
+      "posted": "2026-06-05",
+      "id": "71361ef3d592",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developer",
+      "location": "Franklin Park, 01310",
+      "url": "https://www.roberthalf.com/us/en/job/franklin-park-il/software-developer/01310-0013409870-usen",
+      "posted": "2026-06-08",
+      "id": "41a3f32b7e78",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst",
+      "location": "Gainesville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/gainesville-fl/data-analyst/01120-0013452170-usen",
+      "posted": "2026-06-17",
+      "id": "6f424c37f70b",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Ai Software Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/ai-software-engineer/01120-9504351713-usen",
+      "posted": "2026-06-19",
+      "id": "af1c85bb0965",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Erpcrm Developer",
+      "location": "Oklahoma City, 03500",
+      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/erpcrm-developer/03500-0013449923-usen",
+      "posted": "2026-06-04",
+      "id": "c88ffe72727a",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Workday Integrations Developer",
+      "location": "Williamsburg, 03930",
+      "url": "https://www.roberthalf.com/us/en/job/williamsburg-ky/workday-integrations-developer/03930-0013444612-usen",
+      "posted": "2026-06-04",
+      "id": "7cf0a1543a6e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Artificial Intelligence Ai Engineer",
+      "location": "Laconia, 02600",
+      "url": "https://www.roberthalf.com/us/en/job/laconia-nh/artificial-intelligence-ai-engineer/02600-0013428809-usen",
+      "posted": "2026-06-05",
+      "id": "bdd27715f5c4",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Greenville, 03230",
+      "url": "https://www.roberthalf.com/us/en/job/greenville-sc/data-engineer/03230-0013451238-usen",
+      "posted": "2026-06-08",
+      "id": "062dba87fb93",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Plc Programmerautomation Engineer",
+      "location": "Tampa, 01070",
+      "url": "https://www.roberthalf.com/us/en/job/tampa-fl/plc-programmerautomation-engineer/01070-0013449398-usen",
+      "posted": "2026-06-04",
+      "id": "d722b333e1b4",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst Iv Contractor",
+      "location": "Philadelphia, 04838",
+      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst-iv-contractor/04838-0013449407-usen",
+      "posted": "2026-06-11",
+      "id": "468299bdfc55",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst",
+      "location": "Enon, 03370",
+      "url": "https://www.roberthalf.com/us/en/job/dayton-oh/data-analyst/03370-9504352028-usen",
+      "posted": "2026-06-19",
+      "id": "949874903bc9",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Grand Prairie, 04030",
+      "url": "https://www.roberthalf.com/us/en/job/grand-prairie-tx/software-engineer/04030-0013450565-usen",
+      "posted": "2026-06-05",
+      "id": "950ef4bb191d",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Analyst",
+      "location": "Chatsworth, 00480",
+      "url": "https://www.roberthalf.com/us/en/job/chatsworth-ca/data-analyst/00480-0013452322-usen",
+      "posted": "2026-06-19",
+      "id": "036a445548d4",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Developerc",
+      "location": "Stamford, 00720",
+      "url": "https://www.roberthalf.com/us/en/job/stamford-ct/software-developerc/00720-0013449746-usen",
+      "posted": "2026-06-04",
+      "id": "b1041127a0e9",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-9504351718-usen",
+      "posted": "2026-06-19",
+      "id": "82a43e6801b6",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Web Developer",
+      "location": "Allentown, 03720",
+      "url": "https://www.roberthalf.com/us/en/job/allentown-pa/web-developer/03720-0013450358-usen",
+      "posted": "2026-06-08",
+      "id": "2f7b2d19daa0",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "Jacksonville, 01120",
+      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/data-engineer/01120-9504351717-usen",
+      "posted": "2026-06-19",
+      "id": "c1d9e83e1ba7",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Fullstack Engineer",
+      "location": "Sherman Oaks, 00320",
+      "url": "https://www.roberthalf.com/us/en/job/los-angeles-ca/fullstack-engineer/00320-0013450519-usen",
+      "posted": "2026-06-05",
+      "id": "3a992d5a9bc9",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Albuquerque, 02800",
+      "url": "https://www.roberthalf.com/us/en/job/albuquerque-nm/software-engineer/02800-0013430756-usen",
+      "posted": "2026-06-09",
+      "id": "54b2da1f9840",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Business Analyticsdata Analyst",
+      "location": "Arlington, 04030",
+      "url": "https://www.roberthalf.com/us/en/job/arlington-tx/business-analyticsdata-analyst/04030-0013443477-usen",
+      "posted": "2026-06-22",
+      "id": "d8d75d00b94e",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Enrollment Specialist",
+      "location": "Santa Barbara, 01260",
+      "url": "https://www.roberthalf.com/us/en/job/santa-barbara-ca/enrollment-specialist/01260-0013449679-usen",
+      "posted": "2026-06-18",
+      "id": "9821394346a3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Data Engineer",
+      "location": "New York, 02940",
+      "url": "https://www.roberthalf.com/us/en/job/new-york-ny/data-engineer/02940-0013416985-usen",
+      "posted": "2026-06-22",
+      "id": "57685ea393c3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Power Bi Sql Developer",
+      "location": "Sanford, 01030",
+      "url": "https://www.roberthalf.com/us/en/job/sanford-fl/power-bi-sql-developer/01030-0013405169-usen",
+      "posted": "2026-06-08",
+      "id": "66dd3d411aa3",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Software Engineer",
+      "location": "Exton, 03720",
+      "url": "https://www.roberthalf.com/us/en/job/exton-pa/sr-software-engineer/03720-0013429499-usen",
+      "posted": "2026-06-09",
+      "id": "0f606fa9d8f1",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Sr Software Engineer",
+      "location": "Camden, 02720",
+      "url": "https://www.roberthalf.com/us/en/job/camden-nj/sr-software-engineer/02720-0013426777-usen",
+      "posted": "2026-06-09",
+      "id": "c24b021e9aef",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "Robert Half",
+      "title": "Software Engineer",
+      "location": "Miami, 00320",
+      "url": "https://www.roberthalf.com/us/en/job/coral-gables-fl/software-engineer/00320-0013449724-usen",
+      "posted": "2026-06-16",
+      "id": "bd4c3b0a0b7f",
+      "first_seen": "2026-06-23T15:04:39+00:00",
+      "last_seen": "2026-06-23T15:04:39+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Sr DevOps Engineer",
+      "location": "Charlotte, North Carolina",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006110764/Sr-DevOps-Engineer",
+      "posted": "2026-06-23T13:59:47.665+0000",
+      "id": "74656bf7cf64",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Solutions Architect",
+      "location": "Atlanta, Georgia",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006110415/Solutions-Architect",
+      "posted": "2026-06-23T12:50:12.423+0000",
+      "id": "9b1bb409b421",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Atlassian Developer",
+      "location": "Gainesville, Virginia",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006108032/Atlassian-Developer",
+      "posted": "2026-06-22T14:34:55.554+0000",
+      "id": "dfeef123ea51",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Sr. Manager Of Data Science",
+      "location": "Raleigh, North Carolina",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006110873/Sr-Manager-Of-Data-Science",
+      "posted": "2026-06-23T14:22:59.763+0000",
+      "id": "435bbe02c747",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "DevOps & Cloud Engineer II-AWS",
+      "location": "Raleigh, North Carolina",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006109022/DevOps-Cloud-Engineer-II-AWS",
+      "posted": "2026-06-22T18:27:26.996+0000",
+      "id": "3029483b98a3",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
+    {
+      "firm": "TEKsystems",
+      "title": "Practice Architect II AI/ML",
+      "location": "Baltimore, Maryland",
+      "url": "https://careers.teksystems.com/us/en/job/JP-006109691/Practice-Architect-II-AI-ML",
+      "posted": "2026-06-22T21:16:18.065+0000",
+      "id": "1ac65f5dfe20",
+      "first_seen": "2026-06-23T14:58:23+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00"
+    },
     {
       "firm": "Stanton House",
       "title": "Director, Solutions Architect",
@@ -71,17 +1371,6 @@
       "id": "72d59e3e8d7b",
       "first_seen": "2026-06-22T00:09:29+00:00",
       "last_seen": "2026-06-22T00:09:29+00:00"
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/albuquerque-nm/software-engineer/02800-0013430756-usen",
-      "posted": "2026-06-21",
-      "id": "54b2da1f9840",
-      "first_seen": "2026-06-21T23:57:47+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
     },
     {
       "firm": "Cynet Systems",
@@ -2137,7 +3426,7 @@
       "posted": "2026-04-13T15:19:04.024+0000",
       "id": "874538253cb8",
       "first_seen": "2026-06-21T18:46:35+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -6860,17 +8149,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Insight Global",
-      "title": "Sr. Full Stack Developer",
-      "location": "Newark, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/sr-full-stack-developer/job-528430/",
-      "posted": "May 08, 2026",
-      "id": "1cd06696bc22",
-      "first_seen": "2026-06-20T12:48:29+00:00",
-      "last_seen": "2026-06-20T12:48:29+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "TEKsystems",
       "title": "Principal Cloud Engineer (GA Or NJ)",
       "location": "Roseland, New Jersey",
@@ -6901,28 +8179,6 @@
       "id": "993cd4eb8fc3",
       "first_seen": "2026-06-20T10:08:07+00:00",
       "last_seen": "2026-06-21T15:42:24+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Full Stack Developer",
-      "location": "Hamilton, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/hamilton/full-stack-developer/job-529526/",
-      "posted": "May 12, 2026",
-      "id": "242b2863af9a",
-      "first_seen": "2026-06-20T07:34:40+00:00",
-      "last_seen": "2026-06-21T18:46:35+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "New York, NY",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-york/new-york/python-developer/job-525332/",
-      "posted": "Apr 30, 2026",
-      "id": "e4cac51db0c7",
-      "first_seen": "2026-06-20T07:34:40+00:00",
-      "last_seen": "2026-06-21T18:46:35+00:00",
       "readme_posted": true
     },
     {
@@ -7212,17 +8468,6 @@
       "readme_posted": true
     },
     {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "Deerfield Beach, FL",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/florida/deerfield-beach/software-engineer/job-533819/",
-      "posted": "May 26, 2026",
-      "id": "bf4de35b4db8",
-      "first_seen": "2026-06-20T04:36:28+00:00",
-      "last_seen": "2026-06-21T22:24:18+00:00",
-      "readme_posted": true
-    },
-    {
       "firm": "TEKsystems",
       "title": "GCP Practice Architect II-AI/ML",
       "location": "Baltimore, Maryland",
@@ -7230,7 +8475,7 @@
       "posted": "2026-06-19T18:44:43.477+0000",
       "id": "9d7a9f4172d1",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7241,7 +8486,7 @@
       "posted": "2026-06-16T16:33:04.111+0000",
       "id": "6422dfb7f8f5",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7252,7 +8497,7 @@
       "posted": "2026-06-17T17:40:45.144+0000",
       "id": "65c25250f491",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7263,7 +8508,7 @@
       "posted": "2026-06-10T15:12:47.213+0000",
       "id": "135144ec7a03",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7274,7 +8519,7 @@
       "posted": "2026-06-19T16:32:25.640+0000",
       "id": "e72bcb4b88c8",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7285,7 +8530,7 @@
       "posted": "2026-06-15T12:19:46.612+0000",
       "id": "a23061f8d0d2",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7296,18 +8541,7 @@
       "posted": "2026-06-17T20:24:32.228+0000",
       "id": "2cf6fe88c609",
       "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dayton-oh/data-analyst/03370-9504352028-usen",
-      "posted": "2026-06-21",
-      "id": "949874903bc9",
-      "first_seen": "2026-06-20T01:16:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -7659,391 +8893,6 @@
       "posted": "2026-06-19",
       "id": "e6a3cd1dbcef",
       "first_seen": "2026-06-20T01:14:03+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "Seattle, WA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/washington/seattle/software-engineer/job-531680/",
-      "posted": "May 19, 2026",
-      "id": "149e7a34d52c",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "Tucson, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/tucson/software-engineer/job-526060/",
-      "posted": "May 04, 2026",
-      "id": "b723fc7252a8",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "Camden, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/camden/software-engineer/job-532594/",
-      "posted": "May 20, 2026",
-      "id": "8aee04538755",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "La Vergne, TN",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/tennessee/la-vergne/software-engineer/job-525819/",
-      "posted": "May 04, 2026",
-      "id": "13fd49b4dc8e",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Remote Senior Software Engineer",
-      "location": "East Hartford, CT",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/connecticut/east-hartford/remote-senior-software-engineer/job-532215/",
-      "posted": "May 20, 2026",
-      "id": "8722ae77633c",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Software Engineer",
-      "location": "Fort Lauderdale, FL",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/florida/fort-lauderdale/software-engineer/job-524596/",
-      "posted": "Apr 29, 2026",
-      "id": "f1e7362d0c79",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Scientist",
-      "location": "Whitemarsh, PA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/pennsylvania/whitemarsh/data-scientist/job-529864/",
-      "posted": "May 13, 2026",
-      "id": "7dac52ca4f0b",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Scientist",
-      "location": "Albuquerque, NM",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-mexico/albuquerque/data-scientist/job-533295/",
-      "posted": "May 21, 2026",
-      "id": "ad0b5d67d44f",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Scientist",
-      "location": "San Diego, CA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/san-diego/data-scientist/job-530622/",
-      "posted": "May 14, 2026",
-      "id": "e066d6ffd8f1",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Scientist",
-      "location": "Sacramento, CA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/sacramento/data-scientist/job-522275/",
-      "posted": "Apr 22, 2026",
-      "id": "f88e29bac99d",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Full Stack .Net Developer",
-      "location": "Moorestown, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/moorestown/full-stack-net-developer/job-529741/",
-      "posted": "May 12, 2026",
-      "id": "7b75b4035e9b",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Sr. Full Stack Developer",
-      "location": "Hamilton, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/hamilton/sr-full-stack-developer/job-529525/",
-      "posted": "May 12, 2026",
-      "id": "ef4f311b2319",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Full Stack Developer",
-      "location": "Kirkwood, MO",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/missouri/kirkwood/full-stack-developer/job-532149/",
-      "posted": "May 19, 2026",
-      "id": "52d0fbd26c2d",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "Chandler, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/chandler/python-developer/job-523858/",
-      "posted": "Apr 28, 2026",
-      "id": "5dbc86ced32a",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "Columbus, OH",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/ohio/columbus/python-developer/job-537111/",
-      "posted": "Jun 03, 2026",
-      "id": "7c1be8eada80",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "Plano, TX",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/texas/plano/python-developer/job-535856/",
-      "posted": "May 29, 2026",
-      "id": "6999e06c9a23",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "Chandler, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/chandler/python-developer/job-538623/",
-      "posted": "Jun 08, 2026",
-      "id": "8d51961b9022",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer (Documentation)",
-      "location": "Chandler, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/chandler/python-developer-documentation-/job-523861/",
-      "posted": "Apr 28, 2026",
-      "id": "b1826e7b5965",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer",
-      "location": "Charlotte, NC",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/north-carolina/charlotte/python-developer/job-526629/",
-      "posted": "May 05, 2026",
-      "id": "9483b1d7c219",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer (Testing)",
-      "location": "Chandler, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/chandler/python-developer-testing-/job-523860/",
-      "posted": "Apr 28, 2026",
-      "id": "1b19ae3fc5ba",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Python Developer (Network/Linux)",
-      "location": "Chandler, AZ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/arizona/chandler/python-developer-network-linux-/job-523859/",
-      "posted": "Apr 28, 2026",
-      "id": "538762b2eb3c",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Stamford, CT",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/connecticut/stamford/data-analyst/job-531563/",
-      "posted": "May 18, 2026",
-      "id": "a8b17c73c4ac",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Newark, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/data-analyst/job-535546/",
-      "posted": "May 29, 2026",
-      "id": "d5ea858b92a4",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Greenwood Village, CO",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/colorado/greenwood-village/data-analyst/job-539185/",
-      "posted": "Jun 08, 2026",
-      "id": "12f8de6bf8be",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Chicago, IL",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/illinois/chicago/data-analyst/job-533546/",
-      "posted": "May 22, 2026",
-      "id": "0a611227a151",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Newark, NJ",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/newark/data-analyst/job-523666/",
-      "posted": "Apr 27, 2026",
-      "id": "764ae069c635",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Analyst",
-      "location": "Santa Monica, CA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/santa-monica/data-analyst/job-530859/",
-      "posted": "May 15, 2026",
-      "id": "c84378242903",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "DevOps Engineer",
-      "location": "San Jose, CA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/san-jose/devops-engineer/job-534843/",
-      "posted": "May 27, 2026",
-      "id": "b33a2fdbc5f0",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "DevOps Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/georgia/atlanta/devops-engineer/job-536381/",
-      "posted": "Jun 01, 2026",
-      "id": "69b4744d588c",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Cloud Platform DevOps Engineer",
-      "location": "Wilmington, DE",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/delaware/wilmington/cloud-platform-devops-engineer/job-540372/",
-      "posted": "Jun 11, 2026",
-      "id": "c546cecfc5db",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "DevOps Engineer",
-      "location": "Beachwood, OH",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/ohio/beachwood/devops-engineer/job-522466/",
-      "posted": "Apr 23, 2026",
-      "id": "28c56c37d336",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "DevOps Engineer",
-      "location": "San Diego, CA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/california/san-diego/devops-engineer/job-524612/",
-      "posted": "Apr 29, 2026",
-      "id": "ab77548ea8a2",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Cloud Platform Engineer - Windows",
-      "location": "Irving, TX",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/texas/irving/cloud-platform-engineer-windows/job-540713/",
-      "posted": "Jun 12, 2026",
-      "id": "a4068db6cc0c",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Cloud Platform Engineer - UNIX",
-      "location": "Irving, TX",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/texas/irving/cloud-platform-engineer-unix/job-540707/",
-      "posted": "Jun 12, 2026",
-      "id": "3a9cd27bc83f",
-      "first_seen": "2026-06-20T01:01:32+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Principal Cloud Engineer",
-      "location": "Philadelphia, PA",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/pennsylvania/philadelphia/principal-cloud-engineer/job-535564/",
-      "posted": "May 29, 2026",
-      "id": "91ae3013e5b9",
-      "first_seen": "2026-06-20T01:01:32+00:00",
       "last_seen": "2026-06-21T23:57:47+00:00",
       "readme_posted": true
     },
@@ -8814,7 +9663,7 @@
       "posted": "2026-06-19T18:37:12.658+0000",
       "id": "2e97c023cc5f",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8825,7 +9674,7 @@
       "posted": "2026-06-17T12:40:01.762+0000",
       "id": "c668f95c6d0b",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8847,7 +9696,7 @@
       "posted": "2026-06-17T20:33:27.214+0000",
       "id": "6c98c056f462",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8858,7 +9707,7 @@
       "posted": "2026-06-12T12:44:18.753+0000",
       "id": "f141af29193a",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8869,7 +9718,7 @@
       "posted": "2026-06-18T13:11:46.861+0000",
       "id": "b54de7cc533d",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8880,7 +9729,7 @@
       "posted": "2026-06-12T12:41:30.472+0000",
       "id": "c4c627fc5478",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8913,7 +9762,7 @@
       "posted": "2026-06-17T15:34:51.566+0000",
       "id": "f860bc11c3a8",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8924,7 +9773,7 @@
       "posted": "2026-06-16T14:31:42.260+0000",
       "id": "7f94851d10a7",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8946,7 +9795,7 @@
       "posted": "2026-06-17T13:12:21.164+0000",
       "id": "be0285ef1d15",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8957,7 +9806,7 @@
       "posted": "2026-06-18T14:13:55.462+0000",
       "id": "7eabd1006d07",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8968,7 +9817,7 @@
       "posted": "2026-06-18T17:48:12.415+0000",
       "id": "7c552f9f7d7e",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8979,7 +9828,7 @@
       "posted": "2026-06-11T15:46:30.707+0000",
       "id": "2e43b0cd901b",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -8990,7 +9839,7 @@
       "posted": "2026-06-17T12:43:19.888+0000",
       "id": "254af0ec35e7",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9001,7 +9850,7 @@
       "posted": "2026-06-16T21:09:19.878+0000",
       "id": "f9d139fc9535",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9012,7 +9861,7 @@
       "posted": "2026-06-12T15:00:50.991+0000",
       "id": "e22ece4d2656",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9034,7 +9883,7 @@
       "posted": "2026-06-09T15:17:20.861+0000",
       "id": "4abe5d5535fa",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9045,7 +9894,7 @@
       "posted": "2026-06-19T14:15:18.976+0000",
       "id": "5084ea008d46",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9067,7 +9916,7 @@
       "posted": "2026-06-15T15:08:54.432+0000",
       "id": "11bbaefc6ca2",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9089,7 +9938,7 @@
       "posted": "2026-06-17T12:27:04.513+0000",
       "id": "bc09756cdcc0",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9100,7 +9949,7 @@
       "posted": "2026-06-18T19:31:37.015+0000",
       "id": "58c9416d962d",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9111,7 +9960,7 @@
       "posted": "2026-06-18T20:35:04.619+0000",
       "id": "a93b968430bc",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9133,7 +9982,7 @@
       "posted": "2026-06-19T18:35:40.491+0000",
       "id": "89167f5ab19b",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -9155,29 +10004,7 @@
       "posted": "2026-06-18T16:45:18.934+0000",
       "id": "9204422286cd",
       "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Engineer",
-      "location": "Charlotte, NC",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/north-carolina/charlotte/data-engineer/job-542677/",
-      "posted": "Jun 17, 2026",
-      "id": "026ebaf5536e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Insight Global",
-      "title": "Data Engineer",
-      "location": "Carmel, IN",
-      "url": "https://jobs.insightglobal.com/jobs/find_a_job/indiana/carmel/data-engineer/job-537405/",
-      "posted": "Jun 03, 2026",
-      "id": "8570daaa0f95",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
+      "last_seen": "2026-06-23T14:58:23+00:00",
       "readme_posted": true
     },
     {
@@ -10254,1447 +11081,6 @@
       "url": "https://www.apexsystems.com/job/3036831_usa/embedded-verkada-programmer",
       "posted": "2026-06-03",
       "id": "701a9e2db640",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/manhattan-ny/senior-software-engineer/04836-9504344621-usen",
-      "posted": "2026-06-21",
-      "id": "efaa4f51d166",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Programmeranalyst Ii Intermediate",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst-ii-intermediate/04837-0013441135-usen",
-      "posted": "2026-06-21",
-      "id": "d083156fa3c7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-0013404011-usen",
-      "posted": "2026-06-21",
-      "id": "68f54858bd20",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-0013420453-usen",
-      "posted": "2026-06-21",
-      "id": "8ed4e233c29b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/san-francisco-ca/data-engineer/00410-0013442059-usen",
-      "posted": "2026-06-21",
-      "id": "5e89a6c92ca4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/data-engineer/01000-9504345902-usen",
-      "posted": "2026-06-21",
-      "id": "d193081f663e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst 1 02 Years",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/chicago-il/data-analyst-1-02-years/01300-0013442505-usen",
-      "posted": "2026-06-21",
-      "id": "9d9e084817f5",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Site Reliability Engineer Sre",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/novi-mi/site-reliability-engineer-sre/02210-0013443575-usen",
-      "posted": "2026-06-21",
-      "id": "0bdc882adce3",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Rpa Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/rpa-developer/03410-0013443478-usen",
-      "posted": "2026-06-21",
-      "id": "7280ab2b6303",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/cloud-engineer/01000-9504346187-usen",
-      "posted": "2026-06-21",
-      "id": "20a60a032d40",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Lead Programmeranalyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dublin-oh/lead-programmeranalyst/04836-0013440085-usen",
-      "posted": "2026-06-21",
-      "id": "2b926b3ee3fc",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/greer-sc/data-engineer/03230-0013441767-usen",
-      "posted": "2026-06-21",
-      "id": "216d954857c3",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/greer-sc/data-engineer/03230-0013441764-usen",
-      "posted": "2026-06-21",
-      "id": "f4de95253f1e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Head Data Science Analytics Dtc Exp Required",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/fort-lee-nj/head-data-science-analytics-dtc-exp-required/02710-0013390011-usen",
-      "posted": "2026-06-21",
-      "id": "cdf59ce90a22",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/carrollton-tx/software-developer/04010-0013439514-usen",
-      "posted": "2026-06-21",
-      "id": "2bac1681141c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Mainframe Systems Programmer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/bellevue-wa/mainframe-systems-programmer/04410-0013442317-usen",
-      "posted": "2026-06-21",
-      "id": "c3d52d61d6fa",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Scientist Ii",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/san-ramon-ca/data-scientist-ii/04692-0013377381-usen",
-      "posted": "2026-06-21",
-      "id": "b41b6c3ea5ca",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Full Stack Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/full-stack-engineer/01120-9504344722-usen",
-      "posted": "2026-06-21",
-      "id": "7e50ac4d9d9b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Programmeranalyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst/04837-0013443438-usen",
-      "posted": "2026-06-21",
-      "id": "2c776a350357",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Site Reliability Engineer Sre",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/new-york-ny/site-reliability-engineer-sre/00720-0013443667-usen",
-      "posted": "2026-06-21",
-      "id": "4aa717d804c0",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/brookfield-wi/cloud-engineer/04600-0013442509-usen",
-      "posted": "2026-06-21",
-      "id": "841b76e7bc0f",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Forwarddeployed Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/king-prussia-pa/forwarddeployed-software-engineer/03720-0013443424-usen",
-      "posted": "2026-06-21",
-      "id": "8b14b2a6b2b7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cyber Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/atlanta-ga/cyber-security-engineer/00920-0013443581-usen",
-      "posted": "2026-06-21",
-      "id": "99dd28bd62f7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst Iv Contractor",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst-iv-contractor/04838-0013440206-usen",
-      "posted": "2026-06-21",
-      "id": "2b3ffe4f6f29",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Azure Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/azure-developer/01000-9504346191-usen",
-      "posted": "2026-06-21",
-      "id": "dff47568094b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/devops-engineer/01000-9504346189-usen",
-      "posted": "2026-06-21",
-      "id": "8d2e84ffc128",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Ai Architect Consultant Remote 6Month Engagement",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/hartford-ct/senior-ai-architect-consultant-remote-6month-engagement/00700-0013442441-usen",
-      "posted": "2026-06-21",
-      "id": "c94e40da82e0",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Full Stack Ai Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/full-stack-ai-engineer/04837-0013444561-usen",
-      "posted": "2026-06-21",
-      "id": "dcdc963d3a32",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Oracle Atg Ecommerce Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/tampa-fl/oracle-atg-ecommerce-developer/01070-0013361617-usen",
-      "posted": "2026-06-21",
-      "id": "c4c57a9ad03d",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Microsoft Power Platform Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/n-ft-myers-fl/microsoft-power-platform-engineer/01070-0013444766-usen",
-      "posted": "2026-06-21",
-      "id": "6e52e4057df8",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Sr Data Engineer Consultant Remote 612 Month Engagement",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/hartford-ct/sr-data-engineer-consultant-remote-612-month-engagement/00700-0013444542-usen",
-      "posted": "2026-06-21",
-      "id": "1b151ef238a5",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/data-engineer/03500-0013380490-usen",
-      "posted": "2026-06-21",
-      "id": "7b8c4429a784",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/rosemead-ca/devops-engineer/00320-0013444431-usen",
-      "posted": "2026-06-21",
-      "id": "7d248df563f6",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Backend Java Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/grand-rapids-mi/backend-java-developer/04860-0013444019-usen",
-      "posted": "2026-06-21",
-      "id": "d71b230b7284",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Platform Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/ai-platform-engineer/04837-0013444635-usen",
-      "posted": "2026-06-21",
-      "id": "a7c6b1e8f6f6",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/tallahassee-fl/data-analyst/01120-0013443954-usen",
-      "posted": "2026-06-21",
-      "id": "1d903de31cc4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Lead Software Engineer Wms",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/camden-nj/lead-software-engineer-wms/02720-0013442836-usen",
-      "posted": "2026-06-21",
-      "id": "469cada41547",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Principal Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/bowie-md/principal-software-engineer/04510-0013280909-usen",
-      "posted": "2026-06-21",
-      "id": "c46a6385301a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Microsoft Copilot Platform Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/microsoft-copilot-platform-engineer/04837-0013444768-usen",
-      "posted": "2026-06-21",
-      "id": "eabd8c12bb1e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineering Manager",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/fort-washington-pa/devops-engineering-manager/03720-0013423425-usen",
-      "posted": "2026-06-21",
-      "id": "c722b62c5fc2",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Netsql Healthcare Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/sarasota-fl/netsql-healthcare-data-analyst/01070-0013412808-usen",
-      "posted": "2026-06-21",
-      "id": "b568fb70924b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/greenwich-ct/senior-data-engineer/00700-0013444525-usen",
-      "posted": "2026-06-21",
-      "id": "39e2c7dc785c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Sr Aws Agentcore Platform Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/sr-aws-agentcore-platform-engineer/04837-0013444750-usen",
-      "posted": "2026-06-21",
-      "id": "27a9567985c1",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Business Intelligence Bi Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/deerfield-ma/business-intelligence-bi-developer/00700-0013444105-usen",
-      "posted": "2026-06-21",
-      "id": "e64468166657",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Sr Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/camden-nj/sr-software-engineer/02720-0013420355-usen",
-      "posted": "2026-06-21",
-      "id": "c8a7bdec9f0c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dallas-tx/software-engineer/04030-0013446684-usen",
-      "posted": "2026-06-21",
-      "id": "001ec69c8f9f",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Infrastructure Devops Engineers",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/memphis-tn/infrastructure-devops-engineers/03900-9504350392-usen",
-      "posted": "2026-06-21",
-      "id": "ed91d308a0a3",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Linux Systems Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/madison-wi/linux-systems-devops-engineer/04620-0013444879-usen",
-      "posted": "2026-06-21",
-      "id": "62094300aaca",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/security-engineer/01120-0013445541-usen",
-      "posted": "2026-06-21",
-      "id": "13a67f92eae8",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Python Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/santa-ana-ca/python-developer/00350-0013444788-usen",
-      "posted": "2026-06-21",
-      "id": "b51bf679a490",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Oracle Technical Solutions Architect",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/plano-tx/oracle-technical-solutions-architect/04010-0013423187-usen",
-      "posted": "2026-06-21",
-      "id": "1343e727b7b5",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dallas-tx/devops-engineer/04030-0013445212-usen",
-      "posted": "2026-06-21",
-      "id": "6180870de16c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Android Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/salt-lake-city-ut/android-developer/04820-0013447785-usen",
-      "posted": "2026-06-21",
-      "id": "3c93139f58c2",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/hanover-nh/software-engineer/02600-0013370566-usen",
-      "posted": "2026-06-21",
-      "id": "27a5a2da1cc7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/king-prussia-pa/cloud-engineer/03710-0013421222-usen",
-      "posted": "2026-06-21",
-      "id": "ba4310dc6153",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/king-prussia-pa/cloud-engineer/03710-0013421219-usen",
-      "posted": "2026-06-21",
-      "id": "971485f2c8cd",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Programmeranalyst Iii Senior",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/programmeranalyst-iii-senior/04837-0013446132-usen",
-      "posted": "2026-06-21",
-      "id": "96f95be4d805",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Erpcrm Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/zeeland-mi/erpcrm-developer/02220-0013448154-usen",
-      "posted": "2026-06-21",
-      "id": "2e06c1c2c126",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Fullstack Ai Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/miami-fl/fullstack-ai-engineer/01020-9504350486-usen",
-      "posted": "2026-06-21",
-      "id": "9044527f0ab6",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Automation Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/ai-automation-engineer/03200-9504349159-usen",
-      "posted": "2026-06-21",
-      "id": "cec6ab067105",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst/03720-0013433005-usen",
-      "posted": "2026-06-21",
-      "id": "155bd4d22806",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Revenue Accounting Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/phoenix-az/revenue-accounting-data-analyst/00210-0013446644-usen",
-      "posted": "2026-06-21",
-      "id": "5052f72f10a1",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/mechanicsburg-pa/software-developer/03710-0013388887-usen",
-      "posted": "2026-06-21",
-      "id": "ae7314dc559e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/atlanta-ga/data-engineer/00900-9504349336-usen",
-      "posted": "2026-06-21",
-      "id": "9b18fe41c1a2",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Oracle Technical Architect Mgr",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/hammonton-nj/oracle-technical-architect-mgr/03720-0013295008-usen",
-      "posted": "2026-06-21",
-      "id": "c7eb58f72b3f",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/beverly-hills-ca/data-engineer/00320-0013447173-usen",
-      "posted": "2026-06-21",
-      "id": "7b623bfee2f5",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Python Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/greer-sc/python-developer/03230-0013447291-usen",
-      "posted": "2026-06-21",
-      "id": "9e972c5fa518",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/st-augustine-fl/software-developer/01120-0013445470-usen",
-      "posted": "2026-06-21",
-      "id": "c2356a192a06",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Data Analytics Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/reston-va/senior-data-analytics-engineer/04510-0013437283-usen",
-      "posted": "2026-06-21",
-      "id": "42aa34c29edd",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Business Analyticsdata Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/trafford-pa/business-analyticsdata-analyst/03730-0013437043-usen",
-      "posted": "2026-06-21",
-      "id": "dd554f9ffd11",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer Shopify",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/salt-lake-city-ut/software-developer-shopify/04820-0013447799-usen",
-      "posted": "2026-06-21",
-      "id": "69f26b384729",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/mechanicsburg-pa/software-developer/03710-0013382883-usen",
-      "posted": "2026-06-21",
-      "id": "2f21b2809277",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Erpcrm Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/salem-nh/erpcrm-developer/02600-0013426119-usen",
-      "posted": "2026-06-21",
-      "id": "4a7e3c507d9f",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/security-engineer/03200-9504350489-usen",
-      "posted": "2026-06-21",
-      "id": "c2b5c06fd3e7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Report Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/report-developer/01120-0013448117-usen",
-      "posted": "2026-06-21",
-      "id": "e159c6ee207d",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/hartland-wi/ai-data-analyst/04600-0013445171-usen",
-      "posted": "2026-06-21",
-      "id": "2898b374d922",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/rosemead-ca/cloud-engineer/00320-0013434396-usen",
-      "posted": "2026-06-21",
-      "id": "b854da2776e4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Power Bi Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/bethesda-md/power-bi-developer/04510-0013405687-usen",
-      "posted": "2026-06-21",
-      "id": "9c045698ac03",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Director Devops Security",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/american-fork-ut/director-devops-security/04820-0013426815-usen",
-      "posted": "2026-06-21",
-      "id": "daf06573a07d",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Web Application Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/indianapolis-in/web-application-developer/04837-0013447822-usen",
-      "posted": "2026-06-21",
-      "id": "cbea9768a9a9",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/miami-fl/software-engineer/01020-9504350480-usen",
-      "posted": "2026-06-21",
-      "id": "37942cdc997c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/software-engineer/03410-0013446172-usen",
-      "posted": "2026-06-21",
-      "id": "74a6ac914b3a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineering Manager",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/chicago-il/software-engineering-manager/01300-0013445151-usen",
-      "posted": "2026-06-21",
-      "id": "52ce28b768d0",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/washington-dc/data-engineer/04837-0013447801-usen",
-      "posted": "2026-06-21",
-      "id": "67ecf68ba113",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Consultant",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/atlanta-ga/ai-consultant/00900-9504349322-usen",
-      "posted": "2026-06-21",
-      "id": "073d0efb9905",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Sr Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/sr-software-engineer/01120-0013448099-usen",
-      "posted": "2026-06-21",
-      "id": "3f68122509fb",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/irmo-sc/senior-software-engineer/03230-0013448209-usen",
-      "posted": "2026-06-21",
-      "id": "274f81d08f35",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Architect",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dallas-tx/ai-architect/04030-0013445197-usen",
-      "posted": "2026-06-21",
-      "id": "b1f4753fd879",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cyber Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/draper-ut/cyber-security-engineer/04820-0013405237-usen",
-      "posted": "2026-06-21",
-      "id": "f74266d2bebf",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineer Mobile First",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/kansas-city-mo/devops-engineer-mobile-first/01500-0013425663-usen",
-      "posted": "2026-06-21",
-      "id": "f74c8ade6a77",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Power Bi Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/dania-beach-fl/power-bi-developer/01000-9504350278-usen",
-      "posted": "2026-06-21",
-      "id": "500cca98b6f2",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Backend Software Developer Perm Direct Hire",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/des-moines-ia/backend-software-developer-perm-direct-hire/01500-0013446578-usen",
-      "posted": "2026-06-21",
-      "id": "4bba48cef39a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Platform Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/lehi-ut/platform-engineer/04820-0013426401-usen",
-      "posted": "2026-06-21",
-      "id": "5871ccfc77f5",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Mobile Developer Iii",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/providence-ri/mobile-developer-iii/02130-0013445252-usen",
-      "posted": "2026-06-21",
-      "id": "7ad0c513061c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/lafayette-la/software-engineer/04130-0013387514-usen",
-      "posted": "2026-06-21",
-      "id": "761db9dea597",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/milwaukee-wi/software-engineer/04600-0013432283-usen",
-      "posted": "2026-06-21",
-      "id": "9822fecb6b70",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Sr Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013448530-usen",
-      "posted": "2026-06-21",
-      "id": "a1525350f0e3",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Risk Management Administrator",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/columbus-oh/ai-risk-management-administrator/04837-0013436725-usen",
-      "posted": "2026-06-21",
-      "id": "c21d69fa5738",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cloud Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/louisville-ky/cloud-engineer/03930-0013448959-usen",
-      "posted": "2026-06-21",
-      "id": "44eb97c118f9",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/boston-ma/senior-data-engineer/02100-0013442400-usen",
-      "posted": "2026-06-21",
-      "id": "ef20cbf79977",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Architect",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/needham-ma/data-architect/02100-0013447256-usen",
-      "posted": "2026-06-21",
-      "id": "46c3c869a757",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/miami-fl/software-engineer/01020-9504351115-usen",
-      "posted": "2026-06-21",
-      "id": "c2742cdc1ac8",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Artificial Intelligence Ai Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/bell-ca/artificial-intelligence-ai-engineer/00320-0013449050-usen",
-      "posted": "2026-06-21",
-      "id": "df1c6e355bf4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Business Intelligence And Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/boston-ma/business-intelligence-and-data-analyst/02100-0013444009-usen",
-      "posted": "2026-06-21",
-      "id": "cfde7caae969",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/miami-fl/data-analyst/01020-9504351119-usen",
-      "posted": "2026-06-21",
-      "id": "a4e3da08b052",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/austin-tx/data-engineer/04160-9504351325-usen",
-      "posted": "2026-06-21",
-      "id": "53c47c5d753b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Cyber Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/maryknoll-ny/cyber-security-engineer/00700-0013447979-usen",
-      "posted": "2026-06-21",
-      "id": "544992f1c9ae",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/bell-ca/ai-devops-engineer/00320-0013449091-usen",
-      "posted": "2026-06-21",
-      "id": "4777062b5d5f",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/miami-fl/data-engineer/01020-9504351131-usen",
-      "posted": "2026-06-21",
-      "id": "ad3bdd9ca8e8",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Enterprise Data Analytics Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/boston-ma/enterprise-data-analytics-engineer/02100-0013444005-usen",
-      "posted": "2026-06-21",
-      "id": "39291713d538",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Senior Data Analytics Internal Auditor",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/chicago-il/senior-data-analytics-internal-auditor/01300-0013416404-usen",
-      "posted": "2026-06-21",
-      "id": "623847216fff",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "It Manager Platform Engineering",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/waukesha-wi/it-manager-platform-engineering/04600-0013451552-usen",
-      "posted": "2026-06-21",
-      "id": "7a9f65f7424a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Specialist",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/minneapolis-mn/ai-specialist/02310-0013449671-usen",
-      "posted": "2026-06-21",
-      "id": "5bd85053338c",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Infrastructure Security Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/garden-city-ga/infrastructure-security-engineer/01120-0013448616-usen",
-      "posted": "2026-06-21",
-      "id": "71361ef3d592",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/franklin-park-il/software-developer/01310-0013409870-usen",
-      "posted": "2026-06-21",
-      "id": "41a3f32b7e78",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/gainesville-fl/data-analyst/01120-0013452170-usen",
-      "posted": "2026-06-21",
-      "id": "6f424c37f70b",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Ai Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/ai-software-engineer/01120-9504351713-usen",
-      "posted": "2026-06-21",
-      "id": "af1c85bb0965",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Erpcrm Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/oklahoma-city-ok/erpcrm-developer/03500-0013449923-usen",
-      "posted": "2026-06-21",
-      "id": "c88ffe72727a",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Workday Integrations Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/williamsburg-ky/workday-integrations-developer/03930-0013444612-usen",
-      "posted": "2026-06-21",
-      "id": "7cf0a1543a6e",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Artificial Intelligence Ai Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/laconia-nh/artificial-intelligence-ai-engineer/02600-0013428809-usen",
-      "posted": "2026-06-21",
-      "id": "bdd27715f5c4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/greenville-sc/data-engineer/03230-0013451238-usen",
-      "posted": "2026-06-21",
-      "id": "062dba87fb93",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Plc Programmerautomation Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/tampa-fl/plc-programmerautomation-engineer/01070-0013449398-usen",
-      "posted": "2026-06-21",
-      "id": "d722b333e1b4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst Iv Contractor",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/philadelphia-pa/data-analyst-iv-contractor/04838-0013449407-usen",
-      "posted": "2026-06-21",
-      "id": "468299bdfc55",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/grand-prairie-tx/software-engineer/04030-0013450565-usen",
-      "posted": "2026-06-21",
-      "id": "950ef4bb191d",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Analyst",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/chatsworth-ca/data-analyst/00480-0013452322-usen",
-      "posted": "2026-06-21",
-      "id": "036a445548d4",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Developerc",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/stamford-ct/software-developerc/00720-0013449746-usen",
-      "posted": "2026-06-21",
-      "id": "b1041127a0e9",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Software Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-9504351718-usen",
-      "posted": "2026-06-21",
-      "id": "82a43e6801b6",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Web Developer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/allentown-pa/web-developer/03720-0013450358-usen",
-      "posted": "2026-06-21",
-      "id": "2f7b2d19daa0",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Data Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/jacksonville-fl/data-engineer/01120-9504351717-usen",
-      "posted": "2026-06-21",
-      "id": "c1d9e83e1ba7",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Fullstack Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/los-angeles-ca/fullstack-engineer/00320-0013450519-usen",
-      "posted": "2026-06-21",
-      "id": "3a992d5a9bc9",
-      "first_seen": "2026-06-19T21:32:50+00:00",
-      "last_seen": "2026-06-21T23:57:47+00:00",
-      "readme_posted": true
-    },
-    {
-      "firm": "Robert Half",
-      "title": "Devops Engineer",
-      "location": "",
-      "url": "https://www.roberthalf.com/us/en/job/lenexa-ks/devops-engineer/01500-0013428535-usen",
-      "posted": "2026-06-21",
-      "id": "cd75292ec8b8",
       "first_seen": "2026-06-19T21:32:50+00:00",
       "last_seen": "2026-06-21T23:57:47+00:00",
       "readme_posted": true

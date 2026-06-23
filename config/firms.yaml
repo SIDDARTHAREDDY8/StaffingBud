@@ -138,19 +138,19 @@ firms:
     # Jobs are server-rendered (curl_cffi reads them) on the jobs.* subdomain.
     # The site paginates via ASP.NET POST (no GET param works), so instead we run
     # several search terms and merge — each term returns ~10 results.
-    search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
+    search_url: "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer&orderby=recent"
     url_prefix: "https://jobs.insightglobal.com"
     detail_date: true   # real Post Date is microdata on the detail page, not the listing
     urls:
-      - "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=software+engineer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=data+scientist"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=full+stack+developer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=python+developer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=data+analyst"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=devops+engineer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=cloud+engineer"
-      - "https://jobs.insightglobal.com/find_a_job/?srch=machine+learning"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=software+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+scientist&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=full+stack+developer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=python+developer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=data+analyst&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=devops+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=cloud+engineer&orderby=recent"
+      - "https://jobs.insightglobal.com/find_a_job/?srch=machine+learning&orderby=recent"
     selectors:
       card: "div.result"
       title: ".job-title"
@@ -188,11 +188,16 @@ firms:
   - name: "Robert Half"
     mode: sitemap
     search_url: "https://www.roberthalf.com/us/en/jobs"
+    # The sitemap re-stamps <lastmod> to "today" on every crawl, so it's useless as
+    # a post date (made every job look posted-today). Ignore it and read the REAL
+    # datePosted off each JD page, then drop anything older than ~3 weeks.
+    detail_date: true
+    max_age_days: 21
     sitemap:
       url: "https://www.roberthalf.com/content/roberthalf.sitemap.us-external-job-details-sitemap.xml"
       job_match: "/job/"
+      ignore_lastmod: true
       max: 4000
-      max_age_days: 14     # the sitemap lags badly; keep only very recent entries
     # RH's sitemap lists many EXPIRED jobs (they redirect away from /job/). Verify
     # each is live and prune dead ones from the board.
     verify_live:
