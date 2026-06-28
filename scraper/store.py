@@ -3,10 +3,29 @@ from __future__ import annotations
 
 import hashlib
 import json
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "jobs.json"
+
+# A "fresh contract jobs" board shouldn't hoard months-old reqs. Any stored job
+# whose REAL posted date is older than this is pruned every save — so high-volume
+# vendors (e.g. Cynet/Ceipal) can't pile up stale listings forever.
+STALE_AFTER_DAYS = 60
+# Firms whose `posted` is an unreliable original-release date (SmartRecruiters
+# releasedDate, KellyMitchell epoch, Harnham none) — never prune them by it.
+_UNRELIABLE_DATE_FIRMS = {"Collabera", "Mastech Digital", "Synechron",
+                          "KellyMitchell", "Harnham"}
+
+
+def _is_stale(job: dict) -> bool:
+    posted = (job.get("posted") or "")[:10]
+    if not posted or job.get("firm") in _UNRELIABLE_DATE_FIRMS:
+        return False
+    try:
+        return (date.today() - date.fromisoformat(posted)).days > STALE_AFTER_DAYS
+    except ValueError:
+        return False
 
 
 def _job_id(job: dict) -> str:
@@ -69,6 +88,12 @@ def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> di
             del existing[jid]
             removed += 1
 
+    # perpetual freshness: prune anything past STALE_AFTER_DAYS by real posted date
+    pruned = 0
+    for jid in [k for k, v in existing.items() if _is_stale(v)]:
+        del existing[jid]
+        pruned += 1
+
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated": now,
@@ -76,4 +101,5 @@ def merge_and_save(new_jobs: list[dict], refresh_firms: set | None = None) -> di
         "jobs": sorted(existing.values(), key=lambda j: j.get("first_seen", ""), reverse=True),
     }
     DATA_FILE.write_text(json.dumps(payload, indent=2))
-    return {"added": added, "removed": removed, "total": len(existing), "scraped": len(new_jobs)}
+    return {"added": added, "removed": removed, "pruned": pruned,
+            "total": len(existing), "scraped": len(new_jobs)}

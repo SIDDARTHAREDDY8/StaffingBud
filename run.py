@@ -142,7 +142,7 @@ def run(only=None, headful=False):
 
     summary = store.merge_and_save(all_jobs, refresh_firms=refresh_firms)
     print(f"\n✅ done — +{summary['added']} new, -{summary.get('removed', 0)} expired, "
-          f"{summary['total']} total in data/jobs.json")
+          f"-{summary.get('pruned', 0)} stale, {summary['total']} total in data/jobs.json")
 
 
 if __name__ == "__main__":
