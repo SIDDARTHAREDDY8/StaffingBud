@@ -27,46 +27,47 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 31 new roles this update · 3557 tracked total · updated `2026-06-30T07:35:55+00:00`
+### 🆕 31 new roles this update · 3588 tracked total · updated `2026-06-30T10:24:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 29 |
-| Brooksource | 2 |
+| Harnham | 1 |
+| Goodwin Recruiting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/yXGityYyZm9nkxsgrlmjHt6BxDlXgSGEN0QS1PkcjJU) | Cynet Systems | Texas | 2026-06-30 |
-| [Microservices Developers](https://candidateportal.ceipal.com/job-details/XbTp2kzRH-WE5s7O0cVjbwxn8nJM5PfImujJwmB5OR8) | Cynet Systems | Pennsylvania | 2026-06-30 |
-| [Android Developer [Triage Engineering]](https://candidateportal.ceipal.com/job-details/LVs0QyB-7nmHt1q0V_QVo9yT4l0D7NMyVXuRh1wvCdI) | Cynet Systems | California | 2026-06-30 |
-| [Senior Cloud AI Architect](https://candidateportal.ceipal.com/job-details/t16NZ2ChbPLkRZDZSZ42UpDZPsBUqihsoIttxxVmZIU) | Cynet Systems | Georgia | 2026-06-30 |
-| [Java Developer with AWS](https://candidateportal.ceipal.com/job-details/xZnwaDygbtZiNeVT0CANdCM68YD6NlNLW1leDGRZ3-U) | Cynet Systems | Texas | 2026-06-30 |
-| [IOS Developer with Android Exp](https://candidateportal.ceipal.com/job-details/QX9ZZm0OZcpviTIV188kTbM02MyqhBPlQCZDAK9XhcU) | Cynet Systems | New Jersey | 2026-06-30 |
-| [Lead Mainframe Developer](https://candidateportal.ceipal.com/job-details/Dc6UuVW9_HFs1oOcienJ5CHDu8LMD4rEFnffW6LVcU4) | Cynet Systems | New Jersey | 2026-06-30 |
-| [AI/ML Architect](https://candidateportal.ceipal.com/job-details/w5daN8dfBxpwwLvca89GGZrMmX0TsGVhP5bgKBsLf4k) | Cynet Systems | California | 2026-06-30 |
-| [Data Architect](https://candidateportal.ceipal.com/job-details/XPEZvxh1Yp2HCBAYaHKxe-kUt4iZCvN4eFO7qkHOBts) | Cynet Systems | New York | 2026-06-30 |
-| [Principal AI Architect](https://candidateportal.ceipal.com/job-details/yJ7X4UGWn8IWdI9bG2oEVgKfzBsKq3nz7KbcPOhP-Rc) | Cynet Systems | California | 2026-06-30 |
-| [Data Engineer](https://candidateportal.ceipal.com/job-details/Z4OAZOi65JcQ4hJXoKDTLHeqRlSHgYPTGp1feZmMCyA) | Cynet Systems | California | 2026-06-30 |
-| [Senior Agentic Platform Engineer](https://candidateportal.ceipal.com/job-details/rmgCeTFfyzzCEmK7LN-IIhY_khNsnglBExRs34zuxz4) | Cynet Systems | Texas | 2026-06-30 |
-| [AI Architectcont](https://candidateportal.ceipal.com/job-details/loP2zQxECIP6yLUOWxFke5eyOgisJ3elPoeVCOINQ0M) | Cynet Systems | California | 2026-06-30 |
-| [Data Engineer - Snowflake / AWS](https://candidateportal.ceipal.com/job-details/WI-d3sPssshditTEzzWpHN6Yu1HtzsmDX5mN6yXt-Zk) | Cynet Systems | Oregon | 2026-06-30 |
-| [Data Architect and Modeler](https://candidateportal.ceipal.com/job-details/7mntvnwQ2xTwDmS0ZduzqG03ouop0c5rxWQY_YIvGYo) | Cynet Systems | Georgia | 2026-06-30 |
-| [Python Backend Developer](https://candidateportal.ceipal.com/job-details/oz2CHaY1w8IIhmahoK-Wl2rb6xlBQ8sFV-8LGpBmIIk) | Cynet Systems | California | 2026-06-30 |
-| [Gen AI Developer](https://candidateportal.ceipal.com/job-details/Dkq9wZYgU0p6wN5ZHZOlaum9BoA7xMl2vmE-lV4tFH4) | Cynet Systems | Tennessee | 2026-06-30 |
-| [AI Platform Architect](https://candidateportal.ceipal.com/job-details/ZsW8HT_0aYSF149Nla5mW3u7c8p2C_EsQkHLtdXi6_Y) | Cynet Systems | Tennessee | 2026-06-30 |
-| [Markit EDM Developer](https://candidateportal.ceipal.com/job-details/uObowZnUexZpmbUFviMUi4cHYdEUMyNMlLuhWspjI7g) | Cynet Systems | South Carolina | 2026-06-30 |
-| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/uXZJDNqMgyU_9M0Zf89IM5fL3OxHkqYyJOeK64cE0RU) | Cynet Systems | Ohio | 2026-06-30 |
-| [Snowflake Solutions Architect](https://candidateportal.ceipal.com/job-details/Sd1wKnafliVJn1zR-ETeKxN6LCQ5LSuqOd4FT7bFmwE) | Cynet Systems | New Jersey | 2026-06-30 |
-| [Python Developer](https://candidateportal.ceipal.com/job-details/F9s5kbw8P5aM9yh76wKKfwLC4JvYtiCmtkh3W1rgpjg) | Cynet Systems | Georgia | 2026-06-30 |
-| [Dotnet Developer](https://candidateportal.ceipal.com/job-details/V9BCNoMST0xV-VG90D1UOW2IrsCW3ljBcvsO3l9EmCg) | Cynet Systems | North Carolina | 2026-06-30 |
-| [Mumps Developer](https://candidateportal.ceipal.com/job-details/34UAR3PjWUkz9imrYTV9kEORGr0pmV57WJswXW0lWBA) | Cynet Systems | Georgia | 2026-06-30 |
-| [Data Analyst](https://candidateportal.ceipal.com/job-details/03wAa8n98zfoxGk_77UCU6o1o18-mylBuiuJP6TgUdc) | Cynet Systems | New Jersey, North Carolina | 2026-06-30 |
-| [Python Lead Developer](https://candidateportal.ceipal.com/job-details/FDAfKzFom0tnpzxuDjLfhhk3Hvm0bCcWc1opzZjJI-M) | Cynet Systems | Texas | 2026-06-30 |
-| [Senior Full Stack Angular Engineer](https://candidateportal.ceipal.com/job-details/MgNQCBxPUt3XH7tZzEvjUCxGBb3Nz-PoK16qM61KPh0) | Cynet Systems | Minnesota | 2026-06-30 |
-| [Copilot Studio Developer (AI & M365 Agents)](https://candidateportal.ceipal.com/job-details/6uKpcymcL9eba0s0zM6guqM7vicuhUqpT2cxog5M-Y0) | Cynet Systems | Minnesota | 2026-06-30 |
-| [DevOps Engineer](https://candidateportal.ceipal.com/job-details/wTtN2RgGQG1wvDwPUKrzcFmUcYGHd30E0D5dtBLP-1U) | Cynet Systems | California | 2026-06-30 |
-| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv000000xbznea4-data-analyst-lake-forest-illinois/) | Brooksource | Lake Forest, Illinois | 2026-06-30 |
-| [Software Engineer IV (iOS Sr. SE)](https://jobs.brooksource.com/jobs/job/a1wcv000000uszleag-software-engineer-iv-ios-sr-se-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-06-30 |
+| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/p_uSIUiZNMCzeCyzjfLVsd6Ya_e_tuhpAVYxFnfiuMk) | Cynet Systems | Texas | 2026-06-30 |
+| [Microservices Developers](https://candidateportal.ceipal.com/job-details/nytVGa-uuq5se3bF6aIzkTzmncsYMYEMekaemaDJR5E) | Cynet Systems | Pennsylvania | 2026-06-30 |
+| [Android Developer [Triage Engineering]](https://candidateportal.ceipal.com/job-details/tKuS078IWsNhyD1BtPlEmo1pBHowhWXDU9L2nVPM-1c) | Cynet Systems | California | 2026-06-30 |
+| [Senior Cloud AI Architect](https://candidateportal.ceipal.com/job-details/OBZbwYr8r0Pu_2vHTYyKEu8YBt4TqmUDWUkhTEQYiv0) | Cynet Systems | Georgia | 2026-06-30 |
+| [Java Developer with AWS](https://candidateportal.ceipal.com/job-details/DKLqL7wMekhntWrcNO5wOP9IPgjuc8PRQvzfm7orLUo) | Cynet Systems | Texas | 2026-06-30 |
+| [IOS Developer with Android Exp](https://candidateportal.ceipal.com/job-details/VXwmiMxGQcAaL2TeH9GLic6fkY5PAq5dZ6JKlS04104) | Cynet Systems | New Jersey | 2026-06-30 |
+| [Lead Mainframe Developer](https://candidateportal.ceipal.com/job-details/n7g7k4Kllf0mrzsTcPtqpvqponwTQyxyRrnmdntiky8) | Cynet Systems | New Jersey | 2026-06-30 |
+| [AI/ML Architect](https://candidateportal.ceipal.com/job-details/NkpfYq658Z7S0lfx8HUVNh4p3IdUr5j7l6wgW2Gql8o) | Cynet Systems | California | 2026-06-30 |
+| [Data Architect](https://candidateportal.ceipal.com/job-details/Vz1bShjeHM5tMG9VbRs3G19FdDRJ9uJrsGj7Y413KEg) | Cynet Systems | New York | 2026-06-30 |
+| [Principal AI Architect](https://candidateportal.ceipal.com/job-details/9wiQVZWcAk4Loq05jc5llb_z4RcUbFoHXFLWR7dN87A) | Cynet Systems | California | 2026-06-30 |
+| [Data Engineer](https://candidateportal.ceipal.com/job-details/DkqEh5zjAyOjdpB1aZyvhym4QIf5ObRDWo5anWqzCxo) | Cynet Systems | California | 2026-06-30 |
+| [Senior Agentic Platform Engineer](https://candidateportal.ceipal.com/job-details/OIkq5raf3IfFr-Z9ntGUKP4L0o8YMNnQX5ptvVaTMos) | Cynet Systems | Texas | 2026-06-30 |
+| [AI Architectcont](https://candidateportal.ceipal.com/job-details/8QCbw0pJDcJCsxEMZASriPSumDJ5thQzPbTi1Em0ppY) | Cynet Systems | California | 2026-06-30 |
+| [Data Engineer - Snowflake / AWS](https://candidateportal.ceipal.com/job-details/aTaYuwQZX5a7BFinESdbEO_w8BFdyxSxTjIP1Fv03Po) | Cynet Systems | Oregon | 2026-06-30 |
+| [Data Architect and Modeler](https://candidateportal.ceipal.com/job-details/oa2DTNmF0UiGKShIqhg-_ryFVNq7Ubt6AWEpxXF_kLE) | Cynet Systems | Georgia | 2026-06-30 |
+| [Python Backend Developer](https://candidateportal.ceipal.com/job-details/QjhEiQM0XZDXfm0rx1piAUyq6mUoyu6O2Y6OG914Ths) | Cynet Systems | California | 2026-06-30 |
+| [Gen AI Developer](https://candidateportal.ceipal.com/job-details/E9gjFgI6kYSOgZ1YNZu808Yj2Sf_X6YbhegWlRVwR8w) | Cynet Systems | Tennessee | 2026-06-30 |
+| [AI Platform Architect](https://candidateportal.ceipal.com/job-details/ZEr5bL4AMtO9ESYdf6mM5puFn1dKMCx5_pk7y4AZxgs) | Cynet Systems | Tennessee | 2026-06-30 |
+| [Markit EDM Developer](https://candidateportal.ceipal.com/job-details/vr5wgxdkpVUcANY7PWHCsN0DQZ-k0VH-IRAYvKYnSjw) | Cynet Systems | South Carolina | 2026-06-30 |
+| [Senior OMS Developer with Java Backend](https://candidateportal.ceipal.com/job-details/_34n5uFTLpXhSvD-PdCIeixEmsXPK_LT44MkQXbMoxk) | Cynet Systems | Ohio | 2026-06-30 |
+| [Snowflake Solutions Architect](https://candidateportal.ceipal.com/job-details/V5IeyjheYqJmExVKd9QZkDHOjrnal7GTiJA6J4nD0uM) | Cynet Systems | New Jersey | 2026-06-30 |
+| [Python Developer](https://candidateportal.ceipal.com/job-details/CoI4F921E2eisze-JBHPglkUWX4y_OgFFDfekq9q28Y) | Cynet Systems | Georgia | 2026-06-30 |
+| [Dotnet Developer](https://candidateportal.ceipal.com/job-details/--fEUc04pqTsy67K9ZsMASBYRaNnerZar5_uswRrX0s) | Cynet Systems | North Carolina | 2026-06-30 |
+| [Mumps Developer](https://candidateportal.ceipal.com/job-details/rD60rHuxAlT6C1VQiIYOcyQaNMb6Cz3BtIlRTTYXBjI) | Cynet Systems | Georgia | 2026-06-30 |
+| [Data Analyst](https://candidateportal.ceipal.com/job-details/BIf4OJ8fqActNeDSevcOUlVlzbdg86cnJxQ5Bzp145c) | Cynet Systems | New Jersey, North Carolina | 2026-06-30 |
+| [Python Lead Developer](https://candidateportal.ceipal.com/job-details/fBYDUCc5Sb_sKg6dxSR7N3-37MmRXEsQNsyrx6lz6AE) | Cynet Systems | Texas | 2026-06-30 |
+| [Senior Full Stack Angular Engineer](https://candidateportal.ceipal.com/job-details/VUIrI3_eqp8Madvj6Wb3Iiqstqz8TG5hHO9M76qjm7s) | Cynet Systems | Minnesota | 2026-06-30 |
+| [Copilot Studio Developer (AI & M365 Agents)](https://candidateportal.ceipal.com/job-details/cUoqpDii6hiLfyz8xIi3SeIMXwznLwvTmHKrygYa5_o) | Cynet Systems | Minnesota | 2026-06-30 |
+| [DevOps Engineer](https://candidateportal.ceipal.com/job-details/Q9boWHI61HelyJZn9K0MiMxeP9kCiDos3WoLCPe4JBA) | Cynet Systems | California | 2026-06-30 |
+| [SENIOR AI PLATFORM ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-ai-platform-engineer-bristol/) | Harnham | — | 2026-06-30 |
+| [Fabrication Programmer](https://www.goodwinrecruiting.com/job/a0wr7000002n6r7maa-fabrication-programmer-toledo-ohio) | Goodwin Recruiting | — | 2026-06-30 |
 <!-- JOBS:END -->
 
 ## How it works
