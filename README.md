@@ -27,46 +27,32 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 27 new roles this update · 3779 tracked total · updated `2026-07-01T01:19:13+00:00`
+### 🆕 16 new roles this update · 3795 tracked total · updated `2026-07-01T04:47:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 14 |
-| Motion Recruitment | 6 |
-| TEKsystems | 3 |
-| Insight Global | 2 |
-| Kforce | 1 |
-| Njoyn (CGI) | 1 |
+| TEKsystems | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Machine Learning Operations (MLOps) Engineer](http://www.kforce.com/Jobs/1696~WQG~2179513T1~99/) | Kforce | Phoenix, AZ | 2026-07-01 |
-| [Software Engineer (.NET/C#)](https://careers.teksystems.com/us/en/job/JP-006127830/Software-Engineer-NET-C) | TEKsystems | Milwaukee, Wisconsin | 2026-07-01 |
-| [DevOps & Cloud Engineer II-AWS (Remote)](https://careers.teksystems.com/us/en/job/JP-006127894/DevOps-Cloud-Engineer-II-AWS-Remote) | TEKsystems | Dallas, Texas | 2026-07-01 |
-| [Healthcare Data Analyst](https://careers.teksystems.com/us/en/job/JP-006127791/Healthcare-Data-Analyst) | TEKsystems | Birmingham, Alabama | 2026-07-01 |
-| [Senior AI Engineer - LATAM](https://jobs.insightglobal.com/jobs/find_a_job/california/san-diego/senior-ai-engineer-latam/job-547416/) | Insight Global | San Diego, CA | 2026-07-01 |
-| [Data Analyst](https://jobs.insightglobal.com/jobs/find_a_job/colorado/englewood/data-analyst/job-547241/) | Insight Global | Englewood, CO | 2026-07-01 |
-| [Oracle Integration Cloud Developer / Remote](https://motionrecruitment.com/tech-jobs/chicago/contract/oracle-integration-cloud-developer-remote/881322) | Motion Recruitment | Chicago, Illinois | 2026-07-01 |
-| [Tableau Developer](https://motionrecruitment.com/tech-jobs/rutherford/contract/tableau-developer/881612) | Motion Recruitment | Rutherford, New Jersey | 2026-07-01 |
-| [PySpark Data Engineer](https://motionrecruitment.com/tech-jobs/rutherford/contract/pyspark-data-engineer/881610) | Motion Recruitment | Rutherford, New Jersey | 2026-07-01 |
-| [Database Developer](https://motionrecruitment.com/tech-jobs/rutherford/contract/database-developer/881614) | Motion Recruitment | Rutherford, New Jersey | 2026-07-01 |
-| [Senior AI Engineer / Rapidly Growing / Hybrid in Chicago / Energy Sector](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-ai-engineer-rapidly-growing-hybrid-in-chicago-energy-sector/878262) | Motion Recruitment | Chicago, Illinois | 2026-07-01 |
-| [Software Engineer](https://motionrecruitment.com/tech-jobs/houston/contract/software-engineer/878640) | Motion Recruitment | Houston, Texas | 2026-07-01 |
-| [Director - Forward Deployed Engineering](https://candidateportal.ceipal.com/job-details/_vLpwGRm5-7CMUZUNtHKoc65OtbaRrMVnC_yH2bwGbI) | Cynet Systems | California | 2026-07-01 |
-| [Conversational AI Data Analyst – Python](https://candidateportal.ceipal.com/job-details/4RHOTK7PlBt65KvfdL-fcfwk3l1BxylKnRpGH-Pvu5k) | Cynet Systems | Texas | 2026-07-01 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/iTXtubwinVHj4-qbl34p1_URYWDl8FAjrvJasiKalU4) | Cynet Systems | Texas | 2026-07-01 |
-| [Data Analytics & Observability/ Site Reliability Engineer](https://candidateportal.ceipal.com/job-details/3NHOuvLBMS2i5fh-xIwQOhXi_ZPqRhYrsqzLG6F80AM) | Cynet Systems | North Carolina | 2026-07-01 |
-| [Java Technical Architect](https://candidateportal.ceipal.com/job-details/riy4rb0ZJpLrYAvWOIk8UCShDGWGq8nhbmcGKGvI3VA) | Cynet Systems | Texas | 2026-07-01 |
-| [AWS Lead Developer](https://candidateportal.ceipal.com/job-details/rsfe3L1HHv-Ss_dq4CbXfqt1JHbmof7JStR3HeHBg0k) | Cynet Systems | Texas | 2026-07-01 |
-| [API Developer with AWS experience](https://candidateportal.ceipal.com/job-details/fh8ZD-TVqXUlL6ePH5wZSDfHF7q3ydeuBHyDyGgUpDw) | Cynet Systems | Texas | 2026-07-01 |
-| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/jldP43idSYL4kwDTgTFj-8b5_FyYRNCZf9klTskpeec) | Cynet Systems | Texas | 2026-07-01 |
-| [Microservices Developers](https://candidateportal.ceipal.com/job-details/0UBhR8vBkR6f5ok1JeUqjQLKObyNi87NRovj7HBq-Wg) | Cynet Systems | Pennsylvania | 2026-07-01 |
-| [Android Developer [Triage Engineering]](https://candidateportal.ceipal.com/job-details/rzwvH7_0pnYRxRtx1EEbU-z_HTw4TiisK5HDFMcIzgk) | Cynet Systems | California | 2026-07-01 |
-| [Senior Cloud AI Architect](https://candidateportal.ceipal.com/job-details/u6yg14LYPQXQFzqshFDg6M5EmtVKn0yjmeBuBTRUEWA) | Cynet Systems | Georgia | 2026-07-01 |
-| [Java Developer with AWS](https://candidateportal.ceipal.com/job-details/QndHmh4PjGifGV1AGauEa0f8nwTCdqhPydG59rnH8T8) | Cynet Systems | Texas | 2026-07-01 |
-| [IOS Developer with Android Exp](https://candidateportal.ceipal.com/job-details/one9gS6EUk7BVoK3HS6kIry2FiBb1JkW_9ovDR9xr28) | Cynet Systems | New Jersey | 2026-07-01 |
-| [Lead Mainframe Developer](https://candidateportal.ceipal.com/job-details/_3erkAYccnqFXTEdaw-D8mfTeih-qE54OF9oz221aB0) | Cynet Systems | New Jersey | 2026-07-01 |
-| [Sr. AI Technology IT Support Specialist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-2711&BRID=1312809&lang=1) | Njoyn (CGI) | Baltimore, United States | 2026-07-01 |
+| [AI Knowledge Systems Specialist](https://careers.teksystems.com/us/en/job/JP-006127793/AI-Knowledge-Systems-Specialist) | TEKsystems | Seattle, Washington | 2026-07-01 |
+| [Mobile Developer Iii](https://www.roberthalf.com/us/en/job/providence-ri/mobile-developer-iii/02130-0013445252-usen) | Robert Half | Providence, 02130 | 2026-07-01 |
+| [Director - Forward Deployed Engineering](https://candidateportal.ceipal.com/job-details/RFuVaYpJ2dC9D952Vj0eGv4j8Oeav-EX4KoM3nJ0rbM) | Cynet Systems | California | 2026-07-01 |
+| [Conversational AI Data Analyst – Python](https://candidateportal.ceipal.com/job-details/xs0IK44TIuluVkOwe9ZPZczfhPFWBIpSHpYeD2m_7W0) | Cynet Systems | Texas | 2026-07-01 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/Ex-9oDwvGf2X_d7G33JAXdOs49QjHbcam0sfmkpimUA) | Cynet Systems | Texas | 2026-07-01 |
+| [Data Analytics & Observability/ Site Reliability Engineer](https://candidateportal.ceipal.com/job-details/olT9MMCUdDmsfz8MkCACeS81CCLXb0zD5xW7TvwirTI) | Cynet Systems | North Carolina | 2026-07-01 |
+| [Java Technical Architect](https://candidateportal.ceipal.com/job-details/_XuXrCRorQZ7PKnhFOayV3YrJgAOKm8qQrRwNHxGl1A) | Cynet Systems | Texas | 2026-07-01 |
+| [AWS Lead Developer](https://candidateportal.ceipal.com/job-details/2ZB7bKx1fJyJbuKX3lsPnVqFfX9onHketjWlUuBXu9k) | Cynet Systems | Texas | 2026-07-01 |
+| [API Developer with AWS experience](https://candidateportal.ceipal.com/job-details/QhiDt0x-qsUQp90o2E62JP9X9V-jCWyXB99hP6nieBk) | Cynet Systems | Texas | 2026-07-01 |
+| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/tsLOHhvCMA_9IXhqtncqqTBhweLSPBsprB5ZqOQIKcY) | Cynet Systems | Texas | 2026-07-01 |
+| [Microservices Developers](https://candidateportal.ceipal.com/job-details/tuo2UsOlWMXoBX5bR41X-U_jT2Vrtvzpg6Ps35P0NNE) | Cynet Systems | Pennsylvania | 2026-07-01 |
+| [Android Developer [Triage Engineering]](https://candidateportal.ceipal.com/job-details/ERtrBdGcZeGVy07WtnSBDxtvKQlUuLGymbUK9-gS_nY) | Cynet Systems | California | 2026-07-01 |
+| [Senior Cloud AI Architect](https://candidateportal.ceipal.com/job-details/dsaDtQ0XV0N_qXTdDUu-F6E33_4M7J_FjKnzJ0r5aII) | Cynet Systems | Georgia | 2026-07-01 |
+| [Java Developer with AWS](https://candidateportal.ceipal.com/job-details/DnFDbBMs6o96Mzuk3AwDK2suP32J5jN6UTnwTFN7VNE) | Cynet Systems | Texas | 2026-07-01 |
+| [IOS Developer with Android Exp](https://candidateportal.ceipal.com/job-details/-hAdD-RhuoCqBKmPaTm-KxOALG6mcCeXVx4iM8xkrSQ) | Cynet Systems | New Jersey | 2026-07-01 |
+| [Lead Mainframe Developer](https://candidateportal.ceipal.com/job-details/pZXOR3CkXO8y3PqWCv2YY1AhrqBbUKMrUlt4IbS6XFs) | Cynet Systems | New Jersey | 2026-07-01 |
 <!-- JOBS:END -->
 
 ## How it works
