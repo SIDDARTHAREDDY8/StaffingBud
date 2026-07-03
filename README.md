@@ -27,48 +27,91 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 33 new roles this update · 4312 tracked total · updated `2026-07-03T09:36:21+00:00`
+### 🆕 74 new roles this update · 4378 tracked total · updated `2026-07-03T14:25:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Robert Half | 40 |
 | Cynet Systems | 32 |
-| Robert Half | 1 |
+| Apex Systems | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Python Developer](https://www.roberthalf.com/us/en/job/greer-sc/python-developer/03230-0013447291-usen) | Robert Half | Greer, 03230 | 2026-07-03 |
-| [Lead Gen AI / Agentic AI Engineer](https://candidateportal.ceipal.com/job-details/X13vTcKwpdprZ0qqJuoyKaJBJffAmWSRzG8mmBvcQI8) | Cynet Systems | North Carolina | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/odEHol8vd53sxJI7AL0vMR6OCNkQnAWHRFvgYffdVZM) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/_no6Ve0xPXwZvnU4qRipQesHG8flcfchiIL3ArqwCJs) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/2c2hgcqHidSm8Xw7PokPiUoOKdsXEoXNpwPVdKpCVEs) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/FINuvqMf6r74obb42DtDzqe6vj9Ht0M3v-Ez7k7HMFc) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/bhPVvL8MLqSMIz8HaEmkDa_-AKeRaVCWAnRtTt0fEu4) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/Tu_k5WWyYQfYnR1wx12j-i6OrF_-SGreQoFCf17kxWA) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
-| [Operations Data Analyst](https://candidateportal.ceipal.com/job-details/9EvGNUOl1kYO4akW5xZlPwhuAMuaxQqFu2iJbM0eUrM) | Cynet Systems | California | 2026-07-03 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/f0eZ8NAytePLgb1GwFLDPjZVkhD2z343oZIm5fWZAF4) | Cynet Systems | Arizona | 2026-07-03 |
-| [Senior Java Developer](https://candidateportal.ceipal.com/job-details/s1DlYdKHIGjxrtJwj0VQbKuTqYCgWh1Q6yAT-G5HlP8) | Cynet Systems | Texas | 2026-07-03 |
-| [Lead Python Automation Developer](https://candidateportal.ceipal.com/job-details/BbW8A6sI6rm5n0GEb1PwkpDViJulJuGUc8PPidE9ZpQ) | Cynet Systems | Texas | 2026-07-03 |
-| [Senior Snowflake Data Engineer](https://candidateportal.ceipal.com/job-details/GciivmFykDGlv8F_Sck7C7fbi4f3XhoJl1bocVlqPhA) | Cynet Systems | New York | 2026-07-03 |
-| [AI/ML Engineer](https://candidateportal.ceipal.com/job-details/5I7VgwVC8Umnh7ukUWFlBbLXqv3e9ig7dAnKpcYfGGY) | Cynet Systems | California | 2026-07-03 |
-| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/W76FJ4WEov4V5tXsw_yym9pm-t0wc0zG4a741EiOulM) | Cynet Systems | Texas | 2026-07-03 |
-| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/TLt2tZ2IfJzIwC_ltwddOaVYKDu3NUdV7lFjEyx0SKM) | Cynet Systems | Texas | 2026-07-03 |
-| [Data Engineer (ETL/ELT)](https://candidateportal.ceipal.com/job-details/7_J7sBuXHSYjUNUSX_bjl7TvL05QNsGsSqysGv0ZS9Y) | Cynet Systems | Texas | 2026-07-03 |
-| [Senior Azure Devops Engineer](https://candidateportal.ceipal.com/job-details/aeb_RaLIjmxSN2w6IbB77wCEd2lGEzRBprpjipjbznc) | Cynet Systems | Texas | 2026-07-03 |
-| [Software Engineer](https://candidateportal.ceipal.com/job-details/bh6DTu6EEuuwXDP8_cHMNvQXemZH6a85CXp4qoEp36c) | Cynet Systems | Texas | 2026-07-03 |
-| [Oracle ADF Developer with Java](https://candidateportal.ceipal.com/job-details/fHuvn-oYsddh1m0rzwEjWQG4qCx-fvnPTzqHd4-xQ5I) | Cynet Systems | California, Georgia | 2026-07-03 |
-| [Mid-Level Cybersecurity Engineer](https://candidateportal.ceipal.com/job-details/wLnLbKB_w20GB65jovyXzladhVFaqTTaMZOal_APuvE) | Cynet Systems | Virginia | 2026-07-03 |
-| [Senior Cybersecurity Engineer](https://candidateportal.ceipal.com/job-details/txYebGGnNPwM1P9tZ9JeghDSt7zKXc-fyUNK9Aj2XwI) | Cynet Systems | Virginia | 2026-07-03 |
-| [MS Dynamics 365 Developer](https://candidateportal.ceipal.com/job-details/uUnuzZYTYnLFMUcpxvHOsg2imvdidRZBG1NiOlNSLfU) | Cynet Systems | Mississippi | 2026-07-03 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/5QryQTGnD0slFXf8erm2_asAQ3O7HT4I00Cbi0FKvEM) | Cynet Systems | Texas | 2026-07-03 |
-| [Director - Forward Deployed Engineering](https://candidateportal.ceipal.com/job-details/bMuFYWKd6r6k-Q-2Wi9iF4LiPAd9iUyu8nmCqqlN_Xw) | Cynet Systems | California | 2026-07-03 |
-| [Conversational AI Data Analyst – Python](https://candidateportal.ceipal.com/job-details/qvDXxkeoqjzgyMe5JvC0E1PCfY06wW7M6ubiaLYkBGw) | Cynet Systems | Texas | 2026-07-03 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/71ZsPu0OZ2W-s9gXmwExJTSs6KzHQO_pIhgNgQn56XE) | Cynet Systems | Texas | 2026-07-03 |
-| [Data Analytics & Observability/ Site Reliability Engineer](https://candidateportal.ceipal.com/job-details/AO0ZUoKqOTEg9etZQwCPP4QcenQAcTIlUB5U2Nq1lnw) | Cynet Systems | North Carolina | 2026-07-03 |
-| [Java Technical Architect](https://candidateportal.ceipal.com/job-details/hp47kEUJ_GSq-3mxBGZmchoARdNrV2jnbjLE6TealBg) | Cynet Systems | Texas | 2026-07-03 |
-| [AWS Lead Developer](https://candidateportal.ceipal.com/job-details/jJ9du9q8xdJDHeDjOZXJbN71rTrERbBVC2a2I3TAz0U) | Cynet Systems | Texas | 2026-07-03 |
-| [API Developer with AWS experience](https://candidateportal.ceipal.com/job-details/r-glWHBM2aDNuV40JsUwZKAWzxOyfFQz87xkKriv0pE) | Cynet Systems | Texas | 2026-07-03 |
-| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/AMrMNV4_ouWylPPkJks_Y4QXiXIYYFbd5IO_-gn54NA) | Cynet Systems | Texas | 2026-07-03 |
-| [Microservices Developers](https://candidateportal.ceipal.com/job-details/feJDDa6GzAWwMEXtFL-tGb7vNpvWJvMwGrR383yjmTY) | Cynet Systems | Pennsylvania | 2026-07-03 |
+| [GENAI CCAS Application Developer](https://www.apexsystems.com/job/3040933_usa/genai-ccas-application-developer) | Apex Systems | Gaithersburg, MD | 2026-07-03 |
+| [Devops Engineer Mobile First](https://www.roberthalf.com/us/en/job/kansas-city-mo/devops-engineer-mobile-first/01500-0013425663-usen) | Robert Half | Kansas City, 01500 | 2026-07-03 |
+| [Data Analyst Iv Lead](https://www.roberthalf.com/us/en/job/mequon-wi/data-analyst-iv-lead/00610-0013441848-usen) | Robert Half | Thiensville, 00610 | 2026-07-03 |
+| [Senior Database Engineer](https://www.roberthalf.com/us/en/job/salt-lake-city-ut/senior-database-engineer/04820-0013401011-usen) | Robert Half | Salt Lake City, 04820 | 2026-07-03 |
+| [Full Stack Java Developer Junior Mid Level](https://www.roberthalf.com/us/en/job/des-moines-ia/full-stack-java-developer-junior-mid-level/01500-0013453815-usen) | Robert Half | Des Moines, 01500 | 2026-07-03 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/king-prussia-pa/cloud-engineer/03710-0013421240-usen) | Robert Half | Norristown, 03710 | 2026-07-03 |
+| [Cloud Architect Lead Ii](https://www.roberthalf.com/us/en/job/providence-ri/cloud-architect-lead-ii/03710-0013429911-usen) | Robert Half | Providence, 03710 | 2026-07-03 |
+| [Sr Fe React Software Engineer](https://www.roberthalf.com/us/en/job/johnston-ia/sr-fe-react-software-engineer/01500-0013455674-usen) | Robert Half | Johnston, 01500 | 2026-07-03 |
+| [Senior Servicenow Platform Engineer](https://www.roberthalf.com/us/en/job/king-prussia-pa/senior-servicenow-platform-engineer/03710-0013450929-usen) | Robert Half | Norristown, 03710 | 2026-07-03 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/sr-software-engineer/01120-0013446297-usen) | Robert Half | Jacksonville, 01120 | 2026-07-03 |
+| [Data Ml Platform Engineer Manager](https://www.roberthalf.com/us/en/job/inglewood-ca/data-ml-platform-engineer-manager/00320-0013415399-usen) | Robert Half | Inglewood, 00320 | 2026-07-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/chicago-il/data-engineer/01300-0013454801-usen) | Robert Half | Chicago, 01300 | 2026-07-03 |
+| [Bi Developer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/bi-developer/01000-9504355699-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-07-03 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/farmington-ct/data-analyst/04838-0013453919-usen) | Robert Half | Farmington, 04838 | 2026-07-03 |
+| [Software Engineer Data Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/software-engineer-data-engineer/02940-0013455582-usen) | Robert Half | New York, 02940 | 2026-07-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/data-engineer/00320-0013431244-usen) | Robert Half | West Los Angeles, 00320 | 2026-07-03 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/delaware-oh/software-engineer/03410-0013449226-usen) | Robert Half | Delaware, 03410 | 2026-07-03 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/san-antonio-tx/software-developer/04080-0013434245-usen) | Robert Half | San Antonio, 04080 | 2026-07-03 |
+| [Sr Software Engineerpython](https://www.roberthalf.com/us/en/job/johnston-ia/sr-software-engineerpython/01500-0013455654-usen) | Robert Half | Johnston, 01500 | 2026-07-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/englewood-co/data-engineer/00610-0013452775-usen) | Robert Half | Centennial, 00610 | 2026-07-03 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/nashville-tn/software-developer/03930-0013453631-usen) | Robert Half | Nashville, 03930 | 2026-07-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/data-engineer/03900-9504357867-usen) | Robert Half | Memphis, 03900 | 2026-07-03 |
+| [Web Developer](https://www.roberthalf.com/us/en/job/delray-beach-fl/web-developer/01020-0013454794-usen) | Robert Half | Delray Beach, 01020 | 2026-07-03 |
+| [Cobol Developer Platform Administrator](https://www.roberthalf.com/us/en/job/urbandale-ia/cobol-developer-platform-administrator/01500-0013419537-usen) | Robert Half | Des Moines, 01500 | 2026-07-03 |
+| [Data Analytics Lead](https://www.roberthalf.com/us/en/job/ft-lauderdale-fl/data-analytics-lead/01000-0013422338-usen) | Robert Half | Tallahassee, 01000 | 2026-07-03 |
+| [Oracle Fast Formula Developer](https://www.roberthalf.com/us/en/job/boca-raton-fl/oracle-fast-formula-developer/01000-0013421032-usen) | Robert Half | Boca Raton, 01000 | 2026-07-03 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/orlando-fl/erpcrm-developer/01030-0013383727-usen) | Robert Half | Orlando, 01030 | 2026-07-03 |
+| [Data Architect](https://www.roberthalf.com/us/en/job/phoenix-az/data-architect/00210-9504358136-usen) | Robert Half | Glendale, 00210 | 2026-07-03 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/norton-shores-mi/software-developer/02220-0013456292-usen) | Robert Half | Muskegon, 02220 | 2026-07-03 |
+| [Power Bi Data Programmer Analyst](https://www.roberthalf.com/us/en/job/tampa-fl/power-bi-data-programmer-analyst/01070-0013456538-usen) | Robert Half | Tampa, 01070 | 2026-07-03 |
+| [Ai Analytics Platform Manager](https://www.roberthalf.com/us/en/job/nashville-tn/ai-analytics-platform-manager/03930-0013342770-usen) | Robert Half | Nashville, 03930 | 2026-07-03 |
+| [Business Intelligence Bi Developer](https://www.roberthalf.com/us/en/job/dania-beach-fl/business-intelligence-bi-developer/01000-0013456560-usen) | Robert Half | Dania, 01000 | 2026-07-03 |
+| [Lead Net Developer](https://www.roberthalf.com/us/en/job/clearwater-fl/lead-net-developer/01070-0013356971-usen) | Robert Half | Belleair, 01070 | 2026-07-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/little-rock-ar/data-engineer/03900-9504357874-usen) | Robert Half | Jonesboro, 03900 | 2026-07-03 |
+| [Healthcare Sqlpython Data Analyst](https://www.roberthalf.com/us/en/job/sarasota-fl/healthcare-sqlpython-data-analyst/01070-0013412826-usen) | Robert Half | Sarasota, 01070 | 2026-07-03 |
+| [Power Bi Data Engineer](https://www.roberthalf.com/us/en/job/niceville-fl/power-bi-data-engineer/01070-0013389845-usen) | Robert Half | Niceville, 01070 | 2026-07-03 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/newark-nj/data-analyst/02680-0013456507-usen) | Robert Half | Newark, 02680 | 2026-07-03 |
+| [Senior Teamcenter Developer](https://www.roberthalf.com/us/en/job/irvine-ca/senior-teamcenter-developer/00320-9504357859-usen) | Robert Half | Irvine, 00320 | 2026-07-03 |
+| [Devops Engineer](https://www.roberthalf.com/us/en/job/eden-prairie-mn/devops-engineer/01500-0013419532-usen) | Robert Half | Eden Prairie, 01500 | 2026-07-03 |
+| [Senior Software Developer](https://www.roberthalf.com/us/en/job/woodbury-mn/senior-software-developer/02310-0013458264-usen) | Robert Half | Woodbury, 02310 | 2026-07-03 |
+| [Director Data Analyticsai](https://www.roberthalf.com/us/en/job/san-antonio-tx/director-data-analyticsai/04080-0013457838-usen) | Robert Half | San Antonio, 04080 | 2026-07-03 |
+| [Lead Gen AI / Agentic AI Engineer](https://candidateportal.ceipal.com/job-details/F74RBhJoyanPzF9fZsBymE45zIH37tgz3_Jqwsq1rzM) | Cynet Systems | North Carolina | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/rmXLsQst6iqGc9BmdpBI6NO7_iehAhulMGoeJ5dAyrA) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/8HXYI5yuWzwQeQAHfjT9CzxHg0UgWBcUMC9xHswIFRg) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/7q5zgCWWJPRL2nnp6MJOZ3ilYhpROqhfTM_Nxp1-Cyw) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/-L1NcWIjBtW2azV1U2sH7KDpLfN64S1ubwLwiYtohmM) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/aYqxpS8H8IZaOP8JUZupooLK3Cf9TsC5DmjIcIf-8xY) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Mainframe Programmer](https://candidateportal.ceipal.com/job-details/uugP-AuV9Xbu9-k8ef5itYa0Kbs4jNFZitmELMyYvOg) | Cynet Systems | Georgia, Illinois, Minnesota, Texas, Wisconsin | 2026-07-03 |
+| [Operations Data Analyst](https://candidateportal.ceipal.com/job-details/pb0WDO275Wari_bWynV0D2QmDZjmn6xL91EjZDEd-eQ) | Cynet Systems | California | 2026-07-03 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/ZuNc8KLz50PhxDyg_DFJYvmQy-X2M6lhOmeeOkp2XIE) | Cynet Systems | Arizona | 2026-07-03 |
+| [Senior Java Developer](https://candidateportal.ceipal.com/job-details/5q4IxTGH21l6R24Wl63qS8b6JeTmbb35w2M3FXaoZQM) | Cynet Systems | Texas | 2026-07-03 |
+| [Lead Python Automation Developer](https://candidateportal.ceipal.com/job-details/jIsnFfT4ESuF14HbSH2hRySXa8z0v6jTEFwp1swdxzQ) | Cynet Systems | Texas | 2026-07-03 |
+| [Senior Snowflake Data Engineer](https://candidateportal.ceipal.com/job-details/yM6nv3eJjzxhV8n9A0wiXwsCrxHf_ye_kJtCNximklo) | Cynet Systems | New York | 2026-07-03 |
+| [AI/ML Engineer](https://candidateportal.ceipal.com/job-details/PCVQDDX46s7R5Ct64mRj4aE3ej2vrmej-McGGoOiJlc) | Cynet Systems | California | 2026-07-03 |
+| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/lHXGj10fOZYYswgulwDBXEJObQBVx8ANzwbN9AXb9F4) | Cynet Systems | Texas | 2026-07-03 |
+| [Senior AWS DevOps Engineer](https://candidateportal.ceipal.com/job-details/Y0TfKMoRArUzMOOIJCKpAVd54rFCI8LNhe2VBU0wrhw) | Cynet Systems | Texas | 2026-07-03 |
+| [Data Engineer (ETL/ELT)](https://candidateportal.ceipal.com/job-details/UQlAs7ovw4Gnh5ww6ny9xZCIr2OCx9U5TF6Crrpw61M) | Cynet Systems | Texas | 2026-07-03 |
+| [Senior Azure Devops Engineer](https://candidateportal.ceipal.com/job-details/UPF64jnROWXnel8w5Ixrtkd25tCBoQtLEqiPjHlNQ8M) | Cynet Systems | Texas | 2026-07-03 |
+| [Software Engineer](https://candidateportal.ceipal.com/job-details/yPgJkgm6TB7ThI2SUn1-qZGb4x6x5J404pgy4_OVq_I) | Cynet Systems | Texas | 2026-07-03 |
+| [Oracle ADF Developer with Java](https://candidateportal.ceipal.com/job-details/Tkj75yvuAWsQUOX64ms7CqZQwao8ogDFbta2OEWHsW4) | Cynet Systems | California, Georgia | 2026-07-03 |
+| [Mid-Level Cybersecurity Engineer](https://candidateportal.ceipal.com/job-details/xD0zgrDRZydhNCCqQmPD65MSWAeIgnLBG-kUcGrwH7E) | Cynet Systems | Virginia | 2026-07-03 |
+| [Senior Cybersecurity Engineer](https://candidateportal.ceipal.com/job-details/LvmptghrgvRcT-LSVZqawGSZC2pNw9NdgRvCcL62e98) | Cynet Systems | Virginia | 2026-07-03 |
+| [MS Dynamics 365 Developer](https://candidateportal.ceipal.com/job-details/nbm_WUAcPDC8GCCfga9V83HuidF3BTezTi2naZ3A-aI) | Cynet Systems | Mississippi | 2026-07-03 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/QjThBUI3K6ClDdrfFbDj7wq-qNWHeU1R0YfvIua5ZNw) | Cynet Systems | Texas | 2026-07-03 |
+| [Director - Forward Deployed Engineering](https://candidateportal.ceipal.com/job-details/n2ERJ0jf6XlzxaAydcesWlHd9hTnEijCrDOtfb-OMoI) | Cynet Systems | California | 2026-07-03 |
+| [Conversational AI Data Analyst – Python](https://candidateportal.ceipal.com/job-details/EZeZkBssivir_KEnkmC7EM-AxYkYUmdMdvoboP4lan4) | Cynet Systems | Texas | 2026-07-03 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/bfSYNnkdVR8VWGnSMPvsEO-Wtr9mahR1UgA7mQ8WPkU) | Cynet Systems | Texas | 2026-07-03 |
+| [Data Analytics & Observability/ Site Reliability Engineer](https://candidateportal.ceipal.com/job-details/jcXIFYKfVe4_KXoehG7HNAO0xOoSTEBfp1IZtUMEbR8) | Cynet Systems | North Carolina | 2026-07-03 |
+| [Java Technical Architect](https://candidateportal.ceipal.com/job-details/tHE8eFd8BuNfrDqV7n8tj0oT3huZONXnBgeyPSZnD34) | Cynet Systems | Texas | 2026-07-03 |
+| [AWS Lead Developer](https://candidateportal.ceipal.com/job-details/Zgf64E6NntSsFvN37jhiH1NU9QzeWNDuGErgt2U3w_Q) | Cynet Systems | Texas | 2026-07-03 |
+| [API Developer with AWS experience](https://candidateportal.ceipal.com/job-details/51BnZ_jXolDT7EgogRaUFomcDqfIaFAgDNcTAoRA7nU) | Cynet Systems | Texas | 2026-07-03 |
+| [Network Security DevOps Engineer](https://candidateportal.ceipal.com/job-details/z6pO7OZjOvuoaVXglFn3ZslW0m8MY92-Styex4J0WtE) | Cynet Systems | Texas | 2026-07-03 |
+| [Microservices Developers](https://candidateportal.ceipal.com/job-details/JfliINpDwcW7tUenbKGeLI1ZAWZF4II2ZqVrnhvcv-8) | Cynet Systems | Pennsylvania | 2026-07-03 |
+| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-nottingham-nottinghamshire/) | Harnham | — | 2026-07-03 |
 <!-- JOBS:END -->
 
 ## How it works
