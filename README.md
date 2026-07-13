@@ -27,39 +27,41 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 6413 tracked total · updated `2026-07-13T03:30:50+00:00`
+### 🆕 25 new roles this update · 6438 tracked total · updated `2026-07-13T09:47:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 23 |
-| Compunnel | 1 |
+| Insight Global | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/e85PGVTd8AJ_XgEMOIgUj5aa35-8_HHI7oXmbdRAylo) | Cynet Systems | Washington | 2026-07-13 |
-| [Senior Service Now Developer](https://candidateportal.ceipal.com/job-details/U2db8nRGZUJN-xZPU0qHnoW4fZlclqIWxwsQvl5L6LI) | Cynet Systems | Georgia | 2026-07-13 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/j9bNsHBLWAkS8LP9QmeOdJ9635ctELNJ1grSEFS7YEs) | Cynet Systems | Georgia | 2026-07-13 |
-| [DevOps Architect](https://candidateportal.ceipal.com/job-details/H0xBFR7KBvnzYjA_X20MlW_VDnyWcgalBA_b-2lLRk8) | Cynet Systems | Texas | 2026-07-13 |
-| [React Web Developer](https://candidateportal.ceipal.com/job-details/Ga7O8C-njUGbdVnNTqdEQhH8Iegm4HW0aEin-X7zUks) | Cynet Systems | Georgia | 2026-07-13 |
-| [Cloud Engineer I](https://candidateportal.ceipal.com/job-details/4MJJNsA2fZ6N4okK2WNnMwbz-T4RgXc-5LI5eUCuBok) | Cynet Systems | Virginia | 2026-07-13 |
-| [Backend Developer](https://candidateportal.ceipal.com/job-details/tBds4PsRlcLaEtvm1fax__pTAElV41GT2ipWEE4I8XM) | Cynet Systems | California | 2026-07-13 |
-| [React JS Developer](https://candidateportal.ceipal.com/job-details/FiOa5MwspVBPxqC91IAKLtMSwF-RC1vJl3-EQHv0tO4) | Cynet Systems | Georgia | 2026-07-13 |
-| [Senior Data Scientist](https://candidateportal.ceipal.com/job-details/FflBI5dHqLaz9S106meSBadSnHYY_xEKMA1LbPwR6iM) | Cynet Systems | District of Columbia | 2026-07-13 |
-| [Tableau Developer](https://candidateportal.ceipal.com/job-details/Ofvkax-L4ITdjUpcNdlY9PsuYVE9nUCoW7CTbVvB66g) | Cynet Systems | Ohio | 2026-07-13 |
-| [Senior Python Backend Engineer](https://candidateportal.ceipal.com/job-details/ksAvbux8cjiTDB1JFy6qr5HGI_S6nZq2ytfhgG6NAOI) | Cynet Systems | Georgia | 2026-07-13 |
-| [Fullstack Developer](https://candidateportal.ceipal.com/job-details/J-nIXP2AlaUazdgbTDdwucB1P6YlrdVuqxU7wyadZNE) | Cynet Systems | New Jersey | 2026-07-13 |
-| [Oracle OCI Cloud engineer](https://candidateportal.ceipal.com/job-details/UQJW9qalMsIGbZJo5pa6y2YO4ayKgY9QJ4RhzM0Xxyc) | Cynet Systems | Virginia | 2026-07-13 |
-| [Full Stack Developer (Microsoft Visual Studio/.Net & SQL)](https://candidateportal.ceipal.com/job-details/6GQNDvWlAc-xmI2izB5Pwc00ul0y3we6oHGeWJGKjuc) | Cynet Systems | Florida | 2026-07-13 |
-| [React Native Developer](https://candidateportal.ceipal.com/job-details/LS2tpfVhdE86-Upy-VnkTegZSts1hUqHo2bpdwy2zYw) | Cynet Systems | Missouri | 2026-07-13 |
-| [Full Stack Software Engineer/Machine Learning Engineer](https://candidateportal.ceipal.com/job-details/l6jt93I1BVJh3tM8WdV2pUA6AxGkI4GHDGSpa2Zv9xc) | Cynet Systems | New York | 2026-07-13 |
-| [Devops Engineer](https://candidateportal.ceipal.com/job-details/0ItCRg0Uw6KaeHf5BupYiTb1W-v36qi8-F9-DXjTPEY) | Cynet Systems | Texas | 2026-07-13 |
-| [Data Automation and Analytics Developer](https://candidateportal.ceipal.com/job-details/G7if9zdiWEABs5mKX9uRjN0qQADELxbY3MWX5WyoE_4) | Cynet Systems | California | 2026-07-13 |
-| [Azure Cloud Architect](https://candidateportal.ceipal.com/job-details/P6Z9hbVjjlI2rtUoEK-yT87oN8_rJIGvvLDC4hbH1Bw) | Cynet Systems | Texas | 2026-07-13 |
-| [OpenShift/Cloud Engineer](https://candidateportal.ceipal.com/job-details/LQHw7iMf3Fae2x9rRdJf7097rQKkVTRoo2pYk5QtSAo) | Cynet Systems | Texas | 2026-07-13 |
-| [DevOps Tools Administrator](https://candidateportal.ceipal.com/job-details/YQoch7Fcw60doyuZEZKf10xMFRHDE7UlXGkIPK3rAC0) | Cynet Systems | Texas | 2026-07-13 |
-| [AWS Cloud Engineer](https://candidateportal.ceipal.com/job-details/ITu2t46KCOcJBD5cSECJiIjpeFUe-5RsfCl9BrLwQTM) | Cynet Systems | New Jersey | 2026-07-13 |
-| [ServiceNow SecOps Developer](https://candidateportal.ceipal.com/job-details/OxZMbuIZS4Gm3ok2WwilNpZgjpqBH_Wr0jP3K8xf07E) | Cynet Systems | California | 2026-07-13 |
-| [Senior Data Scientist GenAI / RAG](https://jobs.compunnel.com/jobs/5835224) | Compunnel | Houston, Texas, United States | 2026-07-13 |
+| [Sr. Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/california/san-francisco/sr-software-engineer/job-550869/) | Insight Global | San Francisco, CA | 2026-07-13 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/n8o9p0nVdN-VPXcVCY6NVY1KHWBxxY5NWz0dBFxHr84) | Cynet Systems | Washington | 2026-07-13 |
+| [Senior Service Now Developer](https://candidateportal.ceipal.com/job-details/EAeETG_GCiywiNPM9sJtbA_u-AZWRNg1MuKEw2HOMSE) | Cynet Systems | Georgia | 2026-07-13 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/RvUNdAUF0vAjk6Vu2e8Jjgfv7gGICh7DxcjvTc0kWag) | Cynet Systems | Georgia | 2026-07-13 |
+| [DevOps Architect](https://candidateportal.ceipal.com/job-details/HpWjMIPO93YagZ-_U3j6DxCPaUXMjZt4wTAz7YN9bA8) | Cynet Systems | Texas | 2026-07-13 |
+| [React Web Developer](https://candidateportal.ceipal.com/job-details/9J6sxG7_no8gqIWVrHBDfZdNfk_v3-snPcCnNr4SSSo) | Cynet Systems | Georgia | 2026-07-13 |
+| [Cloud Engineer I](https://candidateportal.ceipal.com/job-details/Nb-Irgyg55XrMMkrIuGtDvf56OfLNgjqgISuBpAQ-78) | Cynet Systems | Virginia | 2026-07-13 |
+| [Backend Developer](https://candidateportal.ceipal.com/job-details/bGhY2GPIlXc_rCAF-klUFG73H8oUFHqhm8qDb0aRH2c) | Cynet Systems | California | 2026-07-13 |
+| [React JS Developer](https://candidateportal.ceipal.com/job-details/YXKp4jtYd4nOgrvyN2QFFt5xBHIvNAXWH-clVvphQ7Q) | Cynet Systems | Georgia | 2026-07-13 |
+| [Senior Data Scientist](https://candidateportal.ceipal.com/job-details/1rqeIhsUAzdtM10TWKoCBM-08dlExgVo9Q4ugj-OsDM) | Cynet Systems | District of Columbia | 2026-07-13 |
+| [Tableau Developer](https://candidateportal.ceipal.com/job-details/RnKRopv1TqagHdE_Fv618r6Jsz6_Op6A-msVTCcN9A0) | Cynet Systems | Ohio | 2026-07-13 |
+| [Senior Python Backend Engineer](https://candidateportal.ceipal.com/job-details/3wbeD0V6OWP3xrzqCqTCNzoNy2cTH5BjZdoBPP_4Quw) | Cynet Systems | Georgia | 2026-07-13 |
+| [Fullstack Developer](https://candidateportal.ceipal.com/job-details/GAeK1DYZQkdqJywVZDwMAU0yNxPFVoPqpYOFXpSDFhg) | Cynet Systems | New Jersey | 2026-07-13 |
+| [Oracle OCI Cloud engineer](https://candidateportal.ceipal.com/job-details/y1TI3_aU2xba4t4AYkmJ0eFp3QbSEKoPV8YDDUSH9OM) | Cynet Systems | Virginia | 2026-07-13 |
+| [Full Stack Developer (Microsoft Visual Studio/.Net & SQL)](https://candidateportal.ceipal.com/job-details/LbglRWHajjDFNT_0tPxw1H5GhY1_gp5OoVyOWFqZk9Q) | Cynet Systems | Florida | 2026-07-13 |
+| [React Native Developer](https://candidateportal.ceipal.com/job-details/0tR0dq04cvrx9trP27GO0M4wVY0Y8NRWYprAdhxX8Os) | Cynet Systems | Missouri | 2026-07-13 |
+| [Full Stack Software Engineer/Machine Learning Engineer](https://candidateportal.ceipal.com/job-details/AU2f-ojFsLVoA8NJK-Jo6kdVz84kZrDihhz3uxBM-4w) | Cynet Systems | New York | 2026-07-13 |
+| [Devops Engineer](https://candidateportal.ceipal.com/job-details/m4D6ioOqWnHTKIY-ug-SJzSplMAgQLIXgSX8bDJ8g18) | Cynet Systems | Texas | 2026-07-13 |
+| [Data Automation and Analytics Developer](https://candidateportal.ceipal.com/job-details/sXHzdLRJnMXy8obmPQ7ldhTLM1_t3NK3YnOrmmKFXok) | Cynet Systems | California | 2026-07-13 |
+| [Azure Cloud Architect](https://candidateportal.ceipal.com/job-details/hDa-lM3fxoiw6FgwKKxSStbaZ5Komj92yseDRMxzyRo) | Cynet Systems | Texas | 2026-07-13 |
+| [OpenShift/Cloud Engineer](https://candidateportal.ceipal.com/job-details/d6v918J6iZZ13GOhQj9_xYfaZOl_bfFTWOYI7hz_co0) | Cynet Systems | Texas | 2026-07-13 |
+| [DevOps Tools Administrator](https://candidateportal.ceipal.com/job-details/2J423jbByoxPD8oAT4coxNlvtXgvt5S_oXvgURfnqzs) | Cynet Systems | Texas | 2026-07-13 |
+| [AWS Cloud Engineer](https://candidateportal.ceipal.com/job-details/mRWHKMe_4f67Kg0kaXeLygLibC_-OsjSd3Rg4yIbaGA) | Cynet Systems | New Jersey | 2026-07-13 |
+| [ServiceNow SecOps Developer](https://candidateportal.ceipal.com/job-details/0CwUAx0L1ZSi2gYvpFao2LCvf_bo9uFYyBvjtOBGluU) | Cynet Systems | California | 2026-07-13 |
+| [HEAD OF AI ARCHITECTURE](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-head-of-ai-architecture-london/) | Harnham | — | 2026-07-13 |
 <!-- JOBS:END -->
 
 ## How it works
