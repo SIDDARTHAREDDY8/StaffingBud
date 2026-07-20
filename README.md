@@ -27,24 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 7989 tracked total · updated `2026-07-20T03:37:27+00:00`
+### 🟢 No new roles this update · **7987** roles open total · updated `2026-07-20T09:29:24+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Cynet Systems | 3 |
-| Compunnel | 2 |
-| Robert Half | 1 |
-| Goodwin Recruiting | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Bi Developer](https://www.roberthalf.com/us/en/job/dania-beach-fl/bi-developer/01000-9504365423-usen) | Robert Half | Dania, 01000 | 2026-07-20 |
-| [Senior GCP Data Engineer](https://candidateportal.ceipal.com/job-details/MwperGXChLHl-s_dvj1eQUZ5GVBHENE0yMn4gfpxPXE) | Cynet Systems | California | 2026-07-20 |
-| [Analyst, Data Analytics, US Portfolio Transformation MTST](https://candidateportal.ceipal.com/job-details/7wCefFb1ZsuqBLrQYEucBlUeHKDI9Vmi5mzW8Lvs5xE) | Cynet Systems | New Jersey | 2026-07-20 |
-| [Cloud Engineer with AWS](https://candidateportal.ceipal.com/job-details/7FQNa9DekJK2E2dQqAGnqupfFpAxFYVtNyyIiH3ZYi4) | Cynet Systems | Iowa | 2026-07-20 |
-| [Java Software Engineer](https://jobs.compunnel.com/jobs/5836410) | Compunnel | Boston, Massachusetts, United States | 2026-07-20 |
-| [Oracle Finance Fusion Solutions Architect](https://jobs.compunnel.com/jobs/5836612) | Compunnel | San Francisco, California, United States | 2026-07-20 |
-| [Sr. NetSuite & Business Systems Software Engineer](https://www.goodwinrecruiting.com/job/a0wr700000332rzmaq-sr-netsuite-business-systems-software-engineer-fremont-california) | Goodwin Recruiting | — | 2026-07-20 |
+Nothing new since the last run — [browse all 7987 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
