@@ -27,47 +27,76 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 22 new roles this update · 8051 tracked total · updated `2026-07-20T16:35:31+00:00`
+### 🆕 51 new roles this update · 8102 tracked total · updated `2026-07-20T19:55:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 6 |
-| Kforce | 3 |
-| TEKsystems | 3 |
-| Apex Systems | 2 |
+| Artech | 16 |
+| Cynet Systems | 14 |
+| Mindlance | 5 |
+| Robert Half | 3 |
+| Njoyn (CGI) | 3 |
+| TEKsystems | 2 |
+| ProFocus | 2 |
+| Motion Recruitment | 2 |
 | Insight Global | 1 |
-| Strategic Staffing Solutions | 1 |
-| ASK Consulting | 1 |
-| KellyMitchell | 1 |
-| Belcan | 1 |
-| Harnham | 1 |
-| Brooksource | 1 |
+| Apex Systems | 1 |
+| Net2Source | 1 |
 | Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [EDM Database Developer Admin SQL and Oracle](http://www.kforce.com/Jobs/1696~WQG~2182899T1~99/) | Kforce | Houston, TX | 2026-07-20 |
-| [Senior AI Solutions Developer](http://www.kforce.com/Jobs/1696~WQG~2182920T1~99/) | Kforce | Secaucus, NJ | 2026-07-20 |
-| [Senior Software Engineer (Storage)](http://www.kforce.com/Jobs/1696~WQG~2182915T1~99/) | Kforce | Secaucus, NJ | 2026-07-20 |
-| [EPIC Revenue Cycle Analyst - Front End](https://careers.teksystems.com/us/en/job/JP-006166984/EPIC-Revenue-Cycle-Analyst-Front-End) | TEKsystems | Chesapeake, Virginia | 2026-07-20 |
-| [Azure DevOps / Agile Delivery Lead](https://careers.teksystems.com/us/en/job/JP-006167195/Azure-DevOps-Agile-Delivery-Lead) | TEKsystems | Winston Salem, North Carolina | 2026-07-20 |
-| [Agile Project/Azure DevOps Manager](https://careers.teksystems.com/us/en/job/JP-006166902/Agile-Project-Azure-DevOps-Manager) | TEKsystems | Winston Salem, North Carolina | 2026-07-20 |
-| [Fullstack Developer](https://jobs.insightglobal.com/jobs/find_a_job/colorado/englewood/fullstack-developer/job-553753/) | Insight Global | Englewood, CO | 2026-07-20 |
-| [Web Developer](https://www.apexsystems.com/job/3042752_usa/web-developer) | Apex Systems | Redmond, WA | 2026-07-20 |
-| [Database Developer](https://www.apexsystems.com/job/3042974_usa/database-developer) | Apex Systems | Saint Paul, MN | 2026-07-20 |
-| [Ruby On Rails Developer 6 Months](https://jobs.strategicstaff.com/jobs/ruby-on-rails-developer-6-months-170445/) | Strategic Staffing Solutions | Riga, Hybrid | 2026-07-20 |
-| [IT - Senior Java FullStack Developer(microservice)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/126260/IT - Senior Java FullStack Developer(microservice)) | ASK Consulting | New York, NY, 10004 | 2026-07-20 |
-| [Frontend Developer (Angular/Node.js)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32692511#/jobs/32692511) | Artech | Dallas, TX | 2026-07-20 |
-| [Java/J2EE Developer(Local Candidates Only)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723797#/jobs/32723797) | Artech | New York, NY | 2026-07-20 |
-| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723695#/jobs/32723695) | Artech | New York, NY | 2026-07-20 |
-| [Java/J2EE Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723694#/jobs/32723694) | Artech | Atlanta, GA | 2026-07-20 |
-| [Data Engineer - Hadoop](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32722925#/jobs/32722925) | Artech | Westbrook, ME | 2026-07-20 |
-| [Machine Learning Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723387#/jobs/32723387) | Artech | Westbrook, ME | 2026-07-20 |
-| [Data Analyst IV](https://www.careers.kellymitchell.com/jobs/142430) | KellyMitchell | Greenwood Village, Colorado, 80111 | 2026-07-20 |
-| [Project Data Analyst](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366568&apply=yes&) | Belcan | East Hartford, CT | 2026-07-20 |
-| [SENIOR DATA ENGINEERING](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineering-richardson-texas/) | Harnham | Richardson, Texas | 2026-07-20 |
-| [Senior AI Solutions Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000pvo9eae-senior-ai-solutions-engineer-waukegan-illinois/) | Brooksource | Waukegan, Illinois | 2026-07-20 |
-| [Sr. Data Scientist (#786926)](https://bhsg.com/jobs/job/sr-data-scientist-786926/) | Beacon Hill | — | 2026-07-20 |
+| [ServiceNow Developer Mid-Senior- JMT](https://careers.teksystems.com/us/en/job/JP-006168000/ServiceNow-Developer-Mid-Senior-JMT) | TEKsystems | Fort Meade, Maryland | 2026-07-20 |
+| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006167656/Software-Engineer) | TEKsystems | Buffalo, New York | 2026-07-20 |
+| [Sr. Data Scientist ? Advanced Analytics & AI](https://jobs.insightglobal.com/jobs/find_a_job/texas/houston/sr-data-scientist-advanced-analytics-ai/job-554075/) | Insight Global | Houston, TX | 2026-07-20 |
+| [Platform Engineer](https://www.apexsystems.com/job/3042125_usa/platform-engineer) | Apex Systems | Merrifield, VA | 2026-07-20 |
+| [Sailpoint Identitynow Developer](https://www.roberthalf.com/us/en/job/charlotte-nc/sailpoint-identitynow-developer/03200-9504365541-usen) | Robert Half | Charlotte, 03200 | 2026-07-20 |
+| [Bi Developer](https://www.roberthalf.com/us/en/job/austin-tx/bi-developer/04160-9504365522-usen) | Robert Half | Austin, 04160 | 2026-07-20 |
+| [Full Stack Java Developer Senior](https://www.roberthalf.com/us/en/job/des-moines-ia/full-stack-java-developer-senior/01500-0013453815-usen) | Robert Half | Des Moines, 01500 | 2026-07-20 |
+| [Ansible Automation Platform Engineer](https://www.profocustechnology.com/echojobs/ansible-automation-platform-engineer-3571/) | ProFocus | — | 2026-07-20 |
+| [Fullstack Software Developer Internal Business Applications](https://www.profocustechnology.com/echojobs/fullstack-software-developer-internal-business-applications-3545/) | ProFocus | — | 2026-07-20 |
+| [Senior Angular Developer - RxJS/SaaS/Start-Up](https://motionrecruitment.com/tech-jobs/boston/direct-hire/senior-angular-developer-rxjs-saas-start-up/883019) | Motion Recruitment | Boston, MA | 2026-07-20 |
+| [Staff Engineer / Architect / AI focused start up](https://motionrecruitment.com/tech-jobs/brookline/direct-hire/staff-engineer-architect-ai-focused-start-up/883017) | Motion Recruitment | Brookline, Massachusetts | 2026-07-20 |
+| [Full Stack Developer Contractor: 3-5 years (Intermediate)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32727678#/jobs/32727678) | Artech | Dallas, TX | 2026-07-20 |
+| [SailPoint Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726608#/jobs/32726608) | Artech | Morristown, NJ | 2026-07-20 |
+| [Infrastructure Engineer Specialist - Mainframe](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32727490#/jobs/32727490) | Artech | McLean, VA | 2026-07-20 |
+| [Data Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32727335#/jobs/32727335) | Artech | Westbrook, ME | 2026-07-20 |
+| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726701#/jobs/32726701) | Artech | Chandler, AZ | 2026-07-20 |
+| [Front End Software Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726892#/jobs/32726892) | Artech | Dearborn, MI | 2026-07-20 |
+| [Software Engineer - Core Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726893#/jobs/32726893) | Artech | Dearborn, MI | 2026-07-20 |
+| [Gen AI automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726242#/jobs/32726242) | Artech | McLean, VA | 2026-07-20 |
+| [ABAP Developer w/ aATP](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726844#/jobs/32726844) | Artech | Dallas, TX | 2026-07-20 |
+| [Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726684#/jobs/32726684) | Artech | Nprth Reading, MA | 2026-07-20 |
+| [.Net Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723274#/jobs/32723274) | Artech | Charlotte, NC | 2026-07-20 |
+| [Senior Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32725080#/jobs/32725080) | Artech | Remote, NY | 2026-07-20 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32724649#/jobs/32724649) | Artech | Pennington, NJ | 2026-07-20 |
+| [Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32724064#/jobs/32724064) | Artech | CHARLOTTE, NC | 2026-07-20 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723696#/jobs/32723696) | Artech | Alpharetta, GA | 2026-07-20 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32723873#/jobs/32723873) | Artech | New York, NY | 2026-07-20 |
+| [Data Analytics & Engineering - Data Engineer IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28914991#/jobs/28914991) | Mindlance | Bellevue, CA | 2026-07-20 |
+| [Agentic AI Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28914088#/jobs/28914088) | Mindlance | McLean, VA | 2026-07-20 |
+| [Web Developer - III (USD)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28913828#/jobs/28913828) | Mindlance | Jersey City, NJ | 2026-07-20 |
+| [Senior Full Stack Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28913281#/jobs/28913281) | Mindlance | McLean, VA | 2026-07-20 |
+| [Developer Premium II [USD]](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28913277#/jobs/28913277) | Mindlance | Washington, DC | 2026-07-20 |
+| [Embedded Software Engineer 2](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=28914742#/jobs/28914742) | Net2Source | Chillicothe, IL | 2026-07-20 |
+| [Senior Microsoft Power Platform Engineer](https://candidateportal.ceipal.com/job-details/nGjKlgFok57ae8TbHWJ4i0BwY1Vb60d_JAUA55T3yQ0) | Cynet Systems | California | 2026-07-20 |
+| [Software Developer I](https://candidateportal.ceipal.com/job-details/JKwmLdaiR-OVmPEDPD-kemw1gXs6QWv5LtYwguDJzpU) | Cynet Systems | North Carolina | 2026-07-20 |
+| [SCALA - AI Software Engineer](https://candidateportal.ceipal.com/job-details/ihsO6isnUlqmzZtBHH0BnbJOtKgtqgvEWC4Xgoh14as) | Cynet Systems | California | 2026-07-20 |
+| [Senior SmartComm Developer](https://candidateportal.ceipal.com/job-details/P5B1dtmZA6A8lyKAm0v54f60UXDCw1tCf7zOaJx5Lu8) | Cynet Systems | Michigan | 2026-07-20 |
+| [ETL Data Engineer](https://candidateportal.ceipal.com/job-details/3PxNZshVO301Se9XrFu4xb-xmEDPbTJuHgJk2lDTNaM) | Cynet Systems | Texas | 2026-07-20 |
+| [Senior GCP Data Engineer](https://candidateportal.ceipal.com/job-details/7XaB-d69LYQivZXXk2pDorVQD0GlnDvQJmgiquehHNs) | Cynet Systems | California | 2026-07-20 |
+| [Cloud Engineer with AWS](https://candidateportal.ceipal.com/job-details/XvZSalTWozmGQu0doy7BZmuwoUrMGf1dODckT0U9hCE) | Cynet Systems | Iowa | 2026-07-20 |
+| [Net C# Developer](https://candidateportal.ceipal.com/job-details/jF6Ptejvhfbow2dB-4gVk0TpmyfGj8yJCW6jr4g4IiU) | Cynet Systems | California | 2026-07-20 |
+| [Senior Java Backend Engineer](https://candidateportal.ceipal.com/job-details/jKgakBWraDoKiTdof7v407eNdXb8fEYQmp_9mPcdNn8) | Cynet Systems | California | 2026-07-20 |
+| [Gen AI Developer](https://candidateportal.ceipal.com/job-details/Ae2DXtulkBeYDbtlB12iaJZUji-tifLPlPRBXvm1qHw) | Cynet Systems | Georgia | 2026-07-20 |
+| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/qEph3-oUPKXtY-UrKjztFvyQl42hgNzB72TLqxHlnpA) | Cynet Systems | California | 2026-07-20 |
+| [Senior Pega Software Engineer](https://candidateportal.ceipal.com/job-details/mI1Zw3CwYVFq8JqtiNmJIhxbEFZbjH7zqoug_TtJuHE) | Cynet Systems | Georgia | 2026-07-20 |
+| [Technical Architect](https://candidateportal.ceipal.com/job-details/Sedm2SYUpCF4CoL1jorY0OjDzUcYP8nWKgT6BJ4vyWE) | Cynet Systems | Texas | 2026-07-20 |
+| [Automation Engineer (AI/ML & API Testing)](https://candidateportal.ceipal.com/job-details/MHYEgPzDcnUQu5J-BPbi3AgoyTx3HOmDlzPfhP4RF3c) | Cynet Systems | New Jersey | 2026-07-20 |
+| [Software Developer (#786588)](https://bhsg.com/jobs/job/software-developer-786588/) | Beacon Hill | — | 2026-07-20 |
+| [Senior Java Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1675&BRID=1318018&lang=1) | Njoyn (CGI) | Fairfax, Knoxville, Lafayette, United States | 2026-07-20 |
+| [Senior GenAI Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1565&BRID=1317972&lang=1) | Njoyn (CGI) | Various, United States | 2026-07-20 |
+| [AWS Full Stack Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1667&BRID=1317970&lang=1) | Njoyn (CGI) | Various, United States | 2026-07-20 |
 <!-- JOBS:END -->
 
 ## How it works
