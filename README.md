@@ -27,42 +27,35 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 26 new roles this update · 8192 tracked total · updated `2026-07-21T11:20:04+00:00`
+### 🆕 16 new roles this update · 8208 tracked total · updated `2026-07-21T14:09:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 23 |
-| Njoyn (CGI) | 2 |
-| Harnham | 1 |
+| Mindlance | 4 |
+| Insight Global | 3 |
+| Artech | 3 |
+| Njoyn (CGI) | 3 |
+| Mondo | 2 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AEM Developer](https://candidateportal.ceipal.com/job-details/mQG9O2j5yC2G9jBUnUZ59YZEL89k8LlMRV37kJnAcik) | Cynet Systems | Pennsylvania | 2026-07-21 |
-| [Senior Microsoft Power Platform Engineer](https://candidateportal.ceipal.com/job-details/BLYeV4EoCoQQLEyCJ1_VGvsIPDPHRg7O849AXtY8YKg) | Cynet Systems | New York | 2026-07-21 |
-| [AI Engineer](https://candidateportal.ceipal.com/job-details/b0iAyJtve2M022FUKR5TRTGuLFd2XjK6HFP06o5KGt8) | Cynet Systems | New York, Texas | 2026-07-21 |
-| [Senior UI Developer](https://candidateportal.ceipal.com/job-details/9RAHH8jeZMzmQPcKfd6IowrG9gdIKftivFygyrCk0V0) | Cynet Systems | New Jersey | 2026-07-21 |
-| [Java Fullstack Developer](https://candidateportal.ceipal.com/job-details/UJ-GNJDW8UrMkedK9wGuKByRF7Odzp98ya6rTHG94A4) | Cynet Systems | Florida | 2026-07-21 |
-| [Software Developer I](https://candidateportal.ceipal.com/job-details/Ac9a7x-aB0QX8lDUTK4613E_frhuYc1iDxEvwgFamwY) | Cynet Systems | North Carolina | 2026-07-21 |
-| [SCALA - AI Software Engineer](https://candidateportal.ceipal.com/job-details/S7Ctxg0gG_qKhp-LGs6OGKKDhhInxQxfyDFKJNloFSw) | Cynet Systems | California | 2026-07-21 |
-| [Senior SmartComm Developer](https://candidateportal.ceipal.com/job-details/hTOd1IRYP-i0qcHvNzKh20IESZvTB3Jc_MwLzbnIRxo) | Cynet Systems | Michigan | 2026-07-21 |
-| [ETL Data Engineer](https://candidateportal.ceipal.com/job-details/pPmyOLiZlakI53L5yTuH_1CsW1KnF4jJnlcbWNPu2as) | Cynet Systems | Texas | 2026-07-21 |
-| [Senior GCP Data Engineer](https://candidateportal.ceipal.com/job-details/25iiE8nuY8-DtOwsNgkUmFsOn4zeJnjYc3EzJtLwXZY) | Cynet Systems | California | 2026-07-21 |
-| [Cloud Engineer with AWS](https://candidateportal.ceipal.com/job-details/Mve1C5so-Aa1wJwgC-Dc5TDqcN_ZouLbzuz3l7rvqNg) | Cynet Systems | Iowa | 2026-07-21 |
-| [Net C# Developer](https://candidateportal.ceipal.com/job-details/vtjRxF-D2Fl_W3jNKQt8NB0TiS6xH4g_jmL-0KDPy5U) | Cynet Systems | California | 2026-07-21 |
-| [Senior Java Backend Engineer](https://candidateportal.ceipal.com/job-details/th9xBGG4Nvoz89r8_F4UXMZJIlOwDPFYL0FcY0zgnb0) | Cynet Systems | California | 2026-07-21 |
-| [Gen AI Developer](https://candidateportal.ceipal.com/job-details/Lxu_aBYnD8IRFO9goe3E7LQ9FkNPg7Xl_-lQmFY5bX8) | Cynet Systems | Georgia | 2026-07-21 |
-| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/zs0ZPy62JDoNvjO5eGT71fULeVPxqaTJRBCKNPiaAtg) | Cynet Systems | California | 2026-07-21 |
-| [Senior Pega Software Engineer](https://candidateportal.ceipal.com/job-details/CZxpaEOqp2_ORVdOR6Jp9QN3D6zFIV-UUez-c_48sp0) | Cynet Systems | Georgia | 2026-07-21 |
-| [Technical Architect](https://candidateportal.ceipal.com/job-details/pV82B5mWhCY57uPPRHOMBJFf7qQ97EdbrX6yVUSEvKU) | Cynet Systems | Texas | 2026-07-21 |
-| [Automation Engineer (AI/ML & API Testing)](https://candidateportal.ceipal.com/job-details/GY9YIlHfbS5Apxkl-ubPAhGtnBKlKNmZzLQfy5FwwbY) | Cynet Systems | New Jersey | 2026-07-21 |
-| [Lead Full-Stack Engineer](https://candidateportal.ceipal.com/job-details/prHg9nMbM-xqrftDMkwIb-BRHb9Fjuaj54BrA_PudfQ) | Cynet Systems | New Jersey | 2026-07-21 |
-| [Senior Aprimo Developer](https://candidateportal.ceipal.com/job-details/QwhdRl4cLWv09YGA1lPfv4SKE2g8KLJWc_tv2HQ0G3A) | Cynet Systems | Texas | 2026-07-21 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/CH8VdlcHYLlAnTCOOZhqD9X3rUslzOGmLRVsdp1i6FM) | Cynet Systems | Texas | 2026-07-21 |
-| [IT Infrastructure Engineer](https://candidateportal.ceipal.com/job-details/r2ew6yBg58LNaWT0XS4FrdbTzGv7HZZl5bzlgqhSONo) | Cynet Systems | Colorado | 2026-07-21 |
-| [Lead Android Developer - Kotlin and Jetpack Compose](https://candidateportal.ceipal.com/job-details/KS7wT2tmSixDbozUXf0bQKqoE7H73fEOf02uydU9vmY) | Cynet Systems | Georgia | 2026-07-21 |
-| [DATA ARCHITECT](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-architect-dallas-texas-2/) | Harnham | Dallas, Texas | 2026-07-21 |
-| [DevOps & Platform Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1555&BRID=1318131&lang=1) | Njoyn (CGI) | Salt Lake City, United States | 2026-07-21 |
-| [Senior Data Engineer (Databricks & Cloud Analytics)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1556&BRID=1318129&lang=1) | Njoyn (CGI) | Salt Lake City, United States | 2026-07-21 |
+| [AI Engineer](https://jobs.insightglobal.com/jobs/find_a_job/connecticut/hartford/ai-engineer/job-554505/) | Insight Global | Hartford, CT | 2026-07-21 |
+| [DevOps Engineer - Onsite](https://jobs.insightglobal.com/jobs/find_a_job/illinois/wood-dale/devops-engineer-onsite/job-554255/) | Insight Global | Wood Dale, IL | 2026-07-21 |
+| [Junior Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/texas/addison/junior-software-engineer/job-553787/) | Insight Global | Addison, TX | 2026-07-21 |
+| [Software Developer](https://mondo.com/jobs/job/software-developer-new-york-ca-10019-32441263/c9928e1d-8075-11f1-b0c9-024201c20d84) | Mondo | New York, CA, 10019 | 2026-07-21 |
+| [Data Engineer](https://mondo.com/jobs/job/data-engineer-new-york-ny-10001-32493309/550885a0-6fc8-11f1-8ba3-024201c20d84) | Mondo | New York, NY, 10001 | 2026-07-21 |
+| [Senior Full Stack Engineer / Startup experience / React / Node](https://motionrecruitment.com/tech-jobs/philadelphia/direct-hire/senior-full-stack-engineer-startup-experience-react-node/883091) | Motion Recruitment | Philadelphia, PA | 2026-07-21 |
+| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730472#/jobs/32730472) | Artech | New York, NY | 2026-07-21 |
+| [Big Data Architect Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730722#/jobs/32730722) | Artech | New York, NY | 2026-07-21 |
+| [US Application Developer - Servicenow](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726101#/jobs/32726101) | Artech | Dallas, TX | 2026-07-21 |
+| [IT - Java Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28918903#/jobs/28918903) | Mindlance | Austin, TX | 2026-07-21 |
+| [Developer Premium II [USD]](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28918670#/jobs/28918670) | Mindlance | Washington, DC | 2026-07-21 |
+| [Cobol Programming Developer Cobol Programming Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28914116#/jobs/28914116) | Mindlance | Chattanooga, TN | 2026-07-21 |
+| [Scientist 2, Data Science](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28909994#/jobs/28909994) | Mindlance | San Diego, CA | 2026-07-21 |
+| [Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1465&BRID=1318203&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
+| [Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1461&BRID=1318202&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
+| [Sr. Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1429&BRID=1318201&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
