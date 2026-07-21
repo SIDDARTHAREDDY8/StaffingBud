@@ -27,48 +27,33 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 8248 tracked total · updated `2026-07-21T19:42:34+00:00`
+### 🆕 13 new roles this update · 8261 tracked total · updated `2026-07-21T22:14:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Apex Systems | 2 |
-| Talent Groups | 2 |
-| Njoyn (CGI) | 2 |
-| Kforce | 1 |
-| TEKsystems | 1 |
-| Insight Global | 1 |
-| Robert Half | 1 |
-| Vaco | 1 |
-| Alldus | 1 |
+| Artech | 6 |
+| Insight Global | 2 |
+| CRG | 1 |
 | Motion Recruitment | 1 |
-| ASK Consulting | 1 |
-| Mindlance | 1 |
-| KellyMitchell | 1 |
-| Harnham | 1 |
+| Net2Source | 1 |
+| Brooksource | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Audience Developer (Adobe)](http://www.kforce.com/Jobs/1696~TVT~2178027T1~99/) | Kforce | Austin, TX | 2026-07-21 |
-| [ServiceNow Application Developer](https://careers.teksystems.com/us/en/job/JP-006170150/ServiceNow-Application-Developer) | TEKsystems | Fort Meade, Maryland | 2026-07-21 |
-| [System Security Engineer](https://jobs.insightglobal.com/jobs/find_a_job/ohio/dayton/system-security-engineer/job-554115/) | Insight Global | Dayton, OH | 2026-07-21 |
-| [Sr Senior Security Engineer](https://www.apexsystems.com/job/3043206_usa/sr-senior-security-engineer) | Apex Systems | Merrifield, VA | 2026-07-21 |
-| [Lead Data Analyst - Claims](https://www.apexsystems.com/job/3043193_usa/lead-data-analyst---claims) | Apex Systems | San Francisco, CA | 2026-07-21 |
-| [Software Engineer Ii](https://www.roberthalf.com/us/en/job/san-ramon-ca/software-engineer-ii/04692-0013466046-usen) | Robert Half | San Ramon, 04692 | 2026-07-21 |
-| [Db2 Programmer Contract To Hire](https://jobs.vaco.com/job/18992/db2_programmer_contract_to_hire/en) | Vaco | Birmingham, Alabama | 2026-07-21 |
-| [Servicenow Developer New York New York](https://alldus.com/job/58586-servicenow-developer-new-york-new-york/) | Alldus | New York, New York | 2026-07-21 |
-| [IBMi System Developer/ Programmer Specialist](https://www.talentgroups.com/job-details/ibmi-system-developer-programmer-specialist-in-other-jobs-1650198) | Talent Groups | Concord | 2026-07-21 |
-| [IT Senior AWS Developer](https://www.talentgroups.com/job-details/it-senior-aws-developer-in-other-jobs-1650305) | Talent Groups | Quincy, MA | 2026-07-21 |
-| [DevOps Engineer / Azure / Linux / Kubernetes](https://motionrecruitment.com/tech-jobs/chelmsford/direct-hire/devops-engineer-azure-linux-kubernetes/883147) | Motion Recruitment | Chelmsford, MA | 2026-07-21 |
-| [Application Security Engineer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/126320/Application Security Engineer) | ASK Consulting | Seattle, WA, 98101 | 2026-07-21 |
-| [OpenText Documentum xCP Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732835#/jobs/32732835) | Artech | San Antonio, TX | 2026-07-21 |
-| [AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733430#/jobs/32733430) | Artech | Home, NC | 2026-07-21 |
-| [Java Spring boot Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732626#/jobs/32732626) | Artech | Plano, TX, TX | 2026-07-21 |
-| [AWS Cloud Admin and SRE](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28920875#/jobs/28920875) | Mindlance | Reston, VA | 2026-07-21 |
-| [Software/BI Developer](https://www.careers.kellymitchell.com/jobs/142453) | KellyMitchell | St. Louis, Missouri, 63043 | 2026-07-21 |
-| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-merseyside/) | Harnham | Merseyside | 2026-07-21 |
-| [Data & AI Strategy and Delivery Consultant](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1688&BRID=1318259&lang=1) | Njoyn (CGI) | Houston, United States | 2026-07-21 |
-| [Database Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0838&BRID=1318258&lang=1) | Njoyn (CGI) | Lafayette, United States | 2026-07-21 |
+| [Data Engineer - INTL India](https://jobs.insightglobal.com/jobs/find_a_job/washington/seattle/data-engineer-intl-india/job-554959/) | Insight Global | Seattle, WA | 2026-07-21 |
+| [Actuarial Developer](https://jobs.insightglobal.com/jobs/find_a_job/oregon/portland/actuarial-developer/job-551983/) | Insight Global | Portland, OR | 2026-07-21 |
+| [S4 HANA ABAP Developer](https://jobs.getcrg.com/jobs/16596) | CRG | Charlotte, North Carolina | 2026-07-21 |
+| [Technical Solutions Architect - EPIC](https://motionrecruitment.com/tech-jobs/boston/contract/technical-solutions-architect-epic/883189) | Motion Recruitment | Boston, MA | 2026-07-21 |
+| [Principal or Senior Principal Software Engineer - Navigation](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733913#/jobs/32733913) | Artech | Woodland Hills, CA | 2026-07-21 |
+| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734514#/jobs/32734514) | Artech | San Jose, CA | 2026-07-21 |
+| [Java with Cloud Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734013#/jobs/32734013) | Artech | Princeton, NJ | 2026-07-21 |
+| [Data Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733938#/jobs/32733938) | Artech | San Jose, CA | 2026-07-21 |
+| [JAVA Springboot developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732700#/jobs/32732700) | Artech | Plano, TX | 2026-07-21 |
+| [Data Analyst II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733457#/jobs/32733457) | Artech | St. Paul, MN | 2026-07-21 |
+| [Software Engineer 3](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=28763779#/jobs/28763779) | Net2Source | Chillicothe, IL | 2026-07-21 |
+| [Information Security Engineer- Cisco SWA](https://jobs.brooksource.com/jobs/job/a1wcv000000qd1beau-information-security-engineer-cisco-swa-chicago-illinois/) | Brooksource | Chicago, Illinois | 2026-07-21 |
+| [Mid Level Angular Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1773&BRID=1318318&lang=1) | Njoyn (CGI) | Huntsville, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
