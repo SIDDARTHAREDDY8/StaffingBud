@@ -27,35 +27,45 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 8208 tracked total · updated `2026-07-21T14:09:48+00:00`
+### 🆕 21 new roles this update · 8229 tracked total · updated `2026-07-21T16:35:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 4 |
-| Insight Global | 3 |
-| Artech | 3 |
-| Njoyn (CGI) | 3 |
-| Mondo | 2 |
-| Motion Recruitment | 1 |
+| Artech | 7 |
+| Motion Recruitment | 2 |
+| Mindlance | 2 |
+| Belcan | 2 |
+| Njoyn (CGI) | 2 |
+| Kforce | 1 |
+| Insight Global | 1 |
+| Apex Systems | 1 |
+| Robert Half | 1 |
+| Vaco | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Engineer](https://jobs.insightglobal.com/jobs/find_a_job/connecticut/hartford/ai-engineer/job-554505/) | Insight Global | Hartford, CT | 2026-07-21 |
-| [DevOps Engineer - Onsite](https://jobs.insightglobal.com/jobs/find_a_job/illinois/wood-dale/devops-engineer-onsite/job-554255/) | Insight Global | Wood Dale, IL | 2026-07-21 |
-| [Junior Software Engineer](https://jobs.insightglobal.com/jobs/find_a_job/texas/addison/junior-software-engineer/job-553787/) | Insight Global | Addison, TX | 2026-07-21 |
-| [Software Developer](https://mondo.com/jobs/job/software-developer-new-york-ca-10019-32441263/c9928e1d-8075-11f1-b0c9-024201c20d84) | Mondo | New York, CA, 10019 | 2026-07-21 |
-| [Data Engineer](https://mondo.com/jobs/job/data-engineer-new-york-ny-10001-32493309/550885a0-6fc8-11f1-8ba3-024201c20d84) | Mondo | New York, NY, 10001 | 2026-07-21 |
-| [Senior Full Stack Engineer / Startup experience / React / Node](https://motionrecruitment.com/tech-jobs/philadelphia/direct-hire/senior-full-stack-engineer-startup-experience-react-node/883091) | Motion Recruitment | Philadelphia, PA | 2026-07-21 |
-| [Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730472#/jobs/32730472) | Artech | New York, NY | 2026-07-21 |
-| [Big Data Architect Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730722#/jobs/32730722) | Artech | New York, NY | 2026-07-21 |
-| [US Application Developer - Servicenow](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32726101#/jobs/32726101) | Artech | Dallas, TX | 2026-07-21 |
-| [IT - Java Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28918903#/jobs/28918903) | Mindlance | Austin, TX | 2026-07-21 |
-| [Developer Premium II [USD]](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28918670#/jobs/28918670) | Mindlance | Washington, DC | 2026-07-21 |
-| [Cobol Programming Developer Cobol Programming Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28914116#/jobs/28914116) | Mindlance | Chattanooga, TN | 2026-07-21 |
-| [Scientist 2, Data Science](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28909994#/jobs/28909994) | Mindlance | San Diego, CA | 2026-07-21 |
-| [Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1465&BRID=1318203&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
-| [Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1461&BRID=1318202&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
-| [Sr. Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1429&BRID=1318201&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
+| [Full Stack Engineer](http://www.kforce.com/Jobs/1696~AQG~2182927T1~99/) | Kforce | Westlake, TX | 2026-07-21 |
+| [Python Developer](https://jobs.insightglobal.com/jobs/find_a_job/new-jersey/middletown/python-developer/job-554603/) | Insight Global | Middletown, NJ | 2026-07-21 |
+| [React Native/React.JS Developer with UX Skills](https://www.apexsystems.com/job/3042549_usa/react-nativereactjs-developer-with-ux-skills) | Apex Systems | Dallas, TX | 2026-07-21 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/senior-software-engineer/00920-9504366165-usen) | Robert Half | Atlanta, 00920 | 2026-07-21 |
+| [Data Ai Platforms Manager](https://jobs.vaco.com/job/18978/data_ai_platforms_manager/en) | Vaco | Columbus, Ohio | 2026-07-21 |
+| [Senior Java Application Administrator / SRE / Hybrid in Dallas](https://motionrecruitment.com/tech-jobs/dallas/direct-hire/senior-java-application-administrator-sre-hybrid-in-dallas/883118) | Motion Recruitment | Dallas, Texas | 2026-07-21 |
+| [Founding Software Engineer / Full Stack](https://motionrecruitment.com/tech-jobs/arlington/direct-hire/founding-software-engineer-full-stack/880426) | Motion Recruitment | Arlington, Virginia | 2026-07-21 |
+| [AWS Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32731710#/jobs/32731710) | Artech | McLean, VA | 2026-07-21 |
+| [Full Stack Developer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32731181#/jobs/32731181) | Artech | San Jose, CA | 2026-07-21 |
+| [Lead Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730995#/jobs/32730995) | Artech | Pittsburgh, PA | 2026-07-21 |
+| [Planview SPM Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730900#/jobs/32730900) | Artech | Chicago, IL | 2026-07-21 |
+| [Java AWS Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730786#/jobs/32730786) | Artech | Atlanta, GA | 2026-07-21 |
+| [Azure Data Engineer(F2F)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32730653#/jobs/32730653) | Artech | Hamilton, NJ | 2026-07-21 |
+| [Java Full Stack Technical Lead (Azure, React, AI/DevOps)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32728427#/jobs/32728427) | Artech | Bridgewater, NJ | 2026-07-21 |
+| [AWS Cloud Admin and SRE](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28920384#/jobs/28920384) | Mindlance | Reston, VA | 2026-07-21 |
+| [AWS Cloud Admin and SRE](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=28920364#/jobs/28920364) | Mindlance | Reston, VA | 2026-07-21 |
+| [Data Analyst](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366604&apply=yes&) | Belcan | Greensboro, NC | 2026-07-21 |
+| [Embedded Software Development Engineer](https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?jo_num=366602&apply=yes&) | Belcan | Grimes, IA | 2026-07-21 |
+| [STAFF MACHINE LEARNING ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-staff-machine-learning-engineer-palo-alto-california/) | Harnham | Palo Alto, California | 2026-07-21 |
+| [Sr. Kafka SpringBoot Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1595&BRID=1318214&lang=1) | Njoyn (CGI) | Pittsburgh, Cleveland, Dallas, United States | 2026-07-21 |
+| [Back End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1467&BRID=1318208&lang=1) | Njoyn (CGI) | Smithfield, United States | 2026-07-21 |
 <!-- JOBS:END -->
 
 ## How it works
