@@ -27,20 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 8184 tracked total · updated `2026-07-22T06:02:19+00:00`
+### 🆕 1 new roles this update · 8183 tracked total · updated `2026-07-22T08:42:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 2 |
-| Robert Half | 1 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/san-mateo-ca/data-analyst/00430-9504366874-usen) | Robert Half | San Mateo, 00430 | 2026-07-22 |
-| [Data Engineering Architect – Fraud Domain](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734922#/jobs/32734922) | Artech | Cleveland, OH | 2026-07-22 |
-| [SQL Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734755#/jobs/32734755) | Artech | Phoenix, AZ | 2026-07-22 |
-| [API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1757&BRID=1318419&lang=1) | Njoyn (CGI) | Dallas, United States | 2026-07-22 |
+| [Mainframe Developer (COBOL, CICS, DB2)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1696&BRID=1318495&lang=1) | Njoyn (CGI) | Salt Lake City, United States | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
