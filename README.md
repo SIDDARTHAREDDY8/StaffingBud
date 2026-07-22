@@ -27,37 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 8180 tracked total · updated `2026-07-22T03:04:10+00:00`
+### 🆕 4 new roles this update · 8184 tracked total · updated `2026-07-22T06:02:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 7 |
-| TEKsystems | 4 |
-| Motion Recruitment | 3 |
-| Vaco | 2 |
-| Insight Global | 1 |
+| Artech | 2 |
+| Robert Half | 1 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Cloud Data Architect](https://careers.teksystems.com/us/en/job/JP-006171937/Senior-Cloud-Data-Architect) | TEKsystems | San Jose, California | 2026-07-22 |
-| [Lead MDM Analyst -Developer](https://careers.teksystems.com/us/en/job/JP-006171666/Lead-MDM-Analyst-Developer) | TEKsystems | San Diego, California | 2026-07-22 |
-| [AI Engineer](https://careers.teksystems.com/us/en/job/JP-006171733/AI-Engineer) | TEKsystems | Round Rock, Texas | 2026-07-22 |
-| [Senior Software Engineer (Python/BigQuery/ SQL)](https://careers.teksystems.com/us/en/job/JP-006171855/Senior-Software-Engineer-Python-BigQuery-SQL) | TEKsystems | Chicago, Illinois | 2026-07-22 |
-| [Data Engineering Manager](https://jobs.insightglobal.com/jobs/find_a_job/washington/seattle/data-engineering-manager/job-554773/) | Insight Global | Seattle, WA | 2026-07-22 |
-| [Back End Developer Java](https://jobs.vaco.com/job/19016/back_end_developer_java/en) | Vaco | Carlsbad, California | 2026-07-22 |
-| [Staff Android Developer](https://jobs.vaco.com/job/19017/staff_android_developer/en) | Vaco | Carlsbad, California | 2026-07-22 |
-| [Senior Technical Solutions Architect](https://motionrecruitment.com/tech-jobs/boston/contract/senior-technical-solutions-architect/883197) | Motion Recruitment | Boston, MA | 2026-07-22 |
-| [Fullstack Engineer / React / Golang](https://motionrecruitment.com/tech-jobs/tampa/direct-hire/fullstack-engineer-react-golang/883193) | Motion Recruitment | tampa, Florida | 2026-07-22 |
-| [Cloud Platform Engineer / Mid Level / Remote](https://motionrecruitment.com/tech-jobs/phoenix/direct-hire/cloud-platform-engineer-mid-level-remote/883191) | Motion Recruitment | PHOENIX, Arizona | 2026-07-22 |
-| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5837052) | Compunnel | Durham, North Carolina, United States | 2026-07-22 |
-| [Power BI Developer](https://jobs.compunnel.com/jobs/5837184) | Compunnel | Westlake, Texas, United States | 2026-07-22 |
-| [Lead Data Engineer](https://jobs.compunnel.com/jobs/5837116) | Compunnel | Montvale, New Jersey, United States | 2026-07-22 |
-| [Senior AI Architect](https://jobs.compunnel.com/jobs/5837123) | Compunnel | Columbus, Ohio, United States | 2026-07-22 |
-| [Software Developer](https://jobs.compunnel.com/jobs/5837326) | Compunnel | Sunnyvale, California, United States | 2026-07-22 |
-| [Ui Full Stack Engineer](https://jobs.compunnel.com/jobs/5837109) | Compunnel | Durham, North Carolina, United States | 2026-07-22 |
-| [Product Data Analyst](https://jobs.compunnel.com/jobs/5837171) | Compunnel | Westlake, Texas, United States | 2026-07-22 |
-| [Sr. Java Backend Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1468&BRID=1318391&lang=1) | Njoyn (CGI) | Westlake, United States | 2026-07-22 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/san-mateo-ca/data-analyst/00430-9504366874-usen) | Robert Half | San Mateo, 00430 | 2026-07-22 |
+| [Data Engineering Architect – Fraud Domain](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734922#/jobs/32734922) | Artech | Cleveland, OH | 2026-07-22 |
+| [SQL Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734755#/jobs/32734755) | Artech | Phoenix, AZ | 2026-07-22 |
+| [API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1757&BRID=1318419&lang=1) | Njoyn (CGI) | Dallas, United States | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
