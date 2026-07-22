@@ -27,33 +27,37 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 8261 tracked total · updated `2026-07-21T22:14:20+00:00`
+### 🆕 18 new roles this update · 8180 tracked total · updated `2026-07-22T03:04:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 6 |
-| Insight Global | 2 |
-| CRG | 1 |
-| Motion Recruitment | 1 |
-| Net2Source | 1 |
-| Brooksource | 1 |
+| Compunnel | 7 |
+| TEKsystems | 4 |
+| Motion Recruitment | 3 |
+| Vaco | 2 |
+| Insight Global | 1 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer - INTL India](https://jobs.insightglobal.com/jobs/find_a_job/washington/seattle/data-engineer-intl-india/job-554959/) | Insight Global | Seattle, WA | 2026-07-21 |
-| [Actuarial Developer](https://jobs.insightglobal.com/jobs/find_a_job/oregon/portland/actuarial-developer/job-551983/) | Insight Global | Portland, OR | 2026-07-21 |
-| [S4 HANA ABAP Developer](https://jobs.getcrg.com/jobs/16596) | CRG | Charlotte, North Carolina | 2026-07-21 |
-| [Technical Solutions Architect - EPIC](https://motionrecruitment.com/tech-jobs/boston/contract/technical-solutions-architect-epic/883189) | Motion Recruitment | Boston, MA | 2026-07-21 |
-| [Principal or Senior Principal Software Engineer - Navigation](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733913#/jobs/32733913) | Artech | Woodland Hills, CA | 2026-07-21 |
-| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734514#/jobs/32734514) | Artech | San Jose, CA | 2026-07-21 |
-| [Java with Cloud Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32734013#/jobs/32734013) | Artech | Princeton, NJ | 2026-07-21 |
-| [Data Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733938#/jobs/32733938) | Artech | San Jose, CA | 2026-07-21 |
-| [JAVA Springboot developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32732700#/jobs/32732700) | Artech | Plano, TX | 2026-07-21 |
-| [Data Analyst II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32733457#/jobs/32733457) | Artech | St. Paul, MN | 2026-07-21 |
-| [Software Engineer 3](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=28763779#/jobs/28763779) | Net2Source | Chillicothe, IL | 2026-07-21 |
-| [Information Security Engineer- Cisco SWA](https://jobs.brooksource.com/jobs/job/a1wcv000000qd1beau-information-security-engineer-cisco-swa-chicago-illinois/) | Brooksource | Chicago, Illinois | 2026-07-21 |
-| [Mid Level Angular Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1773&BRID=1318318&lang=1) | Njoyn (CGI) | Huntsville, United States | 2026-07-21 |
+| [Senior Cloud Data Architect](https://careers.teksystems.com/us/en/job/JP-006171937/Senior-Cloud-Data-Architect) | TEKsystems | San Jose, California | 2026-07-22 |
+| [Lead MDM Analyst -Developer](https://careers.teksystems.com/us/en/job/JP-006171666/Lead-MDM-Analyst-Developer) | TEKsystems | San Diego, California | 2026-07-22 |
+| [AI Engineer](https://careers.teksystems.com/us/en/job/JP-006171733/AI-Engineer) | TEKsystems | Round Rock, Texas | 2026-07-22 |
+| [Senior Software Engineer (Python/BigQuery/ SQL)](https://careers.teksystems.com/us/en/job/JP-006171855/Senior-Software-Engineer-Python-BigQuery-SQL) | TEKsystems | Chicago, Illinois | 2026-07-22 |
+| [Data Engineering Manager](https://jobs.insightglobal.com/jobs/find_a_job/washington/seattle/data-engineering-manager/job-554773/) | Insight Global | Seattle, WA | 2026-07-22 |
+| [Back End Developer Java](https://jobs.vaco.com/job/19016/back_end_developer_java/en) | Vaco | Carlsbad, California | 2026-07-22 |
+| [Staff Android Developer](https://jobs.vaco.com/job/19017/staff_android_developer/en) | Vaco | Carlsbad, California | 2026-07-22 |
+| [Senior Technical Solutions Architect](https://motionrecruitment.com/tech-jobs/boston/contract/senior-technical-solutions-architect/883197) | Motion Recruitment | Boston, MA | 2026-07-22 |
+| [Fullstack Engineer / React / Golang](https://motionrecruitment.com/tech-jobs/tampa/direct-hire/fullstack-engineer-react-golang/883193) | Motion Recruitment | tampa, Florida | 2026-07-22 |
+| [Cloud Platform Engineer / Mid Level / Remote](https://motionrecruitment.com/tech-jobs/phoenix/direct-hire/cloud-platform-engineer-mid-level-remote/883191) | Motion Recruitment | PHOENIX, Arizona | 2026-07-22 |
+| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5837052) | Compunnel | Durham, North Carolina, United States | 2026-07-22 |
+| [Power BI Developer](https://jobs.compunnel.com/jobs/5837184) | Compunnel | Westlake, Texas, United States | 2026-07-22 |
+| [Lead Data Engineer](https://jobs.compunnel.com/jobs/5837116) | Compunnel | Montvale, New Jersey, United States | 2026-07-22 |
+| [Senior AI Architect](https://jobs.compunnel.com/jobs/5837123) | Compunnel | Columbus, Ohio, United States | 2026-07-22 |
+| [Software Developer](https://jobs.compunnel.com/jobs/5837326) | Compunnel | Sunnyvale, California, United States | 2026-07-22 |
+| [Ui Full Stack Engineer](https://jobs.compunnel.com/jobs/5837109) | Compunnel | Durham, North Carolina, United States | 2026-07-22 |
+| [Product Data Analyst](https://jobs.compunnel.com/jobs/5837171) | Compunnel | Westlake, Texas, United States | 2026-07-22 |
+| [Sr. Java Backend Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1468&BRID=1318391&lang=1) | Njoyn (CGI) | Westlake, United States | 2026-07-22 |
 <!-- JOBS:END -->
 
 ## How it works
