@@ -27,47 +27,53 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 33 new roles this update · 12839 tracked total · updated `2026-08-08T09:49:04+00:00`
+### 🆕 38 new roles this update · 12877 tracked total · updated `2026-08-08T13:01:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | Cynet Systems | 33 |
+| Agility Connect | 5 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Principal Architect](https://candidateportal.ceipal.com/job-details/WZ63eaN8ZXJUi6rhBvmJKsfoXFJQKyPxD1p98_tIpSw) | Cynet Systems | California, New Jersey | 2026-08-08 |
-| [Cloud Engineer - Senior](https://candidateportal.ceipal.com/job-details/XB7kCiQr3ELyvxhzYmYeVOVWssNWbtLObJA7PvOvMH4) | Cynet Systems | Kentucky | 2026-08-08 |
-| [AWS Developer](https://candidateportal.ceipal.com/job-details/mP1qFCx2fn-4TSEZwYU0K6kobCpzUOMDeVWIJzwkw8Y) | Cynet Systems | Pennsylvania | 2026-08-08 |
-| [Lead ForgeRock Developer](https://candidateportal.ceipal.com/job-details/Tn0PxjL9XYYMR0xoBZuwNkgIofQhB5Muj4c_7RgjyDY) | Cynet Systems | Texas | 2026-08-08 |
-| [Sr. Calculation Developer / Architect - Insurance](https://candidateportal.ceipal.com/job-details/v79Jew4TVVXrPxG4KBdpg31fqsPJQTxjbXnWdMA8Oyk) | Cynet Systems | Massachusetts | 2026-08-08 |
-| [Middleware Engineer / Platform Engineer](https://candidateportal.ceipal.com/job-details/z2ANrsu2qAixJoctb2CBeJ4y5D1GBMU2DdgGQaZa0eA) | Cynet Systems | New Jersey, North Carolina | 2026-08-08 |
-| [Data Engineer](https://candidateportal.ceipal.com/job-details/uEWe1K_RdQECfBwbIOpvFA5DZWjdqgKrvE4ehLcaYDs) | Cynet Systems | California, Georgia | 2026-08-08 |
-| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/K1_nedioSctfddHyggIDfTFZK6Bdlq2VjDLotq_ZdmE) | Cynet Systems | Delaware | 2026-08-08 |
-| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/PsczHsDLx56DjRbj9O253_jJ_rE6ia7Id51U1smoIf0) | Cynet Systems | Delaware | 2026-08-08 |
-| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/Jp5LxoR1eI-urSaHlH3UmXBXzGHzAhW4X13ga2DSYVs) | Cynet Systems | Delaware | 2026-08-08 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/GHpmJXsA3na2l3cekHuU3MNjq2k1zaVlRLcm6Qnjb1A) | Cynet Systems | Ohio | 2026-08-08 |
-| [Senior Operational Data Analyst](https://candidateportal.ceipal.com/job-details/97PQuuIBZtF1cAoiRawTNmJpgHcWeSWf_NpCSwVEeSo) | Cynet Systems | California | 2026-08-08 |
-| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/z4OdEhoYrx_x9nv9UOOMSDUgCz8ktETic0lk-Eb77f0) | Cynet Systems | New York | 2026-08-08 |
-| [Java Developer Integration Analyst](https://candidateportal.ceipal.com/job-details/MeMcsA8EmeWzSJrhIdFyHcTurbKIt7p32UAMvzXMm04) | Cynet Systems | California | 2026-08-08 |
-| [Senior Natural/ADABAS Developer](https://candidateportal.ceipal.com/job-details/BQSIS1Jd0bh5KSPNIBnX_N70fnLZUCFkQoJ9G_urfkg) | Cynet Systems | Mississippi | 2026-08-08 |
-| [Senior Natural/Adabas Application Developer](https://candidateportal.ceipal.com/job-details/4cJyj2WliQVOXGFi3ijoAsFqPm4agTxwNSKB8n91HMU) | Cynet Systems | Mississippi | 2026-08-08 |
-| [Full Stack Java Developer](https://candidateportal.ceipal.com/job-details/YF8uR1KEhrkP7F3E50WqYIK1PXlYsHvXWAuY3_i_qeM) | Cynet Systems | Florida | 2026-08-08 |
-| [React JS Frontend Developer (MDM Platform)](https://candidateportal.ceipal.com/job-details/EKSuCVhhM8vHWePQfW3kzdWGPGZXxTkpvfDHKtobINI) | Cynet Systems | Florida | 2026-08-08 |
-| [Senior​ AI/MLOPS Engineer](https://candidateportal.ceipal.com/job-details/MkRfyOwWdHI6TCBTOPhNhTpQgBWdud95cHu5CFz4wII) | Cynet Systems | California | 2026-08-08 |
-| [Front End Lead Engineer](https://candidateportal.ceipal.com/job-details/orxEaGr47MpJCJixvGmtzaCecVSSWMNrdiN68sg8DG8) | Cynet Systems | Texas | 2026-08-08 |
-| [Software Engineer](https://candidateportal.ceipal.com/job-details/E79Juw4UY6wA6pu-QcgWWz_rWrRPR85mRG9v5dPaskQ) | Cynet Systems | Georgia | 2026-08-08 |
-| [Sr. Infrastructure Engineer](https://candidateportal.ceipal.com/job-details/-rewAyUxHrevpcl1HviJxRde-L6KGawWmn4rnt2c70Q) | Cynet Systems | Virginia | 2026-08-08 |
-| [AI Java Full Stack Lead](https://candidateportal.ceipal.com/job-details/zq01o56_XxdvT0oU_7LaNmFTig4J5RCMyV8PlpjiHQw) | Cynet Systems | Georgia | 2026-08-08 |
-| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/szF7r45TXrJDZpKFAUtJOvoZG-OXN4jPVEQ_Q9glxj4) | Cynet Systems | Georgia | 2026-08-08 |
-| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/AZ4gFnBNUD3bAPW138vMW2Lp3X4Od43TMTvCxO2YF-0) | Cynet Systems | North Carolina | 2026-08-08 |
-| [FullStack Data / ADK Engineer](https://candidateportal.ceipal.com/job-details/o64turtEWYdUt6uooXMjKjf8aqOAnYZE9hgonbSUU0A) | Cynet Systems | California | 2026-08-08 |
-| [Programmer Analyst 3](https://candidateportal.ceipal.com/job-details/ZKLXVNdHtbQiMW_Wo9p_94yPwb2V9ipq0nzz6IThdtM) | Cynet Systems | Virginia | 2026-08-08 |
-| [Senior Java Full Stack Engineer](https://candidateportal.ceipal.com/job-details/5p4kA9JQpE3FZ_vEq5s_Dx8fXG0et6Nd0xItS2R-cD4) | Cynet Systems | Virginia | 2026-08-08 |
-| [Oracle OCI Cloud Engineer](https://candidateportal.ceipal.com/job-details/B4dyhEu_il0WIbF_orv7rsNcE_Xd5pmP8foPSGT9g7U) | Cynet Systems | Virginia | 2026-08-08 |
-| [Full-Stack Software Engineer](https://candidateportal.ceipal.com/job-details/jQCi_QuEUKG5k0NsGhPmuv_tHEm9Q9KBKLSOZTGZ-wM) | Cynet Systems | Florida | 2026-08-08 |
-| [Healthcare Reporting Data Analyst](https://candidateportal.ceipal.com/job-details/cDHHaEjxHoGeENBt929sZwBXA-CGOH5I0OijXkC9Kbk) | Cynet Systems | Maryland | 2026-08-08 |
-| [Enrollment Technician](https://candidateportal.ceipal.com/job-details/CB6w4X-EI-nBPut5HxN8IhO9pLQFSYjakEMkW5kHhiU) | Cynet Systems | Maryland | 2026-08-08 |
-| [Oracle AI Consultant](https://candidateportal.ceipal.com/job-details/--qk7IErtgcmQMmEjr6nRHKubQY8kv_GLGcSKJbk0lk) | Cynet Systems | Pennsylvania | 2026-08-08 |
+| [AI Principal Architect](https://candidateportal.ceipal.com/job-details/c7JGP7IKQgU7os30kuyIYdcWrMctTqw8LzobjKFhLec) | Cynet Systems | California, New Jersey | 2026-08-08 |
+| [Cloud Engineer - Senior](https://candidateportal.ceipal.com/job-details/5kv048CT4kG3sJV3BSvHkG8U-xkrXnyN9RHebkv41m4) | Cynet Systems | Kentucky | 2026-08-08 |
+| [AWS Developer](https://candidateportal.ceipal.com/job-details/i1PUig1GKcwRAAAYfl_4UXOi5s3v_TP4CXcJ8jVUqVU) | Cynet Systems | Pennsylvania | 2026-08-08 |
+| [Lead ForgeRock Developer](https://candidateportal.ceipal.com/job-details/zvF7wofSaFONgdFO70m8gNROwU2DKRXG-O8vVsMR77Y) | Cynet Systems | Texas | 2026-08-08 |
+| [Sr. Calculation Developer / Architect - Insurance](https://candidateportal.ceipal.com/job-details/bBU5_7wVnAV3_pQCIMcdweA9xD_h_CVfB6b5JJNBLsw) | Cynet Systems | Massachusetts | 2026-08-08 |
+| [Middleware Engineer / Platform Engineer](https://candidateportal.ceipal.com/job-details/krTRE4VOoI_ipbC1GsHtJnpFKAO__aw9jlQyXEotcIk) | Cynet Systems | New Jersey, North Carolina | 2026-08-08 |
+| [Data Engineer](https://candidateportal.ceipal.com/job-details/8yRJPqkInjcXiXn1MKGYOp3m5iYAOBAQvg_AH82ci34) | Cynet Systems | California, Georgia | 2026-08-08 |
+| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/Gw4va7uxuXCiCXXYrRz6VDnYK7_imPtNVryp0CIWavk) | Cynet Systems | Delaware | 2026-08-08 |
+| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/KnKeJcl8ji07VhkL9iZKotgY2bqZfMxmUj9Scfwg9t4) | Cynet Systems | Delaware | 2026-08-08 |
+| [Mainframe Developer](https://candidateportal.ceipal.com/job-details/axgWLGMTFwtvNi2trW2qRKWzR0Jz5xCHgy8tJJM0y10) | Cynet Systems | Delaware | 2026-08-08 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/zjAxeoom8J6Vpd4NCuMnsMI6gMUT_i1bSkV0yeqRxLM) | Cynet Systems | Ohio | 2026-08-08 |
+| [Senior Operational Data Analyst](https://candidateportal.ceipal.com/job-details/CzCt-_hiFZDH3XeZ5Qv_etzuz7k_jhEm-Rl710lqjs4) | Cynet Systems | California | 2026-08-08 |
+| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/9jyR2jjlRX6RkvsMDry0KQeWFt8lsEETSA5EIR4n63o) | Cynet Systems | New York | 2026-08-08 |
+| [Java Developer Integration Analyst](https://candidateportal.ceipal.com/job-details/BnOQw192KMZV09Z04njDI0vT0Mbmu3vQarQ43UtfSaU) | Cynet Systems | California | 2026-08-08 |
+| [Senior Natural/ADABAS Developer](https://candidateportal.ceipal.com/job-details/q0HJAou7Y88KBVoqXRGsEjKmvOaEbMNXGLKKUSXhqKs) | Cynet Systems | Mississippi | 2026-08-08 |
+| [Senior Natural/Adabas Application Developer](https://candidateportal.ceipal.com/job-details/Dciu7USw7zHRa9yPtVGe-f1-bYXpP2BGfnVMk_7lZxc) | Cynet Systems | Mississippi | 2026-08-08 |
+| [Full Stack Java Developer](https://candidateportal.ceipal.com/job-details/Ha8xvMY0V9H_qsp0xLye2oPcA1SeCvBDOFZ70s4ejps) | Cynet Systems | Florida | 2026-08-08 |
+| [React JS Frontend Developer (MDM Platform)](https://candidateportal.ceipal.com/job-details/3YNK3B1GPhD8jUe-FDI_JMu-xyBcYPFjOJi4zbwnc7Q) | Cynet Systems | Florida | 2026-08-08 |
+| [Senior​ AI/MLOPS Engineer](https://candidateportal.ceipal.com/job-details/g4RhoOjgulDtnt9JnF6uM2iJi4-1ZNm1DR2Mwn9LT4o) | Cynet Systems | California | 2026-08-08 |
+| [Front End Lead Engineer](https://candidateportal.ceipal.com/job-details/F_jvl6F8VzIk-fnejOvFoYBlWuWwHNHKQq_cZzQBNUg) | Cynet Systems | Texas | 2026-08-08 |
+| [Software Engineer](https://candidateportal.ceipal.com/job-details/V529yf7zUp1ETmCD8wrichX_zIflI5s7zXsbAOzpXVo) | Cynet Systems | Georgia | 2026-08-08 |
+| [Sr. Infrastructure Engineer](https://candidateportal.ceipal.com/job-details/HqjiSEKS94xWLq0yWbZiWzjPXVlPAeKpuZWIIa9Amzk) | Cynet Systems | Virginia | 2026-08-08 |
+| [AI Java Full Stack Lead](https://candidateportal.ceipal.com/job-details/sSJQWNxCqZ6TA8GDRMsITLe9vHn7UdBgz--SyOD3mA0) | Cynet Systems | Georgia | 2026-08-08 |
+| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/7LzHwOWP3FleyZvBiQdGiIJU2Jbp6xVAAPK43I5XAc8) | Cynet Systems | Georgia | 2026-08-08 |
+| [MS Power Platform Developer](https://candidateportal.ceipal.com/job-details/T8oCr6zaChAfrtpbi9Y02VUHa_H_XAbe1e5y_Mff_Vg) | Cynet Systems | North Carolina | 2026-08-08 |
+| [FullStack Data / ADK Engineer](https://candidateportal.ceipal.com/job-details/7h8k_d4wk9c_bO6XHazchNa_9YM8E0kpjbQuglktsyw) | Cynet Systems | California | 2026-08-08 |
+| [Programmer Analyst 3](https://candidateportal.ceipal.com/job-details/gM-vdZzL8p26iGkLF8KhlT2Ngm5iit5r-KI5cGl8UYo) | Cynet Systems | Virginia | 2026-08-08 |
+| [Senior Java Full Stack Engineer](https://candidateportal.ceipal.com/job-details/KkxZ5bGkT1BSrdyVPwp1Dpg560Urox_D0VkUDWRM7AY) | Cynet Systems | Virginia | 2026-08-08 |
+| [Oracle OCI Cloud Engineer](https://candidateportal.ceipal.com/job-details/ssB828izC_4zGqce-LMIBp1OTLrfpHX26iSKFYa6M5M) | Cynet Systems | Virginia | 2026-08-08 |
+| [Full-Stack Software Engineer](https://candidateportal.ceipal.com/job-details/qJXDa6Dni4HcZ-OAvgNNLjksP0wTxxWIP4iVP3mpgbY) | Cynet Systems | Florida | 2026-08-08 |
+| [Healthcare Reporting Data Analyst](https://candidateportal.ceipal.com/job-details/2mN_0f4DVYsYs_XI85Wr1m3eHmWr1UtUDQ1HCU0OYyw) | Cynet Systems | Maryland | 2026-08-08 |
+| [Enrollment Technician](https://candidateportal.ceipal.com/job-details/AFGAVN8pkMAqwOtCvRe0KkUcWS8IkAFtABiiaxUeGoo) | Cynet Systems | Maryland | 2026-08-08 |
+| [Oracle AI Consultant](https://candidateportal.ceipal.com/job-details/YsdkIURwt6IvtoRiA5PGvOeKO6I8xVijCXE_LNoS7AU) | Cynet Systems | Pennsylvania | 2026-08-08 |
+| [Cloud Infrastructure Engineer](https://agilityconnect.io/jobs/8325) | Agility Connect | Columbus, OH | 2026-08-08 |
+| [Full Stack Java Engineer](https://agilityconnect.io/jobs/8324) | Agility Connect | Columbus, OH | 2026-08-08 |
+| [Security Engineer](https://agilityconnect.io/jobs/8326) | Agility Connect | Columbus, OH | 2026-08-08 |
+| [Sr. Software Engineer](https://agilityconnect.io/jobs/8328) | Agility Connect | Columbus, OH | 2026-08-08 |
+| [Data Engineer](https://agilityconnect.io/jobs/8329) | Agility Connect | Cincinnati, OH | 2026-08-08 |
 <!-- JOBS:END -->
 
 ## How it works
