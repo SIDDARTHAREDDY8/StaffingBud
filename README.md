@@ -27,77 +27,76 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 54 new roles this update · 15306 tracked total · updated `2026-08-20T15:45:08+00:00`
+### 🆕 52 new roles this update · 15357 tracked total · updated `2026-08-20T18:50:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cynet Systems | 32 |
-| Artech | 9 |
-| Motion Recruitment | 5 |
-| Kforce | 2 |
+| Cynet Systems | 35 |
+| Motion Recruitment | 6 |
+| Artech | 2 |
+| Njoyn (CGI) | 2 |
+| Kforce | 1 |
 | Apex Systems | 1 |
 | Robert Half | 1 |
-| Vaco | 1 |
+| Russell Tobin | 1 |
+| CRG | 1 |
+| ASK Consulting | 1 |
 | Mindlance | 1 |
-| Net2Source | 1 |
-| KellyMitchell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Engineer](http://www.kforce.com/Jobs/1696~WQG~2178659T1~99/) | Kforce | Draper, UT | 2026-08-20 |
-| [Software Engineer](http://www.kforce.com/Jobs/1696~TND~2185964T1~99/) | Kforce | Plano, TX | 2026-08-20 |
-| [Java Developer](https://www.apexsystems.com/job/3047093_usa/java-developer) | Apex Systems | Hoover, AL | 2026-08-20 |
-| [Developersoftware Engineer](https://www.roberthalf.com/us/en/job/kissimmee-fl/developersoftware-engineer/04838-0013480276-usen) | Robert Half | Kissimmee, 04838 | 2026-08-20 |
-| [Full Stack Engineer 3 Positions](https://jobs.vaco.com/job/1510/full_stack_engineer_3_positions/en) | Vaco | Monroe, Ohio | 2026-08-20 |
-| [Ai Engineer - Agentic Customer Workflows - Waltham, Ma](https://motionrecruitment.com/tech-jobs/waltham/direct-hire/ai-engineer-agentic-customer-workflows-waltham-ma/885641) | Motion Recruitment | Waltham, MA | 2026-08-20 |
-| [Senior Software Engineer / Robotics / Physical AI Integration](https://motionrecruitment.com/tech-jobs/wilmington/direct-hire/senior-software-engineer-robotics-physical-ai-integration/883623) | Motion Recruitment | Wilmington, Massachusetts | 2026-08-20 |
-| [Azure Cloud Platform Engineer](https://motionrecruitment.com/tech-jobs/chandler/contract/azure-cloud-platform-engineer/884792) | Motion Recruitment | Chandler, Arizona | 2026-08-20 |
-| [Data Architect \| Richardson \| AWS](https://motionrecruitment.com/tech-jobs/richardson/direct-hire/data-architect-richardson-aws/884037) | Motion Recruitment | Richardson, Texas | 2026-08-20 |
-| [Senior Data Scientist \| Onsite \| AI/ML](https://motionrecruitment.com/tech-jobs/fort-worth/direct-hire/senior-data-scientist-onsite-ai-ml/884036) | Motion Recruitment | Fort Worth, Texas | 2026-08-20 |
-| [DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884609#/jobs/32884609) | Artech | McLean, VA | 2026-08-20 |
-| [AWS DevOps Engineer – Kubernetes & Terraform](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884757#/jobs/32884757) | Artech | Jacksonville, FL | 2026-08-20 |
-| [Java Full Stack Technical Lead – AWS](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884520#/jobs/32884520) | Artech | Atlanta, GA | 2026-08-20 |
-| [Full Stack Python Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884363#/jobs/32884363) | Artech | Phoenix, AZ | 2026-08-20 |
-| [Senior Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32883700#/jobs/32883700) | Artech | Philadelphia, PA | 2026-08-20 |
-| [Python Full Stack engineer (IAM)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884270#/jobs/32884270) | Artech | Phoenix, AZ | 2026-08-20 |
-| [React developer Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32883701#/jobs/32883701) | Artech | Pittsburgh, PA | 2026-08-20 |
-| [Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32884237#/jobs/32884237) | Artech | San Francisco, CA | 2026-08-20 |
-| [Java Developer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32882988#/jobs/32882988) | Artech | New York, NY | 2026-08-20 |
-| [Data Scientist Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29123510#/jobs/29123510) | Mindlance | McLean, VA | 2026-08-20 |
-| [Snowflake Data Engineer + Junior Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29123347#/jobs/29123347) | Net2Source | Atlanta, GA | 2026-08-20 |
-| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/X_-Anpzlji3a_eSDEE_JmVP3iqsvpgOdtlchUHjE-b8) | Cynet Systems | California, Virginia | 2026-08-20 |
-| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/ZwJUB4T7R9delj9sU1p0phVeUDT_Oif89kZ_XWFgF6c) | Cynet Systems | California, Virginia | 2026-08-20 |
-| [Data Analyst](https://candidateportal.ceipal.com/job-details/Ma-q5Dw5IIJeorHBCaMb-gUU0Pf9C1mKoREmrR-0TgQ) | Cynet Systems | North Carolina | 2026-08-20 |
-| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/8a54Dgpqf7vgc846u5-1Egi3Euia5jY8Jq2CSGnBUZc) | Cynet Systems | California, Virginia | 2026-08-20 |
-| [ServiceNow Developer](https://candidateportal.ceipal.com/job-details/eVjQ77ZpPFMOLEVNaC-90cjS4GQC9hvqcYSSgdFec8g) | Cynet Systems | Virginia | 2026-08-20 |
-| [Safety Data Analyst](https://candidateportal.ceipal.com/job-details/61juawk3N51KmN2k8yRPnGHDEwe_KrntOQsa52Q1c48) | Cynet Systems | Massachusetts | 2026-08-20 |
-| [Microsoft Power Platform Developer](https://candidateportal.ceipal.com/job-details/QZUz-pWR6kK-6ak7bRYN37Tf3OlpYsLRpL4xNY1xdFE) | Cynet Systems | North Carolina | 2026-08-20 |
-| [Software Engineer](https://candidateportal.ceipal.com/job-details/Hk8Fi_xbUF5QWsCujBySE2_sCrE-Dw8oHlLjzVqgnlI) | Cynet Systems | Utah | 2026-08-20 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/cQzi5dxYUV14bOT0JKNHPwVwYqAeEpfNKB9zqLxeags) | Cynet Systems | New York | 2026-08-20 |
-| [Software Engineer](https://candidateportal.ceipal.com/job-details/KiqRXF8JFLjV4-AmHQJnFYnOxCYbznAq7Wp5a6WIpzM) | Cynet Systems | Utah | 2026-08-20 |
-| [Senior Data & Cloud Engineer (PL/SQL, Azure & Microsoft Fabric)](https://candidateportal.ceipal.com/job-details/LZyvBlafGWnEVoiZKMG7d6ViRiYCyu8AWQNCqrkGX3E) | Cynet Systems | Florida | 2026-08-20 |
-| [React Web Developer](https://candidateportal.ceipal.com/job-details/KU-lGauGVE7fuWfaLiPeqJ4XWUpxAwg_WO50wxEsyvY) | Cynet Systems | Georgia, New Jersey | 2026-08-20 |
-| [Sr. Unity Software Engineer](https://candidateportal.ceipal.com/job-details/cA02gKNN02NenZgHsUSm-hpm1YbrgsQStRwVW6xaUE0) | Cynet Systems | California | 2026-08-20 |
-| [Senior DevOps Engineer (Automation & Middleware)](https://candidateportal.ceipal.com/job-details/-JzAgfd5v4CZyoagTAk83WvHvdrUJ8ea2m3YTugGwyU) | Cynet Systems | California | 2026-08-20 |
-| [Sr. ROS Software Developer](https://candidateportal.ceipal.com/job-details/DT73fLF7Wi_JkkmeBjtHxaRjEbFixz5lSu3fHldR6Xs) | Cynet Systems | California | 2026-08-20 |
-| [AI Engineer](https://candidateportal.ceipal.com/job-details/7P1xmIGz3W-fhQohARjXvprdYrWlGEB-s1MCVY1wv4M) | Cynet Systems | California | 2026-08-20 |
-| [ETL Developer](https://candidateportal.ceipal.com/job-details/99wkui11YzScQQeIq5nA__A8PXicbRetFCEz_bLHZ8U) | Cynet Systems | California | 2026-08-20 |
-| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/NLEeew9SnKC67TOP_sNN4KTTpQCMxKPWQF8nf19UYCw) | Cynet Systems | California | 2026-08-20 |
-| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/lujtxV4yAo1-WQG-ik7A5I2mSrmgJcR_w0aBxOR2N-I) | Cynet Systems | California | 2026-08-20 |
-| [Java Developer](https://candidateportal.ceipal.com/job-details/FQOsXprk8TKfX0rf3rjlb6D47owJgr8wkQMhXGQD0n4) | Cynet Systems | Illinois | 2026-08-20 |
-| [Full Stack Developer](https://candidateportal.ceipal.com/job-details/MxGPPlJl3CBzK-czwMNraDWPcJj955OW9qeKfDWggfA) | Cynet Systems | New Jersey | 2026-08-20 |
-| [Full Stack Developer](https://candidateportal.ceipal.com/job-details/88LhjU9f4fCTbwvBaWtASmdm6-3g7w92glS_ak3hjCQ) | Cynet Systems | New Jersey | 2026-08-20 |
-| [Sr Unity Software Engineer](https://candidateportal.ceipal.com/job-details/yMPPYajP6VoFyRjKboWwJIIJj_htjur7d1aSt62-Ctg) | Cynet Systems | California | 2026-08-20 |
-| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/BekZFxb-DGHiVMOZUeszrTjBq9lojAINxctNqZ_Q02s) | Cynet Systems | New Jersey | 2026-08-20 |
-| [Full Stack Development](https://candidateportal.ceipal.com/job-details/NG49vINqRDieg1S_pi7n9K2DRp-Wj4v_FKVQaf1nvJk) | Cynet Systems | Texas | 2026-08-20 |
-| [Sitecore Developer](https://candidateportal.ceipal.com/job-details/SNZAmGanfXW9AvZAQT99uRJX5_lhOYBdthKwtCfPXBA) | Cynet Systems | New Jersey | 2026-08-20 |
-| [Frontend Developer III](https://candidateportal.ceipal.com/job-details/X14nXWalhnBxarMSqXf5beOFq5lBsm-dK43FLl9cccI) | Cynet Systems | New Jersey | 2026-08-20 |
-| [Global Head of AI GTM](https://candidateportal.ceipal.com/job-details/gbKqvrxdNOcFskSAS99PO4EX7BMkukXDP_6Px-bFgjI) | Cynet Systems | California | 2026-08-20 |
-| [Sr. Java Full Stack Developer Lead](https://candidateportal.ceipal.com/job-details/W7Nx-QBqHIhx58A7LK0qyiFGqH6r8jYCh1w6FNXFWZo) | Cynet Systems | Virginia | 2026-08-20 |
-| [Sr. Java Full Stack Developer Lead](https://candidateportal.ceipal.com/job-details/z9VAMOA1DGXWGszivKnJs2eKtNlzMf_bWlojOb1-QBo) | Cynet Systems | Virginia | 2026-08-20 |
-| [ML Engineer](https://candidateportal.ceipal.com/job-details/gHBax71RhKvyc30N9IhI0LfpCJ00avndN_PoHOxAJ5I) | Cynet Systems | California | 2026-08-20 |
-| [Forward Deployed Developer](https://candidateportal.ceipal.com/job-details/OZnt3jvt2xVkVDHCk6XHIlU6V5LVrUOgKA4J6-uwr9I) | Cynet Systems | Georgia | 2026-08-20 |
-| [Data Scientist](https://www.careers.kellymitchell.com/jobs/142813) | KellyMitchell | St. Louis, Missouri, 63103 | 2026-08-20 |
+| [Senior Snowflake Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2186017T1~99/) | Kforce | Davie, FL | 2026-08-20 |
+| [Data Analyst](https://www.apexsystems.com/job/3047120_usa/data-analyst) | Apex Systems | Franklin, TN | 2026-08-20 |
+| [Network Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/network-cloud-engineer/01120-9504380433-usen) | Robert Half | Jacksonville, 01120 | 2026-08-20 |
+| [Platform Engineer III](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29126054#/jobs/29126054) | Russell Tobin | SeaTac, WA | 2026-08-20 |
+| [Senior Data Scientist — Pricing & Commercial Analytics](https://jobs.getcrg.com/jobs/16669) | CRG | Fort Mill, South Carolina | 2026-08-20 |
+| [Mid-Senior Data Engineer – SQL, Python, dbt & Snowflake](https://motionrecruitment.com/tech-jobs/city-of-industry/direct-hire/mid-senior-data-engineer-sql-python-dbt-and-snowflake/885666) | Motion Recruitment | City of Industry, California | 2026-08-20 |
+| [Backend Software Engineer - Payments and Partnership - Waltham, Ma](https://motionrecruitment.com/tech-jobs/waltham/direct-hire/backend-software-engineer-payments-and-partnership-waltham-ma/885667) | Motion Recruitment | Waltham, MA | 2026-08-20 |
+| [Developer](https://motionrecruitment.com/tech-jobs/westbury/contract/developer/885646) | Motion Recruitment | Westbury, NY | 2026-08-20 |
+| [Senior AI/ML Engineer (Python)](https://motionrecruitment.com/tech-jobs/charlotte/direct-hire/senior-ai-ml-engineer-python/885663) | Motion Recruitment | Charlotte, North Carolina | 2026-08-20 |
+| [Software Engineer 4 - Azure / .Net](https://motionrecruitment.com/tech-jobs/charlotte/contract/software-engineer-4-azure-dot-net/885337) | Motion Recruitment | CHARLOTTE, NC | 2026-08-20 |
+| [Senior DevOps Engineer / AWS / Onsite in Holmdel, NJ](https://motionrecruitment.com/tech-jobs/holmdel/direct-hire/senior-devops-engineer-aws-onsite-in-holmdel-nj/885659) | Motion Recruitment | Holmdel, New Jersey | 2026-08-20 |
+| [Engineer 2 - Full stack](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/129894/Engineer 2 - Full stack) | ASK Consulting | Seattle, WA, 98101 | 2026-08-20 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32885842#/jobs/32885842) | Artech | Charlotte, NC | 2026-08-20 |
+| [.NET Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=32885759#/jobs/32885759) | Artech | Cleveland, OH | 2026-08-20 |
+| [Data Analyst - Intermediate](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29126079#/jobs/29126079) | Mindlance | PLANO, TX | 2026-08-20 |
+| [AI Lead Architect](https://candidateportal.ceipal.com/job-details/3ahg_BiSjikngdc2-sB5s1qOm7cxphzONYX15dRweRw) | Cynet Systems | New York | 2026-08-20 |
+| [Naehas Developer](https://candidateportal.ceipal.com/job-details/O99KWFYyCFsr1EW24tR-5gyKkW7CoOe8DdShd0CPkH4) | Cynet Systems | New York | 2026-08-20 |
+| [Dotnet Developer](https://candidateportal.ceipal.com/job-details/vdvHc2Lx-kwXOH8zvR10E3pVR46VClzG6RQPDCM7EPE) | Cynet Systems | Georgia | 2026-08-20 |
+| [Engineering - Software Development Engineer 3](https://candidateportal.ceipal.com/job-details/jPIkWPluThl9GSecCGfMB4pSSn6lTKoRuVbvM2jRnf8) | Cynet Systems | Texas | 2026-08-20 |
+| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/DyTex6FrRuQSO4QjUJa2q2oLS8moyH_iiqO1IANclf8) | Cynet Systems | Virginia | 2026-08-20 |
+| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/J5PiGfm3RQZ0LpjsiSjAsOOiZD_djFKhs5tKsNiPeWY) | Cynet Systems | Virginia | 2026-08-20 |
+| [Full Stack Developer with AI](https://candidateportal.ceipal.com/job-details/z0BUWopbbZOYW7_ADZcwFO5TaNp72EdR5TRbi2GFBL4) | Cynet Systems | Virginia | 2026-08-20 |
+| [Data Analyst](https://candidateportal.ceipal.com/job-details/lNp9Insm2z-cjoyftuOg_cDuW7uUKcKVi2hkrVbIdAo) | Cynet Systems | North Carolina | 2026-08-20 |
+| [ServiceNow Developer](https://candidateportal.ceipal.com/job-details/E6VRL1h8luyemSSt7SspkMGzaQR8zT5NNHipJmYGVZg) | Cynet Systems | Virginia | 2026-08-20 |
+| [Safety Data Analyst](https://candidateportal.ceipal.com/job-details/3SrSCGcDrEEmKnd29N1SEhqcZ_rKoHY0ZdYiE9uI6y4) | Cynet Systems | Massachusetts | 2026-08-20 |
+| [Microsoft Power Platform Developer](https://candidateportal.ceipal.com/job-details/fWVDE4c252JJemxfblZX3TxLrvEgeu1XY7G07VY60Tk) | Cynet Systems | North Carolina | 2026-08-20 |
+| [Software Engineer](https://candidateportal.ceipal.com/job-details/R84B9rW9fl4_UOXiREn4P2ogv4NxLR3x8SwKjPYUJFk) | Cynet Systems | Utah | 2026-08-20 |
+| [Software Engineer](https://candidateportal.ceipal.com/job-details/o9pGMElnEy0uiGRGhYJgphRG3kINv23r7xvWc-Xmqm4) | Cynet Systems | Utah | 2026-08-20 |
+| [Senior Data & Cloud Engineer (PL/SQL, Azure & Microsoft Fabric)](https://candidateportal.ceipal.com/job-details/XJcLuYeD0c8Y85q8CMfBw71OV2z_hEvWg_uFaDTQc5k) | Cynet Systems | Florida | 2026-08-20 |
+| [React Web Developer](https://candidateportal.ceipal.com/job-details/J-qQIAxqYUhbnd9goWRNVrbF-0OtqCa5BCLp0ImrxFc) | Cynet Systems | Georgia, New Jersey | 2026-08-20 |
+| [Sr. Unity Software Engineer](https://candidateportal.ceipal.com/job-details/9dED0HiCHSemfl2vPaMlp1x6oIrcJjAYcoIDeXwDpD8) | Cynet Systems | California | 2026-08-20 |
+| [Senior DevOps Engineer (Automation & Middleware)](https://candidateportal.ceipal.com/job-details/RNT2z-6zJnFg01ySBA5x4Bf7ex_SYN85A9Y30O7-mvE) | Cynet Systems | California | 2026-08-20 |
+| [Sr. ROS Software Developer](https://candidateportal.ceipal.com/job-details/XCD1OhM5yl8jVqYpnUlxA_I5-UErD3SkAbvo9sr0P68) | Cynet Systems | California | 2026-08-20 |
+| [AI Engineer](https://candidateportal.ceipal.com/job-details/_nXK4uX8SVMLC4TdNH3tIkSjOKXVe19gTfhhY0yNCPM) | Cynet Systems | California | 2026-08-20 |
+| [ETL Developer](https://candidateportal.ceipal.com/job-details/02qfkQjLpnuBmhkFlivmTAw8vSTdXLqHX3DmmzARGgY) | Cynet Systems | California | 2026-08-20 |
+| [Senior Data Engineer](https://candidateportal.ceipal.com/job-details/rzh8bQJxhjRqbNFUZJXkYdsoCBW3uXZFBNmtTeNHdEs) | Cynet Systems | California | 2026-08-20 |
+| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/Tcl9WJHmryCd1CNIP3ZJ6bzQkIlq4lg0mrsSDkdEgzk) | Cynet Systems | California | 2026-08-20 |
+| [Java Developer](https://candidateportal.ceipal.com/job-details/XDhvST1sLaPpnCPGl-W0Yr7rrln27cIJup_rtONAzPs) | Cynet Systems | Illinois | 2026-08-20 |
+| [Full Stack Developer](https://candidateportal.ceipal.com/job-details/e4fQ69UrfNJIFb8AYxVtibEmjLpC4c5MnHSmDlY9J_M) | Cynet Systems | New Jersey | 2026-08-20 |
+| [Full Stack Developer](https://candidateportal.ceipal.com/job-details/wV0ptUefu0-f8b-oH0DJP8gRfMr6tBoYDmSWrjMbBxg) | Cynet Systems | New Jersey | 2026-08-20 |
+| [Sr Unity Software Engineer](https://candidateportal.ceipal.com/job-details/1uus_uhWUoMRRiwI6B5IJ42UIVXhB0Zrs3flK3YTbOk) | Cynet Systems | California | 2026-08-20 |
+| [Java Full Stack Developer](https://candidateportal.ceipal.com/job-details/qNb4kA9s98B3ws6YuMd-3Hq9yxEbMdkZMNDmBkcSXlc) | Cynet Systems | New Jersey | 2026-08-20 |
+| [Full Stack Development](https://candidateportal.ceipal.com/job-details/xeksqItYEqdiTbmDLSGsA4DEcYqV9KGxQiKDnSJFv40) | Cynet Systems | Texas | 2026-08-20 |
+| [Sitecore Developer](https://candidateportal.ceipal.com/job-details/4ltBOh1uk_zXlPuhRXb7pAoFnjayDZQnSWDh20u9FFU) | Cynet Systems | New Jersey | 2026-08-20 |
+| [Frontend Developer III](https://candidateportal.ceipal.com/job-details/m6wG81WVzg3Eg1lX7qTMzokGCdCIQkWqw8HXM1VLFNw) | Cynet Systems | New Jersey | 2026-08-20 |
+| [Global Head of AI GTM](https://candidateportal.ceipal.com/job-details/zZ0VcQ7WZq2WUwbinaU2j0my-cMZrr0G7OZ0pTMoBgY) | Cynet Systems | California | 2026-08-20 |
+| [Sr. Java Full Stack Developer Lead](https://candidateportal.ceipal.com/job-details/RfwgojwG8OkJbprRq_miSYWmBqaULayqyL-1Fspbkck) | Cynet Systems | Virginia | 2026-08-20 |
+| [Sr. Java Full Stack Developer Lead](https://candidateportal.ceipal.com/job-details/56oaf5iFKZhJMyGiOjpR9pZKQzg7XRtcFLSVBWQofvE) | Cynet Systems | Virginia | 2026-08-20 |
+| [Forward Deployed Developer](https://candidateportal.ceipal.com/job-details/Hc1-KhO_18hwKuUJZTJdJmNy24B8IGFGoLGotuO_dR8) | Cynet Systems | Georgia | 2026-08-20 |
+| [ML Engineer](https://candidateportal.ceipal.com/job-details/8iaH8ADBa8W29lh9MhTIDJvhCwW9Ha7QT2fK4p-S0NQ) | Cynet Systems | California | 2026-08-20 |
+| [Junior Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1375&BRID=1326997&lang=1) | Njoyn (CGI) | Greenville, United States | 2026-08-20 |
+| [Senior Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1376&BRID=1326993&lang=1) | Njoyn (CGI) | Greenville, United States | 2026-08-20 |
 <!-- JOBS:END -->
 
 ## How it works
