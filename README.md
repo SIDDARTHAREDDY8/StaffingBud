@@ -27,35 +27,28 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 14495 tracked total · updated `2026-09-24T04:05:32+00:00`
+### 🆕 10 new roles this update · 14505 tracked total · updated `2026-09-24T11:30:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Motion Recruitment | 4 |
-| Robert Half | 2 |
-| TEKsystems | 1 |
-| ProFocus | 1 |
-| Artech | 1 |
-| Net2Source | 1 |
-| Pinnacle Group | 1 |
-| Harnham | 1 |
-| Njoyn (CGI) | 1 |
+| TEKsystems | 3 |
+| Robert Half | 3 |
+| Njoyn (CGI) | 2 |
+| Motion Recruitment | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Developer](https://careers.teksystems.com/us/en/job/JP-006305631/Senior-Software-Developer) | TEKsystems | Hanover, Maryland | 2026-09-24 |
-| [Bi Developer](https://www.roberthalf.com/us/en/job/santa-clara-ca/bi-developer/04410-0013503316-usen) | Robert Half | Santa Clara, 00420 | 2026-09-24 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/chicago-il/software-engineering-manager/01300-0013445151-usen) | Robert Half | Chicago, 01300 | 2026-09-24 |
-| [Itsm Platform Engineer Ivanti](https://www.profocustechnology.com/echojobs/itsm-platform-engineer-ivanti-3614/) | ProFocus | — | 2026-09-24 |
-| [Full Stack AI Engineer](https://motionrecruitment.com/tech-jobs/cedar-rapids/direct-hire/full-stack-ai-engineer/888305) | Motion Recruitment | Cedar Rapids, Iowa | 2026-09-24 |
-| [Senior Software Engineer / React / Python / AI Infrastructure](https://motionrecruitment.com/tech-jobs/sunnyvale/direct-hire/senior-software-engineer-react-python-ai-infrastructure/888304) | Motion Recruitment | Sunnyvale, California | 2026-09-24 |
-| [Fullstack Software Engineer / TypeScript / Golang / AI Security](https://motionrecruitment.com/tech-jobs/sunnyvale/direct-hire/fullstack-software-engineer-typescript-golang-ai-security/888298) | Motion Recruitment | Sunnyvale, California | 2026-09-24 |
-| [.NET Developer Job in Boston](https://motionrecruitment.com/tech-jobs/boston/contract/dot-net-developer-job-in-boston/888299) | Motion Recruitment | Boston, MA | 2026-09-24 |
-| [.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33140987#/jobs/33140987) | Artech | Boston, MA | 2026-09-24 |
-| [Software Engineer - I](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29353419#/jobs/29353419) | Net2Source | Austin, TX | 2026-09-24 |
-| [Client Fulfillment Coordinator](https://pinnaclegroup.wd1.myworkdayjobs.com/en-US/PinnacleGroup/job/Headquarters/Client-Fulfillment-Coordinator_JR1262) | Pinnacle Group | Headquarters | 2026-09-24 |
-| [DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-miami-florida/) | Harnham | Miami, Florida | 2026-09-24 |
-| [SQL Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1963&BRID=1335655&lang=1) | Njoyn (CGI) | Fairfax, Lafayette, United States | 2026-09-24 |
+| [Infrastructure Engineer (Temporal)](https://careers.teksystems.com/us/en/job/JP-006305862/Infrastructure-Engineer-Temporal) | TEKsystems | Phoenix, Arizona | 2026-09-24 |
+| [Data Center Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006305841/Data-Center-Infrastructure-Engineer) | TEKsystems | Plano, Texas | 2026-09-24 |
+| [Infrastructure Engineer (Temporal)](https://careers.teksystems.com/us/en/job/JP-006305834/Infrastructure-Engineer-Temporal) | TEKsystems | Dallas, Texas | 2026-09-24 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/el-segundo-ca/software-developer/00460-0013494367-usen) | Robert Half | El Segundo, 00460 | 2026-09-24 |
+| [Ml Ops Ai Engineer Ii](https://www.roberthalf.com/us/en/job/coppell-tx/ml-ops-ai-engineer-ii/04030-0013490205-usen) | Robert Half | Coppell, 04030 | 2026-09-24 |
+| [Email Developer](https://www.roberthalf.com/us/en/job/irvine-ca/email-developer/00350-0013499474-usen) | Robert Half | Irvine, 00350 | 2026-09-24 |
+| [Infrastructure/DevOps Engineer](https://motionrecruitment.com/tech-jobs/draper-/direct-hire/infrastructure-devops-engineer/888313) | Motion Recruitment | Draper , Utah | 2026-09-24 |
+| [Platform Engineer](https://agilityconnect.io/jobs/8470) | Agility Connect | Cincinnati, OH | 2026-09-24 |
+| [ECM Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1950&BRID=1335677&lang=1) | Njoyn (CGI) | San Diego, United States | 2026-09-24 |
+| [Senior Full Stack Java Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1775&BRID=1335676&lang=1) | Njoyn (CGI) | Salt Lake City, United States | 2026-09-24 |
 <!-- JOBS:END -->
 
 ## How it works
