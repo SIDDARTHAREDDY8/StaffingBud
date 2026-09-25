@@ -27,26 +27,30 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 14564 tracked total · updated `2026-09-25T04:20:24+00:00`
+### 🆕 9 new roles this update · 14569 tracked total · updated `2026-09-25T11:39:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| Artech | 3 |
-| Russell Tobin | 1 |
-| Harnham | 1 |
+| Artech | 2 |
+| TEKsystems | 1 |
+| Apex Systems | 1 |
+| Robert Half | 1 |
+| Mindlance | 1 |
+| Agility Connect | 1 |
+| KellyMitchell | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/jacksonville-fl/data-scientist/00920-0013501637-usen) | Robert Half | Jacksonville, 00920 | 2026-09-25 |
-| [Ai Solution Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/ai-solution-engineer/03930-0013468814-usen) | Robert Half | Nashville, 03930 | 2026-09-25 |
-| [Firmware Engineer](https://www.roberthalf.com/us/en/job/largo-fl/firmware-engineer/01070-0013429268-usen) | Robert Half | Largo, 01070 | 2026-09-25 |
-| [Senior Oracle Developer](https://www.roberthalf.com/us/en/job/ogden-ut/senior-oracle-developer/04820-0013506126-usen) | Robert Half | Ogden, 04820 | 2026-09-25 |
-| [Site Reliability Engineer - Remote](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29359273#/jobs/29359273) | Russell Tobin | Santa Clara, CA | 2026-09-25 |
-| [ASP.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33146978#/jobs/33146978) | Artech | Raleigh, NC | 2026-09-25 |
-| [Customer Identity & Access Management (CIAM) Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33148640#/jobs/33148640) | Artech | Phoenix, AZ | 2026-09-25 |
-| [Gaming - Embedded Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33148141#/jobs/33148141) | Artech | Sunnyvale, CA | 2026-09-25 |
-| [SENIOR DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-scientist-nashville-tennessee/) | Harnham | Nashville, Tennessee | 2026-09-25 |
+| [Sr. Site Reliability Engineer](https://careers.teksystems.com/us/en/job/JP-006307636/Sr-Site-Reliability-Engineer) | TEKsystems | Plano, Texas | 2026-09-25 |
+| [Remote Multi-Cloud Engineer](https://www.apexsystems.com/job/3047934_usa/remote-multi-cloud-engineer) | Apex Systems | Gaithersburg, MD | 2026-09-25 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/san-antonio-tx/software-developer/04080-0013500663-usen) | Robert Half | San Antonio, 04080 | 2026-09-25 |
+| [Site Reliability Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33146742#/jobs/33146742) | Artech | Westbrook, ME | 2026-09-25 |
+| [Application Developer - Intermediate](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33146749#/jobs/33146749) | Artech | Westbrook, ME | 2026-09-25 |
+| [IT - Software Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29365964#/jobs/29365964) | Mindlance | Austin, TX | 2026-09-25 |
+| [Senior Mainframe Developer](https://agilityconnect.io/jobs/8474) | Agility Connect | Cincinnati, OH | 2026-09-25 |
+| [Data Engineer](https://www.careers.kellymitchell.com/jobs/143178) | KellyMitchell | McLean, Virginia, 22102 | 2026-09-25 |
+| [Lead Angular Frontend Developer with German (m/f/d)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2145&BRID=1336140&lang=1) | Njoyn (CGI) | Sofia, Bulgaria | 2026-09-25 |
 <!-- JOBS:END -->
 
 ## How it works
