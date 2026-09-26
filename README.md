@@ -27,18 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 14122 tracked total · updated `2026-09-26T16:13:45+00:00`
+### 🟢 No new roles this update · **14122** roles open total · updated `2026-09-26T20:56:29+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 2 |
-| Goodwin Recruiting | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Director Artificial Intelligence](https://www.roberthalf.com/us/en/job/columbia-sc/director-artificial-intelligence/03230-0013499146-usen) | Robert Half | Columbia, 03230 | 2026-09-26 |
-| [Director Data Analytics](https://www.roberthalf.com/us/en/job/columbia-sc/director-data-analytics/03230-0013499153-usen) | Robert Half | Columbia, 03230 | 2026-09-26 |
-| [Employee Benefits Open Enrollment/Onboarding Specialist – Hybrid](https://www.goodwinrecruiting.com/job/a0wr7000003d7q9mak-employee-benefits-open-enrollment-onboarding-specialist-hybrid-lincoln-park-new-jersey) | Goodwin Recruiting | — | 2026-09-26 |
+Nothing new since the last run — [browse all 14122 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
