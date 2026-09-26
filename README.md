@@ -27,49 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 28 new roles this update · 14650 tracked total · updated `2026-09-25T21:25:12+00:00`
+### 🆕 3 new roles this update · 14114 tracked total · updated `2026-09-26T04:25:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 7 |
-| Kforce | 6 |
-| Mindlance | 5 |
-| Apex Systems | 4 |
-| Motion Recruitment | 3 |
-| TEKsystems | 1 |
-| Russell Tobin | 1 |
-| CRG | 1 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Architect](http://www.kforce.com/Jobs/1696~TVT~2189538T1~99/) | Kforce | Austin, TX | 2026-09-25 |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2189492P1~99/) | Kforce | Naperville, IL | 2026-09-25 |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2189529T1~99/) | Kforce | Minneapolis, MN | 2026-09-25 |
-| [IT Software Engineer](http://www.kforce.com/Jobs/1696~TVT~2189536T1~99/) | Kforce | Austin, TX | 2026-09-25 |
-| [DevOps Engineer](http://www.kforce.com/Jobs/1696~AQG~2180759T1~99/) | Kforce | Raleigh, NC | 2026-09-25 |
-| [Information Security Engineer](http://www.kforce.com/Jobs/1696~AQG~2189446T1~99/) | Kforce | Boston, MA | 2026-09-25 |
-| [SQL Developer](https://careers.teksystems.com/us/en/job/JP-006310932/SQL-Developer) | TEKsystems | New York City, New York | 2026-09-25 |
-| [Software Engineer](https://www.apexsystems.com/job/3053535_usa/software-engineer) | Apex Systems | Costa Mesa, CA | 2026-09-25 |
-| [Senior Software Engineer](https://www.apexsystems.com/job/3049262_usa/senior-software-engineer) | Apex Systems | Kansas City, MO | 2026-09-25 |
-| [Full Stack Dev](https://www.apexsystems.com/job/3052421_usa/full-stack-dev) | Apex Systems | Franklin, TN | 2026-09-25 |
-| [Martech Developer](https://www.apexsystems.com/job/3053732_usa/martech-developer) | Apex Systems | Broomfield, CO | 2026-09-25 |
-| [Workday Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29347178#/jobs/29347178) | Russell Tobin | Seattle (Remote), WA | 2026-09-25 |
-| [Security Engineer](https://jobs.getcrg.com/jobs/16759) | CRG | Greensboro, North Carolina | 2026-09-25 |
-| [Senior Software Engineer / .NET Core / Angular](https://motionrecruitment.com/tech-jobs/west-hartford/direct-hire/senior-software-engineer-dot-net-core-angular/888514) | Motion Recruitment | West Hartford, Illinois | 2026-09-25 |
-| [Power Platform Engineer and Llibrarian](https://motionrecruitment.com/tech-jobs/chandler/contract/power-platform-engineer-and-llibrarian/888087) | Motion Recruitment | CHANDLER, AZ | 2026-09-25 |
-| [Senior Software Developer](https://motionrecruitment.com/tech-jobs/arlington/direct-hire/senior-software-developer/888474) | Motion Recruitment | Arlington, Virginia | 2026-09-25 |
-| [Sr. Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33156015#/jobs/33156015) | Artech | Richmond, VA | 2026-09-25 |
-| [Sr. Workday Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155798#/jobs/33155798) | Artech | Philadelphia, PA | 2026-09-25 |
-| [Technology and Data - Software Engineer 4 - Contingent](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33153778#/jobs/33153778) | Artech | COLUMBUS, OH | 2026-09-25 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33152596#/jobs/33152596) | Artech | Charlotte, NC | 2026-09-25 |
-| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33154321#/jobs/33154321) | Artech | Jacksonville, FL | 2026-09-25 |
-| [Full Stack .Net Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33154319#/jobs/33154319) | Artech | Clifton, NJ | 2026-09-25 |
-| [Data Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33149457#/jobs/33149457) | Artech | Forest Park, GA | 2026-09-25 |
-| [.Net Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29372316#/jobs/29372316) | Mindlance | Lone Tree, CO | 2026-09-25 |
-| [IT - Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29371714#/jobs/29371714) | Mindlance | MASON, OH | 2026-09-25 |
-| [Software Architect - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29371934#/jobs/29371934) | Mindlance | Albany, NY | 2026-09-25 |
-| [Software Engineer (I)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29371793#/jobs/29371793) | Mindlance | San Jose, CA | 2026-09-25 |
-| [AI Engineer / Senior AI Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29370207#/jobs/29370207) | Mindlance | Taylor, TX | 2026-09-25 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/west-valley-city-ut/software-engineering-manager/04820-0013507023-usen) | Robert Half | West Valley City, 04820 | 2026-09-26 |
+| [Forward Deployed Engineer/ Phoenix, AZ](https://motionrecruitment.com/tech-jobs/phoenix/direct-hire/forward-deployed-engineer-phoenix-az/888467) | Motion Recruitment | Phoenix, Arizona | 2026-09-26 |
+| [Databricks Developer – Databricks Apps Specialist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2214&BRID=1336386&lang=1) | Njoyn (CGI) | Houston, United States | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
