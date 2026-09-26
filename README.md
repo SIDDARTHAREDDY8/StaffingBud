@@ -27,21 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 14119 tracked total · updated `2026-09-26T11:11:59+00:00`
+### 🆕 3 new roles this update · 14122 tracked total · updated `2026-09-26T16:13:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
+| Robert Half | 2 |
+| Goodwin Recruiting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Wordpress Developer](https://www.roberthalf.com/us/en/job/newport-mn/wordpress-developer/02310-0013500888-usen) | Robert Half | Newport, 02310 | 2026-09-26 |
-| [Full-Stack Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29356275#/jobs/29356275) | Russell Tobin | Los Angeles, CA | 2026-09-26 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33156244#/jobs/33156244) | Artech | Jersey City, NJ | 2026-09-26 |
-| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155058#/jobs/33155058) | Artech | Jersey City, NJ | 2026-09-26 |
-| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155125#/jobs/33155125) | Artech | Jersey City, NJ | 2026-09-26 |
+| [Director Artificial Intelligence](https://www.roberthalf.com/us/en/job/columbia-sc/director-artificial-intelligence/03230-0013499146-usen) | Robert Half | Columbia, 03230 | 2026-09-26 |
+| [Director Data Analytics](https://www.roberthalf.com/us/en/job/columbia-sc/director-data-analytics/03230-0013499153-usen) | Robert Half | Columbia, 03230 | 2026-09-26 |
+| [Employee Benefits Open Enrollment/Onboarding Specialist – Hybrid](https://www.goodwinrecruiting.com/job/a0wr7000003d7q9mak-employee-benefits-open-enrollment-onboarding-specialist-hybrid-lincoln-park-new-jersey) | Goodwin Recruiting | — | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
