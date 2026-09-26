@@ -27,19 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 14114 tracked total · updated `2026-09-26T04:25:07+00:00`
+### 🆕 5 new roles this update · 14119 tracked total · updated `2026-09-26T11:11:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Artech | 3 |
 | Robert Half | 1 |
-| Motion Recruitment | 1 |
-| Njoyn (CGI) | 1 |
+| Russell Tobin | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/west-valley-city-ut/software-engineering-manager/04820-0013507023-usen) | Robert Half | West Valley City, 04820 | 2026-09-26 |
-| [Forward Deployed Engineer/ Phoenix, AZ](https://motionrecruitment.com/tech-jobs/phoenix/direct-hire/forward-deployed-engineer-phoenix-az/888467) | Motion Recruitment | Phoenix, Arizona | 2026-09-26 |
-| [Databricks Developer – Databricks Apps Specialist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2214&BRID=1336386&lang=1) | Njoyn (CGI) | Houston, United States | 2026-09-26 |
+| [Wordpress Developer](https://www.roberthalf.com/us/en/job/newport-mn/wordpress-developer/02310-0013500888-usen) | Robert Half | Newport, 02310 | 2026-09-26 |
+| [Full-Stack Developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29356275#/jobs/29356275) | Russell Tobin | Los Angeles, CA | 2026-09-26 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33156244#/jobs/33156244) | Artech | Jersey City, NJ | 2026-09-26 |
+| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155058#/jobs/33155058) | Artech | Jersey City, NJ | 2026-09-26 |
+| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33155125#/jobs/33155125) | Artech | Jersey City, NJ | 2026-09-26 |
 <!-- JOBS:END -->
 
 ## How it works
