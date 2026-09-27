@@ -27,9 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **13692** roles open total · updated `2026-09-27T04:40:45+00:00`
+### 🆕 2 new roles this update · 13694 tracked total · updated `2026-09-27T11:50:04+00:00`
 
-Nothing new since the last run — [browse all 13692 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Agility Connect | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Fullstack Software Engineer](https://agilityconnect.io/jobs/8478) | Agility Connect | OH | 2026-09-27 |
+| [Senior Data Engineer](https://agilityconnect.io/jobs/8479) | Agility Connect | Cincinnati, OH | 2026-09-27 |
 <!-- JOBS:END -->
 
 ## How it works
