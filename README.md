@@ -27,9 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **13694** roles open total · updated `2026-09-27T21:15:30+00:00`
+### 🆕 3 new roles this update · 13435 tracked total · updated `2026-09-28T04:43:03+00:00`
 
-Nothing new since the last run — [browse all 13694 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 2 |
+| Compunnel | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [PKI And KMS Software Development Engineer](https://careers.teksystems.com/us/en/job/JP-006308899/PKI-And-KMS-Software-Development-Engineer) | TEKsystems | Dearborn, Michigan | 2026-09-28 |
+| [PKI And KMS Software Development Engineer](https://careers.teksystems.com/us/en/job/JP-006308903/PKI-And-KMS-Software-Development-Engineer) | TEKsystems | Dearborn, Michigan | 2026-09-28 |
+| [Full Stack Developer](https://jobs.compunnel.com/jobs/5912566) | Compunnel | Dallas, Texas, United States | 2026-09-28 |
 <!-- JOBS:END -->
 
 ## How it works
