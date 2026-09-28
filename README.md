@@ -27,18 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 13435 tracked total · updated `2026-09-28T04:43:03+00:00`
+### 🆕 3 new roles this update · 13438 tracked total · updated `2026-09-28T13:28:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 2 |
-| Compunnel | 1 |
+| Talent Groups | 1 |
+| Artech | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [PKI And KMS Software Development Engineer](https://careers.teksystems.com/us/en/job/JP-006308899/PKI-And-KMS-Software-Development-Engineer) | TEKsystems | Dearborn, Michigan | 2026-09-28 |
-| [PKI And KMS Software Development Engineer](https://careers.teksystems.com/us/en/job/JP-006308903/PKI-And-KMS-Software-Development-Engineer) | TEKsystems | Dearborn, Michigan | 2026-09-28 |
-| [Full Stack Developer](https://jobs.compunnel.com/jobs/5912566) | Compunnel | Dallas, Texas, United States | 2026-09-28 |
+| [COBOL Programmer](https://www.talentgroups.com/job-details/cobol-programmer-in-programming-jobs-1737767) | Talent Groups | Providence, RI | 2026-09-28 |
+| [Senior Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33159587#/jobs/33159587) | Artech | Charlotte, NC | 2026-09-28 |
+| [PRODUCT DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-product-data-scientist-sheffield-south-yorkshire/) | Harnham | Sheffield, South Yorkshire | 2026-09-28 |
 <!-- JOBS:END -->
 
 ## How it works
