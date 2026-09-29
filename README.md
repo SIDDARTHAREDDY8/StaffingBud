@@ -27,43 +27,27 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 21 new roles this update · 13107 tracked total · updated `2026-09-29T05:10:23+00:00`
+### 🆕 11 new roles this update · 13118 tracked total · updated `2026-09-29T12:34:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Artech | 4 |
-| Kforce | 3 |
-| Motion Recruitment | 3 |
-| Robert Half | 2 |
-| Compunnel | 2 |
-| Russell Tobin | 1 |
-| Mindlance | 1 |
+| Apex Systems | 8 |
+| Motion Recruitment | 2 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2189742T1~99/) | Kforce | New York, NY | 2026-09-29 |
-| [Data Engineer - MarTech](http://www.kforce.com/Jobs/1696~WQG~2189703T1~99/) | Kforce | Irving, TX | 2026-09-29 |
-| [Oracle Database Developer](http://www.kforce.com/Jobs/1696~WQG~2189741T1~99/) | Kforce | New York, NY | 2026-09-29 |
-| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006313254/Senior-Data-Engineer) | TEKsystems | Bethesda, Maryland | 2026-09-29 |
-| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006313714/Mid-Senior-ServiceNow-Developer) | TEKsystems | Fort Meade, Maryland | 2026-09-29 |
-| [Snowflake Data Engineer (HVR REQUIRED)](https://careers.teksystems.com/us/en/job/JP-006315488/Snowflake-Data-Engineer-HVR-REQUIRED) | TEKsystems | New York, New York | 2026-09-29 |
-| [Full Stack Developer](https://careers.teksystems.com/us/en/job/JP-006314797/Full-Stack-Developer) | TEKsystems | Buffalo, New York | 2026-09-29 |
-| [Hedis Lvnlpn](https://www.roberthalf.com/us/en/job/minneapolis-mn/hedis-lvnlpn/02303-9504402422-usen) | Robert Half | Minneapolis, 02303 | 2026-09-29 |
-| [Lead Software Developer](https://www.roberthalf.com/us/en/job/houston-tx/lead-software-developer/04340-0013506734-usen) | Robert Half | Houston, 04340 | 2026-09-29 |
-| [Software Engineer (II)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29369790#/jobs/29369790) | Russell Tobin | Mountain View, CA | 2026-09-29 |
-| [Staff / Lead Engineer / .Net / React / Microservices / AWS / Distributed Systems](https://motionrecruitment.com/tech-jobs/newport-beach/direct-hire/staff-lead-engineer-dot-net-react-microservices-aws-distributed-systems/888630) | Motion Recruitment | newport beach, California | 2026-09-29 |
-| [Data Science Data Engineering / BigQuery / PostgreSQL / Python / GCP - OC](https://motionrecruitment.com/tech-jobs/lake-forest-/direct-hire/data-science-data-engineering-bigquery-postgresql-python-gcp-oc/888629) | Motion Recruitment | Lake Forest , CA | 2026-09-29 |
-| [Senior DevOps Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-engineer/888619) | Motion Recruitment | Chicago, Illinois | 2026-09-29 |
-| [Application Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33162896#/jobs/33162896) | Artech | Charlotte, NC | 2026-09-29 |
-| [Java Spring Boot Developer (GCP)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163706#/jobs/33163706) | Artech | New York, FL | 2026-09-29 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33164338#/jobs/33164338) | Artech | — | 2026-09-29 |
-| [Full stack developer with focus on Ul](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163079#/jobs/33163079) | Artech | Sunnyvale, CA, CA | 2026-09-29 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29381923#/jobs/29381923) | Mindlance | Remote, NY | 2026-09-29 |
-| [Senior Embedded Platform Engineer](https://jobs.compunnel.com/jobs/5912381) | Compunnel | Irvine, California, United States | 2026-09-29 |
-| [Senior Embedded Systems Software Engineer](https://jobs.compunnel.com/jobs/5912382) | Compunnel | Irvine, California, United States | 2026-09-29 |
-| [Sr. Full Stack Dev/ Tech Lead (.Net/ Financial Domain)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2111&BRID=1336869&lang=1) | Njoyn (CGI) | Greenville, United States | 2026-09-29 |
+| [iOS Engineer](https://www.apexsystems.com/job/3052870_usa/ios-engineer) | Apex Systems | Sunnyvale, CA | 2026-09-29 |
+| [Software Engineer III](https://www.apexsystems.com/job/3053780_usa/software-engineer-iii) | Apex Systems | Works From Home, CA | 2026-09-29 |
+| [M365 Platform Engineer](https://www.apexsystems.com/job/3053799_usa/m365-platform-engineer) | Apex Systems | Seattle, WA | 2026-09-29 |
+| [Sr Ai Engineer](https://www.apexsystems.com/job/3053891_usa/sr-ai-engineer) | Apex Systems | Minneapolis, MN | 2026-09-29 |
+| [Lead Developer](https://www.apexsystems.com/job/3053717_usa/lead-developer) | Apex Systems | Sacramento, CA | 2026-09-29 |
+| [Martec Developer](https://www.apexsystems.com/job/3053732_usa/martec-developer) | Apex Systems | Broomfield, CO | 2026-09-29 |
+| [Sr Full Stack Developer](https://www.apexsystems.com/job/3053892_usa/sr-full-stack-developer) | Apex Systems | Minneapolis, MN | 2026-09-29 |
+| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3053819_usa/software-engineering---software-engineer-iii) | Apex Systems | Kirkland, WA | 2026-09-29 |
+| [Sr. Fullstack Engineer / .Net / React Native / M](https://motionrecruitment.com/tech-jobs/newport-beach/direct-hire/srdot-fullstack-engineer-dot-net-react-native-m/888636) | Motion Recruitment | newport beach, California | 2026-09-29 |
+| [Sr. Backend Engineer / .Net / Microservices / Lambda / AWS / Distributed Sys. / Remote](https://motionrecruitment.com/tech-jobs/newport-beach/direct-hire/srdot-backend-engineer-dot-net-microservices-lambda-aws-distributed-sysdot-remote/888635) | Motion Recruitment | newport beach, California | 2026-09-29 |
+| [ForgeRock Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1979&BRID=1319530&lang=1) | Njoyn (CGI) | Salt Lake City, United States | 2026-09-29 |
 <!-- JOBS:END -->
 
 ## How it works
