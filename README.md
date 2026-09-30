@@ -27,33 +27,30 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 12809 tracked total · updated `2026-09-30T00:18:51+00:00`
+### 🆕 14 new roles this update · 12822 tracked total · updated `2026-09-30T09:37:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 5 |
-| TEKsystems | 2 |
-| Artech | 2 |
-| Kforce | 1 |
-| Robert Half | 1 |
-| Motion Recruitment | 1 |
-| Compunnel | 1 |
+| Artech | 10 |
+| Robert Half | 3 |
+| Mindlance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Markit EDM Developer (Opus EDM)](http://www.kforce.com/Jobs/1696~AQG~2189686T1~99/) | Kforce | New York, NY | 2026-09-30 |
-| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006317196/Data-Architect) | TEKsystems | Charlotte, North Carolina | 2026-09-30 |
-| [HPC/AI Cloud Engineer](https://careers.teksystems.com/us/en/job/JP-006317159/HPC-AI-Cloud-Engineer) | TEKsystems | Farmington, Connecticut | 2026-09-30 |
-| [Maven Platform Engineer](https://www.apexsystems.com/job/3053741_usa/maven-platform-engineer) | Apex Systems | Arlington, VA | 2026-09-30 |
-| [Fullstack Software Engineer](https://www.apexsystems.com/job/3054054_usa/fullstack-software-engineer) | Apex Systems | Lincolnton, NC | 2026-09-30 |
-| [Foundry Developer - I](https://www.apexsystems.com/job/3053637_usa/foundry-developer---i) | Apex Systems | Arlington, VA | 2026-09-30 |
-| [AI Engineer - I](https://www.apexsystems.com/job/3053736_usa/ai-engineer---i) | Apex Systems | Arlington, VA | 2026-09-30 |
-| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3054063_usa/software-engineering---software-engineer-iii) | Apex Systems | Menlo Park, CA | 2026-09-30 |
-| [Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/dallas-tx/cybersecurity-engineer/04951-9504403173-usen) | Robert Half | Dallas, 04951 | 2026-09-30 |
-| [Senior Java / Angular Developer / Fintech / Hybrid Princeton, NJ](https://motionrecruitment.com/tech-jobs/princeton/direct-hire/senior-java-angular-developer-fintech-hybrid-princeton-nj/888729) | Motion Recruitment | Princeton, New Jersey | 2026-09-30 |
-| [Full Stack Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33169936#/jobs/33169936) | Artech | Dearborn, MI | 2026-09-30 |
-| [Machine Learning Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33170399#/jobs/33170399) | Artech | Dearborn, MI | 2026-09-30 |
-| [Palantir Data Engineer Level III/IV](https://jobs.compunnel.com/jobs/5877614) | Compunnel | Charlotte, North Carolina, United States | 2026-09-30 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/data-engineer/03500-0013380490-usen) | Robert Half | Oklahoma City, 03500 | 2026-09-30 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/denver-co/software-developer/00610-0013497449-usen) | Robert Half | Denver, 00610 | 2026-09-30 |
+| [Infrastructure Engineer](https://www.roberthalf.com/us/en/job/concord-nc/infrastructure-engineer/03200-0013467598-usen) | Robert Half | Concord, 03200 | 2026-09-30 |
+| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33170084#/jobs/33170084) | Artech | Menlo Park, CA | 2026-09-30 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33168400#/jobs/33168400) | Artech | Plano, TX | 2026-09-30 |
+| [IBM Systems Automation Software Systems Programmer/Administrator](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33166777#/jobs/33166777) | Artech | Remote, NY | 2026-09-30 |
+| [Full Stack Developer with Conversational AI & Streaming Interface](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33169110#/jobs/33169110) | Artech | San Jose CA, CA | 2026-09-30 |
+| [Teamcenter Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33170689#/jobs/33170689) | Artech | Sunnyvale, CA | 2026-09-30 |
+| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33169277#/jobs/33169277) | Artech | NC | 2026-09-30 |
+| [Data Engineer Senior](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163954#/jobs/33163954) | Artech | Remote, NY | 2026-09-30 |
+| [Full Stack Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163720#/jobs/33163720) | Artech | Remote, NY | 2026-09-30 |
+| [Full Stack Java Developer-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163730#/jobs/33163730) | Artech | Remote, NY | 2026-09-30 |
+| [Data Engineer Senior-2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33163961#/jobs/33163961) | Artech | Remote, NY | 2026-09-30 |
+| [AI Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29389343#/jobs/29389343) | Mindlance | Austin, TX | 2026-09-30 |
 <!-- JOBS:END -->
 
 ## How it works
