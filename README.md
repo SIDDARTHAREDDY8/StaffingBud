@@ -27,19 +27,73 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 12830 tracked total · updated `2026-10-01T12:53:45+00:00`
+### 🆕 48 new roles this update · 12878 tracked total · updated `2026-10-01T20:19:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Gina's Tech Jobs | 9 |
+| Robert Half | 8 |
+| Next Step Systems | 6 |
+| TEKsystems | 5 |
+| Mindlance | 5 |
+| Njoyn (CGI) | 5 |
+| Beacon Hill | 3 |
+| Apex Systems | 2 |
+| Harnham | 2 |
+| Kforce | 1 |
 | Vaco | 1 |
-| Agility Connect | 1 |
+| Scion Staffing | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/chicago-il/data-engineer/01340-0013490212-usen) | Robert Half | Chicago, 01340 | 2026-10-01 |
-| [Data Engineer Databricks](https://jobs.vaco.com/job/5/data_engineer_databricks/en) | Vaco | Tampa, Florida | 2026-10-01 |
-| [Business Intelligence Developer I](https://agilityconnect.io/jobs/8485) | Agility Connect | — | 2026-10-01 |
+| [IT Security Engineer IV](http://www.kforce.com/Jobs/1696~WQG~2190190T1~99/) | Kforce | Atlanta, GA | 2026-10-01 |
+| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006320931/Product-Data-Scientist) | TEKsystems | Cupertino, California | 2026-10-01 |
+| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006322213/Product-Data-Scientist) | TEKsystems | Cupertino, California | 2026-10-01 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006322065/Data-Analyst) | TEKsystems | Santa Barbara, California | 2026-10-01 |
+| [Medicare Enrollment Analyst I](https://careers.teksystems.com/us/en/job/JP-006322143/Medicare-Enrollment-Analyst-I) | TEKsystems | Santa Barbara, California | 2026-10-01 |
+| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006319900/Infrastructure-Engineer) | TEKsystems | San Diego, California | 2026-10-01 |
+| [Software Engineering - Software Engineer II](https://www.apexsystems.com/job/3054348_usa/software-engineering---software-engineer-ii) | Apex Systems | New York, NY | 2026-10-01 |
+| [Software Engineer Simulation Vehicle Modeling](https://www.apexsystems.com/job/3054137_usa/software-engineer-simulation-vehicle-modeling) | Apex Systems | Ann Arbor, MI | 2026-10-01 |
+| [Adsrevenue Counsel](https://www.roberthalf.com/us/en/job/san-francisco-ca/adsrevenue-counsel/00410-9504403068-usen) | Robert Half | San Francisco, 00410 | 2026-10-01 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/whitewater-wi/erpcrm-developer/04600-0013449772-usen) | Robert Half | Whitewater, 04600 | 2026-10-01 |
+| [Senior Phpsymfony Developer](https://www.roberthalf.com/us/en/job/clearwater-fl/senior-phpsymfony-developer/01070-0013507513-usen) | Robert Half | Clearwater, 01070 | 2026-10-01 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/lebanon-nh/cloud-engineer/02600-0013507939-usen) | Robert Half | Lebanon, 02600 | 2026-10-01 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/houston-tx/software-developer/04130-0013503083-usen) | Robert Half | Houston, 04130 | 2026-10-01 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-developer/01120-0013486879-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
+| [Information Security Engineering Manager](https://www.roberthalf.com/us/en/job/silver-spring-md/information-security-engineering-manager/04510-0013498114-usen) | Robert Half | Silver Spring, 04510 | 2026-10-01 |
+| [Ai Consultant](https://www.roberthalf.com/us/en/job/menlo-park-ca/ai-consultant/00420-0013496894-usen) | Robert Half | Menlo Park, 00420 | 2026-10-01 |
+| [Director Of Product Ai Contact Center](https://jobs.vaco.com/job/2190/director_of_product_ai_contact_center/en) | Vaco | North York | 2026-10-01 |
+| [Data Engineer (I)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29404930#/jobs/29404930) | Mindlance | Portland, OR | 2026-10-01 |
+| [Senior Data Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29404470#/jobs/29404470) | Mindlance | San Jose, CA | 2026-10-01 |
+| [Senior Sharepoint Architect/Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29404232#/jobs/29404232) | Mindlance | Taylor, TX | 2026-10-01 |
+| [Software Engineering Advisor](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29403187#/jobs/29403187) | Mindlance | Missoula, MT | 2026-10-01 |
+| [Data Analyst I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29401938#/jobs/29401938) | Mindlance | North Chicago, IL | 2026-10-01 |
+| [Python Software Engineer – Work From Home](https://www.ginastechjobs.com/job/python-software-engineer-work-from-home-2/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-10-01 |
+| [Lead GIS Software Developer](https://www.ginastechjobs.com/job/lead-gis-software-developer/) | Gina's Tech Jobs | St. Louis, MO, USA | 2026-10-01 |
+| [C# ASP.Net Software Developer](https://www.ginastechjobs.com/job/c-asp-net-software-developer/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-10-01 |
+| [C# .Net Software Engineer](https://www.ginastechjobs.com/job/c-net-software-engineer/) | Gina's Tech Jobs | Jacksonville, FL, USA | 2026-10-01 |
+| [AWS Infrastructure Engineer – Work From Home](https://www.ginastechjobs.com/job/aws-infrastructure-engineer-work-from-home/) | Gina's Tech Jobs | Des Plaines, IL, USA (Remote) | 2026-10-01 |
+| [Machine Learning Engineer – Work From Home](https://www.ginastechjobs.com/job/machine-learning-engineer-work-from-home/) | Gina's Tech Jobs | Chicago, IL, USA (Remote) | 2026-10-01 |
+| [Software Engineer, Python](https://www.ginastechjobs.com/job/software-engineer-python-2/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-10-01 |
+| [C++ Software Developer](https://www.ginastechjobs.com/job/c-software-developer-5/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-10-01 |
+| [C++ Trade Desk Software Developer](https://www.ginastechjobs.com/job/c-trade-desk-software-developer/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-10-01 |
+| [Web Technical Lead, Spring Boot, Angular.js, DevOps – Work From Home](https://www.nextstepsystems.com/job/web-technical-lead-spring-boot-angular-js-devops-work-from-home/) | Next Step Systems | Oakland, CA, USA (Remote) | 2026-10-01 |
+| [Site Reliability Engineer, Python](https://www.nextstepsystems.com/job/site-reliability-engineer/) | Next Step Systems | Los Angeles, CA, USA | 2026-10-01 |
+| [Site Reliability Engineer, Python](https://www.nextstepsystems.com/job/site-reliability-engineer-2/) | Next Step Systems | New York City, NY, USA | 2026-10-01 |
+| [Site Reliability Engineer, Python](https://www.nextstepsystems.com/job/site-reliability-engineer-3/) | Next Step Systems | Seattle, WA, USA | 2026-10-01 |
+| [Full Stack Developer, AWS and Java](https://www.nextstepsystems.com/job/full-stack-developer-aws-and-java/) | Next Step Systems | Houston, TX, USA | 2026-10-01 |
+| [Java Back-end Developer – Work From Home](https://www.nextstepsystems.com/job/java-back-end-developer-work-from-home/) | Next Step Systems | Raleigh, NC, USA | 2026-10-01 |
+| [SENIOR BACKEND ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-backend-engineer-new-york/) | Harnham | New York | 2026-10-01 |
+| [FORWARD DEPLOYED ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-forward-deployed-engineer-new-york/) | Harnham | New York | 2026-10-01 |
+| [Senior Mobile Application Engineer – Digital Health](https://scionstaffing.com/job/15662/?jobTitle=senior-mobile-application-engineer-digital-health-san-francisco-ca) | Scion Staffing | Location: San Francisco, CA | 2026-10-01 |
+| [Research and Data Analyst](https://bhsg.com/jobs/job/a1476632ny-temp_1790880228-research-and-data-analyst-new-york-new-york/) | Beacon Hill | — | 2026-10-01 |
+| [Data Science Analyst](https://bhsg.com/jobs/job/tftl-1475617zm_1790879807-data-science-analyst-miami-florida/) | Beacon Hill | — | 2026-10-01 |
+| [Software Engineer in Test](https://bhsg.com/jobs/job/1476243_1790873234-software-engineer-in-test-englewood-colorado/) | Beacon Hill | — | 2026-10-01 |
+| [Senior Java Full Stack Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0132&BRID=1338007&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-01 |
+| [Mid Java API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0130&BRID=1337998&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-01 |
+| [Senior Software Architect - Java](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0128&BRID=1337995&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-01 |
+| [Senior Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2419&BRID=1337898&lang=1) | Njoyn (CGI) | Knoxville, United States | 2026-10-01 |
+| [Senior Full Stack Engineer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2547&BRID=1337895&lang=1) | Njoyn (CGI) | Reston, United States | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
