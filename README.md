@@ -27,24 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 12827 tracked total · updated `2026-10-01T05:08:19+00:00`
+### 🆕 3 new roles this update · 12830 tracked total · updated `2026-10-01T12:53:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| TEKsystems | 2 |
-| Harnham | 1 |
-| Scion Staffing | 1 |
+| Robert Half | 1 |
+| Vaco | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer II](https://careers.teksystems.com/us/en/job/JP-006319471/Data-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-10-01 |
-| [Google Cloud Data And AI Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006320944/Google-Cloud-Data-And-AI-Solutions-Architect) | TEKsystems | New York, New York | 2026-10-01 |
-| [Security Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/security-engineer/01120-9504404170-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-engineer/01120-9504404175-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
-| [Senior Php Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/senior-php-developer/01120-9504404184-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
-| [HEALTHCARE RESEARCHER/DATA ANALYST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-healthcare-researcher-data-analyst-austin-texas/) | Harnham | Austin, Texas | 2026-10-01 |
-| [Senior Mobile Application Engineer – Digital Health](https://scionstaffing.com/job/15662/?jobTitle=senior-mobile-application-engineer-digital-health-san-francisco-california) | Scion Staffing | Location: San Francisco , California | 2026-10-01 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/chicago-il/data-engineer/01340-0013490212-usen) | Robert Half | Chicago, 01340 | 2026-10-01 |
+| [Data Engineer Databricks](https://jobs.vaco.com/job/5/data_engineer_databricks/en) | Vaco | Tampa, Florida | 2026-10-01 |
+| [Business Intelligence Developer I](https://agilityconnect.io/jobs/8485) | Agility Connect | — | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
