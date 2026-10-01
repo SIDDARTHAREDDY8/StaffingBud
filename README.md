@@ -27,36 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 12876 tracked total · updated `2026-09-30T22:09:27+00:00`
+### 🆕 7 new roles this update · 12827 tracked total · updated `2026-10-01T05:08:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 9 |
-| Mindlance | 2 |
-| Kforce | 1 |
-| Russell Tobin | 1 |
-| ASK Consulting | 1 |
-| Beacon Hill | 1 |
-| Njoyn (CGI) | 1 |
+| Robert Half | 3 |
+| TEKsystems | 2 |
+| Harnham | 1 |
+| Scion Staffing | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer](http://www.kforce.com/Jobs/1696~AQG~2189602T1~99/) | Kforce | Boston, MA | 2026-09-30 |
-| [Machine Learning Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29397906#/jobs/29397906) | Russell Tobin | REMOTE, CA | 2026-09-30 |
-| [Associate Director Data Science B4 III - USA](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/131913/Associate Director Data Science B4 III - USA) | ASK Consulting | East Hanover, NJ, 07936 | 2026-09-30 |
-| [.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33178564#/jobs/33178564) | Artech | Charlotte, NC | 2026-09-30 |
-| [Big Data/Machine Learning Engineer - Sr](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33178520#/jobs/33178520) | Artech | Chicago, IL | 2026-09-30 |
-| [Gen AI Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33177627#/jobs/33177627) | Artech | Jersey City, NJ | 2026-09-30 |
-| [Golang Backend](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33177208#/jobs/33177208) | Artech | Plano, TX | 2026-09-30 |
-| [Data engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33177206#/jobs/33177206) | Artech | Plano, TX | 2026-09-30 |
-| [Associate Director Data Science B4 III - USA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33176522#/jobs/33176522) | Artech | East Hanover, NJ | 2026-09-30 |
-| [Associate Director Data Science B4 III - USA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33176521#/jobs/33176521) | Artech | East Hanover, NJ | 2026-09-30 |
-| [Associate Director Data Science B4 III - USA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33176517#/jobs/33176517) | Artech | East Hanover, NJ | 2026-09-30 |
-| [Graph Data Engineer / SPARQL Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33176471#/jobs/33176471) | Artech | Remote | 2026-09-30 |
-| [Full Stake Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29399484#/jobs/29399484) | Mindlance | North Chicago, IL | 2026-09-30 |
-| [Full Stack AI Solution Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29397634#/jobs/29397634) | Mindlance | Marietta, GA | 2026-09-30 |
-| [Sr Java Developer role (Contract to Hire, Remote)](https://bhsg.com/jobs/job/1473693_1790801711-sr-java-developer-role-contract-to-hire-remote-charlotte-north-carolina/) | Beacon Hill | — | 2026-09-30 |
-| [Cyber Security Engineer (IDaaS) - U.S. Citizenship Required](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2549&BRID=1337503&lang=1) | Njoyn (CGI) | Fairfax, United States | 2026-09-30 |
+| [Data Engineer II](https://careers.teksystems.com/us/en/job/JP-006319471/Data-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-10-01 |
+| [Google Cloud Data And AI Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006320944/Google-Cloud-Data-And-AI-Solutions-Architect) | TEKsystems | New York, New York | 2026-10-01 |
+| [Security Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/security-engineer/01120-9504404170-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-engineer/01120-9504404175-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
+| [Senior Php Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/senior-php-developer/01120-9504404184-usen) | Robert Half | Jacksonville, 01120 | 2026-10-01 |
+| [HEALTHCARE RESEARCHER/DATA ANALYST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-healthcare-researcher-data-analyst-austin-texas/) | Harnham | Austin, Texas | 2026-10-01 |
+| [Senior Mobile Application Engineer – Digital Health](https://scionstaffing.com/job/15662/?jobTitle=senior-mobile-application-engineer-digital-health-san-francisco-california) | Scion Staffing | Location: San Francisco , California | 2026-10-01 |
 <!-- JOBS:END -->
 
 ## How it works
