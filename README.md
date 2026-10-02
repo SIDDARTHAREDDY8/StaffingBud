@@ -27,45 +27,39 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 25 new roles this update · 12882 tracked total · updated `2026-10-02T00:44:20+00:00`
+### 🆕 21 new roles this update · 12899 tracked total · updated `2026-10-02T09:42:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 15 |
-| Harnham | 3 |
-| Brooksource | 3 |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
-| CRG | 1 |
-| Mindlance | 1 |
+| Artech | 13 |
+| TEKsystems | 3 |
+| Robert Half | 3 |
+| Vaco | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Workday Software Engineer](https://careers.teksystems.com/us/en/job/JP-006316309/Workday-Software-Engineer) | TEKsystems | Houston, Texas | 2026-10-02 |
-| [Enterprise Data Architect](https://careers.teksystems.com/us/en/job/JP-006279154/Enterprise-Data-Architect) | TEKsystems | Spring, Texas | 2026-10-02 |
-| [Xacta Information Systems Security Engineer](https://careers.teksystems.com/us/en/job/JP-006266388/Xacta-Information-Systems-Security-Engineer) | TEKsystems | Kiln, Mississippi | 2026-10-02 |
-| [Databricks Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006320960/Databricks-Solutions-Architect) | TEKsystems | Austin, Texas | 2026-10-02 |
-| [SQL Data Engineer (W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006291127/SQL-Data-Engineer-W2-ONLY) | TEKsystems | Tampa, Florida | 2026-10-02 |
-| [Solutions Architect (Fulltime Remote)](https://careers.teksystems.com/us/en/job/JP-006317888/Solutions-Architect-Fulltime-Remote) | TEKsystems | Dallas, Texas | 2026-10-02 |
-| [Senior Application Security Engineer AI Focused](https://careers.teksystems.com/us/en/job/JP-006318316/Senior-Application-Security-Engineer-AI-Focused) | TEKsystems | Plano, Texas | 2026-10-02 |
-| [Platform Engineer III](https://careers.teksystems.com/us/en/job/JP-006302179/Platform-Engineer-III) | TEKsystems | Jacksonville, Florida | 2026-10-02 |
-| [Workday Software Engineer](https://careers.teksystems.com/us/en/job/JP-006314670/Workday-Software-Engineer) | TEKsystems | Birmingham, Alabama | 2026-10-02 |
-| [GCP Data Engineer](https://careers.teksystems.com/us/en/job/JP-006314596/GCP-Data-Engineer) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [SQL Data Engineer (W2 ONLY And No Sponsorship Ever)](https://careers.teksystems.com/us/en/job/JP-006298080/SQL-Data-Engineer-W2-ONLY-And-No-Sponsorship-Ever) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [ServiceNow Developer (GRC/IRM)](https://careers.teksystems.com/us/en/job/JP-006270800/ServiceNow-Developer-GRC-IRM) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [Software Development Engineer](https://careers.teksystems.com/us/en/job/JP-006285411/Software-Development-Engineer) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [Infrastructure Engineer (Temporal)](https://careers.teksystems.com/us/en/job/JP-006305849/Infrastructure-Engineer-Temporal) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [Practice Architect II AI/ML](https://careers.teksystems.com/us/en/job/JP-006304842/Practice-Architect-II-AI-ML) | TEKsystems | Atlanta, Georgia | 2026-10-02 |
-| [Financial Data Analyst](https://www.roberthalf.com/us/en/job/princeton-nj/financial-data-analyst/02760-0013506846-usen) | Robert Half | Princeton, 02760 | 2026-10-02 |
-| [Data Engineer II](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29360497#/jobs/29360497) | Russell Tobin | Mountain View, CA | 2026-10-02 |
-| [Senior Data Engineer - IoT](https://jobs.getcrg.com/jobs/16772) | CRG | Fort Mill, South Carolina | 2026-10-02 |
-| [Software Developer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29405959#/jobs/29405959) | Mindlance | Menands, NY | 2026-10-02 |
-| [AI FULL STACK DEVELOPER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-full-stack-developer-maryland/) | Harnham | Maryland | 2026-10-02 |
-| [LEAD DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-engineer-new-york/) | Harnham | New York | 2026-10-02 |
-| [AI FULL STACK DEVELOPER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-full-stack-developer-new-york/) | Harnham | New York | 2026-10-02 |
-| [Principal Data Platform Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000014ujbeay-principal-data-platform-engineer-mount-horeb-wisconsin/) | Brooksource | Mount Horeb, Wisconsin | 2026-10-02 |
-| [DevOps Engineer (Mid-Level)](https://jobs.brooksource.com/jobs/job/a1wcv00000158vdeaa-devops-engineer-mid-level-grand-rapids-michigan/) | Brooksource | Grand Rapids, Michigan | 2026-10-02 |
-| [Jr. Infrastructure Engineer](https://jobs.brooksource.com/jobs/job/a1wcv00000159ideay-jr-infrastructure-engineer-dearborn-michigan/) | Brooksource | Dearborn, Michigan | 2026-10-02 |
+| [Data Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006321513/Data-Engineer-Databricks) | TEKsystems | North Chicago, Illinois | 2026-10-02 |
+| [Technical Lead/Architect - AI Platforms](https://careers.teksystems.com/us/en/job/JP-006322771/Technical-Lead-Architect-AI-Platforms) | TEKsystems | North Chicago, Illinois | 2026-10-02 |
+| [Cloud Architect](https://careers.teksystems.com/us/en/job/JP-006321503/Cloud-Architect) | TEKsystems | Lansing, Michigan | 2026-10-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/king-prussia-pa/data-analyst/03710-0013502394-usen) | Robert Half | King of Prussia, 03710 | 2026-10-02 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/lawrenceville-ga/ai-engineer/00900-9504404935-usen) | Robert Half | Lawrenceville, 00900 | 2026-10-02 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/lawrenceville-ga/ai-engineer/00900-9504404942-usen) | Robert Half | Lawrenceville, 00900 | 2026-10-02 |
+| [Dev Java Developer Application Security](https://jobs.vaco.com/job/1694/dev_java_developer_application_security/en) | Vaco | — | 2026-10-02 |
+| [Lead Full Stack Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184927#/jobs/33184927) | Artech | Fort Lauderdale, FL | 2026-10-02 |
+| [Microsoft Purview Developer-Full Stack Senior](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184738#/jobs/33184738) | Artech | McLean, VA | 2026-10-02 |
+| [AWS GenAI Lead Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184432#/jobs/33184432) | Artech | Malvern, PA | 2026-10-02 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184371#/jobs/33184371) | Artech | Charlotte, NC | 2026-10-02 |
+| [Engineering Operations Analyst – Generative AI & Data](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182654#/jobs/33182654) | Artech | Mt Laurel, NJ | 2026-10-02 |
+| [Full-Stack Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182691#/jobs/33182691) | Artech | Dearborn, MI | 2026-10-02 |
+| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182062#/jobs/33182062) | Artech | Mclean, VA | 2026-10-02 |
+| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181513#/jobs/33181513) | Artech | New York, NY | 2026-10-02 |
+| [Senior Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180025#/jobs/33180025) | Artech | Charlotte, NC | 2026-10-02 |
+| [Data Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180570#/jobs/33180570) | Artech | Sunnyvale, CA | 2026-10-02 |
+| [Sr. Engineer - Java Full Stack](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181296#/jobs/33181296) | Artech | Fort Worth, TX | 2026-10-02 |
+| [Data Scientist Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181072#/jobs/33181072) | Artech | New York, NY | 2026-10-02 |
+| [Data Scientist Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180817#/jobs/33180817) | Artech | San Jose, CA | 2026-10-02 |
+| [SENIOR DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineer-phoenix-arizona/) | Harnham | Phoenix, Arizona | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
