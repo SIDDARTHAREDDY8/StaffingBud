@@ -27,39 +27,88 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 21 new roles this update · 12899 tracked total · updated `2026-10-02T09:42:25+00:00`
+### 🆕 61 new roles this update · 12956 tracked total · updated `2026-10-02T17:50:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 13 |
-| TEKsystems | 3 |
-| Robert Half | 3 |
+| Robert Half | 27 |
+| Mindlance | 6 |
+| Agility Connect | 6 |
+| Artech | 5 |
+| Harnham | 4 |
+| Kforce | 3 |
+| TEKsystems | 2 |
+| Goodwin Recruiting | 2 |
+| Apex Systems | 1 |
 | Vaco | 1 |
-| Harnham | 1 |
+| Alldus | 1 |
+| TRU Staffing Partners | 1 |
+| Brooksource | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006321513/Data-Engineer-Databricks) | TEKsystems | North Chicago, Illinois | 2026-10-02 |
-| [Technical Lead/Architect - AI Platforms](https://careers.teksystems.com/us/en/job/JP-006322771/Technical-Lead-Architect-AI-Platforms) | TEKsystems | North Chicago, Illinois | 2026-10-02 |
-| [Cloud Architect](https://careers.teksystems.com/us/en/job/JP-006321503/Cloud-Architect) | TEKsystems | Lansing, Michigan | 2026-10-02 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/king-prussia-pa/data-analyst/03710-0013502394-usen) | Robert Half | King of Prussia, 03710 | 2026-10-02 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/lawrenceville-ga/ai-engineer/00900-9504404935-usen) | Robert Half | Lawrenceville, 00900 | 2026-10-02 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/lawrenceville-ga/ai-engineer/00900-9504404942-usen) | Robert Half | Lawrenceville, 00900 | 2026-10-02 |
-| [Dev Java Developer Application Security](https://jobs.vaco.com/job/1694/dev_java_developer_application_security/en) | Vaco | — | 2026-10-02 |
-| [Lead Full Stack Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184927#/jobs/33184927) | Artech | Fort Lauderdale, FL | 2026-10-02 |
-| [Microsoft Purview Developer-Full Stack Senior](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184738#/jobs/33184738) | Artech | McLean, VA | 2026-10-02 |
-| [AWS GenAI Lead Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184432#/jobs/33184432) | Artech | Malvern, PA | 2026-10-02 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184371#/jobs/33184371) | Artech | Charlotte, NC | 2026-10-02 |
-| [Engineering Operations Analyst – Generative AI & Data](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182654#/jobs/33182654) | Artech | Mt Laurel, NJ | 2026-10-02 |
-| [Full-Stack Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182691#/jobs/33182691) | Artech | Dearborn, MI | 2026-10-02 |
-| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33182062#/jobs/33182062) | Artech | Mclean, VA | 2026-10-02 |
-| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181513#/jobs/33181513) | Artech | New York, NY | 2026-10-02 |
-| [Senior Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180025#/jobs/33180025) | Artech | Charlotte, NC | 2026-10-02 |
-| [Data Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180570#/jobs/33180570) | Artech | Sunnyvale, CA | 2026-10-02 |
-| [Sr. Engineer - Java Full Stack](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181296#/jobs/33181296) | Artech | Fort Worth, TX | 2026-10-02 |
-| [Data Scientist Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33181072#/jobs/33181072) | Artech | New York, NY | 2026-10-02 |
-| [Data Scientist Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33180817#/jobs/33180817) | Artech | San Jose, CA | 2026-10-02 |
-| [SENIOR DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineer-phoenix-arizona/) | Harnham | Phoenix, Arizona | 2026-10-02 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2190300T1~99/) | Kforce | Altamonte Springs, FL | 2026-10-02 |
+| [Snowflake/Python Data Engineer](http://www.kforce.com/Jobs/1696~TND~2190291T1~99/) | Kforce | Plano, TX | 2026-10-02 |
+| [AI / ML Engineer](http://www.kforce.com/Jobs/1696~EQG~2190306P1~99/) | Kforce | Doral, FL | 2026-10-02 |
+| [Lead Front-End Developer](https://careers.teksystems.com/us/en/job/JP-006323986/Lead-Front-End-Developer) | TEKsystems | Chicago, Illinois | 2026-10-02 |
+| [Cloud Architect (W2 Only, Direct Hire)](https://careers.teksystems.com/us/en/job/JP-006324530/Cloud-Architect-W2-Only-Direct-Hire) | TEKsystems | Lansing, Michigan | 2026-10-02 |
+| [Sr. ServiceNow SPM Developer](https://www.apexsystems.com/job/3053778_usa/sr-servicenow-spm-developer) | Apex Systems | Tampa, FL | 2026-10-02 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/cheshire-ct/solutions-architect/00700-0013507660-usen) | Robert Half | Cheshire, 00700 | 2026-10-02 |
+| [Information System Security Engineer](https://www.roberthalf.com/us/en/job/chantilly-va/information-system-security-engineer/04510-0013496974-usen) | Robert Half | Chantilly, 04510 | 2026-10-02 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/hialeah-fl/software-engineer/01000-9504404474-usen) | Robert Half | Hialeah, 01000 | 2026-10-02 |
+| [Senior Infrastructure Solutions Architect](https://www.roberthalf.com/us/en/job/buda-tx/senior-infrastructure-solutions-architect/04160-9504405057-usen) | Robert Half | Buda, 04160 | 2026-10-02 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-engineer/01120-0013507669-usen) | Robert Half | Jacksonville, 01120 | 2026-10-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/maple-grove-mn/data-analyst/02340-9504404966-usen) | Robert Half | Maple Grove, 02340 | 2026-10-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/norwalk-ct/data-analyst/00720-9504404703-usen) | Robert Half | Norwalk, 00720 | 2026-10-02 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/seattle-wa/software-engineer/04410-0013509192-usen) | Robert Half | Seattle, 04410 | 2026-10-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/atlanta-ga/data-analyst/00900-9504405222-usen) | Robert Half | Atlanta, 00900 | 2026-10-02 |
+| [Computer Vision Engineer](https://www.roberthalf.com/us/en/job/cambridge-ma/computer-vision-engineer/02100-0013472227-usen) | Robert Half | Cambridge, 02100 | 2026-10-02 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/gainesville-fl/data-analyst/01120-0013452170-usen) | Robert Half | Gainesville, 01120 | 2026-10-02 |
+| [Symitar Developer](https://www.roberthalf.com/us/en/job/austin-tx/symitar-developer/04160-0013509962-usen) | Robert Half | Austin, 04160 | 2026-10-02 |
+| [Business Analyticsdata Analyst](https://www.roberthalf.com/us/en/job/santa-ana-ca/business-analyticsdata-analyst/00350-0013510065-usen) | Robert Half | Santa Ana, 00350 | 2026-10-02 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
+| [Python Developer](https://www.roberthalf.com/us/en/job/greer-sc/python-developer/03230-0013508765-usen) | Robert Half | Greer, 03230 | 2026-10-02 |
+| [Developer Database](https://www.roberthalf.com/us/en/job/charlotte-nc/developer-database/03200-0013511005-usen) | Robert Half | Charlotte, 03200 | 2026-10-02 |
+| [Servicenow Developer](https://www.roberthalf.com/us/en/job/washington-dc/servicenow-developer/04837-0013507618-usen) | Robert Half | Washington, 04837 | 2026-10-02 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/data-engineer/00900-9504405226-usen) | Robert Half | Atlanta, 00900 | 2026-10-02 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/madison-wi/software-developer/04620-0013486093-usen) | Robert Half | Madison, 04620 | 2026-10-02 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/new-york-ny/software-developer/02940-0013471149-usen) | Robert Half | New York, 02940 | 2026-10-02 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/martinez-ca/software-developer/00340-0013500402-usen) | Robert Half | Martinez, 00340 | 2026-10-02 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/ny-ny/software-engineer/02940-0013508076-usen) | Robert Half | Ny, 02940 | 2026-10-02 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/ai-engineer/00900-9504405201-usen) | Robert Half | Atlanta, 00900 | 2026-10-02 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/lincolnton-nc/artificial-intelligence-ai-engineer/03200-0013508902-usen) | Robert Half | Lincolnton, 03200 | 2026-10-02 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/st-louis-park-mn/cyber-security-engineer/02310-0013511316-usen) | Robert Half | St. Louis Park, 02310 | 2026-10-02 |
+| [Financial Data Analyst Entry Level](https://www.roberthalf.com/us/en/job/lawrenceville-nj/financial-data-analyst-entry-level/02760-0013511720-usen) | Robert Half | Lawrenceville, 02760 | 2026-10-02 |
+| [Power Apps Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/power-apps-developer/01120-0013510656-usen) | Robert Half | Jacksonville, 01120 | 2026-10-02 |
+| [Data Analytics Engineer Telematics](https://jobs.vaco.com/job/2243/data_analytics_engineer_telematics/en) | Vaco | Cincinnati, Ohio | 2026-10-02 |
+| [Portfolio Product Lead Ai Cork](https://alldus.com/job/59136-portfolio-product-lead-ai-cork/) | Alldus | Cork | 2026-10-02 |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7645#/jobs/7645) | TRU Staffing Partners | Anywhere | 2026-10-02 |
+| [Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188511#/jobs/33188511) | Artech | Columbus, OH | 2026-10-02 |
+| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188326#/jobs/33188326) | Artech | Columbus, OH | 2026-10-02 |
+| [Senior Data Engineer (Local Only)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188177#/jobs/33188177) | Artech | New York City, NY | 2026-10-02 |
+| [Sr Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33185370#/jobs/33185370) | Artech | Minneapolis, MN | 2026-10-02 |
+| [Senior Java Developer with an Architect mindset](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33185731#/jobs/33185731) | Artech | Princeton, NJ | 2026-10-02 |
+| [Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29410031#/jobs/29410031) | Mindlance | Buffalo, NY | 2026-10-02 |
+| [Application Developer 2](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29409800#/jobs/29409800) | Mindlance | Birmingham, AL | 2026-10-02 |
+| [Senior Full Stack Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29409268#/jobs/29409268) | Mindlance | Reston, VA | 2026-10-02 |
+| [Developer Commodity II (AI2)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29408104#/jobs/29408104) | Mindlance | North Chicago, IL | 2026-10-02 |
+| [Developer Commodity II (AI2)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29408102#/jobs/29408102) | Mindlance | North Chicago, IL | 2026-10-02 |
+| [Developer (Purview Configuration + GEN AI Integration)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29406027#/jobs/29406027) | Mindlance | McLean, VA | 2026-10-02 |
+| [Sr Software Engineer](https://agilityconnect.io/jobs/8491) | Agility Connect | Columbus, OH | 2026-10-02 |
+| [AI Engineer](https://agilityconnect.io/jobs/8496) | Agility Connect | OH | 2026-10-02 |
+| [Principal AI Engineer](https://agilityconnect.io/jobs/8497) | Agility Connect | OH | 2026-10-02 |
+| [Senior Manager, Data & AI Solutions](https://agilityconnect.io/jobs/8488) | Agility Connect | Carmel, IN | 2026-10-02 |
+| [Sr. Software Engineer](https://agilityconnect.io/jobs/8490) | Agility Connect | Columbus, OH | 2026-10-02 |
+| [AI Integration Engineer](https://agilityconnect.io/jobs/8492) | Agility Connect | Columbus, Ohio | 2026-10-02 |
+| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-liverpool-merseyside-2/) | Harnham | Liverpool, Merseyside | 2026-10-02 |
+| [LEAD DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-scientist-atlanta-georgia-2/) | Harnham | Atlanta, Georgia | 2026-10-02 |
+| [LEAD DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-scientist-dallas-texas-3/) | Harnham | Dallas, Texas | 2026-10-02 |
+| [LEAD DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-scientist-tempe-arizona-3/) | Harnham | Tempe, Arizona | 2026-10-02 |
+| [Software Engineer, Hybrid](https://www.goodwinrecruiting.com/job/a0wr7000003e8k9mak-software-engineer-hybrid-hartford-connecticut) | Goodwin Recruiting | — | 2026-10-02 |
+| [Software Engineer, Hybrid](https://www.goodwinrecruiting.com/job/a0wr7000003e8c5mak-software-engineer-hybrid-boston-massachusetts) | Goodwin Recruiting | — | 2026-10-02 |
+| [AI Dev / Java Dev](https://jobs.brooksource.com/jobs/job/a1wcv0000015iereae-ai-dev-java-dev-birmingham-alabama/) | Brooksource | Birmingham, Alabama | 2026-10-02 |
+| [Technical Data Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0262&BRID=1338387&lang=1) | Njoyn (CGI) | Huntsville, United States | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
