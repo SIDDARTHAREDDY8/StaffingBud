@@ -27,20 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 12467 tracked total · updated `2026-10-03T04:42:06+00:00`
+### 🆕 1 new roles this update · 12468 tracked total · updated `2026-10-03T11:26:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Artech | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Security Solutions Architect (FTE Remote Position)](https://careers.teksystems.com/us/en/job/JP-006318045/Security-Solutions-Architect-FTE-Remote-Position) | TEKsystems | Charlotte, North Carolina | 2026-10-03 |
-| [Aws Data Engineer](https://careers.teksystems.com/us/en/job/JP-006313316/Aws-Data-Engineer) | TEKsystems | Fort Mill, South Carolina | 2026-10-03 |
-| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006324036/Infrastructure-Engineer) | TEKsystems | Fort Mill, South Carolina | 2026-10-03 |
-| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006322038/Solutions-Architect) | TEKsystems | Hanover, Maryland | 2026-10-03 |
-| [Engineer (Jr. Java Developer)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190530#/jobs/33190530) | Artech | Fort Worth, TX | 2026-10-03 |
+| [Software Engineer 6Noncleared](https://www.roberthalf.com/us/en/job/cedar-rapids-ia/software-engineer-6noncleared/04838-0013502888-usen) | Robert Half | Cedar Rapids, 04838 | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
