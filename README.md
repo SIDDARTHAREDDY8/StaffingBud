@@ -27,15 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 12468 tracked total · updated `2026-10-03T11:26:24+00:00`
+### 🆕 4 new roles this update · 12472 tracked total · updated `2026-10-03T16:04:42+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Kforce | 1 |
+| TEKsystems | 1 |
 | Robert Half | 1 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer 6Noncleared](https://www.roberthalf.com/us/en/job/cedar-rapids-ia/software-engineer-6noncleared/04838-0013502888-usen) | Robert Half | Cedar Rapids, 04838 | 2026-10-03 |
+| [EDI Developer / Analyst](http://www.kforce.com/Jobs/1696~WQG~2190112T1~99/) | Kforce | San Antonio, NJ | 2026-10-03 |
+| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006326665/Product-Data-Scientist) | TEKsystems | Seattle, Washington | 2026-10-03 |
+| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/greenville-sc/full-stack-net-developer/03230-9504405998-usen) | Robert Half | Greenville, 03230 | 2026-10-03 |
+| [Python , Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189871#/jobs/33189871) | Artech | McLean, VA | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
