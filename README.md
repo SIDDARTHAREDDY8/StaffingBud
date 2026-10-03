@@ -27,67 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 42 new roles this update · 12998 tracked total · updated `2026-10-02T22:06:36+00:00`
+### 🆕 5 new roles this update · 12467 tracked total · updated `2026-10-03T04:42:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 21 |
 | TEKsystems | 4 |
-| Njoyn (CGI) | 4 |
-| ASK Consulting | 3 |
-| Robert Half | 2 |
-| Mindlance | 2 |
-| Kforce | 1 |
-| Apex Systems | 1 |
-| Russell Tobin | 1 |
-| Net2Source | 1 |
-| Harnham | 1 |
-| Brooksource | 1 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2184363T1~99/) | Kforce | Anaheim, CA | 2026-10-02 |
-| [Data Scientist IV](https://careers.teksystems.com/us/en/job/JP-006326686/Data-Scientist-IV) | TEKsystems | Los Angeles, California | 2026-10-02 |
-| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006326655/Product-Data-Scientist) | TEKsystems | Los Angeles, California | 2026-10-02 |
-| [Enrollment Analyst](https://careers.teksystems.com/us/en/job/JP-006326451/Enrollment-Analyst) | TEKsystems | Santa Barbara, California | 2026-10-02 |
-| [Data Scientist IV](https://careers.teksystems.com/us/en/job/JP-006326676/Data-Scientist-IV) | TEKsystems | Menlo Park, California | 2026-10-02 |
-| [Software Development Engineer](https://www.apexsystems.com/job/3054439_usa/software-development-engineer) | Apex Systems | Redmond, WA | 2026-10-02 |
-| [Frontend Developer](https://www.roberthalf.com/us/en/job/detroit-mi/frontend-developer/02210-9504405384-usen) | Robert Half | Detroit, 02210 | 2026-10-02 |
-| [Front End Developer](https://www.roberthalf.com/us/en/job/las-vegas-nv/front-end-developer/02720-0013511949-usen) | Robert Half | Las Vegas, 02720 | 2026-10-02 |
-| [Data Analyst II](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29411465#/jobs/29411465) | Russell Tobin | Cupertino, CA | 2026-10-02 |
-| [Senior Supply Chain Data Analyst](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/131902/Senior Supply Chain Data Analyst) | ASK Consulting | Santa Ana, CA, 92707 | 2026-10-02 |
-| [Associate Director Data Science B4 III - USA](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/131912/Associate Director Data Science B4 III - USA) | ASK Consulting | East Hanover, NJ, 07936 | 2026-10-02 |
-| [Associate Director Data Science B4 III - USA](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/131911/Associate Director Data Science B4 III - USA) | ASK Consulting | East Hanover, NJ, 07936 | 2026-10-02 |
-| [Senior Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190803#/jobs/33190803) | Artech | Jersey City, NJ | 2026-10-02 |
-| [Site Reliability Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189420#/jobs/33189420) | Artech | Pennington, NJ | 2026-10-02 |
-| [Site Reliability Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189488#/jobs/33189488) | Artech | Pennington, NJ | 2026-10-02 |
-| [Mainframe AnalystTechnology_USA - USA_Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190424#/jobs/33190424) | Artech | Boston, MA | 2026-10-02 |
-| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190202#/jobs/33190202) | Artech | Redmond, WA | 2026-10-02 |
-| [.NET developer with ESP and SQL](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190280#/jobs/33190280) | Artech | Princeton, NJ | 2026-10-02 |
-| [Data Engineer and Analytics Visualization Specialist(TIBCO Spotfire)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189490#/jobs/33189490) | Artech | Norwalk, CT | 2026-10-02 |
-| [Mainframe Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190279#/jobs/33190279) | Artech | Malvern, PA | 2026-10-02 |
-| [Java Agentic AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190001#/jobs/33190001) | Artech | St Louis, MO | 2026-10-02 |
-| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190116#/jobs/33190116) | Artech | Remote, CA | 2026-10-02 |
-| [Gaming - Gameplay Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189557#/jobs/33189557) | Artech | Remote, CA | 2026-10-02 |
-| [Senior Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190053#/jobs/33190053) | Artech | Malvern, PA | 2026-10-02 |
-| [Actimize Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190002#/jobs/33190002) | Artech | Stamford, CT | 2026-10-02 |
-| [Application Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189749#/jobs/33189749) | Artech | North Quincy, MA | 2026-10-02 |
-| [Java Golang Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189872#/jobs/33189872) | Artech | McLean, VA | 2026-10-02 |
-| [Full-stack Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189870#/jobs/33189870) | Artech | McLean, VA | 2026-10-02 |
-| [.NET Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189697#/jobs/33189697) | Artech | North Quincy, MA | 2026-10-02 |
-| [Python Developer with Groovy](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189601#/jobs/33189601) | Artech | McLean, VA | 2026-10-02 |
-| [Agronomic Modeling -- Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188736#/jobs/33188736) | Artech | Remote, IA | 2026-10-02 |
-| [Data Modeler / Data Architect (Databricks & Erwin)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188327#/jobs/33188327) | Artech | Columbus, OH | 2026-10-02 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33185671#/jobs/33185671) | Artech | Jersey City, NJ | 2026-10-02 |
-| [Software Architect - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29411685#/jobs/29411685) | Mindlance | Albany, NY | 2026-10-02 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29411305#/jobs/29411305) | Mindlance | Remote, CA | 2026-10-02 |
-| [Computational Biologist and AI Engineer (Vaccines)](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29409186#/jobs/29409186) | Net2Source | Pearl River, NY | 2026-10-02 |
-| [BI DEVELOPER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-bi-developer-sheffield-south-yorkshire/) | Harnham | Sheffield, South Yorkshire | 2026-10-02 |
-| [Data Engineer II](https://jobs.brooksource.com/jobs/job/a1wcv0000015hvheae-data-engineer-ii-irving-texas/) | Brooksource | Irving, Texas | 2026-10-02 |
-| [Senior Android Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2524&BRID=1338499&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-02 |
-| [API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2527&BRID=1338497&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-02 |
-| [API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2528&BRID=1338496&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-02 |
-| [Sr WebView Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2529&BRID=1338493&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-02 |
+| [Security Solutions Architect (FTE Remote Position)](https://careers.teksystems.com/us/en/job/JP-006318045/Security-Solutions-Architect-FTE-Remote-Position) | TEKsystems | Charlotte, North Carolina | 2026-10-03 |
+| [Aws Data Engineer](https://careers.teksystems.com/us/en/job/JP-006313316/Aws-Data-Engineer) | TEKsystems | Fort Mill, South Carolina | 2026-10-03 |
+| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006324036/Infrastructure-Engineer) | TEKsystems | Fort Mill, South Carolina | 2026-10-03 |
+| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006322038/Solutions-Architect) | TEKsystems | Hanover, Maryland | 2026-10-03 |
+| [Engineer (Jr. Java Developer)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190530#/jobs/33190530) | Artech | Fort Worth, TX | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
