@@ -27,9 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **12472** roles open total · updated `2026-10-03T23:42:26+00:00`
+### 🆕 2 new roles this update · 11991 tracked total · updated `2026-10-04T05:12:00+00:00`
 
-Nothing new since the last run — [browse all 12472 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [VMware Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006322588/VMware-Infrastructure-Engineer) | TEKsystems | Jersey City, New Jersey | 2026-10-04 |
+| [IT Programmer/Network Admin](https://careers.teksystems.com/us/en/job/JP-006327186/IT-Programmer-Network-Admin) | TEKsystems | Burlington, North Carolina | 2026-10-04 |
 <!-- JOBS:END -->
 
 ## How it works
