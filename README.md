@@ -27,16 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 11991 tracked total · updated `2026-10-04T05:12:00+00:00`
+### 🆕 4 new roles this update · 11995 tracked total · updated `2026-10-04T12:07:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 2 |
+| Agility Connect | 4 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [VMware Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006322588/VMware-Infrastructure-Engineer) | TEKsystems | Jersey City, New Jersey | 2026-10-04 |
-| [IT Programmer/Network Admin](https://careers.teksystems.com/us/en/job/JP-006327186/IT-Programmer-Network-Admin) | TEKsystems | Burlington, North Carolina | 2026-10-04 |
+| [Data Engineer](https://agilityconnect.io/jobs/8502) | Agility Connect | Cincinnati, OH | 2026-10-04 |
+| [Data Engineer - DataStage ETL](https://agilityconnect.io/jobs/8504) | Agility Connect | Cincinnati, OH | 2026-10-04 |
+| [Data Scientist](https://agilityconnect.io/jobs/8499) | Agility Connect | Cincinnati, OH | 2026-10-04 |
+| [Machine Learning Engineer](https://agilityconnect.io/jobs/8505) | Agility Connect | Cincinnati, OH | 2026-10-04 |
 <!-- JOBS:END -->
 
 ## How it works
