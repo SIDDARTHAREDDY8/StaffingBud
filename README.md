@@ -27,18 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 11995 tracked total · updated `2026-10-04T12:07:57+00:00`
+### 🟢 No new roles this update · **11995** roles open total · updated `2026-10-04T18:41:05+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 4 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Engineer](https://agilityconnect.io/jobs/8502) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Data Engineer - DataStage ETL](https://agilityconnect.io/jobs/8504) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Data Scientist](https://agilityconnect.io/jobs/8499) | Agility Connect | Cincinnati, OH | 2026-10-04 |
-| [Machine Learning Engineer](https://agilityconnect.io/jobs/8505) | Agility Connect | Cincinnati, OH | 2026-10-04 |
+Nothing new since the last run — [browse all 11995 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
