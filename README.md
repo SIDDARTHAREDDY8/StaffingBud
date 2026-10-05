@@ -27,15 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 11695 tracked total · updated `2026-10-05T04:59:55+00:00`
+### 🆕 6 new roles this update · 11701 tracked total · updated `2026-10-05T14:09:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Alldus | 1 |
+| TEKsystems | 2 |
+| Kforce | 1 |
+| Apex Systems | 1 |
+| Artech | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Servicenow Csm Developer Cambridge Massachusetts](https://alldus.com/job/48679-servicenow-csm-developer-cambridge-massachusetts/) | Alldus | Cambridge, Massachusetts | 2026-10-05 |
+| [CRA Data Analyst](http://www.kforce.com/Jobs/1696~TVF~2190382T1~99/) | Kforce | Minneapolis, MN | 2026-10-05 |
+| [Python Developer](https://careers.teksystems.com/us/en/job/JP-006327648/Python-Developer) | TEKsystems | Jersey City, New Jersey | 2026-10-05 |
+| [Python Developer](https://careers.teksystems.com/us/en/job/JP-006327621/Python-Developer) | TEKsystems | Jersey City, New Jersey | 2026-10-05 |
+| [Senior ML Engineer](https://www.apexsystems.com/job/3054135_usa/senior-ml-engineer) | Apex Systems | Ann Arbor, MI | 2026-10-05 |
+| [Devops (CI/CD) Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33184313#/jobs/33184313) | Artech | Longmont, CO | 2026-10-05 |
+| [Front End Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1725&BRID=1338727&lang=1) | Njoyn (CGI) | Cary, United States | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
