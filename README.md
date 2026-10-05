@@ -27,9 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **11694** roles open total · updated `2026-10-05T00:00:06+00:00`
+### 🆕 1 new roles this update · 11695 tracked total · updated `2026-10-05T04:59:55+00:00`
 
-Nothing new since the last run — [browse all 11694 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Alldus | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Servicenow Csm Developer Cambridge Massachusetts](https://alldus.com/job/48679-servicenow-csm-developer-cambridge-massachusetts/) | Alldus | Cambridge, Massachusetts | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
