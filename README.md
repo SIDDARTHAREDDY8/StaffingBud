@@ -27,35 +27,30 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 11326 tracked total · updated `2026-10-06T05:44:54+00:00`
+### 🆕 12 new roles this update · 11338 tracked total · updated `2026-10-06T13:09:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 4 |
-| TEKsystems | 3 |
-| Artech | 3 |
-| Njoyn (CGI) | 3 |
-| Compunnel | 2 |
-| Motion Recruitment | 1 |
+| Alldus | 4 |
+| Robert Half | 3 |
+| Motion Recruitment | 3 |
+| Mindlance | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Scientist IV](https://careers.teksystems.com/us/en/job/JP-006330040/Data-Scientist-IV) | TEKsystems | Menlo Park, California | 2026-10-06 |
-| [Senior Database Engineer](https://careers.teksystems.com/us/en/job/JP-006329141/Senior-Database-Engineer) | TEKsystems | Foster City, California | 2026-10-06 |
-| [181931 - Principal Software Engineer In Test](https://careers.teksystems.com/us/en/job/JP-006329919/181931-Principal-Software-Engineer-In-Test) | TEKsystems | Westlake, Texas | 2026-10-06 |
-| [AI Design Systems Consultant / Contract / Hybrid / Oakland, CA](https://motionrecruitment.com/tech-jobs/oakland/contract/ai-design-systems-consultant-contract-hybrid-oakland-ca/891514) | Motion Recruitment | Oakland, California | 2026-10-06 |
-| [Sr. Engineer 2 - Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33194951#/jobs/33194951) | Artech | Fort Worth, TX | 2026-10-06 |
-| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33199877#/jobs/33199877) | Artech | Seattle, WA | 2026-10-06 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33199480#/jobs/33199480) | Artech | Addison, TX | 2026-10-06 |
-| [Data Scientist - Data Analytics & Engineering - Data Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420120#/jobs/29420120) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [CX Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420115#/jobs/29420115) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [Software Engineering - Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419792#/jobs/29419792) | Mindlance | Seattle | 2026-10-06 |
-| [Data Scientist](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419891#/jobs/29419891) | Mindlance | Remote (EST), NY | 2026-10-06 |
-| [Senior and Mid-level Software Engineer](https://jobs.compunnel.com/jobs/5929426) | Compunnel | Rockville, Maryland, United States | 2026-10-06 |
-| [Principal AI Engineer](https://jobs.compunnel.com/jobs/5929377) | Compunnel | New York City, New York, United States | 2026-10-06 |
-| [DevOps Engineer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0339&BRID=1338910&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-06 |
-| [Senior DevOps Engineer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0338&BRID=1338908&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-06 |
-| [Senior AWS Data Scientist *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0340&BRID=1338901&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-06 |
+| [M365 Solutions Architect](https://www.roberthalf.com/us/en/job/westerville-oh/m365-solutions-architect/03410-0013505486-usen) | Robert Half | Westerville, 03410 | 2026-10-06 |
+| [C Net Software Developer Perm Fte](https://www.roberthalf.com/us/en/job/davenport-ia/c-net-software-developer-perm-fte/01500-0013505495-usen) | Robert Half | Davenport, 01500 | 2026-10-06 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/irmo-sc/data-scientist/03230-0013505498-usen) | Robert Half | Irmo, 03230 | 2026-10-06 |
+| [Software Engineer New York](https://alldus.com/job/59135-software-engineer-new-york/) | Alldus | New York | 2026-10-06 |
+| [Full Stack Engineer New York](https://alldus.com/job/59140-full-stack-engineer-new-york/) | Alldus | New York | 2026-10-06 |
+| [Founding Software Engineer New York New York](https://alldus.com/job/59146-founding-software-engineer-new-york-new-york/) | Alldus | New York, New York | 2026-10-06 |
+| [Founding Applied Ai Engineer New York New York](https://alldus.com/job/59150-founding-applied-ai-engineer-new-york-new-york/) | Alldus | New York, New York | 2026-10-06 |
+| [Senior Research Software Engineer](https://motionrecruitment.com/tech-jobs/woburn/direct-hire/senior-research-software-engineer/891728) | Motion Recruitment | Woburn, Massachusetts | 2026-10-06 |
+| [MLOps Engineer](https://motionrecruitment.com/tech-jobs/woburn/direct-hire/mlops-engineer/891725) | Motion Recruitment | Woburn, Massachusetts | 2026-10-06 |
+| [Senior Cloud Platform Engineer](https://motionrecruitment.com/tech-jobs/boston/contract/senior-cloud-platform-engineer/891723) | Motion Recruitment | Boston, MA | 2026-10-06 |
+| [DATA SCIENTIST-Level 2 - Experienced (6 - 10 Years)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420966#/jobs/29420966) | Mindlance | Juno Beach, FL | 2026-10-06 |
+| [Senior Java Developer – Microservices, Kafka & Cloud Native (F/H)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0491&BRID=1338994&lang=1) | Njoyn (CGI) | Casablanca/Rabat/Fès, Morocco | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
