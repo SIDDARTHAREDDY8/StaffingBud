@@ -27,48 +27,26 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 11070 tracked total · updated `2026-10-07T00:40:23+00:00`
+### 🆕 7 new roles this update · 11073 tracked total · updated `2026-10-07T10:11:59+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| Artech | 4 |
-| Compunnel | 4 |
-| Motion Recruitment | 3 |
-| TEKsystems | 2 |
-| Harnham | 2 |
-| Kforce | 1 |
-| Mindlance | 1 |
+| Robert Half | 2 |
+| TEKsystems | 1 |
+| Artech | 1 |
+| Harnham | 1 |
 | Brooksource | 1 |
-| Beacon Hill | 1 |
-| Njoyn (CGI) | 1 |
+| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Growth Engineer](http://www.kforce.com/Jobs/1696~WQG~2189976T1~99/) | Kforce | Utah Valley, UT | 2026-10-07 |
-| [Adobe Analytics Engineer](https://careers.teksystems.com/us/en/job/JP-006332539/Adobe-Analytics-Engineer) | TEKsystems | Minneapolis, Minnesota | 2026-10-07 |
-| [Junior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006332363/Junior-Data-Engineer) | TEKsystems | Kansas City, Kansas | 2026-10-07 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/glendale-az/data-engineer/00210-9504407313-usen) | Robert Half | Glendale, 00210 | 2026-10-07 |
-| [Director Data Ai](https://www.roberthalf.com/us/en/job/glendale-az/director-data-ai/00210-9504407320-usen) | Robert Half | Glendale, 00210 | 2026-10-07 |
-| [Data Architect](https://www.roberthalf.com/us/en/job/glendale-az/data-architect/00210-9504407315-usen) | Robert Half | Glendale, 00210 | 2026-10-07 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/ai-engineer/03900-9504407455-usen) | Robert Half | Memphis, 03900 | 2026-10-07 |
-| [Data Engineer (Snowflake, Python, AI/ML Data Pipelines)](https://motionrecruitment.com/tech-jobs/dallas/contract/data-engineer-snowflake-python-ai-ml-data-pipelines/891815) | Motion Recruitment | Dallas, Texas | 2026-10-07 |
-| [Data Engineer (Snowflake, Python, AI/ML Data Pipelines)](https://motionrecruitment.com/tech-jobs/dallas/contract/data-engineer-snowflake-python-ai-ml-data-pipelines/891811) | Motion Recruitment | Dallas, Texas | 2026-10-07 |
-| [Director of Solutions Architect](https://motionrecruitment.com/tech-jobs/boston/direct-hire/director-of-solutions-architect/891847) | Motion Recruitment | Boston, MA | 2026-10-07 |
-| [Big Data/Machine Learning Engineer - Sr](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33204039#/jobs/33204039) | Artech | Plano, TX | 2026-10-07 |
-| [Senior Embedded Firmware Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33201612#/jobs/33201612) | Artech | North Reading, MA | 2026-10-07 |
-| [Embedded Firmware Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33201541#/jobs/33201541) | Artech | North Reading, MA | 2026-10-07 |
-| [Embedded Firmware Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33201512#/jobs/33201512) | Artech | North Reading, MA | 2026-10-07 |
-| [Training Developer 1](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29426935#/jobs/29426935) | Mindlance | Birmingham, AL | 2026-10-07 |
-| [GoAnywhere MFT developer](https://jobs.compunnel.com/jobs/5938441) | Compunnel | Richmond, Virginia, United States | 2026-10-07 |
-| [Data Platform Engineer](https://jobs.compunnel.com/jobs/5938520) | Compunnel | Cincinnati, Ohio, United States | 2026-10-07 |
-| [Senior Kafka Platform Engineer](https://jobs.compunnel.com/jobs/5938521) | Compunnel | Blue Ash, Ohio, United States | 2026-10-07 |
-| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5784713) | Compunnel | Durham, North Carolina, United States | 2026-10-07 |
-| [MLOPS PLATFORM ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-mlops-platform-engineer-phoenix-arizona/) | Harnham | Phoenix, Arizona | 2026-10-07 |
-| [APP DEVELOPER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-app-developer-washington-district-of-columbia/) | Harnham | Washington, District of Columbia | 2026-10-07 |
-| [Jr. Infrastructure Engineer](https://jobs.brooksource.com/jobs/job/a1wcv00000159ideay-jr-infrastructure-engineer-glendale-kentucky/) | Brooksource | Glendale, Kentucky | 2026-10-07 |
-| [Senior Backend Platform Engineer](https://bhsg.com/jobs/job/mke1476121aj_1791320632-senior-backend-platform-engineer-milwaukee-wisconsin/) | Beacon Hill | — | 2026-10-07 |
-| [Sr. Composition Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0599&BRID=1339312&lang=1) | Njoyn (CGI) | Cary, United States | 2026-10-07 |
+| [Sr Business Intelligence Developer](https://careers.teksystems.com/us/en/job/JP-006328306/Sr-Business-Intelligence-Developer) | TEKsystems | Bentonville, Arkansas | 2026-10-07 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/appleton-wi/data-engineer/04620-0013486722-usen) | Robert Half | Appleton, 04620 | 2026-10-07 |
+| [Security Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/security-engineer/00920-9504406181-usen) | Robert Half | Atlanta, 00920 | 2026-10-07 |
+| [Database Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33207018#/jobs/33207018) | Artech | Foster City, CA | 2026-10-07 |
+| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-liverpool-merseyside-4/) | Harnham | Liverpool, Merseyside | 2026-10-07 |
+| [Application Developer 2 – APPDEV2](https://jobs.brooksource.com/jobs/job/a1wcv0000015tqpeau-application-developer-2-appdev2-birmingham-alabama/) | Brooksource | Birmingham, Alabama | 2026-10-07 |
+| [Assembly & Fulfillment Associate](https://www.nescoresource.com/job-details/assembly-fulfillment-associate-in-light-industrial-jobs-1748564) | Nesco Resource | Phoenix, AZ | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
