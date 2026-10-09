@@ -27,43 +27,35 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 22 new roles this update · 11244 tracked total · updated `2026-10-09T01:10:29+00:00`
+### 🆕 17 new roles this update · 11248 tracked total · updated `2026-10-09T10:25:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 7 |
-| Kforce | 5 |
-| Mindlance | 3 |
+| Artech | 11 |
 | Robert Half | 2 |
-| Motion Recruitment | 2 |
-| Russell Tobin | 1 |
-| ASK Consulting | 1 |
-| Harnham | 1 |
+| Harnham | 2 |
+| TEKsystems | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer IV](http://www.kforce.com/Jobs/1696~WQG~2190896T1~99/) | Kforce | Atlanta, GA | 2026-10-09 |
-| [Remote Data Architecture Strategy Lead (EST)](http://www.kforce.com/Jobs/1696~WQG~2190763T1~99/) | Kforce | Orlando, FL | 2026-10-09 |
-| [Remote Mortgage Enterprise Software Architect](http://www.kforce.com/Jobs/1696~WQG~2190901P1~99/) | Kforce | Heathrow, FL | 2026-10-09 |
-| [Lead Software Engineer (AI/ML)](http://www.kforce.com/Jobs/1696~EQG~2190898T1~99/) | Kforce | Orlando, FL | 2026-10-09 |
-| [Software Engineers - AI / Agentic AI Engineer](http://www.kforce.com/Jobs/1696~AQG~2190422T1~99/) | Kforce | Tampa, FL | 2026-10-09 |
-| [Sr Cloud Engineer](https://www.roberthalf.com/us/en/job/camden-nj/sr-cloud-engineer/02720-0013491796-usen) | Robert Half | Camden, 02720 | 2026-10-09 |
-| [Senior Network And Infrastructure Engineer](https://www.roberthalf.com/us/en/job/troy-mi/senior-network-and-infrastructure-engineer/02210-0013512861-usen) | Robert Half | Troy, 02210 | 2026-10-09 |
-| [Data Engineer IV](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29438863#/jobs/29438863) | Russell Tobin | Atlanta, GA | 2026-10-09 |
-| [LIMS Developer-Analyst](https://motionrecruitment.com/tech-jobs/thousand-oaks/contract/lims-developer-analyst/892086) | Motion Recruitment | Thousand Oaks, California | 2026-10-09 |
-| [Senior Backend AI Engineer / San Francisco](https://motionrecruitment.com/tech-jobs/charlotte/direct-hire/senior-backend-ai-engineer-san-francisco/892092) | Motion Recruitment | Charlotte, North Carolina | 2026-10-09 |
-| [Data Analyst - Junior](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132236/ Data Analyst - Junior) | ASK Consulting | Framingham, MA, 01701 | 2026-10-09 |
-| [Engineering - Software Development Engineer 1](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29440097#/jobs/29440097) | Mindlance | Austin, TX | 2026-10-09 |
-| [Senior Cloud and mlops platform Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29440128#/jobs/29440128) | Mindlance | New York, NY | 2026-10-09 |
-| [Data Scientist, Vibration Analysis & Physics-Informed ML](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29440011#/jobs/29440011) | Mindlance | New York, NY | 2026-10-09 |
-| [Front-End UI Web Developer](https://jobs.compunnel.com/jobs/5944178) | Compunnel | Atlanta, Georgia, United States | 2026-10-09 |
-| [Full Stack Developer](https://jobs.compunnel.com/jobs/5943184) | Compunnel | Foster City, California, United States | 2026-10-09 |
-| [Snowflake Data Architect](https://jobs.compunnel.com/jobs/5943933) | Compunnel | Houston, Texas, United States | 2026-10-09 |
-| [Senior Full Stack Developer](https://jobs.compunnel.com/jobs/5943151) | Compunnel | Atlanta, Georgia, United States | 2026-10-09 |
-| [Lead Software Engineer AWS Cloud & Java Microservices](https://jobs.compunnel.com/jobs/5944928) | Compunnel | Chicago, Illinois, United States | 2026-10-09 |
-| [Principal Machine Learning Engineer](https://jobs.compunnel.com/jobs/5944564) | Compunnel | New York City, New York, United States | 2026-10-09 |
-| [Senior ServiceNow Developer](https://jobs.compunnel.com/jobs/5944563) | Compunnel | San Diego, California, United States | 2026-10-09 |
-| [MANAGER, AI ARCHITECTURE](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-manager-ai-architecture-atlanta-georgia/) | Harnham | Atlanta, Georgia | 2026-10-09 |
+| [Data Scientist V](https://careers.teksystems.com/us/en/job/JP-006335503/Data-Scientist-V) | TEKsystems | Menlo Park, California | 2026-10-09 |
+| [Patient Outreach Coordinator Lvnlpn](https://www.roberthalf.com/us/en/job/san-antonio-tx/patient-outreach-coordinator-lvnlpn/02303-0013502676-usen) | Robert Half | San Antonio, 02303 | 2026-10-09 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/martinez-ca/software-developer/00340-0013500402-usen) | Robert Half | Martinez, 00340 | 2026-10-09 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218528#/jobs/33218528) | Artech | Chicago, IL | 2026-10-09 |
+| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33215811#/jobs/33215811) | Artech | Jersey City, NJ | 2026-10-09 |
+| [Golang Developer – AWS Cloud & Trading Platforms](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33219550#/jobs/33219550) | Artech | San Antonio, TX | 2026-10-09 |
+| [Java Full Stack Developer(Face to Face Interview)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218530#/jobs/33218530) | Artech | Mt Laurel, NJ | 2026-10-09 |
+| [Senior Full Stack Java Develope](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218838#/jobs/33218838) | Artech | MOUNT LAUREL, NJ | 2026-10-09 |
+| [Java Developer (F2F)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218929#/jobs/33218929) | Artech | MT laurel, NJ | 2026-10-09 |
+| [SRE DevOps (Must have Apple experience)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33217111#/jobs/33217111) | Artech | Austin, TX | 2026-10-09 |
+| [Cyber Security Engineer (IAM & Endpoint Security)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218713#/jobs/33218713) | Artech | Frisco, TX | 2026-10-09 |
+| [Java Developer (F2F)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218712#/jobs/33218712) | Artech | MT laurel, NJ | 2026-10-09 |
+| [Full Stack Java Developer (Onsite Interview)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33218456#/jobs/33218456) | Artech | MT laurel, NJ | 2026-10-09 |
+| [Software Engineer (III)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33210374#/jobs/33210374) | Artech | San Jose, CA | 2026-10-09 |
+| [ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-analytics-engineer-nashville-tennessee-2/) | Harnham | Nashville, Tennessee | 2026-10-09 |
+| [SENIOR DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-scientist-gilbert-arizona/) | Harnham | Gilbert, Arizona | 2026-10-09 |
+| [Sr Full Stack Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000qbi1eai-sr-full-stack-engineer-summit-new-jersey/) | Brooksource | Summit, New Jersey | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
