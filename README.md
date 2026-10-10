@@ -27,33 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 10988 tracked total · updated `2026-10-10T09:44:30+00:00`
+### 🆕 4 new roles this update · 10990 tracked total · updated `2026-10-10T17:18:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 13 |
-| Robert Half | 1 |
-| Brooksource | 1 |
-| Nesco Resource | 1 |
+| Agility Connect | 4 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Business Analyticsdata Analyst](https://www.roberthalf.com/us/en/job/santa-ana-ca/business-analyticsdata-analyst/00350-0013510065-usen) | Robert Half | Santa Ana, 00350 | 2026-10-10 |
-| [SQL Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33226259#/jobs/33226259) | Artech | MOUNT LAUREL, NJ | 2026-10-10 |
-| [Mulesoft Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33226084#/jobs/33226084) | Artech | Jersey City, NJ | 2026-10-10 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225159#/jobs/33225159) | Artech | Jersey City, NJ | 2026-10-10 |
-| [.NET Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33226126#/jobs/33226126) | Artech | Jersey City, NJ | 2026-10-10 |
-| [Software AG webMethods Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225937#/jobs/33225937) | Artech | Cleveland, OH, OH | 2026-10-10 |
-| [Big Data Architect Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225717#/jobs/33225717) | Artech | New York, NY | 2026-10-10 |
-| [Senior AWS Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33224697#/jobs/33224697) | Artech | Mclean, VA | 2026-10-10 |
-| [AI Augmented Full Stack Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225482#/jobs/33225482) | Artech | San Antonia, TX | 2026-10-10 |
-| [Cloud DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225026#/jobs/33225026) | Artech | McLean, VA, VA | 2026-10-10 |
-| [Cloud DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33224698#/jobs/33224698) | Artech | McLean, VA | 2026-10-10 |
-| [AWS Cloud Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33225025#/jobs/33225025) | Artech | McLean, VA | 2026-10-10 |
-| [Cloud Developer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33224931#/jobs/33224931) | Artech | Dallas, TX | 2026-10-10 |
-| [Senior Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33224440#/jobs/33224440) | Artech | Malvern, PA | 2026-10-10 |
-| [Senior Enterprise Security Application Developer](https://jobs.brooksource.com/jobs/job/a1wcv0000016xf3eae-senior-enterprise-security-application-developer-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-10-10 |
-| [Oracle Integration Cloud (OIC) Developer/Oracle Cloud Infrastructure (OCI) Administrator_CSA](https://www.nescoresource.com/job-details/oracle-integration-cloud-oic-developeroracle-cloud-infrastructure-oci-administratorcsa-in-information-technology-jobs-1753360) | Nesco Resource | Jamesburg, NJ | 2026-10-10 |
+| [Data Analyst](https://agilityconnect.io/jobs/8523) | Agility Connect | Charlotte, NC | 2026-10-10 |
+| [Java Software Engineer](https://agilityconnect.io/jobs/8521) | Agility Connect | Cincinnati, OH | 2026-10-10 |
+| [Senior Genesys & API Integration Developer](https://agilityconnect.io/jobs/8528) | Agility Connect | OH | 2026-10-10 |
+| [Lead ETL Developer](https://agilityconnect.io/jobs/8519) | Agility Connect | OH | 2026-10-10 |
 <!-- JOBS:END -->
 
 ## How it works
