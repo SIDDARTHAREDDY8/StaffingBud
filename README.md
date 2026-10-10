@@ -27,18 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 10990 tracked total · updated `2026-10-10T17:18:53+00:00`
+### 🆕 3 new roles this update · 10993 tracked total · updated `2026-10-10T21:33:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
+| TEKsystems | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](https://agilityconnect.io/jobs/8523) | Agility Connect | Charlotte, NC | 2026-10-10 |
-| [Java Software Engineer](https://agilityconnect.io/jobs/8521) | Agility Connect | Cincinnati, OH | 2026-10-10 |
-| [Senior Genesys & API Integration Developer](https://agilityconnect.io/jobs/8528) | Agility Connect | OH | 2026-10-10 |
-| [Lead ETL Developer](https://agilityconnect.io/jobs/8519) | Agility Connect | OH | 2026-10-10 |
+| [Data Engineer II](https://careers.teksystems.com/us/en/job/JP-006338501/Data-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-10-10 |
+| [Network Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006338260/Network-Infrastructure-Engineer) | TEKsystems | Winston Salem, North Carolina | 2026-10-10 |
+| [Enterprise Data Analytics Manager](https://careers.teksystems.com/us/en/job/JP-006337374/Enterprise-Data-Analytics-Manager) | TEKsystems | Rochester, New York | 2026-10-10 |
 <!-- JOBS:END -->
 
 ## How it works
