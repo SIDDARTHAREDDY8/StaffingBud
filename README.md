@@ -27,17 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 10993 tracked total · updated `2026-10-10T21:33:01+00:00`
+### 🟢 No new roles this update · **10686** roles open total · updated `2026-10-11T05:06:31+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TEKsystems | 3 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Engineer II](https://careers.teksystems.com/us/en/job/JP-006338501/Data-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-10-10 |
-| [Network Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006338260/Network-Infrastructure-Engineer) | TEKsystems | Winston Salem, North Carolina | 2026-10-10 |
-| [Enterprise Data Analytics Manager](https://careers.teksystems.com/us/en/job/JP-006337374/Enterprise-Data-Analytics-Manager) | TEKsystems | Rochester, New York | 2026-10-10 |
+Nothing new since the last run — [browse all 10686 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
