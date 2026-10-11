@@ -27,9 +27,22 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **10686** roles open total · updated `2026-10-11T12:34:42+00:00`
+### 🆕 6 new roles this update · 10692 tracked total · updated `2026-10-11T19:34:19+00:00`
 
-Nothing new since the last run — [browse all 10686 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Njoyn (CGI) | 4 |
+| TEKsystems | 1 |
+| Gina's Tech Jobs | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Mainframe Developer](https://careers.teksystems.com/us/en/job/JP-006335409/Senior-Mainframe-Developer) | TEKsystems | Charlotte, North Carolina | 2026-10-11 |
+| [LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/llm-application-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-11 |
+| [Sr. Mobile Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1010&BRID=1340442&lang=1) | Njoyn (CGI) | Cary, United States | 2026-10-11 |
+| [Mobile Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1009&BRID=1340441&lang=1) | Njoyn (CGI) | Cary, United States | 2026-10-11 |
+| [Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0551&BRID=1340440&lang=1) | Njoyn (CGI) | Cary, Plano, United States | 2026-10-11 |
+| [Sr. Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0546&BRID=1340439&lang=1) | Njoyn (CGI) | Cary, Plano, United States | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
