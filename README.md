@@ -27,17 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 10048 tracked total · updated `2026-10-12T00:26:32+00:00`
+### 🆕 3 new roles this update · 10050 tracked total · updated `2026-10-12T10:39:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Compunnel | 1 |
+| Kforce | 1 |
+| TEKsystems | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-9504409254-usen) | Robert Half | Jacksonville, 01120 | 2026-10-12 |
-| [Kafka Platform Engineer](https://jobs.compunnel.com/jobs/5946984) | Compunnel | Austin, Texas, United States | 2026-10-12 |
+| [Oracle Integration Cloud (OIC) Developer](http://www.kforce.com/Jobs/1696~AQG~2190838T1~99/) | Kforce | Madison, NJ | 2026-10-12 |
+| [Junior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006344098/Junior-Data-Engineer) | TEKsystems | Kansas City, Kansas | 2026-10-12 |
+| [DATA PLATFORM ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-platform-engineer-newcastle-upon-tyne-tyne-and-wear-4/) | Harnham | Newcastle upon Tyne, Tyne and Wear | 2026-10-12 |
 <!-- JOBS:END -->
 
 ## How it works
