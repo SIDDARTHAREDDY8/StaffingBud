@@ -27,67 +27,66 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 43 new roles this update · 9364 tracked total · updated `2026-10-14T16:57:02+00:00`
+### 🆕 42 new roles this update · 9405 tracked total · updated `2026-10-14T21:34:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 15 |
-| Alldus | 7 |
-| Artech | 5 |
-| Njoyn (CGI) | 4 |
-| Apex Systems | 3 |
-| Kforce | 2 |
-| Motion Recruitment | 2 |
-| Harnham | 2 |
-| Mindlance | 1 |
-| Net2Source | 1 |
-| Beacon Hill | 1 |
+| Robert Half | 13 |
+| Artech | 7 |
+| Njoyn (CGI) | 6 |
+| Apex Systems | 5 |
+| Kforce | 3 |
+| Mindlance | 2 |
+| Beacon Hill | 2 |
+| TEKsystems | 1 |
+| Russell Tobin | 1 |
+| Motion Recruitment | 1 |
+| Vernovis | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Business Intelligence (BI) Developer](http://www.kforce.com/Jobs/1696~EQG~2191331T1~99/) | Kforce | Juno Beach, FL | 2026-10-14 |
-| [Solutions Architect](http://www.kforce.com/Jobs/1696~EQG~2189120P1~99/) | Kforce | Orlando, FL | 2026-10-14 |
-| [Remote AI Engineer](https://www.apexsystems.com/job/3055878_usa/remote-ai-engineer) | Apex Systems | Washington, DC | 2026-10-14 |
-| [Android Developer](https://www.apexsystems.com/job/3053961_usa/android-developer) | Apex Systems | Bentonville, AR | 2026-10-14 |
-| [Cobol Developer](https://www.apexsystems.com/job/3055873_usa/cobol-developer) | Apex Systems | Quincy, MA | 2026-10-14 |
-| [Data Scientist Ii](https://www.roberthalf.com/us/en/job/san-ramon-ca/data-scientist-ii/04692-0013377381-usen) | Robert Half | San Ramon, 04692 | 2026-10-14 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/plano-tx/data-engineer/03230-0013512251-usen) | Robert Half | Plano, 03230 | 2026-10-14 |
-| [Microsoft Infrastructure Engineer Architect](https://www.roberthalf.com/us/en/job/chanhassen-mn/microsoft-infrastructure-engineer-architect/02310-0013426199-usen) | Robert Half | Chanhassen, 02310 | 2026-10-14 |
-| [Machine Learning Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/machine-learning-engineer/00320-0013513829-usen) | Robert Half | Los Angeles, 00320 | 2026-10-14 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/cloud-engineer/03500-0013476586-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-14 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-engineer/01120-9504409247-usen) | Robert Half | Jacksonville, 01120 | 2026-10-14 |
-| [Lead Data Security Engineer](https://www.roberthalf.com/us/en/job/johns-creek-ga/lead-data-security-engineer/00920-9504411173-usen) | Robert Half | Johns Creek, 00920 | 2026-10-14 |
-| [Full Stack Developer](https://www.roberthalf.com/us/en/job/wayzata-mn/full-stack-developer/04838-0013511560-usen) | Robert Half | Wayzata, 04838 | 2026-10-14 |
-| [Ai Engineer Ai Data Privacy Security Governance](https://www.roberthalf.com/us/en/job/san-ramon-ca/ai-engineer-ai-data-privacy-security-governance/04692-0013469199-usen) | Robert Half | San Ramon, 04692 | 2026-10-14 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/norman-ok/software-developer/03500-0013516129-usen) | Robert Half | Norman, 03500 | 2026-10-14 |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/bala-cynwyd-pa/data-scientist/03720-0013513232-usen) | Robert Half | Bala Cynwyd, 03720 | 2026-10-14 |
-| [Azure Developer](https://www.roberthalf.com/us/en/job/miami-fl/azure-developer/01020-9504409983-usen) | Robert Half | Miami, 01020 | 2026-10-14 |
-| [Principal Software Engineer](https://www.roberthalf.com/us/en/job/edison-nj/principal-software-engineer/02720-0013399077-usen) | Robert Half | Edison, 02720 | 2026-10-14 |
-| [Wordpress Developer](https://www.roberthalf.com/us/en/job/charlotte-nc/wordpress-developer/03200-9504409645-usen) | Robert Half | Charlotte, 03200 | 2026-10-14 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/cyber-security-engineer/03900-9504411176-usen) | Robert Half | Memphis, 03900 | 2026-10-14 |
-| [Forward Deployed Analyst New York](https://alldus.com/job/59202-forward-deployed-analyst-new-york/) | Alldus | New York | 2026-10-14 |
-| [Agent Platform Engineer Voice New York](https://alldus.com/job/59203-agent-platform-engineer-voice-new-york/) | Alldus | New York | 2026-10-14 |
-| [Member Of Technical Staff Ai Ml Platform Engineer New York](https://alldus.com/job/59204-member-of-technical-staff-ai-ml-platform-engineer-new-york/) | Alldus | New York | 2026-10-14 |
-| [Lead Product Engineer Voice Ai New York](https://alldus.com/job/59206-lead-product-engineer-voice-ai-new-york/) | Alldus | New York | 2026-10-14 |
-| [Staff Backend Distributed Systems Engineer Dover Delaware](https://alldus.com/job/59225-staff-backend-distributed-systems-engineer-dover-delaware/) | Alldus | Dover, Delaware | 2026-10-14 |
-| [Staff Frontend Engineer Dover Delaware](https://alldus.com/job/59226-staff-frontend-engineer-dover-delaware/) | Alldus | Dover, Delaware | 2026-10-14 |
-| [Servicenow Ham Sam Developer Virginia](https://alldus.com/job/59228-servicenow-ham-sam-developer-virginia/) | Alldus | Virginia | 2026-10-14 |
-| [Software Engineer 4](https://motionrecruitment.com/tech-jobs/chandler/contract/software-engineer-4/892435) | Motion Recruitment | CHANDLER, AZ | 2026-10-14 |
-| [Android Developer](https://motionrecruitment.com/tech-jobs/irving/contract/android-developer/888324) | Motion Recruitment | Irving, Texas | 2026-10-14 |
-| [Full Stack Engineer(Java and UI)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33243237#/jobs/33243237) | Artech | Sunrise, FL | 2026-10-14 |
-| [Software Engineer - Vehicle Integration System](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244143#/jobs/33244143) | Artech | Dearborn, MI | 2026-10-14 |
-| [Java Full Stack Developer (F2F) (LOCAL)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33243883#/jobs/33243883) | Artech | Whippany, NJ | 2026-10-14 |
-| [Technology and Data - Infrastructure Engineer 3 - Contingent](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33242369#/jobs/33242369) | Artech | CHARLOTTE, NC | 2026-10-14 |
-| [AI Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33240782#/jobs/33240782) | Artech | Lake Forest, CA | 2026-10-14 |
-| [Technology and Data - Infrastructure Engineer 3 - Contingent](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29461808#/jobs/29461808) | Mindlance | CHARLOTTE, NC | 2026-10-14 |
-| [DevOps Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29465497#/jobs/29465497) | Net2Source | Bellevue, WA | 2026-10-14 |
-| [PHP DEVELOPER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-php-developer-birmingham-west-midlands-2/) | Harnham | Birmingham, West Midlands | 2026-10-14 |
-| [SENIOR CLOUD ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-cloud-engineer-oxfordshire-2/) | Harnham | Oxfordshire | 2026-10-14 |
-| [Consumer Product Developer](https://bhsg.com/jobs/job/1477980lmm_1791992017-consumer-product-developer-wellesley-massachusetts/) | Beacon Hill | — | 2026-10-14 |
-| [Senior Guidewire Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1349&BRID=1341061&lang=1) | Njoyn (CGI) | Any - Latvia, Latvia | 2026-10-14 |
-| [Senior Guidewire Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1353&BRID=1341059&lang=1) | Njoyn (CGI) | Any - Lithuania, Lithuania | 2026-10-14 |
-| [Guidewire Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1352&BRID=1341048&lang=1) | Njoyn (CGI) | Any - Lithuania, Lithuania | 2026-10-14 |
-| [Guidewire Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1187&BRID=1341035&lang=1) | Njoyn (CGI) | Any - Latvia, Latvia | 2026-10-14 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~NRC~2191419T1~99/) | Kforce | New York, NY | 2026-10-14 |
+| [Remote Forward Deployed Palantir Engineer](http://www.kforce.com/Jobs/1696~WQG~2191369P1~99/) | Kforce | Napa, CA | 2026-10-14 |
+| [Senior Python AI/ML Engineer](http://www.kforce.com/Jobs/1696~AQG~2191380T1~99/) | Kforce | Coppell, TX | 2026-10-14 |
+| [Databricks Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006350632/Databricks-Solutions-Architect) | TEKsystems | Austin, Texas | 2026-10-14 |
+| [Cyber Security Engineer](https://www.apexsystems.com/job/3055966_usa/cyber-security-engineer) | Apex Systems | Charlotte, NC | 2026-10-14 |
+| [Backend AI Data Engineer](https://www.apexsystems.com/job/3055798_usa/backend-ai-data-engineer) | Apex Systems | Redmond, WA | 2026-10-14 |
+| [ServiceNow Developer](https://www.apexsystems.com/job/3055763_usa/servicenow-developer) | Apex Systems | San Antonio, TX | 2026-10-14 |
+| [Software Developer](https://www.apexsystems.com/job/3055898_usa/software-developer) | Apex Systems | Idaho Falls, ID | 2026-10-14 |
+| [Cyber Security Engineer - Attack Surface Management](https://www.apexsystems.com/job/3055965_usa/cyber-security-engineer---attack-surface-management) | Apex Systems | Charlotte, NC | 2026-10-14 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/pittsburgh-pa/data-engineer/03730-9504411630-usen) | Robert Half | Pittsburgh, 03730 | 2026-10-14 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/software-engineer/03930-9504411705-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Power Platform Developerbusiness Solutions Analyst](https://www.roberthalf.com/us/en/job/macon-ga/power-platform-developerbusiness-solutions-analyst/00920-9504411558-usen) | Robert Half | Macon, 00920 | 2026-10-14 |
+| [Devopscloud Engineer](https://www.roberthalf.com/us/en/job/pittsburgh-pa/devopscloud-engineer/03730-9504411741-usen) | Robert Half | Pittsburgh, 03730 | 2026-10-14 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/nashville-tn/data-analyst/03930-9504411697-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Ai Software Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/ai-software-engineer/03930-9504411687-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/pittsburgh-pa/erpcrm-developer/03730-9504411698-usen) | Robert Half | Pittsburgh, 03730 | 2026-10-14 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/pittsburgh-pa/software-engineer/03730-9504411728-usen) | Robert Half | Pittsburgh, 03730 | 2026-10-14 |
+| [Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/cybersecurity-engineer/03930-9504411689-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Data Scientistmle](https://www.roberthalf.com/us/en/job/pittsburgh-pa/data-scientistmle/03730-9504411669-usen) | Robert Half | Pittsburgh, 03730 | 2026-10-14 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/data-engineer/03930-9504411690-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Net Software Developer](https://www.roberthalf.com/us/en/job/nashville-tn/net-software-developer/03930-9504411707-usen) | Robert Half | Nashville, 03930 | 2026-10-14 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/anderson-sc/software-engineering-manager/03230-0013516352-usen) | Robert Half | Anderson, 03230 | 2026-10-14 |
+| [AI Operations & Automation Specialist – Startup Partnerships](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29465776#/jobs/29465776) | Russell Tobin | San Francisco, CA | 2026-10-14 |
+| [Senior Robotics Software Engineer // Woburn MA](https://motionrecruitment.com/tech-jobs/woburn/direct-hire/senior-robotics-software-engineer-woburn-ma/892520) | Motion Recruitment | Woburn, Massachusetts | 2026-10-14 |
+| [Supply Chain Data Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248123#/jobs/33248123) | Artech | Beaverton, OR | 2026-10-14 |
+| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33247310#/jobs/33247310) | Artech | Jersey City, NJ | 2026-10-14 |
+| [Lead Data & AI Solutions Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33246352#/jobs/33246352) | Artech | Austin, TX | 2026-10-14 |
+| [Technology and Data - Software Engineer 3 - Contingent](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33246499#/jobs/33246499) | Artech | CHARLOTTE, NC | 2026-10-14 |
+| [Java Developer Contractor: 3-5 years (Intermediate)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33247036#/jobs/33247036) | Artech | New York, NY | 2026-10-14 |
+| [Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33246874#/jobs/33246874) | Artech | Omaha, NE | 2026-10-14 |
+| [AI/ML Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33245979#/jobs/33245979) | Artech | Phoenix, AZ, AZ | 2026-10-14 |
+| [Cybersecurity Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29467168#/jobs/29467168) | Mindlance | Charlotte, NC | 2026-10-14 |
+| [Cybersecurity Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29467171#/jobs/29467171) | Mindlance | Charlotte, NC | 2026-10-14 |
+| [Software Engineer](https://vernovis.com/blog/jobs/12258/) | Vernovis | Cincinnati, | 2026-10-14 |
+| [Senior Data Engineer – Python, SQL, AWS & Snowflake](https://bhsg.com/jobs/job/ns-ded-ns_1792007884-senior-data-engineer-python-sql-aws-snowflake-orlando-florida/) | Beacon Hill | — | 2026-10-14 |
+| [Order Fulfillment & Customer Support Specialist](https://bhsg.com/jobs/job/ftne1478061cf_1791998625-order-fulfillment-customer-support-specialist-woburn-massachusetts/) | Beacon Hill | — | 2026-10-14 |
+| [Power BI Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1260&BRID=1341228&lang=1) | Njoyn (CGI) | Des Moines, United States | 2026-10-14 |
+| [Senior Full Stack Java Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0277&BRID=1341227&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-14 |
+| [Data Analyst *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1281&BRID=1341169&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-14 |
+| [Senior Full Stack Developer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1280&BRID=1341126&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-14 |
+| [AWS Informatica Developer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1135&BRID=1341117&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-14 |
+| [Generative AI Data Engineer *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1004&BRID=1341110&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
