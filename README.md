@@ -27,27 +27,23 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 9316 tracked total · updated `2026-10-14T04:22:46+00:00`
+### 🆕 7 new roles this update · 9322 tracked total · updated `2026-10-14T11:41:31+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 3 |
-| Compunnel | 2 |
-| Harnham | 2 |
-| ProFocus | 1 |
-| Nesco Resource | 1 |
+| Agility Connect | 3 |
+| Brooksource | 3 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Embedded Software Engineer III - Tactical Data Link 16](https://careers.teksystems.com/us/en/job/JP-006348297/Embedded-Software-Engineer-III-Tactical-Data-Link-16) | TEKsystems | San Diego, California | 2026-10-14 |
-| [.Net Web Developer](https://careers.teksystems.com/us/en/job/JP-006348735/Net-Web-Developer) | TEKsystems | Martinez, California | 2026-10-14 |
-| [Network Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006350053/Network-Infrastructure-Engineer) | TEKsystems | Oklahoma City, Oklahoma | 2026-10-14 |
-| [Software Engineer C Net Docker Aws](https://www.profocustechnology.com/echojobs/software-engineer-c-net-docker-aws-3640/) | ProFocus | — | 2026-10-14 |
-| [Software Engineer in Test](https://jobs.compunnel.com/jobs/5955305) | Compunnel | Merrimack, New Hampshire, United States | 2026-10-14 |
-| [Senior Mainframe Hogan/Cobol - Developer](https://jobs.compunnel.com/jobs/5955114) | Compunnel | Austin, Texas, United States | 2026-10-14 |
-| [DATA ENGINEERING MANAGER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineering-manager-austin-texas/) | Harnham | Austin, Texas | 2026-10-14 |
-| [AGENTIC AI SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-agentic-ai-software-engineer-houston-texas-3/) | Harnham | Houston, Texas | 2026-10-14 |
-| [3-Axis Laser Operator/Programmer](https://www.nescoresource.com/job-details/3-axis-laser-operatorprogrammer-in-skilled-trades-jobs-1757188) | Nesco Resource | Chesterfield, MI | 2026-10-14 |
+| [Full Stack Java Developer](https://agilityconnect.io/jobs/8533) | Agility Connect | Columbus, OH | 2026-10-14 |
+| [Senior Java Developer](https://agilityconnect.io/jobs/8532) | Agility Connect | OH | 2026-10-14 |
+| [Software Engineer](https://agilityconnect.io/jobs/8530) | Agility Connect | Carmel, IN | 2026-10-14 |
+| [DATA ENGINEER – HEALTHCARE & PREFERENCE FOR A DUTCH SPEAKER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-healthcare-preference-for-a-dutch-speaker-eindhoven-north-brabant/) | Harnham | Eindhoven, North Brabant | 2026-10-14 |
+| [AI Program Delivery Lead](https://jobs.brooksource.com/jobs/job/a1wcv0000017iizeam-ai-program-delivery-lead-new-york-new-york/) | Brooksource | New York, New York | 2026-10-14 |
+| [Jr. Software Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000017mrfeau-jr-software-engineer-grand-rapids-michigan/) | Brooksource | Grand Rapids, Michigan | 2026-10-14 |
+| [Mainframe COBOL Developer](https://jobs.brooksource.com/jobs/job/a1wcv00000178mfeaa-mainframe-cobol-developer-columbia-south-carolina/) | Brooksource | Columbia, South Carolina | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
