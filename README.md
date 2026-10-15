@@ -27,22 +27,58 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 9410 tracked total · updated `2026-10-15T11:13:32+00:00`
+### 🆕 33 new roles this update · 9434 tracked total · updated `2026-10-15T16:43:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| TEKsystems | 1 |
-| Harnham | 1 |
+| Robert Half | 13 |
+| Motion Recruitment | 4 |
+| Artech | 4 |
+| TEKsystems | 3 |
+| Agility Connect | 2 |
+| Apex Systems | 1 |
+| Talent Groups | 1 |
+| Mindlance | 1 |
+| KellyMitchell | 1 |
 | Brooksource | 1 |
+| Beacon Hill | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AWS Software Engineer (Remote Position)](https://careers.teksystems.com/us/en/job/JP-006351560/AWS-Software-Engineer-Remote-Position) | TEKsystems | Dallas, Texas | 2026-10-15 |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/farmers-branch-tx/data-scientist/04010-0013459651-usen) | Robert Half | Farmers Branch, 04010 | 2026-10-15 |
-| [Lead Software Engineer Wms](https://www.roberthalf.com/us/en/job/camden-nj/lead-software-engineer-wms/02720-0013442836-usen) | Robert Half | Camden, 02720 | 2026-10-15 |
-| [SENIOR AWS CLOUD ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-aws-cloud-engineer-oxford-oxfordshire/) | Harnham | Oxford, Oxfordshire | 2026-10-15 |
-| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000017hljea2-data-analyst-morris-plains-new-jersey/) | Brooksource | Morris Plains, New Jersey | 2026-10-15 |
+| [Sr. Developer - Python](https://careers.teksystems.com/us/en/job/JP-006351379/Sr-Developer-Python) | TEKsystems | Milwaukee, Wisconsin | 2026-10-15 |
+| [Python Developer](https://careers.teksystems.com/us/en/job/JP-006353858/Python-Developer) | TEKsystems | Milwaukee, Wisconsin | 2026-10-15 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006353507/Data-Analyst) | TEKsystems | Collierville, Tennessee | 2026-10-15 |
+| [Angular Developer](https://www.apexsystems.com/job/3054147_usa/angular-developer) | Apex Systems | Pittsburgh, PA | 2026-10-15 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/anderson-sc/software-engineering-manager/03230-0013516352-usen) | Robert Half | Anderson, 03230 | 2026-10-15 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/philadelphia-pa/solutions-architect/04838-0013515832-usen) | Robert Half | Philadelphia, 04838 | 2026-10-15 |
+| [Database Developer](https://www.roberthalf.com/us/en/job/lehi-ut/database-developer/04820-0013462704-usen) | Robert Half | Lehi, 04820 | 2026-10-15 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013517193-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-15 |
+| [C Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/c-software-engineer/01120-9504412233-usen) | Robert Half | Jacksonville, 01120 | 2026-10-15 |
+| [It Analystdeveloper](https://www.roberthalf.com/us/en/job/marysville-nt-oh/it-analystdeveloper/04837-0013510488-usen) | Robert Half | Marysville Nt, 04837 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/woodbury-mn/data-engineer/02310-0013517267-usen) | Robert Half | Woodbury, 02310 | 2026-10-15 |
+| [Order Fulfillment Inventory](https://www.roberthalf.com/us/en/job/santa-fe-springs-ca/order-fulfillment-inventory/03080-0013515592-usen) | Robert Half | Santa Fe Springs, 03080 | 2026-10-15 |
+| [Programmer Analyst](https://www.roberthalf.com/us/en/job/houston-tx/programmer-analyst/04130-0013508842-usen) | Robert Half | Houston, 04130 | 2026-10-15 |
+| [Systems Security Engineer](https://www.roberthalf.com/us/en/job/west-valley-city-ut/systems-security-engineer/04820-0013517448-usen) | Robert Half | West Valley City, 04820 | 2026-10-15 |
+| [Back End Engineer](https://www.roberthalf.com/us/en/job/bryan-tx/back-end-engineer/04340-0013516407-usen) | Robert Half | Bryan, 04340 | 2026-10-15 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/westerville-oh/data-analyst/03410-0013516816-usen) | Robert Half | Westerville, 03410 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/04130-0013508488-usen) | Robert Half | Cincinnati, 04130 | 2026-10-15 |
+| [Senior Data Analyst](https://www.talentgroups.com/job-details/senior-data-analyst-in-data-science-and-analytics-jobs-1759534) | Talent Groups | Philadelphia, PA | 2026-10-15 |
+| [Redis Engineer with AI and LLM](https://motionrecruitment.com/tech-jobs/chandler/contract/redis-engineer-with-ai-and-llm/892447) | Motion Recruitment | Chandler, Arizona | 2026-10-15 |
+| [Software Engineer - AppDynamics](https://motionrecruitment.com/tech-jobs/irving/contract/software-engineer-appdynamics/887787) | Motion Recruitment | IRVING, TX | 2026-10-15 |
+| [Full Stack Java Developer](https://motionrecruitment.com/tech-jobs/rutherford/contract/full-stack-java-developer/891871) | Motion Recruitment | Rutherford, New Jersey | 2026-10-15 |
+| [UI React Developer](https://motionrecruitment.com/tech-jobs/rutherford/contract/ui-react-developer/891870) | Motion Recruitment | Rutherford, New Jersey | 2026-10-15 |
+| [Embedded Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33251485#/jobs/33251485) | Artech | Cary, NC | 2026-10-15 |
+| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33249511#/jobs/33249511) | Artech | Irving, TX | 2026-10-15 |
+| [AWS PySpark Databricks Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33249512#/jobs/33249512) | Artech | Remote | 2026-10-15 |
+| [IBM DataPower Integration / API Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248617#/jobs/33248617) | Artech | Erie, PA | 2026-10-15 |
+| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29461971#/jobs/29461971) | Mindlance | Remote, CA | 2026-10-15 |
+| [Senior Software Engineer - Resource Adequacy](https://agilityconnect.io/jobs/8537) | Agility Connect | Carmel, IN | 2026-10-15 |
+| [AI Data Engineer 3](https://agilityconnect.io/jobs/8535) | Agility Connect | Redmond, WA | 2026-10-15 |
+| [Senior Data Engineer](https://www.careers.kellymitchell.com/jobs/143420) | KellyMitchell | Orlando, Florida, 32830 | 2026-10-15 |
+| [Elevate – Data Analysts (3)](https://jobs.brooksource.com/jobs/job/a1wcv0000017lvnea2-elevate-data-analysts-3-jacksonville-florida/) | Brooksource | Jacksonville, Florida | 2026-10-15 |
+| [AI Engineer](https://bhsg.com/jobs/job/1478108-jav_1792077605-ai-engineer-indianapolis-indiana/) | Beacon Hill | — | 2026-10-15 |
+| [Junior .NET Developer – SharePoint Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1077&BRID=1317636&lang=1) | Njoyn (CGI) | Any - Latvia, Latvia | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
