@@ -27,42 +27,22 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 22 new roles this update · 9405 tracked total · updated `2026-10-15T04:00:58+00:00`
+### 🆕 5 new roles this update · 9410 tracked total · updated `2026-10-15T11:13:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 9 |
-| Compunnel | 5 |
-| Russell Tobin | 2 |
-| Motion Recruitment | 2 |
-| Harnham | 2 |
-| Robert Half | 1 |
-| Njoyn (CGI) | 1 |
+| Robert Half | 2 |
+| TEKsystems | 1 |
+| Harnham | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/west-valley-city-ut/software-engineering-manager/04820-0013507023-usen) | Robert Half | West Valley City, 04820 | 2026-10-15 |
-| [Sr. Security Engineer, Insider Threat Detection & Response](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29466189#/jobs/29466189) | Russell Tobin | San Francisco, CA | 2026-10-15 |
-| [Sr. Security Engineer, Threat Detection and Response](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29467805#/jobs/29467805) | Russell Tobin | San Francisco, CA | 2026-10-15 |
-| [Senior Java Engineer / AI / Insurance](https://motionrecruitment.com/tech-jobs/bedford-park/direct-hire/senior-java-engineer-ai-insurance/892534) | Motion Recruitment | Bedford Park, Illinois | 2026-10-15 |
-| [Senior Devops Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-engineer/892530) | Motion Recruitment | Chicago, Illinois | 2026-10-15 |
-| [.NET Application Developer – Microservices & AWS Modernization](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248536#/jobs/33248536) | Artech | ERIE, PA, PA | 2026-10-15 |
-| [AI Solution Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248485#/jobs/33248485) | Artech | Erie, PA | 2026-10-15 |
-| [Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248535#/jobs/33248535) | Artech | Plano, TX | 2026-10-15 |
-| [Cloud Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248327#/jobs/33248327) | Artech | ERIE, PA, PA | 2026-10-15 |
-| [Cloud Application Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248397#/jobs/33248397) | Artech | ERIE, PA | 2026-10-15 |
-| [Senior AWS Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248103#/jobs/33248103) | Artech | McLean, VA | 2026-10-15 |
-| [Site Reliability Engineer I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33247535#/jobs/33247535) | Artech | Chandler, AZ | 2026-10-15 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33245477#/jobs/33245477) | Artech | Charlotte, NC | 2026-10-15 |
-| [Boomi Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33248104#/jobs/33248104) | Artech | Draper, UT | 2026-10-15 |
-| [Lead Software Engineer](https://jobs.compunnel.com/jobs/5957344) | Compunnel | Mooresville, North Carolina, United States | 2026-10-15 |
-| [Terraform Infrastructure Engineer](https://jobs.compunnel.com/jobs/5957715) | Compunnel | Spring, Texas, United States | 2026-10-15 |
-| [Agentic AI Developer/ Architect](https://jobs.compunnel.com/jobs/5957990) | Compunnel | Austin, Texas, United States | 2026-10-15 |
-| [Data Scientist](https://jobs.compunnel.com/jobs/5957991) | Compunnel | Raleigh, North Carolina, United States | 2026-10-15 |
-| [API Engineer](https://jobs.compunnel.com/jobs/5962442) | Compunnel | Minneapolis, Minnesota, United States | 2026-10-15 |
-| [SENIOR DATA ARCHITECT](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-architect-los-angeles-california/) | Harnham | Los Angeles, California | 2026-10-15 |
-| [ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-analytics-engineer-nashville-tennessee-3/) | Harnham | Nashville, Tennessee | 2026-10-15 |
-| [Senior Software Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-2704&BRID=1307288&lang=1) | Njoyn (CGI) | Lafayette, Knoxville, United States | 2026-10-15 |
+| [AWS Software Engineer (Remote Position)](https://careers.teksystems.com/us/en/job/JP-006351560/AWS-Software-Engineer-Remote-Position) | TEKsystems | Dallas, Texas | 2026-10-15 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/farmers-branch-tx/data-scientist/04010-0013459651-usen) | Robert Half | Farmers Branch, 04010 | 2026-10-15 |
+| [Lead Software Engineer Wms](https://www.roberthalf.com/us/en/job/camden-nj/lead-software-engineer-wms/02720-0013442836-usen) | Robert Half | Camden, 02720 | 2026-10-15 |
+| [SENIOR AWS CLOUD ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-aws-cloud-engineer-oxford-oxfordshire/) | Harnham | Oxford, Oxfordshire | 2026-10-15 |
+| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000017hljea2-data-analyst-morris-plains-new-jersey/) | Brooksource | Morris Plains, New Jersey | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
