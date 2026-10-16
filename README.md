@@ -27,46 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 22 new roles this update · 9470 tracked total · updated `2026-10-16T04:00:22+00:00`
+### 🆕 3 new roles this update · 9469 tracked total · updated `2026-10-16T11:12:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 9 |
-| Artech | 3 |
-| Vaco | 2 |
-| Kforce | 1 |
+| Robert Half | 2 |
 | Apex Systems | 1 |
-| Talent Groups | 1 |
-| Russell Tobin | 1 |
-| Goodwin Recruiting | 1 |
-| Brooksource | 1 |
-| Beacon Hill | 1 |
-| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ETL Developer and Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2191268T1~99/) | Kforce | Coppell, TX | 2026-10-16 |
-| [Technical Curriculum Developer](https://www.apexsystems.com/job/3056121_usa/technical-curriculum-developer) | Apex Systems | San Francisco, CA | 2026-10-16 |
-| [Interim Contractsdeal Desk Admin](https://jobs.vaco.com/job/2489/interim_contractsdeal_desk_admin/en) | Vaco | San Francisco, California | 2026-10-16 |
-| [Netsuite Developer](https://jobs.vaco.com/job/2496/netsuite_developer/en) | Vaco | Twin Falls, Idaho | 2026-10-16 |
-| [Senior Data Analyst - Revenue Cycle](https://www.talentgroups.com/job-details/senior-data-analyst-revenue-cycle-in-data-science-and-analytics-jobs-1759534) | Talent Groups | Philadelphia, PA | 2026-10-16 |
-| [Java developer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29466543#/jobs/29466543) | Russell Tobin | New York, NY | 2026-10-16 |
-| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33253928#/jobs/33253928) | Artech | Chicago, IL | 2026-10-16 |
-| [Devops Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33251961#/jobs/33251961) | Artech | Charlotte, NC | 2026-10-16 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33252904#/jobs/33252904) | Artech | Addison, TX | 2026-10-16 |
-| [Lead .Net Developer with ReactJS/React Native](https://jobs.compunnel.com/jobs/5960062) | Compunnel | Fort Lauderdale, Florida, United States | 2026-10-16 |
-| [GCP Platform Engineer](https://jobs.compunnel.com/jobs/5960152) | Compunnel | Parsippany, New Jersey, United States | 2026-10-16 |
-| [Node.js Developer](https://jobs.compunnel.com/jobs/5960234) | Compunnel | Florham Park, New Jersey, United States | 2026-10-16 |
-| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5960189) | Compunnel | Durham, North Carolina, United States | 2026-10-16 |
-| [Cloud Solutions Architect IV](https://jobs.compunnel.com/jobs/5960220) | Compunnel | Atlanta, Georgia, United States | 2026-10-16 |
-| [Senior Rust Developer](https://jobs.compunnel.com/jobs/5960392) | Compunnel | Minneapolis, Minnesota, United States | 2026-10-16 |
-| [Full Stack Developer with lead material](https://jobs.compunnel.com/jobs/5960516) | Compunnel | Whippany, New Jersey, United States | 2026-10-16 |
-| [AI / Agentic Engineer](https://jobs.compunnel.com/jobs/5960847) | Compunnel | Alpharetta, Georgia, United States | 2026-10-16 |
-| [Lead DevOps Engineer](https://jobs.compunnel.com/jobs/5984720) | Compunnel | Aliso Viejo, California, United States | 2026-10-16 |
-| [Software Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003fimzmac-software-engineer-princeton-new-jersey) | Goodwin Recruiting | — | 2026-10-16 |
-| [Analytics Engineer (Redshift, Data Warehousing, SQL Server)](https://jobs.brooksource.com/jobs/job/a1wcv0000017lbkeay-analytics-engineer-redshift-data-warehousing-sql-server-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-10-16 |
-| [Data Analyst](https://bhsg.com/jobs/job/252555_1792101809-data-analyst-beverly-hills-california/) | Beacon Hill | — | 2026-10-16 |
-| [Sr Full Stack/Angular Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1502&BRID=1341436&lang=1) | Njoyn (CGI) | Fairfax, United States | 2026-10-16 |
+| [Network/Firewall Security Engineer](https://www.apexsystems.com/job/3055233_usa/networkfirewall-security-engineer) | Apex Systems | Austin, TX | 2026-10-16 |
+| [Artificial Intelligence Ai Solutions Engineer Developer](https://www.roberthalf.com/us/en/job/phoenix-az/artificial-intelligence-ai-solutions-engineer-developer/00210-0013513600-usen) | Robert Half | Phoenix, 00210 | 2026-10-16 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/middletown-de/data-analyst/03720-0013483338-usen) | Robert Half | Middletown, 03720 | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
