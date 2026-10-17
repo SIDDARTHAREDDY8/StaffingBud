@@ -27,18 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 9065 tracked total · updated `2026-10-17T03:47:27+00:00`
+### 🟢 No new roles this update · **9065** roles open total · updated `2026-10-17T10:30:08+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Brooksource | 2 |
-| Robert Half | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Cloud Infrastructure Engineer](https://www.roberthalf.com/us/en/job/phoenix-az/cloud-infrastructure-engineer/00210-9504413476-usen) | Robert Half | Phoenix, 00210 | 2026-10-17 |
-| [Software Developer III](https://jobs.brooksource.com/jobs/job/a1wcv0000017zzfeay-software-developer-iii-englewood-colorado/) | Brooksource | Englewood, Colorado | 2026-10-17 |
-| [Sr. DevOps Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000017zvpeaa-sr-devops-engineer-greenwood-village-colorado/) | Brooksource | Greenwood Village, Colorado | 2026-10-17 |
+Nothing new since the last run — [browse all 9065 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
