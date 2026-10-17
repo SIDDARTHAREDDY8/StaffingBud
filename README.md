@@ -27,9 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **9065** roles open total · updated `2026-10-17T10:30:08+00:00`
+### 🆕 4 new roles this update · 9069 tracked total · updated `2026-10-17T15:24:54+00:00`
 
-Nothing new since the last run — [browse all 9065 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Agility Connect | 3 |
+| Artech | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Database Engineer Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33260579#/jobs/33260579) | Artech | New York, NY | 2026-10-17 |
+| [Data Analyst](https://agilityconnect.io/jobs/8551) | Agility Connect | Charlotte, NC | 2026-10-17 |
+| [Forward Deployed Engineer](https://agilityconnect.io/jobs/8545) | Agility Connect | — | 2026-10-17 |
+| [Principal Software Engineer - Resource Adequacy](https://agilityconnect.io/jobs/8543) | Agility Connect | Carmel, IN | 2026-10-17 |
 <!-- JOBS:END -->
 
 ## How it works
