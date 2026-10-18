@@ -27,15 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 8459 tracked total · updated `2026-10-18T15:45:17+00:00`
+### 🆕 1 new roles this update · 8460 tracked total · updated `2026-10-18T20:32:06+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 1 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://agilityconnect.io/jobs/8552) | Agility Connect | Charlotte, NC | 2026-10-18 |
+| [Lead Front-End Developer](https://careers.teksystems.com/us/en/job/JP-006359683/Lead-Front-End-Developer) | TEKsystems | Chicago, Illinois | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
