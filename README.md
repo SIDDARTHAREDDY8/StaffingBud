@@ -27,7 +27,7 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 8460 tracked total · updated `2026-10-18T20:32:06+00:00`
+### 🆕 1 new roles this update · 8461 tracked total · updated `2026-10-18T23:00:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
@@ -35,7 +35,7 @@ direct apply link, so you only ever see what's new since you last looked.
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lead Front-End Developer](https://careers.teksystems.com/us/en/job/JP-006359683/Lead-Front-End-Developer) | TEKsystems | Chicago, Illinois | 2026-10-18 |
+| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006357987/Product-Data-Scientist) | TEKsystems | New York City, New York | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
