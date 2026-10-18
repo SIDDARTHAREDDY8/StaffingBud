@@ -27,9 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **8458** roles open total · updated `2026-10-18T10:49:40+00:00`
+### 🆕 1 new roles this update · 8459 tracked total · updated `2026-10-18T15:45:17+00:00`
 
-Nothing new since the last run — [browse all 8458 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Agility Connect | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Data Engineer](https://agilityconnect.io/jobs/8552) | Agility Connect | Charlotte, NC | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
