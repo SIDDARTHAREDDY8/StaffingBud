@@ -27,9 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **9069** roles open total · updated `2026-10-17T23:04:05+00:00`
+### 🆕 3 new roles this update · 8458 tracked total · updated `2026-10-18T03:58:56+00:00`
 
-Nothing new since the last run — [browse all 9069 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 3 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Lead Front-End Developer](https://careers.teksystems.com/us/en/job/JP-006359467/Lead-Front-End-Developer) | TEKsystems | Chicago, Illinois | 2026-10-18 |
+| [HTML/Platform Full Stack Developer](https://careers.teksystems.com/us/en/job/JP-006355208/HTML-Platform-Full-Stack-Developer) | TEKsystems | Beavercreek, Ohio | 2026-10-18 |
+| [Atlassian Developer/Administrator](https://careers.teksystems.com/us/en/job/JP-006355292/Atlassian-Developer-Administrator) | TEKsystems | Beavercreek, Ohio | 2026-10-18 |
 <!-- JOBS:END -->
 
 ## How it works
