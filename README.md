@@ -27,15 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 8461 tracked total · updated `2026-10-18T23:00:11+00:00`
+### 🆕 4 new roles this update · 8146 tracked total · updated `2026-10-19T04:04:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 1 |
+| Compunnel | 4 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006357987/Product-Data-Scientist) | TEKsystems | New York City, New York | 2026-10-18 |
+| [Programmer/ .Net Developer](https://jobs.compunnel.com/jobs/5962265) | Compunnel | Columbus, Ohio, United States | 2026-10-19 |
+| [DevOps Engineer](https://jobs.compunnel.com/jobs/5962586) | Compunnel | Miami, Florida, United States | 2026-10-19 |
+| [Full Stack .NET Developer - Azure Integration](https://jobs.compunnel.com/jobs/5962518) | Compunnel | Irving, Texas, United States | 2026-10-19 |
+| [Cybersecurity GRC AI & Process Automation Engineer](https://jobs.compunnel.com/jobs/5960359) | Compunnel | Quincy, Massachusetts, United States | 2026-10-19 |
 <!-- JOBS:END -->
 
 ## How it works
