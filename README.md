@@ -27,18 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 8146 tracked total · updated `2026-10-19T04:04:29+00:00`
+### 🆕 2 new roles this update · 8148 tracked total · updated `2026-10-19T12:45:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 4 |
+| Compunnel | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Programmer/ .Net Developer](https://jobs.compunnel.com/jobs/5962265) | Compunnel | Columbus, Ohio, United States | 2026-10-19 |
-| [DevOps Engineer](https://jobs.compunnel.com/jobs/5962586) | Compunnel | Miami, Florida, United States | 2026-10-19 |
-| [Full Stack .NET Developer - Azure Integration](https://jobs.compunnel.com/jobs/5962518) | Compunnel | Irving, Texas, United States | 2026-10-19 |
-| [Cybersecurity GRC AI & Process Automation Engineer](https://jobs.compunnel.com/jobs/5960359) | Compunnel | Quincy, Massachusetts, United States | 2026-10-19 |
+| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5928416) | Compunnel | Chicago, Illinois, United States | 2026-10-19 |
+| [Snowflake Data Engineer/Architect](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1043&BRID=1326585&lang=1) | Njoyn (CGI) | Helsinki, Finland | 2026-10-19 |
 <!-- JOBS:END -->
 
 ## How it works
