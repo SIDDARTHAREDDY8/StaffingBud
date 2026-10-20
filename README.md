@@ -27,42 +27,27 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 7628 tracked total · updated `2026-10-20T00:14:14+00:00`
+### 🆕 10 new roles this update · 7638 tracked total · updated `2026-10-20T08:25:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 11 |
-| Artech | 5 |
-| TEKsystems | 4 |
-| Mindlance | 3 |
-| Njoyn (CGI) | 1 |
+| Next Step Systems | 3 |
+| Beacon Hill | 3 |
+| Robert Half | 2 |
+| Harnham | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Robotics AI Strategy Program Lead](https://careers.teksystems.com/us/en/job/JP-006361493/Robotics-AI-Strategy-Program-Lead) | TEKsystems | Mountain View, California | 2026-10-20 |
-| [Database Engineer](https://careers.teksystems.com/us/en/job/JP-006362938/Database-Engineer) | TEKsystems | Foster City, California | 2026-10-20 |
-| [Ai Engineer](https://careers.teksystems.com/us/en/job/JP-006362762/Ai-Engineer) | TEKsystems | San Francisco, California | 2026-10-20 |
-| [Senior Mainframe Developer](https://careers.teksystems.com/us/en/job/JP-006361335/Senior-Mainframe-Developer) | TEKsystems | Round Rock, Texas | 2026-10-20 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33267054#/jobs/33267054) | Artech | Addison, TX | 2026-10-20 |
-| [Data Engineer with MS Fabric](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33268933#/jobs/33268933) | Artech | Tampa FL, FL | 2026-10-20 |
-| [Data Analyst - Sr](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33269330#/jobs/33269330) | Artech | McLean, VA | 2026-10-20 |
-| [Payer Healthcare Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33269069#/jobs/33269069) | Artech | Tampa, FL | 2026-10-20 |
-| [Full Stack Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33268996#/jobs/33268996) | Artech | Tampa, FL | 2026-10-20 |
-| [Senior C# .Net Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29491487#/jobs/29491487) | Mindlance | Union, NJ | 2026-10-20 |
-| [Senior Full Stack Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29491450#/jobs/29491450) | Mindlance | Waltham, MA | 2026-10-20 |
-| [Data Analytics Consultant - Financial Crimes/AML (AC4)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29491179#/jobs/29491179) | Mindlance | CHARLOTTE, NC | 2026-10-20 |
-| [Lead Fullstack Software Engineer](https://jobs.compunnel.com/jobs/5964341) | Compunnel | Irving, Texas, United States | 2026-10-20 |
-| [Full Stack Developer - Angular + Node.js](https://jobs.compunnel.com/jobs/5964232) | Compunnel | Dallas, Texas, United States | 2026-10-20 |
-| [Data Engineer, Energization Timelines & Regulatory Reporting](https://jobs.compunnel.com/jobs/5964474) | Compunnel | Charlotte, North Carolina, United States | 2026-10-20 |
-| [Analytics Engineer, Permitting Data](https://jobs.compunnel.com/jobs/5964475) | Compunnel | Charlotte, North Carolina, United States | 2026-10-20 |
-| [Analytics Engineer, Costing & Commodity Tracking](https://jobs.compunnel.com/jobs/5964479) | Compunnel | Charlotte, North Carolina, United States | 2026-10-20 |
-| [GIS Developer/Analyst](https://jobs.compunnel.com/jobs/5965554) | Compunnel | Atlanta, Georgia, United States | 2026-10-20 |
-| [Power Platform Developer](https://jobs.compunnel.com/jobs/5965536) | Compunnel | Richmond, Virginia, United States | 2026-10-20 |
-| [Dynamics Developer](https://jobs.compunnel.com/jobs/5965535) | Compunnel | Richmond, Virginia, United States | 2026-10-20 |
-| [Principal Platform Engineer](https://jobs.compunnel.com/jobs/5966329) | Compunnel | New York City, New York, United States | 2026-10-20 |
-| [Data Scientist](https://jobs.compunnel.com/jobs/5966577) | Compunnel | St. Louis, Missouri, United States | 2026-10-20 |
-| [Staff Platform Engineer](https://jobs.compunnel.com/jobs/5966532) | Compunnel | New York City, New York, United States | 2026-10-20 |
-| [Senior Full Stack Developer (AWS Python) *](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1684&BRID=1342034&lang=1) | Njoyn (CGI) | Various, United States | 2026-10-20 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/enola-pa/software-engineering-manager/03720-0013515369-usen) | Robert Half | Enola, 03720 | 2026-10-20 |
+| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/ankeny-ia/full-stack-net-developer/01500-0013520076-usen) | Robert Half | Ankeny, 01500 | 2026-10-20 |
+| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
+| [SENIOR/STAFF ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-staff-analytics-engineer-costa-mesa-california/) | Harnham | Costa Mesa, California | 2026-10-20 |
+| [AI RESEARCHER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-researcher-san-francisco-california/) | Harnham | San Francisco, California | 2026-10-20 |
+| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460497-ux-ui-engineer-frontend-development-new-york-new-york/) | Beacon Hill | — | 2026-10-20 |
+| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460233-ux-ui-engineer-frontend-development-los-angeles-california/) | Beacon Hill | — | 2026-10-20 |
+| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460032-ux-ui-engineer-frontend-development-orlando-florida/) | Beacon Hill | — | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
