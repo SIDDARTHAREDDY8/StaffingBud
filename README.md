@@ -27,27 +27,32 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 7638 tracked total · updated `2026-10-20T08:25:17+00:00`
+### 🆕 12 new roles this update · 7650 tracked total · updated `2026-10-20T14:16:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Next Step Systems | 3 |
-| Beacon Hill | 3 |
-| Robert Half | 2 |
+| Net2Source | 3 |
+| Agility Connect | 3 |
 | Harnham | 2 |
+| TEKsystems | 1 |
+| Mindlance | 1 |
+| Compunnel | 1 |
+| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/enola-pa/software-engineering-manager/03720-0013515369-usen) | Robert Half | Enola, 03720 | 2026-10-20 |
-| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/ankeny-ia/full-stack-net-developer/01500-0013520076-usen) | Robert Half | Ankeny, 01500 | 2026-10-20 |
-| [AI Backend Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/ai-backend-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
-| [Android Software Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/android-software-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
-| [Applied AI Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-ai-engineer-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-20 |
-| [SENIOR/STAFF ANALYTICS ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-staff-analytics-engineer-costa-mesa-california/) | Harnham | Costa Mesa, California | 2026-10-20 |
-| [AI RESEARCHER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-researcher-san-francisco-california/) | Harnham | San Francisco, California | 2026-10-20 |
-| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460497-ux-ui-engineer-frontend-development-new-york-new-york/) | Beacon Hill | — | 2026-10-20 |
-| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460233-ux-ui-engineer-frontend-development-los-angeles-california/) | Beacon Hill | — | 2026-10-20 |
-| [UX/UI Engineer – (Frontend Development)](https://bhsg.com/jobs/job/ns-uiuxd-ns_1792460032-ux-ui-engineer-frontend-development-orlando-florida/) | Beacon Hill | — | 2026-10-20 |
+| [Sr. Data Scientist](https://careers.teksystems.com/us/en/job/JP-006363037/Sr-Data-Scientist) | TEKsystems | Fort Collins, Colorado | 2026-10-20 |
+| [Application Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29479888#/jobs/29479888) | Mindlance | Portland, OR | 2026-10-20 |
+| [Java Fullstack developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29493047#/jobs/29493047) | Net2Source | New York City, NY | 2026-10-20 |
+| [Python Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29493045#/jobs/29493045) | Net2Source | Charlotte, NC | 2026-10-20 |
+| [GCP Cloud Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29491537#/jobs/29491537) | Net2Source | New York City, NY | 2026-10-20 |
+| [Senior Front End Developer](https://jobs.compunnel.com/jobs/6007876) | Compunnel | Bentonville, Arkansas, United States | 2026-10-20 |
+| [AI Engineer](https://agilityconnect.io/jobs/8558) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Back End Engineer](https://agilityconnect.io/jobs/8557) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [Data Engineer](https://agilityconnect.io/jobs/8554) | Agility Connect | Columbus, OH | 2026-10-20 |
+| [DIRECTOR OF ANALYTICS & AI](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-director-of-analytics-ai-new-jersey/) | Harnham | New Jersey | 2026-10-20 |
+| [AI ASSOCIATE](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-associate-chicago-illinois/) | Harnham | Chicago, Illinois | 2026-10-20 |
+| [Research Scientist](https://bhsg.com/jobs/job/p1468340jbbos_1792500970-research-scientist-cambridge-massachusetts/) | Beacon Hill | — | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
