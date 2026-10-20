@@ -27,32 +27,42 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 7650 tracked total · updated `2026-10-20T14:16:37+00:00`
+### 🆕 20 new roles this update · 7669 tracked total · updated `2026-10-20T19:10:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Net2Source | 3 |
-| Agility Connect | 3 |
+| Artech | 5 |
+| Mindlance | 3 |
+| Kforce | 2 |
+| TEKsystems | 2 |
+| Robert Half | 2 |
 | Harnham | 2 |
-| TEKsystems | 1 |
-| Mindlance | 1 |
-| Compunnel | 1 |
-| Beacon Hill | 1 |
+| Beacon Hill | 2 |
+| Apex Systems | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Data Scientist](https://careers.teksystems.com/us/en/job/JP-006363037/Sr-Data-Scientist) | TEKsystems | Fort Collins, Colorado | 2026-10-20 |
-| [Application Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29479888#/jobs/29479888) | Mindlance | Portland, OR | 2026-10-20 |
-| [Java Fullstack developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29493047#/jobs/29493047) | Net2Source | New York City, NY | 2026-10-20 |
-| [Python Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29493045#/jobs/29493045) | Net2Source | Charlotte, NC | 2026-10-20 |
-| [GCP Cloud Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29491537#/jobs/29491537) | Net2Source | New York City, NY | 2026-10-20 |
-| [Senior Front End Developer](https://jobs.compunnel.com/jobs/6007876) | Compunnel | Bentonville, Arkansas, United States | 2026-10-20 |
-| [AI Engineer](https://agilityconnect.io/jobs/8558) | Agility Connect | Columbus, OH | 2026-10-20 |
-| [Back End Engineer](https://agilityconnect.io/jobs/8557) | Agility Connect | Columbus, OH | 2026-10-20 |
-| [Data Engineer](https://agilityconnect.io/jobs/8554) | Agility Connect | Columbus, OH | 2026-10-20 |
-| [DIRECTOR OF ANALYTICS & AI](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-director-of-analytics-ai-new-jersey/) | Harnham | New Jersey | 2026-10-20 |
-| [AI ASSOCIATE](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-associate-chicago-illinois/) | Harnham | Chicago, Illinois | 2026-10-20 |
-| [Research Scientist](https://bhsg.com/jobs/job/p1468340jbbos_1792500970-research-scientist-cambridge-massachusetts/) | Beacon Hill | — | 2026-10-20 |
+| [Senior Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2191840T1~99/) | Kforce | Juno Beach, FL | 2026-10-20 |
+| [Senior Data Engineer - Platforms & Operations](http://www.kforce.com/Jobs/1696~EQG~2191837T1~99/) | Kforce | Juno Beach, FL | 2026-10-20 |
+| [Senior Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006363626/Senior-Solutions-Architect) | TEKsystems | North Chicago, Illinois | 2026-10-20 |
+| [Sr. Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006363862/Sr-Infrastructure-Engineer) | TEKsystems | Menomonee Falls, Wisconsin | 2026-10-20 |
+| [Software Developer III](https://www.apexsystems.com/job/3056122_usa/software-developer-iii) | Apex Systems | Works From Home, OK | 2026-10-20 |
+| [Provider Enrollment Credentialing Contract](https://www.roberthalf.com/us/en/job/davie-fl/provider-enrollment-credentialing-contract/01000-0013518482-usen) | Robert Half | Davie, 01000 | 2026-10-20 |
+| [Netsql Healthcare Data Analyst](https://www.roberthalf.com/us/en/job/sarasota-fl/netsql-healthcare-data-analyst/01070-0013412808-usen) | Robert Half | Sarasota, 01070 | 2026-10-20 |
+| [Agentic AI Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273403#/jobs/33273403) | Artech | Menlo Park, CA | 2026-10-20 |
+| [Full Stack Java developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273231#/jobs/33273231) | Artech | Plano, TX | 2026-10-20 |
+| [Network/Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273025#/jobs/33273025) | Artech | Atlanta, GA | 2026-10-20 |
+| [GIS - Data Analyst / Tooling Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33265206#/jobs/33265206) | Artech | Austin, TX | 2026-10-20 |
+| [Application Architect II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33268075#/jobs/33268075) | Artech | Charlotte, NC | 2026-10-20 |
+| [Senior Full Stack Developer – React / Data Applications](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29495414#/jobs/29495414) | Mindlance | Waltham, MA | 2026-10-20 |
+| [Senior Business Data Analysts](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29493608#/jobs/29493608) | Mindlance | Louisville, KY | 2026-10-20 |
+| [Technology Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29492900#/jobs/29492900) | Mindlance | Southlake, TX | 2026-10-20 |
+| [DATA PLATFORM ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-platform-engineer-newcastle-upon-tyne-tyne-and-wear-5/) | Harnham | Newcastle upon Tyne, Tyne and Wear | 2026-10-20 |
+| [SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-software-engineer-dallas-texas-2/) | Harnham | Dallas, Texas | 2026-10-20 |
+| [Principal Software Engineer](https://bhsg.com/jobs/job/tftl-1478166zm_1792521042-principal-software-engineer-miami-florida/) | Beacon Hill | — | 2026-10-20 |
+| [Order Fulfillment & Customer Support Specialist](https://bhsg.com/jobs/job/ftne1478061cf_1792509300-order-fulfillment-customer-support-specialist-woburn-massachusetts/) | Beacon Hill | — | 2026-10-20 |
+| [IOS Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1886&BRID=1342352&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
