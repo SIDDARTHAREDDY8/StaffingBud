@@ -27,30 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 7435 tracked total · updated `2026-10-21T04:05:00+00:00`
+### 🆕 2 new roles this update · 7434 tracked total · updated `2026-10-21T11:31:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 10 |
-| Apex Systems | 1 |
-| Compunnel | 1 |
-| Goodwin Recruiting | 1 |
+| Robert Half | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ORSA / Data Scientist](https://careers.teksystems.com/us/en/job/JP-006363558/ORSA-Data-Scientist) | TEKsystems | Fort Meade, Maryland | 2026-10-21 |
-| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006362887/Mid-Senior-ServiceNow-Developer) | TEKsystems | Fort Meade, Maryland | 2026-10-21 |
-| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006360176/Solutions-Architect) | TEKsystems | Hanover, Maryland | 2026-10-21 |
-| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006364516/Senior-Software-Engineer) | TEKsystems | Baltimore, Maryland | 2026-10-21 |
-| [Full Stack Engineer](https://careers.teksystems.com/us/en/job/JP-006360529/Full-Stack-Engineer) | TEKsystems | Mount Arlington, New Jersey | 2026-10-21 |
-| [Full Stack Engineer (Hiring ASAP)](https://careers.teksystems.com/us/en/job/JP-006360502/Full-Stack-Engineer-Hiring-ASAP) | TEKsystems | Mount Arlington, New Jersey | 2026-10-21 |
-| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006362670/Product-Data-Scientist) | TEKsystems | New York, New York | 2026-10-21 |
-| [Senior Data Engineer - AWS](https://careers.teksystems.com/us/en/job/JP-006363879/Senior-Data-Engineer-AWS) | TEKsystems | New York, New York | 2026-10-21 |
-| [Mainframe Systems Programmer](https://careers.teksystems.com/us/en/job/JP-006363827/Mainframe-Systems-Programmer) | TEKsystems | Raleigh, North Carolina | 2026-10-21 |
-| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006360219/Data-Architect) | TEKsystems | Charlotte, North Carolina | 2026-10-21 |
-| [(MS) Sr. Technical Data Analyst](https://www.apexsystems.com/job/3052151_usa/ms-sr-technical-data-analyst) | Apex Systems | Tampa, FL | 2026-10-21 |
-| [Senior Software Engineer Search, Matching & Distributed Systems](https://jobs.compunnel.com/jobs/5978260) | Compunnel | Irving, Texas, United States | 2026-10-21 |
-| [CMM Programmer](https://www.goodwinrecruiting.com/job/a0wr7000003gfxdmao-cmm-programmer-phoenix-arizona) | Goodwin Recruiting | — | 2026-10-21 |
+| [Symitar Developer](https://www.roberthalf.com/us/en/job/austin-tx/symitar-developer/04160-0013509962-usen) | Robert Half | Austin, 04160 | 2026-10-21 |
+| [Stage PFE : Consultants ( Cloud, Databricks, Talend, DevOps,BI... ) (F/H)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1934&BRID=1342545&lang=1) | Njoyn (CGI) | Rabat, Morocco | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
