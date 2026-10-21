@@ -27,17 +27,42 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 7434 tracked total · updated `2026-10-21T11:31:36+00:00`
+### 🆕 22 new roles this update · 7452 tracked total · updated `2026-10-21T16:58:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
+| Robert Half | 6 |
+| Mindlance | 5 |
+| Artech | 4 |
+| Beacon Hill | 3 |
+| Apex Systems | 2 |
+| Net2Source | 1 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Symitar Developer](https://www.roberthalf.com/us/en/job/austin-tx/symitar-developer/04160-0013509962-usen) | Robert Half | Austin, 04160 | 2026-10-21 |
-| [Stage PFE : Consultants ( Cloud, Databricks, Talend, DevOps,BI... ) (F/H)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1934&BRID=1342545&lang=1) | Njoyn (CGI) | Rabat, Morocco | 2026-10-21 |
+| [Software Engineer](https://www.apexsystems.com/job/3056574_usa/software-engineer) | Apex Systems | Los Angeles, CA | 2026-10-21 |
+| [Senior/Lead Java Developer](https://www.apexsystems.com/job/3056713_usa/seniorlead-java-developer) | Apex Systems | Richmond, VA | 2026-10-21 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/ai-engineer/04951-0013513230-usen) | Robert Half | Fort Washington, 04951 | 2026-10-21 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/mcallen-tx/cloud-engineer/04080-0013519202-usen) | Robert Half | Mcallen, 04080 | 2026-10-21 |
+| [Azure Cloud Engineer Ai Automation](https://www.roberthalf.com/us/en/job/malvern-pa/azure-cloud-engineer-ai-automation/03710-0013484214-usen) | Robert Half | Malvern, 03710 | 2026-10-21 |
+| [Database Engineer](https://www.roberthalf.com/us/en/job/westlake-oh/database-engineer/03340-0013407327-usen) | Robert Half | Westlake, 03340 | 2026-10-21 |
+| [Lead Developer Analyst](https://www.roberthalf.com/us/en/job/miami-fl/lead-developer-analyst/01020-0013497109-usen) | Robert Half | Miami, 01020 | 2026-10-21 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513224-usen) | Robert Half | Fort Washington, 04951 | 2026-10-21 |
+| [Quadient Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33277854#/jobs/33277854) | Artech | Merrill Lynch, NJ | 2026-10-21 |
+| [Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33277855#/jobs/33277855) | Artech | Newark, NJ | 2026-10-21 |
+| [Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33277166#/jobs/33277166) | Artech | White House Station, NJ | 2026-10-21 |
+| [Agentic AI Application Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33276998#/jobs/33276998) | Artech | Austin, TX | 2026-10-21 |
+| [Software Developer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29500952#/jobs/29500952) | Mindlance | Menands, NY | 2026-10-21 |
+| [Programmer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29500898#/jobs/29500898) | Mindlance | Albany, NY | 2026-10-21 |
+| [Data Engineer 1](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29500577#/jobs/29500577) | Mindlance | San Jose, CA | 2026-10-21 |
+| [Data Scientist Premium I](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29498825#/jobs/29498825) | Mindlance | Washington, DC | 2026-10-21 |
+| [Senior Business Intelligence (BI) Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29497651#/jobs/29497651) | Mindlance | Juno Beach, FL | 2026-10-21 |
+| [NodeJS Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29497662#/jobs/29497662) | Net2Source | Dallas, TX | 2026-10-21 |
+| [Drupal Front-End Developer](https://bhsg.com/jobs/job/1477109lmm_1792596211-drupal-front-end-developer-boston-massachusetts/) | Beacon Hill | — | 2026-10-21 |
+| [Software Engineer Fire Control Specialist](https://bhsg.com/jobs/job/det1476705_1792593793-software-engineer-fire-control-specialist-sterling-heights-michigan/) | Beacon Hill | — | 2026-10-21 |
+| [Angular Software Engineer](https://bhsg.com/jobs/job/1478803_1792589377-angular-software-engineer-charlotte-north-carolina/) | Beacon Hill | — | 2026-10-21 |
+| [Technology Director — AI Automation and Application Development](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1890&BRID=1342578&lang=1) | Njoyn (CGI) | Orange Park, United States | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
