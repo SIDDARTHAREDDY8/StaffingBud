@@ -27,45 +27,30 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 7692 tracked total · updated `2026-10-20T23:46:42+00:00`
+### 🆕 13 new roles this update · 7435 tracked total · updated `2026-10-21T04:05:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 8 |
-| Mindlance | 5 |
-| TEKsystems | 3 |
-| Njoyn (CGI) | 3 |
-| Kforce | 2 |
+| TEKsystems | 10 |
 | Apex Systems | 1 |
-| Robert Half | 1 |
-| Net2Source | 1 |
+| Compunnel | 1 |
+| Goodwin Recruiting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Data Analyst - Order-to-Cash & Master Data](http://www.kforce.com/Jobs/1696~NRC~2191916T1~99/) | Kforce | Clifton, VA | 2026-10-20 |
-| [Analyst / Developer](http://www.kforce.com/Jobs/1696~TVT~2191793T1~99/) | Kforce | Warren, MI | 2026-10-20 |
-| [Full Stack](https://careers.teksystems.com/us/en/job/JP-006365673/Full-Stack) | TEKsystems | Greenwood Village, Colorado | 2026-10-20 |
-| [Data Scientist](https://careers.teksystems.com/us/en/job/JP-006364247/Data-Scientist) | TEKsystems | Menlo Park, California | 2026-10-20 |
-| [Applications Developer](https://careers.teksystems.com/us/en/job/JP-006364421/Applications-Developer) | TEKsystems | Fort Collins, Colorado | 2026-10-20 |
-| [Remote Cloud Engineer](https://www.apexsystems.com/job/3056524_usa/remote-cloud-engineer) | Apex Systems | Columbus, IN | 2026-10-20 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/ai-engineer/04951-0013513230-usen) | Robert Half | Fort Washington, 04951 | 2026-10-20 |
-| [Python+Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33274667#/jobs/33274667) | Artech | New York, NY | 2026-10-20 |
-| [Senior Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33274762#/jobs/33274762) | Artech | Charlotte, NC | 2026-10-20 |
-| [Data Analyst - Sr](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33272132#/jobs/33272132) | Artech | McLean, VA | 2026-10-20 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33274103#/jobs/33274103) | Artech | Pennington, NJ | 2026-10-20 |
-| [Site Reliability Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273299#/jobs/33273299) | Artech | Jersey City, NJ | 2026-10-20 |
-| [Software Engineering - Software Engineer V](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273814#/jobs/33273814) | Artech | Burlingame, CA | 2026-10-20 |
-| [Software Engineer I](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33273835#/jobs/33273835) | Artech | Johnston, IA | 2026-10-20 |
-| [DevOps Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33272663#/jobs/33272663) | Artech | Charlotte, NC | 2026-10-20 |
-| [Cloud Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29497019#/jobs/29497019) | Mindlance | Boston, MA | 2026-10-20 |
-| [Data Analytics Analyst 2](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29496833#/jobs/29496833) | Mindlance | Birmingham, AL | 2026-10-20 |
-| [AI Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29496262#/jobs/29496262) | Mindlance | Washington, DC | 2026-10-20 |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29493334#/jobs/29493334) | Mindlance | Menlo Park, CA | 2026-10-20 |
-| [DevOps Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29495295#/jobs/29495295) | Mindlance | Minneapolis, MN | 2026-10-20 |
-| [Teamcenter PLM Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29484818#/jobs/29484818) | Net2Source | San Jose, CA | 2026-10-20 |
-| [Java Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1762&BRID=1342518&lang=1) | Njoyn (CGI) | Lafayette, United States | 2026-10-20 |
-| [Senior Java Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1764&BRID=1342516&lang=1) | Njoyn (CGI) | Lafayette, United States | 2026-10-20 |
-| [Java API Backend Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1861&BRID=1342486&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-20 |
+| [ORSA / Data Scientist](https://careers.teksystems.com/us/en/job/JP-006363558/ORSA-Data-Scientist) | TEKsystems | Fort Meade, Maryland | 2026-10-21 |
+| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006362887/Mid-Senior-ServiceNow-Developer) | TEKsystems | Fort Meade, Maryland | 2026-10-21 |
+| [Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006360176/Solutions-Architect) | TEKsystems | Hanover, Maryland | 2026-10-21 |
+| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006364516/Senior-Software-Engineer) | TEKsystems | Baltimore, Maryland | 2026-10-21 |
+| [Full Stack Engineer](https://careers.teksystems.com/us/en/job/JP-006360529/Full-Stack-Engineer) | TEKsystems | Mount Arlington, New Jersey | 2026-10-21 |
+| [Full Stack Engineer (Hiring ASAP)](https://careers.teksystems.com/us/en/job/JP-006360502/Full-Stack-Engineer-Hiring-ASAP) | TEKsystems | Mount Arlington, New Jersey | 2026-10-21 |
+| [Product Data Scientist](https://careers.teksystems.com/us/en/job/JP-006362670/Product-Data-Scientist) | TEKsystems | New York, New York | 2026-10-21 |
+| [Senior Data Engineer - AWS](https://careers.teksystems.com/us/en/job/JP-006363879/Senior-Data-Engineer-AWS) | TEKsystems | New York, New York | 2026-10-21 |
+| [Mainframe Systems Programmer](https://careers.teksystems.com/us/en/job/JP-006363827/Mainframe-Systems-Programmer) | TEKsystems | Raleigh, North Carolina | 2026-10-21 |
+| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006360219/Data-Architect) | TEKsystems | Charlotte, North Carolina | 2026-10-21 |
+| [(MS) Sr. Technical Data Analyst](https://www.apexsystems.com/job/3052151_usa/ms-sr-technical-data-analyst) | Apex Systems | Tampa, FL | 2026-10-21 |
+| [Senior Software Engineer Search, Matching & Distributed Systems](https://jobs.compunnel.com/jobs/5978260) | Compunnel | Irving, Texas, United States | 2026-10-21 |
+| [CMM Programmer](https://www.goodwinrecruiting.com/job/a0wr7000003gfxdmao-cmm-programmer-phoenix-arizona) | Goodwin Recruiting | — | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
