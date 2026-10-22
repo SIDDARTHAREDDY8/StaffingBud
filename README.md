@@ -27,39 +27,36 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 7469 tracked total · updated `2026-10-21T21:33:40+00:00`
+### 🆕 16 new roles this update · 7469 tracked total · updated `2026-10-22T04:06:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 7 |
-| Apex Systems | 2 |
-| Robert Half | 2 |
-| Kforce | 1 |
-| TEKsystems | 1 |
-| ASK Consulting | 1 |
-| Mindlance | 1 |
+| TEKsystems | 4 |
+| Artech | 3 |
+| Compunnel | 3 |
+| Harnham | 3 |
+| Robert Half | 1 |
+| Brooksource | 1 |
 | Beacon Hill | 1 |
-| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2187747T1~99/) | Kforce | Coppell, TX | 2026-10-21 |
-| [Data Analytics Manager](https://careers.teksystems.com/us/en/job/JP-006367844/Data-Analytics-Manager) | TEKsystems | Chicago, Illinois | 2026-10-21 |
-| [Software Developer III](https://www.apexsystems.com/job/3056748_usa/software-developer-iii) | Apex Systems | Works From Home, OK | 2026-10-21 |
-| [AI Data Engineer 1](https://www.apexsystems.com/job/3056755_usa/ai-data-engineer-1) | Apex Systems | Hillsboro, OR | 2026-10-21 |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/houston-tx/data-scientist/04130-0013511252-usen) | Robert Half | Houston, 04130 | 2026-10-21 |
-| [Sr Etl Developer W Databricks Lakehouse](https://www.roberthalf.com/us/en/job/brandon-fl/sr-etl-developer-w-databricks-lakehouse/01070-0013519670-usen) | Robert Half | Brandon, 01070 | 2026-10-21 |
-| [Data Analyst Sr.](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132612/Data Analyst Sr.) | ASK Consulting | Seattle, WA, 98101 | 2026-10-21 |
-| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33280225#/jobs/33280225) | Artech | McLean, VA | 2026-10-21 |
-| [Kafka Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33280116#/jobs/33280116) | Artech | Nashville, TN | 2026-10-21 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33278482#/jobs/33278482) | Artech | Charlotte, NC | 2026-10-21 |
-| [Mainframe DB2 Systems Programmer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33279945#/jobs/33279945) | Artech | Chandler, AZ | 2026-10-21 |
-| [Software Engineer - DevOps and Backend](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33278890#/jobs/33278890) | Artech | Belmont, CA | 2026-10-21 |
-| [AI Data Engineer 1](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33278821#/jobs/33278821) | Artech | Hillsboro, OR | 2026-10-21 |
-| [Python AI Dev](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33278746#/jobs/33278746) | Artech | Charlotte, NC | 2026-10-21 |
-| [Sr Software Development Engineer in Test](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29493778#/jobs/29493778) | Mindlance | Taylor, TX | 2026-10-21 |
-| [Utility GIS Solutions Architect](https://bhsg.com/jobs/job/146635_1792613728-utility-gis-solutions-architect-milwaukee-wisconsin/) | Beacon Hill | — | 2026-10-21 |
-| [.Net Software Engineering Lead*](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1761&BRID=1342639&lang=1) | Njoyn (CGI) | Pittsburgh, United States | 2026-10-21 |
+| [Atlassian Developer](https://careers.teksystems.com/us/en/job/JP-006368364/Atlassian-Developer) | TEKsystems | Colorado Springs, Colorado | 2026-10-22 |
+| [Full Stack .Net Developer](https://careers.teksystems.com/us/en/job/JP-006368738/Full-Stack-Net-Developer) | TEKsystems | Denver, Colorado | 2026-10-22 |
+| [Systems Software Analyst I](https://careers.teksystems.com/us/en/job/JP-006367280/Systems-Software-Analyst-I) | TEKsystems | Concord, California | 2026-10-22 |
+| [Senior Data Engineer-AWS](https://careers.teksystems.com/us/en/job/JP-006367616/Senior-Data-Engineer-AWS) | TEKsystems | Dallas, Texas | 2026-10-22 |
+| [Microsoft Fabric Data Analytics Program Lead](https://www.roberthalf.com/us/en/job/middletown-pa/microsoft-fabric-data-analytics-program-lead/03710-0013517309-usen) | Robert Half | Middletown, 03710 | 2026-10-22 |
+| [US_Software Engineer II_CO](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281010#/jobs/33281010) | Artech | South San Francisco, CA | 2026-10-22 |
+| [Oracle PL/SQL Developer - Kafka & Cloud Data Migration](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33280409#/jobs/33280409) | Artech | Nashville, TN | 2026-10-22 |
+| [Application Architect III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33280786#/jobs/33280786) | Artech | Plano, TX | 2026-10-22 |
+| [AI Developer](https://jobs.compunnel.com/jobs/5978908) | Compunnel | New York City, New York, United States | 2026-10-22 |
+| [Senior Data Engineer](https://jobs.compunnel.com/jobs/5978989) | Compunnel | Warren, Michigan, United States | 2026-10-22 |
+| [Java/Azure Developer](https://jobs.compunnel.com/jobs/5980414) | Compunnel | Richmond, Virginia, United States | 2026-10-22 |
+| [DATA SCIENTIS/DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientis-data-analyst-windsor-berkshire/) | Harnham | Windsor, Berkshire | 2026-10-22 |
+| [DATA ANALYST/SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-analyst-scientist-windsor-berkshire/) | Harnham | Windsor, Berkshire | 2026-10-22 |
+| [DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-analyst-windsor-berkshire/) | Harnham | Windsor, Berkshire | 2026-10-22 |
+| [Junior Software Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000018vsfeam-junior-software-engineer-minnetonka-minnesota/) | Brooksource | Minnetonka, Minnesota | 2026-10-22 |
+| [Sr. Data Engineer](https://bhsg.com/jobs/job/1475237_1792619116-sr-data-engineer-wheat-ridge-colorado/) | Beacon Hill | — | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
