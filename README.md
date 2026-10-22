@@ -27,38 +27,41 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 7487 tracked total · updated `2026-10-22T11:33:27+00:00`
+### 🆕 18 new roles this update · 7504 tracked total · updated `2026-10-22T16:59:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 5 |
-| Alldus | 5 |
-| Mindlance | 2 |
-| Agility Connect | 2 |
+| Artech | 4 |
+| Robert Half | 3 |
+| Kforce | 2 |
+| Apex Systems | 2 |
 | Harnham | 2 |
-| Robert Half | 1 |
+| TEKsystems | 1 |
+| Russell Tobin | 1 |
+| ASK Consulting | 1 |
+| Mindlance | 1 |
 | Net2Source | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Architect - Databricks (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006368552/Data-Architect-Databricks-W2-Only-No-C2C) | TEKsystems | Long Island City, New York | 2026-10-22 |
-| [AI Architect (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006368521/AI-Architect-W2-Only-No-C2C) | TEKsystems | Long Island City, New York | 2026-10-22 |
-| [Micro Focus Cobol Developer](https://careers.teksystems.com/us/en/job/JP-006367058/Micro-Focus-Cobol-Developer) | TEKsystems | Greensboro, North Carolina | 2026-10-22 |
-| [AI Governance Lead Program Consultant](https://careers.teksystems.com/us/en/job/JP-006366512/AI-Governance-Lead-Program-Consultant) | TEKsystems | Rochester, New York | 2026-10-22 |
-| [Sr. .NET Developer](https://careers.teksystems.com/us/en/job/JP-006363877/Sr-NET-Developer) | TEKsystems | Charlotte, North Carolina | 2026-10-22 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/norman-ok/software-developer/03500-0013516129-usen) | Robert Half | Norman, 03500 | 2026-10-22 |
-| [Ai Engineer New York](https://alldus.com/job/59268-ai-engineer-new-york/) | Alldus | New York | 2026-10-22 |
-| [Member Of Technical Staff Backend Ai New York City New York](https://alldus.com/job/59269-member-of-technical-staff-backend-ai-new-york-city-new-york/) | Alldus | New York City, New York | 2026-10-22 |
-| [Forward Deployed Engineer Deployment Strategist New York City New York](https://alldus.com/job/59270-forward-deployed-engineer-deployment-strategist-new-york-city-new-york/) | Alldus | New York City, New York | 2026-10-22 |
-| [Servicenow Developer Nsapoly Maryland](https://alldus.com/job/59288-servicenow-developer-nsapoly-maryland/) | Alldus | Maryland | 2026-10-22 |
-| [Senior Backend Engineer Platform New York New York](https://alldus.com/job/59305-senior-backend-engineer-platform-new-york-new-york/) | Alldus | New York, New York | 2026-10-22 |
-| [Snowflake Data Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29501788#/jobs/29501788) | Mindlance | Coppell, TX | 2026-10-22 |
-| [MS Access Developer / Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29500532#/jobs/29500532) | Mindlance | Washington, DC | 2026-10-22 |
-| [Senior Data Engineer & BI Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29504693#/jobs/29504693) | Net2Source | Foster City, CA | 2026-10-22 |
-| [MLOps Engineer](https://agilityconnect.io/jobs/8565) | Agility Connect | Cincinnati, OH | 2026-10-22 |
-| [Sr Solutions Architect](https://agilityconnect.io/jobs/8563) | Agility Connect | OH | 2026-10-22 |
-| [DATA SCIENTIST/DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-data-analyst-windsor-and-maidenhead-berkshire/) | Harnham | Windsor and Maidenhead, Berkshire | 2026-10-22 |
-| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-windsor-berkshire-2/) | Harnham | Windsor, Berkshire | 2026-10-22 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2191945T1~99/) | Kforce | Saint Louis, MO | 2026-10-22 |
+| [GenAI and Agentic AI Engineer](http://www.kforce.com/Jobs/1696~NRC~2192083T1~99/) | Kforce | Tampa, FL | 2026-10-22 |
+| [Senior Data Engineer Azure](https://careers.teksystems.com/us/en/job/JP-006363830/Senior-Data-Engineer-Azure) | TEKsystems | Dallas, Texas | 2026-10-22 |
+| [Network Real Estate Specialist / Developer - III](https://www.apexsystems.com/job/3056856_usa/network-real-estate-specialist--developer---iii) | Apex Systems | Walnut Creek, CA | 2026-10-22 |
+| [Data Analytics Analyst](https://www.apexsystems.com/job/3056827_usa/data-analytics-analyst) | Apex Systems | Birmingham, AL | 2026-10-22 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/sacramento-ca/solutions-architect/00390-9504415701-usen) | Robert Half | Sacramento, 00390 | 2026-10-22 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/bellows-falls-vt/software-engineer/02600-0013513427-usen) | Robert Half | Bellows Falls, 02600 | 2026-10-22 |
+| [Gcp Devops Engineer](https://www.roberthalf.com/us/en/job/charlotte-nc/gcp-devops-engineer/03200-9504413771-usen) | Robert Half | Charlotte, 03200 | 2026-10-22 |
+| [Full Stack Application Developer (.NET)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29506298#/jobs/29506298) | Russell Tobin | Los Angeles, CA | 2026-10-22 |
+| [Software Engineer (Python, JavaScript, React JS)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132638/Software Engineer (Python, JavaScript, React JS)) | ASK Consulting | South San Francisco, CA, 94080 | 2026-10-22 |
+| [Senior DevOps & Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283162#/jobs/33283162) | Artech | Naperville, IL | 2026-10-22 |
+| [Full Stack Application Developer (.NET)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281375#/jobs/33281375) | Artech | DPH, CA | 2026-10-22 |
+| [Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281735#/jobs/33281735) | Artech | Atlanta, GA | 2026-10-22 |
+| [Java Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281717#/jobs/33281717) | Artech | Houston, TX | 2026-10-22 |
+| [Infrastructure Engineer / Admin](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29506178#/jobs/29506178) | Mindlance | Houston, TX | 2026-10-22 |
+| [GCP Lead Cloud Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29504217#/jobs/29504217) | Net2Source | New York City, NY | 2026-10-22 |
+| [DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-analyst-windsor-berkshire-2/) | Harnham | Windsor, Berkshire | 2026-10-22 |
+| [SENIOR FULLSTACK SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-fullstack-software-engineer-cambridge-massachusetts/) | Harnham | Cambridge, Massachusetts | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
