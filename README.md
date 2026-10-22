@@ -27,41 +27,64 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 7504 tracked total · updated `2026-10-22T16:59:47+00:00`
+### 🆕 40 new roles this update · 7544 tracked total · updated `2026-10-22T21:36:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| Robert Half | 3 |
-| Kforce | 2 |
-| Apex Systems | 2 |
-| Harnham | 2 |
-| TEKsystems | 1 |
+| Artech | 13 |
+| Robert Half | 6 |
+| Mindlance | 6 |
+| Net2Source | 4 |
+| Beacon Hill | 3 |
+| TEKsystems | 2 |
+| Motion Recruitment | 2 |
+| Kforce | 1 |
+| Apex Systems | 1 |
 | Russell Tobin | 1 |
-| ASK Consulting | 1 |
-| Mindlance | 1 |
-| Net2Source | 1 |
+| Vernovis | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2191945T1~99/) | Kforce | Saint Louis, MO | 2026-10-22 |
-| [GenAI and Agentic AI Engineer](http://www.kforce.com/Jobs/1696~NRC~2192083T1~99/) | Kforce | Tampa, FL | 2026-10-22 |
-| [Senior Data Engineer Azure](https://careers.teksystems.com/us/en/job/JP-006363830/Senior-Data-Engineer-Azure) | TEKsystems | Dallas, Texas | 2026-10-22 |
-| [Network Real Estate Specialist / Developer - III](https://www.apexsystems.com/job/3056856_usa/network-real-estate-specialist--developer---iii) | Apex Systems | Walnut Creek, CA | 2026-10-22 |
-| [Data Analytics Analyst](https://www.apexsystems.com/job/3056827_usa/data-analytics-analyst) | Apex Systems | Birmingham, AL | 2026-10-22 |
-| [Solutions Architect](https://www.roberthalf.com/us/en/job/sacramento-ca/solutions-architect/00390-9504415701-usen) | Robert Half | Sacramento, 00390 | 2026-10-22 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/bellows-falls-vt/software-engineer/02600-0013513427-usen) | Robert Half | Bellows Falls, 02600 | 2026-10-22 |
-| [Gcp Devops Engineer](https://www.roberthalf.com/us/en/job/charlotte-nc/gcp-devops-engineer/03200-9504413771-usen) | Robert Half | Charlotte, 03200 | 2026-10-22 |
-| [Full Stack Application Developer (.NET)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29506298#/jobs/29506298) | Russell Tobin | Los Angeles, CA | 2026-10-22 |
-| [Software Engineer (Python, JavaScript, React JS)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132638/Software Engineer (Python, JavaScript, React JS)) | ASK Consulting | South San Francisco, CA, 94080 | 2026-10-22 |
-| [Senior DevOps & Automation Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283162#/jobs/33283162) | Artech | Naperville, IL | 2026-10-22 |
-| [Full Stack Application Developer (.NET)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281375#/jobs/33281375) | Artech | DPH, CA | 2026-10-22 |
-| [Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281735#/jobs/33281735) | Artech | Atlanta, GA | 2026-10-22 |
-| [Java Fullstack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281717#/jobs/33281717) | Artech | Houston, TX | 2026-10-22 |
-| [Infrastructure Engineer / Admin](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29506178#/jobs/29506178) | Mindlance | Houston, TX | 2026-10-22 |
-| [GCP Lead Cloud Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29504217#/jobs/29504217) | Net2Source | New York City, NY | 2026-10-22 |
-| [DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-analyst-windsor-berkshire-2/) | Harnham | Windsor, Berkshire | 2026-10-22 |
-| [SENIOR FULLSTACK SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-fullstack-software-engineer-cambridge-massachusetts/) | Harnham | Cambridge, Massachusetts | 2026-10-22 |
+| [Manager of AI Product and Data Architecture](http://www.kforce.com/Jobs/1696~NRC~2192177P1~99/) | Kforce | Tampa, FL | 2026-10-22 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006370312/Data-Analyst) | TEKsystems | San Diego, California | 2026-10-22 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006370400/Data-Analyst) | TEKsystems | Coppell, Texas | 2026-10-22 |
+| [Data - Data Scientist](https://www.apexsystems.com/job/3056789_usa/data---data-scientist) | Apex Systems | Lake Buena Vista, FL | 2026-10-22 |
+| [Web Developer](https://www.roberthalf.com/us/en/job/maple-grove-mn/web-developer/02310-0013499454-usen) | Robert Half | Maple Grove, 02310 | 2026-10-22 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/moline-il/data-analyst/01520-0013497455-usen) | Robert Half | Moline, 01520 | 2026-10-22 |
+| [Senior Data Engineer](https://www.roberthalf.com/us/en/job/houston-tx/senior-data-engineer/04340-0013518260-usen) | Robert Half | Houston, 04340 | 2026-10-22 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513228-usen) | Robert Half | Fort Washington, 04951 | 2026-10-22 |
+| [Web Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/web-developer/01120-0013488203-usen) | Robert Half | Jacksonville, 01120 | 2026-10-22 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/greater-cleveland-oh/software-developer/03340-0013520756-usen) | Robert Half | Greater Cleveland, 03340 | 2026-10-22 |
+| [Sr Embedded Software Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29509478#/jobs/29509478) | Russell Tobin | Benton Harbor, MI | 2026-10-22 |
+| [Senior Site Reliability Engineer / Remote](https://motionrecruitment.com/tech-jobs/herndon/contract/senior-site-reliability-engineer-remote/892481) | Motion Recruitment | Herndon, Virginia | 2026-10-22 |
+| [Senior Full Stack Developer](https://motionrecruitment.com/tech-jobs/irving/contract/senior-full-stack-developer/892640) | Motion Recruitment | Irving, TX | 2026-10-22 |
+| [Development - Full Stack Engineer Level II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286947#/jobs/33286947) | Artech | Plano, TX | 2026-10-22 |
+| [Power BI Engineer / Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286711#/jobs/33286711) | Artech | Phoenix, AZ, AZ | 2026-10-22 |
+| [Mainframe/Systematics Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286679#/jobs/33286679) | Artech | — | 2026-10-22 |
+| [High Availability Mainframe Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286544#/jobs/33286544) | Artech | Remote, NY | 2026-10-22 |
+| [Snowflake Cortex AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286329#/jobs/33286329) | Artech | Las Vegas, NV | 2026-10-22 |
+| [SailPoint Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33285237#/jobs/33285237) | Artech | Cleveland, OH | 2026-10-22 |
+| [OAC Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33285866#/jobs/33285866) | Artech | Washington DC, ATC, DC | 2026-10-22 |
+| [Data / ETL Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33285858#/jobs/33285858) | Artech | Washington DC, DC | 2026-10-22 |
+| [Software Development Engineer 1](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283158#/jobs/33283158) | Artech | REDMOND, WA | 2026-10-22 |
+| [AWS Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33284991#/jobs/33284991) | Artech | Malvern, PA | 2026-10-22 |
+| [Moveworks Agent Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33284720#/jobs/33284720) | Artech | Malvern, PA | 2026-10-22 |
+| [Sr Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281484#/jobs/33281484) | Artech | Mounds View, MN | 2026-10-22 |
+| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281693#/jobs/33281693) | Artech | Charlotte, NC | 2026-10-22 |
+| [Software Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29510194#/jobs/29510194) | Mindlance | Wilmington, DE | 2026-10-22 |
+| [Programmer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29510099#/jobs/29510099) | Mindlance | Albany, NY | 2026-10-22 |
+| [Software Architect - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29510040#/jobs/29510040) | Mindlance | Albany, NY | 2026-10-22 |
+| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29509927#/jobs/29509927) | Mindlance | Buffalo, NY | 2026-10-22 |
+| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29509620#/jobs/29509620) | Mindlance | Buffalo, NY | 2026-10-22 |
+| [IT - .net/C# Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29506205#/jobs/29506205) | Mindlance | Austin, TX | 2026-10-22 |
+| [ODI Developer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29509044#/jobs/29509044) | Net2Source | Dallas, TX | 2026-10-22 |
+| [Software Engineer: Networking Development - II](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29509301#/jobs/29509301) | Net2Source | Hillsboro, OR | 2026-10-22 |
+| [Senior Data Engineer (SQL/Linux)](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29497579#/jobs/29497579) | Net2Source | Chicago, IL | 2026-10-22 |
+| [Azure Technical Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29453810#/jobs/29453810) | Net2Source | Seattle, WA | 2026-10-22 |
+| [Senior Data Architect](https://vernovis.com/blog/jobs/12266/) | Vernovis | Portsmouth, | 2026-10-22 |
+| [UI/Software Engineer 4](https://bhsg.com/jobs/job/1477136-kk_1792686893-ui-software-engineer-4-colorado-springs-colorado/) | Beacon Hill | — | 2026-10-22 |
+| [Lead AI Engineer](https://bhsg.com/jobs/job/t1478880-phi_1792673834-lead-ai-engineer-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-10-22 |
+| [Principal Research Scientist](https://bhsg.com/jobs/job/1475349_1792671945-principal-research-scientist-indianapolis-indiana/) | Beacon Hill | — | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
