@@ -27,32 +27,25 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 7538 tracked total · updated `2026-10-23T04:12:41+00:00`
+### 🆕 8 new roles this update · 7538 tracked total · updated `2026-10-23T11:25:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 6 |
-| Motion Recruitment | 2 |
-| Artech | 2 |
+| TEKsystems | 3 |
+| Agility Connect | 3 |
+| Kforce | 1 |
 | Robert Half | 1 |
-| Goodwin Recruiting | 1 |
-| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Director Data Analyticsai](https://www.roberthalf.com/us/en/job/san-antonio-tx/director-data-analyticsai/04080-0013457838-usen) | Robert Half | San Antonio, 04080 | 2026-10-23 |
-| [Sr. .NET/Cloud Platform Engineer - Coppell, TX](https://motionrecruitment.com/tech-jobs/coppell/direct-hire/srdot-dot-net-cloud-platform-engineer-coppell-tx/893205) | Motion Recruitment | Coppell, Texas | 2026-10-23 |
-| [AI Engineer III](https://motionrecruitment.com/tech-jobs/phoenix-/direct-hire/ai-engineer-iii/893204) | Motion Recruitment | Phoenix , Arizona | 2026-10-23 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33282746#/jobs/33282746) | Artech | Charlotte, NC | 2026-10-23 |
-| [Application Programmer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33281694#/jobs/33281694) | Artech | Charlotte, NC | 2026-10-23 |
-| [Full-Stack Developer](https://jobs.compunnel.com/jobs/5980025) | Compunnel | Washington, District Of Columbia, United States | 2026-10-23 |
-| [.NET Developer Power BI](https://jobs.compunnel.com/jobs/5980111) | Compunnel | Trenton, New Jersey, United States | 2026-10-23 |
-| [Cyber Security Engineer](https://jobs.compunnel.com/jobs/5980117) | Compunnel | Arlington, Virginia, United States | 2026-10-23 |
-| [Senior Oracle Software Engineer](https://jobs.compunnel.com/jobs/5980154) | Compunnel | Cleveland, Ohio, United States | 2026-10-23 |
-| [Senior Full Stack Engineer](https://jobs.compunnel.com/jobs/5980915) | Compunnel | Durham, North Carolina, United States | 2026-10-23 |
-| [Senior Data Engineer](https://jobs.compunnel.com/jobs/5921691) | Compunnel | Covington, Kentucky, United States | 2026-10-23 |
-| [Software Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003gix7mao-software-engineer-west-chicago-illinois) | Goodwin Recruiting | — | 2026-10-23 |
-| [Software Engineer (gRED/ECDi)](https://www.nescoresource.com/job-details/software-engineer-gredecdi-in-information-technology-jobs-1765442) | Nesco Resource | South San Francisco, CA | 2026-10-23 |
+| [AI Product Architect](http://www.kforce.com/Jobs/1696~NRC~2192190T1~99/) | Kforce | Tampa, FL | 2026-10-23 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006371090/Data-Analyst) | TEKsystems | Austin, Texas | 2026-10-23 |
+| [AWS Practice Architect AI/ML (Fulltime Remote)](https://careers.teksystems.com/us/en/job/JP-006364374/AWS-Practice-Architect-AI-ML-Fulltime-Remote) | TEKsystems | Dallas, Texas | 2026-10-23 |
+| [Practice Architect AI/ML](https://careers.teksystems.com/us/en/job/JP-006361907/Practice-Architect-AI-ML) | TEKsystems | Dallas, Texas | 2026-10-23 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/bala-cynwyd-pa/data-scientist/03720-0013513232-usen) | Robert Half | Bala Cynwyd, 03720 | 2026-10-23 |
+| [AI Data Engineer 1](https://agilityconnect.io/jobs/8569) | Agility Connect | Redmond, WA | 2026-10-23 |
+| [Senior Dataiku Platform Engineer](https://agilityconnect.io/jobs/8568) | Agility Connect | Cincinnati, OH | 2026-10-23 |
+| [Senior Snowflake Platform Engineer](https://agilityconnect.io/jobs/8567) | Agility Connect | Cincinnati, OH | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
