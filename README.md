@@ -27,86 +27,49 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 65 new roles this update · 7598 tracked total · updated `2026-10-23T17:03:31+00:00`
+### 🆕 25 new roles this update · 7622 tracked total · updated `2026-10-23T21:18:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 40 |
-| Artech | 12 |
-| Mindlance | 5 |
-| Motion Recruitment | 4 |
+| Artech | 7 |
+| Net2Source | 4 |
+| Robert Half | 3 |
+| Apex Systems | 2 |
+| Motion Recruitment | 2 |
+| Mindlance | 2 |
 | Kforce | 1 |
-| TEKsystems | 1 |
-| Stanton House | 1 |
-| Beacon Hill | 1 |
+| Russell Tobin | 1 |
+| Compunnel | 1 |
+| Harnham | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior AWS Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2192239T1~99/) | Kforce | Charlotte, NC | 2026-10-23 |
-| [Principal Software Architect](https://careers.teksystems.com/us/en/job/JP-006372445/Principal-Software-Architect) | TEKsystems | Irvine, California | 2026-10-23 |
-| [Security Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/security-engineer/01120-9504415788-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Full Stack Software Engineer](https://www.roberthalf.com/us/en/job/mount-arlington-nj/full-stack-software-engineer/02710-0013521622-usen) | Robert Half | Mount Arlington, 02710 | 2026-10-23 |
-| [Lis Data Analyst](https://www.roberthalf.com/us/en/job/greenville-sc/lis-data-analyst/03230-0013520556-usen) | Robert Half | Greenville, 03230 | 2026-10-23 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cambridge-ma/data-analyst/02100-0013521766-usen) | Robert Half | Cambridge, 02100 | 2026-10-23 |
-| [Net Developer](https://www.roberthalf.com/us/en/job/boca-raton-fl/net-developer/01000-9504415827-usen) | Robert Half | Boca Raton, 01000 | 2026-10-23 |
-| [Back End Developer](https://www.roberthalf.com/us/en/job/wheeling-il/back-end-developer/01300-0013451826-usen) | Robert Half | Wheeling, 01300 | 2026-10-23 |
-| [Power Bi Developer](https://www.roberthalf.com/us/en/job/murray-ut/power-bi-developer/01300-0013520635-usen) | Robert Half | Murray, 01300 | 2026-10-23 |
-| [Cloud Security Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-security-engineer/01120-9504416354-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cambridge-ma/data-analyst/02100-0013521924-usen) | Robert Half | Cambridge, 02100 | 2026-10-23 |
-| [Senior Servicenow Developer](https://www.roberthalf.com/us/en/job/san-gabriel-valley-ca/senior-servicenow-developer/00320-0013499937-usen) | Robert Half | San Gabriel Valley, 00320 | 2026-10-23 |
-| [Systemsinfrastructure Engineer](https://www.roberthalf.com/us/en/job/petaluma-ca/systemsinfrastructure-engineer/00410-0013521209-usen) | Robert Half | Petaluma, 00410 | 2026-10-23 |
-| [C Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/c-software-engineer/01120-9504415757-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Backend Software Engineer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/backend-software-engineer/01000-9504415803-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-10-23 |
-| [Kinetic Solutions Architect](https://www.roberthalf.com/us/en/job/spartanburg-sc/kinetic-solutions-architect/03230-0013520497-usen) | Robert Half | Spartanburg, 03230 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/boca-raton-fl/data-engineer/01000-9504415795-usen) | Robert Half | Boca Raton, 01000 | 2026-10-23 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/houston-tx/software-engineer/04340-0013521763-usen) | Robert Half | Houston, 04340 | 2026-10-23 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/ai-engineer/01120-9504415756-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Net Developer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/net-developer/01000-9504415839-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/data-engineer/01000-9504415799-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-10-23 |
-| [Fss Enrollment](https://www.roberthalf.com/us/en/job/los-angeles-ca/fss-enrollment/03080-0013521600-usen) | Robert Half | Los Angeles, 03080 | 2026-10-23 |
-| [Maximo Developer](https://www.roberthalf.com/us/en/job/cape-canaveral-fl/maximo-developer/01030-0013521407-usen) | Robert Half | Cape Canaveral, 01030 | 2026-10-23 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/cloud-engineer/01120-9504415761-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Backend Software Engineer](https://www.roberthalf.com/us/en/job/delray-beach-fl/backend-software-engineer/01000-9504415814-usen) | Robert Half | Delray Beach, 01000 | 2026-10-23 |
-| [Staff Database Engineer](https://www.roberthalf.com/us/en/job/salt-lake-city-ut/staff-database-engineer/04820-0013467136-usen) | Robert Half | Salt Lake City, 04820 | 2026-10-23 |
-| [Software Engineertest Systems Manufacturing](https://www.roberthalf.com/us/en/job/burnsville-mn/software-engineertest-systems-manufacturing/04838-0013522716-usen) | Robert Half | Burnsville, 04838 | 2026-10-23 |
-| [Devops Engineer](https://www.roberthalf.com/us/en/job/rutland-vt/devops-engineer/02600-0013524531-usen) | Robert Half | Rutland, 02600 | 2026-10-23 |
-| [Data Analyst Data Visualization And Ai Tools](https://www.roberthalf.com/us/en/job/stamford-ct/data-analyst-data-visualization-and-ai-tools/00720-9504416554-usen) | Robert Half | Stamford, 00720 | 2026-10-23 |
-| [Cloud Engineer Azure Fully Remote](https://www.roberthalf.com/us/en/job/hartford-ct-ct/cloud-engineer-azure-fully-remote/00700-0013522981-usen) | Robert Half | Hartford, Ct, 00700 | 2026-10-23 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/westerville-oh/data-analyst/03410-0013516698-usen) | Robert Half | Westerville, 03410 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/arlington-va/data-engineer/04510-0013480350-usen) | Robert Half | Arlington, 04510 | 2026-10-23 |
-| [Sr It Developer](https://www.roberthalf.com/us/en/job/hunt-valley-md/sr-it-developer/02000-0013470373-usen) | Robert Half | Hunt Valley, 02000 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/conshohocken-pa/data-engineer/03720-0013461058-usen) | Robert Half | Conshohocken, 03720 | 2026-10-23 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-0013420453-usen) | Robert Half | Jacksonville, 01120 | 2026-10-23 |
-| [Web Developer](https://www.roberthalf.com/us/en/job/arlington-va/web-developer/04510-0013521493-usen) | Robert Half | Arlington, 04510 | 2026-10-23 |
-| [Lead Data Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/lead-data-engineer/00320-0013523309-usen) | Robert Half | Los Angeles, 00320 | 2026-10-23 |
-| [Enrollment Coordinator Special Projects](https://www.roberthalf.com/us/en/job/chattanooga-tn/enrollment-coordinator-special-projects/03950-0013515409-usen) | Robert Half | Chattanooga, 03950 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/data-engineer/03500-0013380490-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/santa-monica-ca/data-engineer/00320-0013522744-usen) | Robert Half | Santa Monica, 00320 | 2026-10-23 |
-| [Software Engineering Instructor Ruby Python Django](https://www.roberthalf.com/us/en/job/monroe-ny/software-engineering-instructor-ruby-python-django/02710-0013492822-usen) | Robert Half | Monroe, 02710 | 2026-10-23 |
-| [Full Stack Software Engineer Legacy Systems](https://www.roberthalf.com/us/en/job/mount-arlington-nj/full-stack-software-engineer-legacy-systems/02710-0013523368-usen) | Robert Half | Mount Arlington, 02710 | 2026-10-23 |
-| [Principal Product Security Engineer](https://www.stantonhouse.com/us/jobs/33227-Principal-Product-Security-Engineer) | Stanton House | Chicago, IL Hybrid with 3 days per week in office | 2026-10-23 |
-| [Senior DevOps Platform Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-platform-engineer/893244) | Motion Recruitment | Chicago, Illinois | 2026-10-23 |
-| [Software Engineer / Python / Go / Core Platforms / Remote](https://motionrecruitment.com/tech-jobs/san-jose/direct-hire/software-engineer-python-go-core-platforms-remote/892937) | Motion Recruitment | San Jose, California | 2026-10-23 |
-| [Software Engineering Manager / eCommerce / .NET / Typescript](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/software-engineering-manager-ecommerce-dot-net-typescript/893236) | Motion Recruitment | Chicago, Illinois | 2026-10-23 |
-| [IT Infrastructure Engineer / Terraform / AWS / AI Cloud Product](https://motionrecruitment.com/tech-jobs/san-jose/direct-hire/it-infrastructure-engineer-terraform-aws-ai-cloud-product/892945) | Motion Recruitment | San Jose, California | 2026-10-23 |
-| [AWS Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289701#/jobs/33289701) | Artech | Woodland Hills, CA | 2026-10-23 |
-| [Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289006#/jobs/33289006) | Artech | Plano, TX | 2026-10-23 |
-| [Python with Agentic AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289384#/jobs/33289384) | Artech | Alpharetta, GA | 2026-10-23 |
-| [Software Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289554#/jobs/33289554) | Artech | Plano, TX | 2026-10-23 |
-| [Senior Software Engineer – Platform Engineering](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289179#/jobs/33289179) | Artech | Alpharetta, GA | 2026-10-23 |
-| [Airtable Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289383#/jobs/33289383) | Artech | Austin, TX | 2026-10-23 |
-| [Data Analyst Professional](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33289120#/jobs/33289120) | Artech | McLean, VA | 2026-10-23 |
-| [Tableau Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33288326#/jobs/33288326) | Artech | San Antonio, TX | 2026-10-23 |
-| [Senior AEM developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33287699#/jobs/33287699) | Artech | Louisville, KY | 2026-10-23 |
-| [Java Developer – Digital Assets / Stablecoins / Wallet & Custody Integration](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33287476#/jobs/33287476) | Artech | Charlotte, NC | 2026-10-23 |
-| [US Application Developer - Devops](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283528#/jobs/33283528) | Artech | Dallas, TX | 2026-10-23 |
-| [US Application Developer - Devops](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33283632#/jobs/33283632) | Artech | Dallas, TX | 2026-10-23 |
-| [Data Analyst Professional](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29513291#/jobs/29513291) | Mindlance | McLean, VA | 2026-10-23 |
-| [Developer Standard III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29512596#/jobs/29512596) | Mindlance | Washington, DC | 2026-10-23 |
-| [Developer Standard III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29512533#/jobs/29512533) | Mindlance | Washington, DC | 2026-10-23 |
-| [Developer Standard III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29512495#/jobs/29512495) | Mindlance | washington, DC | 2026-10-23 |
-| [Engineering/Technical - Cooling Controls Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29511342#/jobs/29511342) | Mindlance | Lancaster, NY | 2026-10-23 |
-| [SCADA Developer](https://bhsg.com/jobs/job/t1478573bnt-cg_1792764944-scada-developer-the-woodlands-texas/) | Beacon Hill | — | 2026-10-23 |
+| [Data Engineer - BI & Analytics](http://www.kforce.com/Jobs/1696~WQG~2189938T1~99/) | Kforce | Dallas, TX | 2026-10-23 |
+| [Senior Cloud Database Engineer](https://www.apexsystems.com/job/3056378_usa/senior-cloud-database-engineer) | Apex Systems | Phoenix, AZ | 2026-10-23 |
+| [Executive Director Software Engineering](https://www.apexsystems.com/job/3056077_usa/executive-director-software-engineering) | Apex Systems | Phoenix, AZ | 2026-10-23 |
+| [Frontend Software Engineer React Typescript](https://www.roberthalf.com/us/en/job/glendale-az/frontend-software-engineer-react-typescript/00210-9504416807-usen) | Robert Half | Glendale, 00210 | 2026-10-23 |
+| [Embedded Software Engineer C C Rtos](https://www.roberthalf.com/us/en/job/glendale-az/embedded-software-engineer-c-c-rtos/00210-9504416816-usen) | Robert Half | Glendale, 00210 | 2026-10-23 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/atlanta-ga/data-scientist/00900-9504416520-usen) | Robert Half | Atlanta, 00900 | 2026-10-23 |
+| [AI Safety & Safeguards Enforcement Specialist (CBRNE)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29514860#/jobs/29514860) | Russell Tobin | Remote, CA | 2026-10-23 |
+| [DevOps/DevSecOps Cloud Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/devops-devsecops-cloud-engineer-boston-ma/893280) | Motion Recruitment | Boston, MA | 2026-10-23 |
+| [Quantitative Developer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/quantitative-developer-boston-ma/893276) | Motion Recruitment | Boston, MA | 2026-10-23 |
+| [AWS DevOps Engineer Kubernetes & Rocket Vertica](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290280#/jobs/33290280) | Artech | Malvern, PA | 2026-10-23 |
+| [Java Cloud Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291611#/jobs/33291611) | Artech | Jersey City, NJ, NJ | 2026-10-23 |
+| [.NET Core Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291539#/jobs/33291539) | Artech | Plano, TX | 2026-10-23 |
+| [Team Center Architect/Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291303#/jobs/33291303) | Artech | Austin, TX | 2026-10-23 |
+| [React Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291186#/jobs/33291186) | Artech | Plano, FL | 2026-10-23 |
+| [Senior Java/Spring Boot Developer - Auto Insurance Pricing Platform](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290033#/jobs/33290033) | Artech | Plano, TX | 2026-10-23 |
+| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290150#/jobs/33290150) | Artech | Jersey City, NJ | 2026-10-23 |
+| [Software Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515687#/jobs/29515687) | Mindlance | Albany, NY | 2026-10-23 |
+| [Software Developer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515222#/jobs/29515222) | Mindlance | Albany, NY | 2026-10-23 |
+| [Embedded Software Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29515545#/jobs/29515545) | Net2Source | Tulse or Bartlesville, OK | 2026-10-23 |
+| [Embedded Software Engineer II](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29514443#/jobs/29514443) | Net2Source | Newark, CA | 2026-10-23 |
+| [Software Engineer - IV](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29511256#/jobs/29511256) | Net2Source | Hillsboro, OR | 2026-10-23 |
+| [Cloud Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29511229#/jobs/29511229) | Net2Source | Los Angeles, CA | 2026-10-23 |
+| [Devops Engineer](https://jobs.compunnel.com/jobs/5698783) | Compunnel | Alpharetta, Georgia, United States | 2026-10-23 |
+| [SOFTWARE ENGINEER, BACKEND](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-software-engineer-backend-tempe-arizona/) | Harnham | Tempe, Arizona | 2026-10-23 |
+| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000019b25eae-data-analyst-los-angeles-california/) | Brooksource | Los Angeles, California | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
