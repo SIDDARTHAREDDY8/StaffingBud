@@ -27,17 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 7160 tracked total · updated `2026-10-24T20:37:15+00:00`
+### 🟢 No new roles this update · **7160** roles open total · updated `2026-10-24T23:05:00+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TEKsystems | 1 |
-| Brooksource | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006372081/Data-Engineer) | TEKsystems | Chicago, Illinois | 2026-10-24 |
-| [Associate Data Scientist](https://jobs.brooksource.com/jobs/job/a1wcv0000010vrrea2-associate-data-scientist-miami-florida/) | Brooksource | Miami, Florida | 2026-10-24 |
+Nothing new since the last run — [browse all 7160 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
