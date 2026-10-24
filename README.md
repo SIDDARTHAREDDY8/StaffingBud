@@ -27,20 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 7158 tracked total · updated `2026-10-24T15:44:57+00:00`
+### 🆕 2 new roles this update · 7160 tracked total · updated `2026-10-24T20:37:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Agility Connect | 4 |
-| Harnham | 1 |
+| TEKsystems | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Java/Spring Boot Software Engineer](https://agilityconnect.io/jobs/8577) | Agility Connect | Cincinnati, OH | 2026-10-24 |
-| [Software Development Engineer 1](https://agilityconnect.io/jobs/8572) | Agility Connect | Redmond, WA | 2026-10-24 |
-| [Sr Data Engineer](https://agilityconnect.io/jobs/8576) | Agility Connect | Columbus, OH | 2026-10-24 |
-| [Sr Software Engineer](https://agilityconnect.io/jobs/8573) | Agility Connect | Columbus, OH | 2026-10-24 |
-| [DATA ENGINEER – SAAS – HEALTHCARE](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-saas-healthcare-eindhoven-north-brabant/) | Harnham | Eindhoven, North Brabant | 2026-10-24 |
+| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006372081/Data-Engineer) | TEKsystems | Chicago, Illinois | 2026-10-24 |
+| [Associate Data Scientist](https://jobs.brooksource.com/jobs/job/a1wcv0000010vrrea2-associate-data-scientist-miami-florida/) | Brooksource | Miami, Florida | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
