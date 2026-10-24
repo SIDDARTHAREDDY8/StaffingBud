@@ -27,38 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 17 new roles this update · 7145 tracked total · updated `2026-10-24T04:03:22+00:00`
+### 🆕 8 new roles this update · 7153 tracked total · updated `2026-10-24T10:44:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Motion Recruitment | 4 |
-| Mindlance | 4 |
-| Artech | 3 |
-| TEKsystems | 2 |
-| Kforce | 1 |
-| Robert Half | 1 |
-| Russell Tobin | 1 |
-| KellyMitchell | 1 |
+| TEKsystems | 4 |
+| Robert Half | 3 |
+| Gina's Tech Jobs | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2192248T1~99/) | Kforce | Tampa, FL | 2026-10-24 |
-| [Enrollment Analyst](https://careers.teksystems.com/us/en/job/JP-006374816/Enrollment-Analyst) | TEKsystems | Santa Maria, California | 2026-10-24 |
-| [Enrollment Analyst](https://careers.teksystems.com/us/en/job/JP-006374825/Enrollment-Analyst) | TEKsystems | Salinas, California | 2026-10-24 |
-| [Sr Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/long-beach-ca/sr-cybersecurity-engineer/00400-9504417126-usen) | Robert Half | Long Beach, 00400 | 2026-10-24 |
-| [Software Development Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29515105#/jobs/29515105) | Russell Tobin | San Diego, CA | 2026-10-24 |
-| [Java Full-Stack Developer](https://motionrecruitment.com/tech-jobs/jersey-city/contract/java-full-stack-developer/893295) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
-| [Java Spark Backend Developer](https://motionrecruitment.com/tech-jobs/jersey-city/contract/java-spark-backend-developer/893298) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
-| [Quantitative Developer / Market Risk](https://motionrecruitment.com/tech-jobs/jersey-city/contract/quantitative-developer-market-risk/893297) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
-| [US_Software Engineer II_CO](https://motionrecruitment.com/tech-jobs/south-san-francisco/contract/us_software-engineer-ii_co/893072) | Motion Recruitment | South San Francisco, California | 2026-10-24 |
-| [Principal Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291612#/jobs/33291612) | Artech | Alhambra, CA | 2026-10-24 |
-| [Information Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33292058#/jobs/33292058) | Artech | Foster City, CA | 2026-10-24 |
-| [Application Architect II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33288725#/jobs/33288725) | Artech | NJ | 2026-10-24 |
-| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515218#/jobs/29515218) | Mindlance | Menlo Park, CA | 2026-10-24 |
-| [Software Engineer 2 R&D -USD](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515069#/jobs/29515069) | Mindlance | San Diego, CA | 2026-10-24 |
-| [Software Engineer - IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29511250#/jobs/29511250) | Mindlance | Hillsboro, OR | 2026-10-24 |
-| [Engineering - Firmware Engineer 4](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29510280#/jobs/29510280) | Mindlance | San Jose, CA | 2026-10-24 |
-| [Senior Data Analytics Engineer](https://www.careers.kellymitchell.com/jobs/143543) | KellyMitchell | Spring, Texas, 77389 | 2026-10-24 |
+| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006373144/Software-Engineer) | TEKsystems | Winston Salem, North Carolina | 2026-10-24 |
+| [Enterprise AI Principal Architect](https://careers.teksystems.com/us/en/job/JP-006359554/Enterprise-AI-Principal-Architect) | TEKsystems | Charlotte, North Carolina | 2026-10-24 |
+| [MDM Developer](https://careers.teksystems.com/us/en/job/JP-006369754/MDM-Developer) | TEKsystems | Hanover, Maryland | 2026-10-24 |
+| [Azure Data Engineer](https://careers.teksystems.com/us/en/job/JP-006347531/Azure-Data-Engineer) | TEKsystems | Duluth, Georgia | 2026-10-24 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/norman-ok/data-engineer/03500-0013516146-usen) | Robert Half | Norman, 03500 | 2026-10-24 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/cloud-engineer/03500-0013476586-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-24 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/boston-ma/data-analyst/02100-0013516685-usen) | Robert Half | Boston, 02100 | 2026-10-24 |
+| [Engineering Manager, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/engineering-manager-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
