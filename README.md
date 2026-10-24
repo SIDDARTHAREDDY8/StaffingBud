@@ -27,49 +27,38 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 25 new roles this update · 7622 tracked total · updated `2026-10-23T21:18:53+00:00`
+### 🆕 17 new roles this update · 7145 tracked total · updated `2026-10-24T04:03:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 7 |
-| Net2Source | 4 |
-| Robert Half | 3 |
-| Apex Systems | 2 |
-| Motion Recruitment | 2 |
-| Mindlance | 2 |
+| Motion Recruitment | 4 |
+| Mindlance | 4 |
+| Artech | 3 |
+| TEKsystems | 2 |
 | Kforce | 1 |
+| Robert Half | 1 |
 | Russell Tobin | 1 |
-| Compunnel | 1 |
-| Harnham | 1 |
-| Brooksource | 1 |
+| KellyMitchell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer - BI & Analytics](http://www.kforce.com/Jobs/1696~WQG~2189938T1~99/) | Kforce | Dallas, TX | 2026-10-23 |
-| [Senior Cloud Database Engineer](https://www.apexsystems.com/job/3056378_usa/senior-cloud-database-engineer) | Apex Systems | Phoenix, AZ | 2026-10-23 |
-| [Executive Director Software Engineering](https://www.apexsystems.com/job/3056077_usa/executive-director-software-engineering) | Apex Systems | Phoenix, AZ | 2026-10-23 |
-| [Frontend Software Engineer React Typescript](https://www.roberthalf.com/us/en/job/glendale-az/frontend-software-engineer-react-typescript/00210-9504416807-usen) | Robert Half | Glendale, 00210 | 2026-10-23 |
-| [Embedded Software Engineer C C Rtos](https://www.roberthalf.com/us/en/job/glendale-az/embedded-software-engineer-c-c-rtos/00210-9504416816-usen) | Robert Half | Glendale, 00210 | 2026-10-23 |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/atlanta-ga/data-scientist/00900-9504416520-usen) | Robert Half | Atlanta, 00900 | 2026-10-23 |
-| [AI Safety & Safeguards Enforcement Specialist (CBRNE)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29514860#/jobs/29514860) | Russell Tobin | Remote, CA | 2026-10-23 |
-| [DevOps/DevSecOps Cloud Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/devops-devsecops-cloud-engineer-boston-ma/893280) | Motion Recruitment | Boston, MA | 2026-10-23 |
-| [Quantitative Developer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/quantitative-developer-boston-ma/893276) | Motion Recruitment | Boston, MA | 2026-10-23 |
-| [AWS DevOps Engineer Kubernetes & Rocket Vertica](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290280#/jobs/33290280) | Artech | Malvern, PA | 2026-10-23 |
-| [Java Cloud Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291611#/jobs/33291611) | Artech | Jersey City, NJ, NJ | 2026-10-23 |
-| [.NET Core Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291539#/jobs/33291539) | Artech | Plano, TX | 2026-10-23 |
-| [Team Center Architect/Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291303#/jobs/33291303) | Artech | Austin, TX | 2026-10-23 |
-| [React Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291186#/jobs/33291186) | Artech | Plano, FL | 2026-10-23 |
-| [Senior Java/Spring Boot Developer - Auto Insurance Pricing Platform](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290033#/jobs/33290033) | Artech | Plano, TX | 2026-10-23 |
-| [Python Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290150#/jobs/33290150) | Artech | Jersey City, NJ | 2026-10-23 |
-| [Software Developer - Senior](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515687#/jobs/29515687) | Mindlance | Albany, NY | 2026-10-23 |
-| [Software Developer - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515222#/jobs/29515222) | Mindlance | Albany, NY | 2026-10-23 |
-| [Embedded Software Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29515545#/jobs/29515545) | Net2Source | Tulse or Bartlesville, OK | 2026-10-23 |
-| [Embedded Software Engineer II](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29514443#/jobs/29514443) | Net2Source | Newark, CA | 2026-10-23 |
-| [Software Engineer - IV](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29511256#/jobs/29511256) | Net2Source | Hillsboro, OR | 2026-10-23 |
-| [Cloud Architect](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29511229#/jobs/29511229) | Net2Source | Los Angeles, CA | 2026-10-23 |
-| [Devops Engineer](https://jobs.compunnel.com/jobs/5698783) | Compunnel | Alpharetta, Georgia, United States | 2026-10-23 |
-| [SOFTWARE ENGINEER, BACKEND](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-software-engineer-backend-tempe-arizona/) | Harnham | Tempe, Arizona | 2026-10-23 |
-| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv0000019b25eae-data-analyst-los-angeles-california/) | Brooksource | Los Angeles, California | 2026-10-23 |
+| [Senior Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2192248T1~99/) | Kforce | Tampa, FL | 2026-10-24 |
+| [Enrollment Analyst](https://careers.teksystems.com/us/en/job/JP-006374816/Enrollment-Analyst) | TEKsystems | Santa Maria, California | 2026-10-24 |
+| [Enrollment Analyst](https://careers.teksystems.com/us/en/job/JP-006374825/Enrollment-Analyst) | TEKsystems | Salinas, California | 2026-10-24 |
+| [Sr Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/long-beach-ca/sr-cybersecurity-engineer/00400-9504417126-usen) | Robert Half | Long Beach, 00400 | 2026-10-24 |
+| [Software Development Engineer](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29515105#/jobs/29515105) | Russell Tobin | San Diego, CA | 2026-10-24 |
+| [Java Full-Stack Developer](https://motionrecruitment.com/tech-jobs/jersey-city/contract/java-full-stack-developer/893295) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
+| [Java Spark Backend Developer](https://motionrecruitment.com/tech-jobs/jersey-city/contract/java-spark-backend-developer/893298) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
+| [Quantitative Developer / Market Risk](https://motionrecruitment.com/tech-jobs/jersey-city/contract/quantitative-developer-market-risk/893297) | Motion Recruitment | Jersey City, New Jersey | 2026-10-24 |
+| [US_Software Engineer II_CO](https://motionrecruitment.com/tech-jobs/south-san-francisco/contract/us_software-engineer-ii_co/893072) | Motion Recruitment | South San Francisco, California | 2026-10-24 |
+| [Principal Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291612#/jobs/33291612) | Artech | Alhambra, CA | 2026-10-24 |
+| [Information Security Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33292058#/jobs/33292058) | Artech | Foster City, CA | 2026-10-24 |
+| [Application Architect II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33288725#/jobs/33288725) | Artech | NJ | 2026-10-24 |
+| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515218#/jobs/29515218) | Mindlance | Menlo Park, CA | 2026-10-24 |
+| [Software Engineer 2 R&D -USD](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29515069#/jobs/29515069) | Mindlance | San Diego, CA | 2026-10-24 |
+| [Software Engineer - IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29511250#/jobs/29511250) | Mindlance | Hillsboro, OR | 2026-10-24 |
+| [Engineering - Firmware Engineer 4](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29510280#/jobs/29510280) | Mindlance | San Jose, CA | 2026-10-24 |
+| [Senior Data Analytics Engineer](https://www.careers.kellymitchell.com/jobs/143543) | KellyMitchell | Spring, Texas, 77389 | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
