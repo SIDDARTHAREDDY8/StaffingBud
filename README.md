@@ -27,24 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 7153 tracked total · updated `2026-10-24T10:44:05+00:00`
+### 🆕 5 new roles this update · 7158 tracked total · updated `2026-10-24T15:44:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Robert Half | 3 |
-| Gina's Tech Jobs | 1 |
+| Agility Connect | 4 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006373144/Software-Engineer) | TEKsystems | Winston Salem, North Carolina | 2026-10-24 |
-| [Enterprise AI Principal Architect](https://careers.teksystems.com/us/en/job/JP-006359554/Enterprise-AI-Principal-Architect) | TEKsystems | Charlotte, North Carolina | 2026-10-24 |
-| [MDM Developer](https://careers.teksystems.com/us/en/job/JP-006369754/MDM-Developer) | TEKsystems | Hanover, Maryland | 2026-10-24 |
-| [Azure Data Engineer](https://careers.teksystems.com/us/en/job/JP-006347531/Azure-Data-Engineer) | TEKsystems | Duluth, Georgia | 2026-10-24 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/norman-ok/data-engineer/03500-0013516146-usen) | Robert Half | Norman, 03500 | 2026-10-24 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/cloud-engineer/03500-0013476586-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-24 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/boston-ma/data-analyst/02100-0013516685-usen) | Robert Half | Boston, 02100 | 2026-10-24 |
-| [Engineering Manager, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/engineering-manager-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-24 |
+| [Java/Spring Boot Software Engineer](https://agilityconnect.io/jobs/8577) | Agility Connect | Cincinnati, OH | 2026-10-24 |
+| [Software Development Engineer 1](https://agilityconnect.io/jobs/8572) | Agility Connect | Redmond, WA | 2026-10-24 |
+| [Sr Data Engineer](https://agilityconnect.io/jobs/8576) | Agility Connect | Columbus, OH | 2026-10-24 |
+| [Sr Software Engineer](https://agilityconnect.io/jobs/8573) | Agility Connect | Columbus, OH | 2026-10-24 |
+| [DATA ENGINEER – SAAS – HEALTHCARE](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-saas-healthcare-eindhoven-north-brabant/) | Harnham | Eindhoven, North Brabant | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
