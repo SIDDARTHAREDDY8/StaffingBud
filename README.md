@@ -27,7 +27,7 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **6744** roles open total · updated `2026-10-25T11:07:48+00:00`
+### 🟢 No new roles this update · **6744** roles open total · updated `2026-10-25T15:56:08+00:00`
 
 Nothing new since the last run — [browse all 6744 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
