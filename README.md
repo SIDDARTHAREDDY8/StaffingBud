@@ -27,16 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 6744 tracked total · updated `2026-10-25T04:03:07+00:00`
+### 🟢 No new roles this update · **6744** roles open total · updated `2026-10-25T11:07:48+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TEKsystems | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [.NET Developer (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006370362/NET-Developer-W2-Only-No-C2C) | TEKsystems | Jersey City, New Jersey | 2026-10-25 |
-| [AI Solution Architect (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006369344/AI-Solution-Architect-W2-Only-No-C2C) | TEKsystems | Long Island City, New York | 2026-10-25 |
+Nothing new since the last run — [browse all 6744 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
