@@ -27,15 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 6745 tracked total · updated `2026-10-25T20:42:55+00:00`
+### 🟢 No new roles this update · **6744** roles open total · updated `2026-10-25T23:16:54+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/data-engineer/03340-0013512779-usen) | Robert Half | — | 2026-10-25 |
+Nothing new since the last run — [browse all 6744 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
