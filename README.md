@@ -27,18 +27,72 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 6519 tracked total · updated `2026-10-26T12:40:05+00:00`
+### 🆕 47 new roles this update · 6562 tracked total · updated `2026-10-26T20:31:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Talent Groups | 4 |
+| Artech | 21 |
+| Mindlance | 6 |
+| Robert Half | 4 |
+| Apex Systems | 3 |
+| Net2Source | 3 |
+| Kforce | 2 |
+| TEKsystems | 2 |
+| Harnham | 2 |
+| Vaco | 1 |
+| SolTech | 1 |
+| Talent Groups | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Medical Information Manager, AI Solutions](https://www.talentgroups.com/job-details/medical-information-manager-ai-solutions-in-project-management-analysis-jobs-1766421) | Talent Groups | Boston, MA | 2026-10-26 |
-| [Senior Data Analyst-Data Analytics and Insight](https://www.talentgroups.com/job-details/senior-data-analyst-data-analytics-and-insight-in-data-science-and-analytics-jobs-1766418) | Talent Groups | New Haven, CT | 2026-10-26 |
-| [System of Care Evaluator, Research Data Analyst](https://www.talentgroups.com/job-details/system-of-care-evaluator-research-data-analyst-in-database-administration-jobs-1766424) | Talent Groups | Providence, RI | 2026-10-26 |
-| [Cloud Engineer](https://www.talentgroups.com/job-details/cloud-engineer-in-cloud-computing-jobs-1766420) | Talent Groups | Quincy, MA | 2026-10-26 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2192461T1~99/) | Kforce | Miami, FL | 2026-10-26 |
+| [Analytics Engineer - Finance Systems](http://www.kforce.com/Jobs/1696~NRC~2191927P1~99/) | Kforce | Tampa, FL | 2026-10-26 |
+| [Platform Engineer (W2 ONLY And Pacific Hours)](https://careers.teksystems.com/us/en/job/JP-006377686/Platform-Engineer-W2-ONLY-And-Pacific-Hours) | TEKsystems | Salt Lake City, Utah | 2026-10-26 |
+| [Platform Engineer (W2 ONLY And Pacific Hours)](https://careers.teksystems.com/us/en/job/JP-006377658/Platform-Engineer-W2-ONLY-And-Pacific-Hours) | TEKsystems | Phoenix, Arizona | 2026-10-26 |
+| [Software Development Engineer](https://www.apexsystems.com/job/3057151_usa/software-development-engineer) | Apex Systems | Redmond, WA | 2026-10-26 |
+| [ServiceNow Developer - Software Asset Management](https://www.apexsystems.com/job/3057154_usa/servicenow-developer---software-asset-management) | Apex Systems | Raleigh, NC | 2026-10-26 |
+| [Mail Programmer](https://www.apexsystems.com/job/3049675_usa/mail-programmer) | Apex Systems | Woonsocket, RI | 2026-10-26 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/austin-tx/cyber-security-engineer/04160-9504417271-usen) | Robert Half | Austin, 04160 | 2026-10-26 |
+| [Industrial Software Applications Engineer](https://www.roberthalf.com/us/en/job/canonsburg-pa/industrial-software-applications-engineer/03730-0013522717-usen) | Robert Half | Canonsburg, 03730 | 2026-10-26 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/des-moines-ia/sr-software-engineer/01500-0013499561-usen) | Robert Half | Des Moines, 01500 | 2026-10-26 |
+| [Technical Lead Application Architect](https://www.roberthalf.com/us/en/job/marysville-nt-ca/technical-lead-application-architect/04837-0013524474-usen) | Robert Half | Marysville Nt, 04837 | 2026-10-26 |
+| [Data Engineer Agentic Ai Lead](https://jobs.vaco.com/job/2707/data_engineer_agentic_ai_lead/en) | Vaco | New York, New York | 2026-10-26 |
+| [Senior Data Engineer – Microsoft Fabric](https://evoportalus.tracker-rms.com/Opportunity/LiteJob?db=Soltech&id=4849) | SolTech | — | 2026-10-26 |
+| [Senior Full Stack Software Engineer](https://www.talentgroups.com/job-details/senior-full-stack-software-engineer-in-full-stack-development-jobs-1769978) | Talent Groups | Everett, MA | 2026-10-26 |
+| [AI/ML Data Scientist – Generative AI & LLM](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297160#/jobs/33297160) | Artech | Weehawken, NJ, NJ | 2026-10-26 |
+| [SQL Server OLTP Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297221#/jobs/33297221) | Artech | Plano, TX | 2026-10-26 |
+| [Senior Kofax Developer / Kofax TotalAgility Technical Lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297674#/jobs/33297674) | Artech | Minneapolis, MN | 2026-10-26 |
+| [Senior Java Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296931#/jobs/33296931) | Artech | Jersey City, NJ | 2026-10-26 |
+| [Senior Data Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297543#/jobs/33297543) | Artech | Atlanta, GA | 2026-10-26 |
+| [Git MLOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296934#/jobs/33296934) | Artech | Tampa, FL | 2026-10-26 |
+| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297387#/jobs/33297387) | Artech | Menlo Park, CA | 2026-10-26 |
+| [Technical Architect, Agentic Biomedical Research Platform](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33297111#/jobs/33297111) | Artech | North Chicago, IL | 2026-10-26 |
+| [Java Full stack LEAD Developer with REACT](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296731#/jobs/33296731) | Artech | Chicago, IL | 2026-10-26 |
+| [Senior Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296584#/jobs/33296584) | Artech | Remote | 2026-10-26 |
+| [Guidewire PolicyCenter Lead Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296343#/jobs/33296343) | Artech | San Antonio, TX, TX | 2026-10-26 |
+| [Guidewire PolicyCenter Lead Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296342#/jobs/33296342) | Artech | San Antonio, TX | 2026-10-26 |
+| [Engineering (US) - Security Engineer 1](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296075#/jobs/33296075) | Artech | SAN JOSE, CA | 2026-10-26 |
+| [Guidewire PolicyCenter Lead Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296114#/jobs/33296114) | Artech | San Antonio, TX | 2026-10-26 |
+| [Guidewire PolicyCenter Lead Developer (Local)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296259#/jobs/33296259) | Artech | San Antonio, TX | 2026-10-26 |
+| [Software Development Engineer 2](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33295543#/jobs/33295543) | Artech | Redmond, WA | 2026-10-26 |
+| [Guidewire PolicyCenter Lead Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296190#/jobs/33296190) | Artech | San Antonio, TX | 2026-10-26 |
+| [Full Stack Python AI Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33295693#/jobs/33295693) | Artech | Jersey City, NJ | 2026-10-26 |
+| [MF App Modernization Developer(Cash management)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294865#/jobs/33294865) | Artech | Pittsburgh, PA | 2026-10-26 |
+| [Mobile Solutions Architect Contractor: 6-9 years (Advanced)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294555#/jobs/33294555) | Artech | New York, NY | 2026-10-26 |
+| [Python Developer w/ Quant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33292170#/jobs/33292170) | Artech | Jersey City, NJ | 2026-10-26 |
+| [AI Developer (with Python / Java)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29522249#/jobs/29522249) | Mindlance | Jersey City, NJ | 2026-10-26 |
+| [Software Architect - Expert](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29521219#/jobs/29521219) | Mindlance | Albany, NY | 2026-10-26 |
+| [Senior Software Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29519613#/jobs/29519613) | Mindlance | Everett, MA | 2026-10-26 |
+| [Solution Architect I - Tools and Developers](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29519437#/jobs/29519437) | Mindlance | Buffalo, NY | 2026-10-26 |
+| [Java Developer (Angular)](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29514282#/jobs/29514282) | Mindlance | buffalo, NY | 2026-10-26 |
+| [eDiscovery/ Forensic Data Analyst](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29509565#/jobs/29509565) | Mindlance | North Chicago, IL | 2026-10-26 |
+| [Embedded Software Engineer](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29521915#/jobs/29521915) | Net2Source | Oshkosh, WI | 2026-10-26 |
+| [Datadog SME with DevOps](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29522896#/jobs/29522896) | Net2Source | Dallas, TX | 2026-10-26 |
+| [Software Engineer I](https://www2.jobdiva.com/portal/?a=fyjdnwkqny26xqof9rceu6y6gam6750308agqi8uui1cmk3v9j6duy26aoewnusi&compid=0&jobid=29521204#/jobs/29521204) | Net2Source | Oshkosh, WI | 2026-10-26 |
+| [DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-scientist-chicago-illinois/) | Harnham | Chicago, Illinois | 2026-10-26 |
+| [DATA SCIENTIST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-scientist-windsor-berkshire/) | Harnham | Windsor, Berkshire | 2026-10-26 |
+| [Lead Maximo Developer](https://jobs.brooksource.com/jobs/job/a1wcv0000019ae5eam-lead-maximo-developer-armonk-new-york/) | Brooksource | Armonk, New York | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
