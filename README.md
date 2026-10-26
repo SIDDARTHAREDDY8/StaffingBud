@@ -27,9 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **6744** roles open total · updated `2026-10-25T23:16:54+00:00`
+### 🆕 5 new roles this update · 6517 tracked total · updated `2026-10-26T04:08:44+00:00`
 
-Nothing new since the last run — [browse all 6744 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Compunnel | 3 |
+| Robert Half | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/senior-infrastructure-engineer/00320-0013419297-usen) | Robert Half | — | 2026-10-26 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/st-paul-mn/sr-software-engineer/02310-0013519108-usen) | Robert Half | — | 2026-10-26 |
+| [Senior Veeva Vault CRM Technical Architect](https://jobs.compunnel.com/jobs/5983179) | Compunnel | Buffalo, New York, United States | 2026-10-26 |
+| [Software Engineer in Test](https://jobs.compunnel.com/jobs/5983457) | Compunnel | Durham, North Carolina, United States | 2026-10-26 |
+| [Azure/Java Cloud Distributed Developer](https://jobs.compunnel.com/jobs/5983312) | Compunnel | Atlanta, Georgia, United States | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
