@@ -27,20 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 6517 tracked total · updated `2026-10-26T04:08:44+00:00`
+### 🆕 4 new roles this update · 6519 tracked total · updated `2026-10-26T12:40:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 3 |
-| Robert Half | 2 |
+| Talent Groups | 4 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/senior-infrastructure-engineer/00320-0013419297-usen) | Robert Half | — | 2026-10-26 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/st-paul-mn/sr-software-engineer/02310-0013519108-usen) | Robert Half | — | 2026-10-26 |
-| [Senior Veeva Vault CRM Technical Architect](https://jobs.compunnel.com/jobs/5983179) | Compunnel | Buffalo, New York, United States | 2026-10-26 |
-| [Software Engineer in Test](https://jobs.compunnel.com/jobs/5983457) | Compunnel | Durham, North Carolina, United States | 2026-10-26 |
-| [Azure/Java Cloud Distributed Developer](https://jobs.compunnel.com/jobs/5983312) | Compunnel | Atlanta, Georgia, United States | 2026-10-26 |
+| [Medical Information Manager, AI Solutions](https://www.talentgroups.com/job-details/medical-information-manager-ai-solutions-in-project-management-analysis-jobs-1766421) | Talent Groups | Boston, MA | 2026-10-26 |
+| [Senior Data Analyst-Data Analytics and Insight](https://www.talentgroups.com/job-details/senior-data-analyst-data-analytics-and-insight-in-data-science-and-analytics-jobs-1766418) | Talent Groups | New Haven, CT | 2026-10-26 |
+| [System of Care Evaluator, Research Data Analyst](https://www.talentgroups.com/job-details/system-of-care-evaluator-research-data-analyst-in-database-administration-jobs-1766424) | Talent Groups | Providence, RI | 2026-10-26 |
+| [Cloud Engineer](https://www.talentgroups.com/job-details/cloud-engineer-in-cloud-computing-jobs-1766420) | Talent Groups | Quincy, MA | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
