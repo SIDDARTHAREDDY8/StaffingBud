@@ -27,33 +27,52 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 6430 tracked total · updated `2026-10-27T15:27:18+00:00`
+### 🆕 29 new roles this update · 6455 tracked total · updated `2026-10-27T22:08:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CornerStone TTS | 5 |
-| Kforce | 2 |
+| Robert Half | 9 |
+| TEKsystems | 5 |
+| Kforce | 4 |
+| Apex Systems | 3 |
+| ASK Consulting | 2 |
 | Beacon Hill | 2 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| Alldus | 1 |
+| Stanton House | 1 |
 | Motion Recruitment | 1 |
+| Harnham | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2192372T1~99/) | Kforce | Miami, FL | 2026-10-27 |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~TVT~2192501T1~99/) | Kforce | Sandy Springs, GA | 2026-10-27 |
-| [Sr. Fabric Developer](https://www.apexsystems.com/job/3055075_usa/sr-fabric-developer) | Apex Systems | Houston, TX | 2026-10-27 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/greater-cleveland-oh/software-engineering-manager/03340-0013481844-usen) | Robert Half | — | 2026-10-27 |
-| [Forward Deployed Engineer Ai New York](https://alldus.com/job/59382-forward-deployed-engineer-ai-new-york/) | Alldus | New York | 2026-10-27 |
-| [Senior Infrastructure Engineer](https://jobs.cornerstonetechtalent.com/jb/Senior-Infrastructure-Engineer-Jobs-in-Denton-Texas/14376705) | CornerStone TTS | Denton Texas | 2026-10-27 |
-| [Senior Platform Engineer â AWS/Azure Cloud & DevOps](https://jobs.cornerstonetechtalent.com/jb/Senior-Platform-Engineer-AWS-Azure-Cloud-DevOps-Jobs-in-Richardson-Texas/14376692) | CornerStone TTS | Richardson Texas | 2026-10-27 |
-| [Senior Infrastructure Engineer](https://jobs.cornerstonetechtalent.com/jb/Senior-Infrastructure-Engineer-Jobs-in-Dallas-Texas/14376673) | CornerStone TTS | Dallas Texas | 2026-10-27 |
-| [Sr. PBM Data Analyst](https://jobs.cornerstonetechtalent.com/jb/Sr-PBM-Data-Analyst-Jobs-in-Dallas-Texas/14376543) | CornerStone TTS | Dallas Texas | 2026-10-27 |
-| [Senior Java Developer](https://jobs.cornerstonetechtalent.com/jb/Senior-Java-Developer-Jobs-in-Atlanta-GA-Georgia/14376434) | CornerStone TTS | Atlanta GA Georgia | 2026-10-27 |
-| [Software Engineer, Test Automation](https://motionrecruitment.com/tech-jobs/boston/contract/software-engineer-test-automation/893434) | Motion Recruitment | Boston, MA | 2026-10-27 |
-| [OpenShift AI Senior Consultant (part time)](https://bhsg.com/jobs/job/1478946_1793109934-openshift-ai-senior-consultant-part-time-raleigh-north-carolina/) | Beacon Hill | — | 2026-10-27 |
-| [ServiceNow Developer](https://bhsg.com/jobs/job/t1479514-phi_1793105971-servicenow-developer-malvern-pennsylvania/) | Beacon Hill | — | 2026-10-27 |
+| [Analytics Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2192583T1~99/) | Kforce | Brooklyn, NY | 2026-10-27 |
+| [Business Data Analyst IV](http://www.kforce.com/Jobs/1696~WQG~2192576T1~99/) | Kforce | Mountain View, CA | 2026-10-27 |
+| [Tableau Developer](http://www.kforce.com/Jobs/1696~WQG~2192552T1~99/) | Kforce | San Antonio, TX | 2026-10-27 |
+| [Snowflake Platform Database Engineer](http://www.kforce.com/Jobs/1696~AQG~2192574T1~99/) | Kforce | Dallas, TX | 2026-10-27 |
+| [ServiceNow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380656/ServiceNow-Application-Engineer) | TEKsystems | Omaha, Nebraska | 2026-10-27 |
+| [Technical Lead/Architect - AI Platforms](https://careers.teksystems.com/us/en/job/JP-006381347/Technical-Lead-Architect-AI-Platforms) | TEKsystems | North Chicago, Illinois | 2026-10-27 |
+| [Servicenow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380675/Servicenow-Application-Engineer) | TEKsystems | Chicago, Illinois | 2026-10-27 |
+| [M365 Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006379610/M365-Platform-Engineer) | TEKsystems | Appleton, Wisconsin | 2026-10-27 |
+| [Jr. Developer](https://careers.teksystems.com/us/en/job/JP-006375392/Jr-Developer) | TEKsystems | Lansing, Michigan | 2026-10-27 |
+| [Developer](https://www.apexsystems.com/job/3057391_usa/developer) | Apex Systems | Austin, TX | 2026-10-27 |
+| [Appian Developer](https://www.apexsystems.com/job/3057265_usa/appian-developer) | Apex Systems | Woonsocket, RI | 2026-10-27 |
+| [Data Scientist](https://www.apexsystems.com/job/3056789_usa/data-scientist) | Apex Systems | Lake Buena Vista, FL | 2026-10-27 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/philadelphia-pa/solutions-architect/04838-0013515832-usen) | Robert Half | Philadelphia, 04838 | 2026-10-27 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513227-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/ai-engineer/04951-0013513230-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513228-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
+| [Mlops Engineer Ii Gpu Compute](https://www.roberthalf.com/us/en/job/coppell-tx/mlops-engineer-ii-gpu-compute/04010-9504418203-usen) | Robert Half | Coppell, 04010 | 2026-10-27 |
+| [Provider Enrollment Coordinator](https://www.roberthalf.com/us/en/job/orlando-fl/provider-enrollment-coordinator/01030-0013209477-usen) | Robert Half | Orlando, 01030 | 2026-10-27 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/del-mar-ca/software-engineering-manager/00350-0013522789-usen) | Robert Half | Del Mar, 00350 | 2026-10-27 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/oskaloosa-ia/data-engineer/01500-0013497785-usen) | Robert Half | Oskaloosa, 01500 | 2026-10-27 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013508770-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-27 |
+| [Senior Physical Security Engineer](https://www.stantonhouse.com/us/jobs/33154-Senior-Physical-Security-Engineer) | Stanton House | Remote or Hybrid in New York City, Denver, or Charlotte | 2026-10-27 |
+| [Principal Cloud Architect // Milford MA](https://motionrecruitment.com/tech-jobs/milford/direct-hire/principal-cloud-architect-milford-ma/893509) | Motion Recruitment | Milford, Massachusetts | 2026-10-27 |
+| [Application Security Engineer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132809/Application Security Engineer) | ASK Consulting | San Mateo, CA, 94404 | 2026-10-27 |
+| [Data Analyst Research I](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132806/ Data Analyst Research I) | ASK Consulting | South San Francisco, CA, 94080 | 2026-10-27 |
+| [DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-austin-texas/) | Harnham | Austin, Texas | 2026-10-27 |
+| [Lead Data Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000w7qveai-lead-data-engineer-clayton-missouri/) | Brooksource | Clayton, Missouri | 2026-10-27 |
+| [Data Scientist](https://bhsg.com/jobs/job/tt1478937csm_1793131558-data-scientist-cambridge-massachusetts/) | Beacon Hill | — | 2026-10-27 |
+| [Lead Workday Developer](https://bhsg.com/jobs/job/t1479651-phi_1793122887-lead-workday-developer-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
