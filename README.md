@@ -27,19 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 6211 tracked total · updated `2026-10-28T04:56:22+00:00`
+### 🆕 3 new roles this update · 6210 tracked total · updated `2026-10-28T12:32:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 2 |
-| Compunnel | 2 |
+| Alldus | 2 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Application Developer to support Department of Tax & Collections (DTAC) Project](https://www.apexsystems.com/job/3057488_usa/application-developer-to-support-department-of-tax--collections-dtac-project) | Apex Systems | San Jose, CA | 2026-10-28 |
-| [Data Analyst](https://www.apexsystems.com/job/3057402_usa/data-analyst) | Apex Systems | Oakland, CA | 2026-10-28 |
-| [Machine Learning Engineer Lead](https://jobs.compunnel.com/jobs/5872695) | Compunnel | Raleigh, North Carolina, United States | 2026-10-28 |
-| [Senior/Lead Software Engineer Full Stack](https://jobs.compunnel.com/jobs/6041374) | Compunnel | Plano, Texas, United States | 2026-10-28 |
+| [Servicenow Developer Florida](https://alldus.com/job/58612-servicenow-developer-florida/) | Alldus | Florida | 2026-10-28 |
+| [Senior Software Engineer Vault San Francisco California](https://alldus.com/job/58889-senior-software-engineer-vault-san-francisco-california/) | Alldus | San Francisco, California | 2026-10-28 |
+| [Full Stack Engineering Consultant](https://agilityconnect.io/jobs/8579) | Agility Connect | Charlotte, NC | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
