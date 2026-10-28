@@ -27,52 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 29 new roles this update · 6455 tracked total · updated `2026-10-27T22:08:10+00:00`
+### 🆕 4 new roles this update · 6211 tracked total · updated `2026-10-28T04:56:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 9 |
-| TEKsystems | 5 |
-| Kforce | 4 |
-| Apex Systems | 3 |
-| ASK Consulting | 2 |
-| Beacon Hill | 2 |
-| Stanton House | 1 |
-| Motion Recruitment | 1 |
-| Harnham | 1 |
-| Brooksource | 1 |
+| Apex Systems | 2 |
+| Compunnel | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Analytics Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2192583T1~99/) | Kforce | Brooklyn, NY | 2026-10-27 |
-| [Business Data Analyst IV](http://www.kforce.com/Jobs/1696~WQG~2192576T1~99/) | Kforce | Mountain View, CA | 2026-10-27 |
-| [Tableau Developer](http://www.kforce.com/Jobs/1696~WQG~2192552T1~99/) | Kforce | San Antonio, TX | 2026-10-27 |
-| [Snowflake Platform Database Engineer](http://www.kforce.com/Jobs/1696~AQG~2192574T1~99/) | Kforce | Dallas, TX | 2026-10-27 |
-| [ServiceNow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380656/ServiceNow-Application-Engineer) | TEKsystems | Omaha, Nebraska | 2026-10-27 |
-| [Technical Lead/Architect - AI Platforms](https://careers.teksystems.com/us/en/job/JP-006381347/Technical-Lead-Architect-AI-Platforms) | TEKsystems | North Chicago, Illinois | 2026-10-27 |
-| [Servicenow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380675/Servicenow-Application-Engineer) | TEKsystems | Chicago, Illinois | 2026-10-27 |
-| [M365 Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006379610/M365-Platform-Engineer) | TEKsystems | Appleton, Wisconsin | 2026-10-27 |
-| [Jr. Developer](https://careers.teksystems.com/us/en/job/JP-006375392/Jr-Developer) | TEKsystems | Lansing, Michigan | 2026-10-27 |
-| [Developer](https://www.apexsystems.com/job/3057391_usa/developer) | Apex Systems | Austin, TX | 2026-10-27 |
-| [Appian Developer](https://www.apexsystems.com/job/3057265_usa/appian-developer) | Apex Systems | Woonsocket, RI | 2026-10-27 |
-| [Data Scientist](https://www.apexsystems.com/job/3056789_usa/data-scientist) | Apex Systems | Lake Buena Vista, FL | 2026-10-27 |
-| [Solutions Architect](https://www.roberthalf.com/us/en/job/philadelphia-pa/solutions-architect/04838-0013515832-usen) | Robert Half | Philadelphia, 04838 | 2026-10-27 |
-| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513227-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/ai-engineer/04951-0013513230-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
-| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-software-engineer/04951-0013513228-usen) | Robert Half | Fort Washington, 04951 | 2026-10-27 |
-| [Mlops Engineer Ii Gpu Compute](https://www.roberthalf.com/us/en/job/coppell-tx/mlops-engineer-ii-gpu-compute/04010-9504418203-usen) | Robert Half | Coppell, 04010 | 2026-10-27 |
-| [Provider Enrollment Coordinator](https://www.roberthalf.com/us/en/job/orlando-fl/provider-enrollment-coordinator/01030-0013209477-usen) | Robert Half | Orlando, 01030 | 2026-10-27 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/del-mar-ca/software-engineering-manager/00350-0013522789-usen) | Robert Half | Del Mar, 00350 | 2026-10-27 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/oskaloosa-ia/data-engineer/01500-0013497785-usen) | Robert Half | Oskaloosa, 01500 | 2026-10-27 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/oklahoma-city-ok/sr-software-engineer/03500-0013508770-usen) | Robert Half | Oklahoma City, 03500 | 2026-10-27 |
-| [Senior Physical Security Engineer](https://www.stantonhouse.com/us/jobs/33154-Senior-Physical-Security-Engineer) | Stanton House | Remote or Hybrid in New York City, Denver, or Charlotte | 2026-10-27 |
-| [Principal Cloud Architect // Milford MA](https://motionrecruitment.com/tech-jobs/milford/direct-hire/principal-cloud-architect-milford-ma/893509) | Motion Recruitment | Milford, Massachusetts | 2026-10-27 |
-| [Application Security Engineer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132809/Application Security Engineer) | ASK Consulting | San Mateo, CA, 94404 | 2026-10-27 |
-| [Data Analyst Research I](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/132806/ Data Analyst Research I) | ASK Consulting | South San Francisco, CA, 94080 | 2026-10-27 |
-| [DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-austin-texas/) | Harnham | Austin, Texas | 2026-10-27 |
-| [Lead Data Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000000w7qveai-lead-data-engineer-clayton-missouri/) | Brooksource | Clayton, Missouri | 2026-10-27 |
-| [Data Scientist](https://bhsg.com/jobs/job/tt1478937csm_1793131558-data-scientist-cambridge-massachusetts/) | Beacon Hill | — | 2026-10-27 |
-| [Lead Workday Developer](https://bhsg.com/jobs/job/t1479651-phi_1793122887-lead-workday-developer-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-10-27 |
+| [Application Developer to support Department of Tax & Collections (DTAC) Project](https://www.apexsystems.com/job/3057488_usa/application-developer-to-support-department-of-tax--collections-dtac-project) | Apex Systems | San Jose, CA | 2026-10-28 |
+| [Data Analyst](https://www.apexsystems.com/job/3057402_usa/data-analyst) | Apex Systems | Oakland, CA | 2026-10-28 |
+| [Machine Learning Engineer Lead](https://jobs.compunnel.com/jobs/5872695) | Compunnel | Raleigh, North Carolina, United States | 2026-10-28 |
+| [Senior/Lead Software Engineer Full Stack](https://jobs.compunnel.com/jobs/6041374) | Compunnel | Plano, Texas, United States | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
