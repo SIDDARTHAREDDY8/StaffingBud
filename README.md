@@ -27,28 +27,23 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 6225 tracked total · updated `2026-10-29T00:47:17+00:00`
+### 🆕 7 new roles this update · 6232 tracked total · updated `2026-10-29T09:44:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 4 |
+| Robert Half | 4 |
 | TEKsystems | 2 |
-| Motion Recruitment | 2 |
-| Talent Groups | 1 |
-| Compunnel | 1 |
+| Kforce | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Open Enrollment Specialist](https://careers.teksystems.com/us/en/job/JP-006383993/Open-Enrollment-Specialist) | TEKsystems | Okemos, Michigan | 2026-10-29 |
-| [MLOps Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006384298/MLOps-Engineer-Databricks) | TEKsystems | Columbus, Ohio | 2026-10-29 |
-| [Sr. ServiceNow Developer](https://www.apexsystems.com/job/3056951_usa/sr-servicenow-developer) | Apex Systems | Milford Mill, MD | 2026-10-29 |
-| [Guidewire PolicyCenter Digital Platform Principal Software Engineer](https://www.apexsystems.com/job/3057633_usa/guidewire-policycenter-digital-platform-principal-software-engineer) | Apex Systems | Wauwatosa, WI | 2026-10-29 |
-| [Guidewire PolicyCenter Principal Software Engineer](https://www.apexsystems.com/job/3057575_usa/guidewire-policycenter-principal-software-engineer) | Apex Systems | Wauwatosa,, WI | 2026-10-29 |
-| [Enterprise Data Architect](https://www.apexsystems.com/job/3057452_usa/enterprise-data-architect) | Apex Systems | Dearborn, MI | 2026-10-29 |
-| [ArcGIS Online Accessibility Developer](https://www.talentgroups.com/job-details/arcgis-online-accessibility-developer-in-other-jobs-1773324) | Talent Groups | Boston, MA | 2026-10-29 |
-| [Full Stack Java / Apache Tomcat Engineer](https://motionrecruitment.com/tech-jobs/iselin/contract/full-stack-java-apache-tomcat-engineer/887834) | Motion Recruitment | ISELIN, NJ | 2026-10-29 |
-| [Senior DevOps Platform Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-platform-engineer/893603) | Motion Recruitment | Chicago, Illinois | 2026-10-29 |
-| [IAM Solutions Architect Microsoft Entra ID](https://jobs.compunnel.com/jobs/6009578) | Compunnel | Phoenix, Arizona, United States | 2026-10-29 |
+| [Software Engineer - Military](http://www.kforce.com/Jobs/1696~EQG~2192594P1~99/) | Kforce | Pittsburgh, PA | 2026-10-29 |
+| [Platform Engineer (W2 ONLY And Pacific Hours)](https://careers.teksystems.com/us/en/job/JP-006377647/Platform-Engineer-W2-ONLY-And-Pacific-Hours) | TEKsystems | Dallas, Texas | 2026-10-29 |
+| [AI Solutions Lead](https://careers.teksystems.com/us/en/job/JP-006384580/AI-Solutions-Lead) | TEKsystems | Riverside, California | 2026-10-29 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/san-antonio-tx/software-developer/04080-0013478756-usen) | Robert Half | San Antonio, 04080 | 2026-10-29 |
+| [Programmer Analyst](https://www.roberthalf.com/us/en/job/houston-tx/programmer-analyst/04130-0013508842-usen) | Robert Half | Houston, 04130 | 2026-10-29 |
+| [Director Data Analyticsai](https://www.roberthalf.com/us/en/job/san-antonio-tx/director-data-analyticsai/04080-0013457838-usen) | Robert Half | San Antonio, 04080 | 2026-10-29 |
+| [Back End Developer](https://www.roberthalf.com/us/en/job/wheeling-il/back-end-developer/01300-0013451826-usen) | Robert Half | Wheeling, 01300 | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
