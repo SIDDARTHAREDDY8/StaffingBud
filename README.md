@@ -27,43 +27,28 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 24 new roles this update · 6230 tracked total · updated `2026-10-28T20:15:57+00:00`
+### 🆕 10 new roles this update · 6225 tracked total · updated `2026-10-29T00:47:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 11 |
-| TEKsystems | 5 |
-| Kforce | 3 |
-| Motion Recruitment | 3 |
-| CRG | 1 |
-| KellyMitchell | 1 |
+| Apex Systems | 4 |
+| TEKsystems | 2 |
+| Motion Recruitment | 2 |
+| Talent Groups | 1 |
+| Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~EQG~2192686T1~99/) | Kforce | Atlanta, GA | 2026-10-28 |
-| [Business Analytics Engineer / Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2192486T1~99/) | Kforce | Chicago, IL | 2026-10-28 |
-| [Principal Software Engineer](http://www.kforce.com/Jobs/1696~AQG~2192521T1~99/) | Kforce | Tampa, FL | 2026-10-28 |
-| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006383579/Data-Analyst) | TEKsystems | Baltimore, Maryland | 2026-10-28 |
-| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006381588/Mid-Senior-ServiceNow-Developer) | TEKsystems | Fort Meade, Maryland | 2026-10-28 |
-| [Servicenow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380679/Servicenow-Application-Engineer) | TEKsystems | Glen Allen, Virginia | 2026-10-28 |
-| [Senior Business Intelligence Developer](https://careers.teksystems.com/us/en/job/JP-006381363/Senior-Business-Intelligence-Developer) | TEKsystems | Stamford, Connecticut | 2026-10-28 |
-| [Servicenow Application Engineer](https://careers.teksystems.com/us/en/job/JP-006380668/Servicenow-Application-Engineer) | TEKsystems | Albany, New York | 2026-10-28 |
-| [Solutions Architecthubspot](https://www.roberthalf.com/us/en/job/tampa-fl/solutions-architecthubspot/01070-9504341934-usen) | Robert Half | Tampa, 01070 | 2026-10-28 |
-| [Sr Java Software Engineer](https://www.roberthalf.com/us/en/job/west-des-moines-ia/sr-java-software-engineer/01500-0013525108-usen) | Robert Half | West Des Moines, 01500 | 2026-10-28 |
-| [Ios Software Engineer Swift Swiftui](https://www.roberthalf.com/us/en/job/glendale-az/ios-software-engineer-swift-swiftui/00210-9504416813-usen) | Robert Half | Glendale, 00210 | 2026-10-28 |
-| [Senior Front End Software Engineer](https://www.roberthalf.com/us/en/job/fort-washington-pa/senior-front-end-software-engineer/03720-0013460072-usen) | Robert Half | Fort Washington, 03720 | 2026-10-28 |
-| [Mobile Developer](https://www.roberthalf.com/us/en/job/atlanta-ga/mobile-developer/00900-9504416521-usen) | Robert Half | Atlanta, 00900 | 2026-10-28 |
-| [Software Engineer Ai](https://www.roberthalf.com/us/en/job/los-angeles-ca/software-engineer-ai/00320-0013523326-usen) | Robert Half | Los Angeles, 00320 | 2026-10-28 |
-| [Cloud Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/cloud-engineer/00900-9504416513-usen) | Robert Half | Atlanta, 00900 | 2026-10-28 |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/monroe-ny/artificial-intelligence-ai-engineer/02710-0013403542-usen) | Robert Half | Monroe, 02710 | 2026-10-28 |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/artificial-intelligence-ai-engineer/01120-0013517988-usen) | Robert Half | Jacksonville, 01120 | 2026-10-28 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/greenville-sc/software-engineer/03230-0013524513-usen) | Robert Half | Greenville, 03230 | 2026-10-28 |
-| [Ai Consultant](https://www.roberthalf.com/us/en/job/atlanta-ga/ai-consultant/00900-9504416511-usen) | Robert Half | Atlanta, 00900 | 2026-10-28 |
-| [iOS Developer/ Software Engineer](https://jobs.getcrg.com/jobs/16813) | CRG | Fort Mill, South Carolina | 2026-10-28 |
-| [US_Data Analyst_Research I_CO](https://motionrecruitment.com/tech-jobs/south-san-francisco/contract/us_data-analyst_research-i_co/893459) | Motion Recruitment | South San Francisco, California | 2026-10-28 |
-| [Senior Software Engineer // Typescript/Node.js // Remote Ecommerce platform](https://motionrecruitment.com/tech-jobs/washington-/direct-hire/senior-software-engineer-typescript-nodedot-js-remote-ecommerce-platform/893587) | Motion Recruitment | Washington , DC | 2026-10-28 |
-| [Senior Fullstack Engineer // Typescript/Node.js/React // REMOTE PST](https://motionrecruitment.com/tech-jobs/washington-/direct-hire/senior-fullstack-engineer-typescript-nodedot-js-react-remote-pst/893580) | Motion Recruitment | Washington , DC | 2026-10-28 |
-| [Senior Front-End Engineer (React + Foundry)](https://www.careers.kellymitchell.com/jobs/143580) | KellyMitchell | Oakland, California, 94612 | 2026-10-28 |
+| [Open Enrollment Specialist](https://careers.teksystems.com/us/en/job/JP-006383993/Open-Enrollment-Specialist) | TEKsystems | Okemos, Michigan | 2026-10-29 |
+| [MLOps Engineer (Databricks)](https://careers.teksystems.com/us/en/job/JP-006384298/MLOps-Engineer-Databricks) | TEKsystems | Columbus, Ohio | 2026-10-29 |
+| [Sr. ServiceNow Developer](https://www.apexsystems.com/job/3056951_usa/sr-servicenow-developer) | Apex Systems | Milford Mill, MD | 2026-10-29 |
+| [Guidewire PolicyCenter Digital Platform Principal Software Engineer](https://www.apexsystems.com/job/3057633_usa/guidewire-policycenter-digital-platform-principal-software-engineer) | Apex Systems | Wauwatosa, WI | 2026-10-29 |
+| [Guidewire PolicyCenter Principal Software Engineer](https://www.apexsystems.com/job/3057575_usa/guidewire-policycenter-principal-software-engineer) | Apex Systems | Wauwatosa,, WI | 2026-10-29 |
+| [Enterprise Data Architect](https://www.apexsystems.com/job/3057452_usa/enterprise-data-architect) | Apex Systems | Dearborn, MI | 2026-10-29 |
+| [ArcGIS Online Accessibility Developer](https://www.talentgroups.com/job-details/arcgis-online-accessibility-developer-in-other-jobs-1773324) | Talent Groups | Boston, MA | 2026-10-29 |
+| [Full Stack Java / Apache Tomcat Engineer](https://motionrecruitment.com/tech-jobs/iselin/contract/full-stack-java-apache-tomcat-engineer/887834) | Motion Recruitment | ISELIN, NJ | 2026-10-29 |
+| [Senior DevOps Platform Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-platform-engineer/893603) | Motion Recruitment | Chicago, Illinois | 2026-10-29 |
+| [IAM Solutions Architect Microsoft Entra ID](https://jobs.compunnel.com/jobs/6009578) | Compunnel | Phoenix, Arizona, United States | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
