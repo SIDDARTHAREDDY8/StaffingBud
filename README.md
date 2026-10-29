@@ -27,23 +27,30 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 6232 tracked total · updated `2026-10-29T09:44:39+00:00`
+### 🆕 11 new roles this update · 6242 tracked total · updated `2026-10-29T18:20:08+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
+| Motion Recruitment | 4 |
 | TEKsystems | 2 |
+| Robert Half | 2 |
 | Kforce | 1 |
+| Apex Systems | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer - Military](http://www.kforce.com/Jobs/1696~EQG~2192594P1~99/) | Kforce | Pittsburgh, PA | 2026-10-29 |
-| [Platform Engineer (W2 ONLY And Pacific Hours)](https://careers.teksystems.com/us/en/job/JP-006377647/Platform-Engineer-W2-ONLY-And-Pacific-Hours) | TEKsystems | Dallas, Texas | 2026-10-29 |
-| [AI Solutions Lead](https://careers.teksystems.com/us/en/job/JP-006384580/AI-Solutions-Lead) | TEKsystems | Riverside, California | 2026-10-29 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/san-antonio-tx/software-developer/04080-0013478756-usen) | Robert Half | San Antonio, 04080 | 2026-10-29 |
-| [Programmer Analyst](https://www.roberthalf.com/us/en/job/houston-tx/programmer-analyst/04130-0013508842-usen) | Robert Half | Houston, 04130 | 2026-10-29 |
-| [Director Data Analyticsai](https://www.roberthalf.com/us/en/job/san-antonio-tx/director-data-analyticsai/04080-0013457838-usen) | Robert Half | San Antonio, 04080 | 2026-10-29 |
-| [Back End Developer](https://www.roberthalf.com/us/en/job/wheeling-il/back-end-developer/01300-0013451826-usen) | Robert Half | Wheeling, 01300 | 2026-10-29 |
+| [Snowflake Developer](http://www.kforce.com/Jobs/1696~AQG~2192721T1~99/) | Kforce | Smithfield, RI | 2026-10-29 |
+| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006383751/Senior-Software-Engineer) | TEKsystems | Los Angeles, California | 2026-10-29 |
+| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006383594/Data-Engineer) | TEKsystems | Sunnyvale, California | 2026-10-29 |
+| [Supply Chain Data Analyst w/ Databricks](https://www.apexsystems.com/job/3057550_usa/supply-chain-data-analyst-w-databricks) | Apex Systems | Stanford, CA | 2026-10-29 |
+| [Senior Backend Software Engineer Java Spring Boot](https://www.roberthalf.com/us/en/job/glendale-az/senior-backend-software-engineer-java-spring-boot/00210-9504416811-usen) | Robert Half | Glendale, 00210 | 2026-10-29 |
+| [Gis Developer](https://www.roberthalf.com/us/en/job/st-paul-mn/gis-developer/02310-0013525225-usen) | Robert Half | St Paul, 02310 | 2026-10-29 |
+| [Insurance Data Analyst - Boston, MA (Insurance Experience Required)](https://motionrecruitment.com/tech-jobs/boston/direct-hire/insurance-data-analyst-boston-ma-insurance-experience-required/893704) | Motion Recruitment | Boston, MA | 2026-10-29 |
+| [Cloud Security Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/cloud-security-engineer-boston-ma/893701) | Motion Recruitment | Boston, MA | 2026-10-29 |
+| [Lead Platform Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-platform-engineer-boston-ma/893700) | Motion Recruitment | Boston, MA | 2026-10-29 |
+| [Senior Machine Learning Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/senior-machine-learning-engineer-boston-ma/893699) | Motion Recruitment | Boston, MA | 2026-10-29 |
+| [SENIOR DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineer-addison-texas/) | Harnham | Addison, Texas | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
