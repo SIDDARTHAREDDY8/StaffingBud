@@ -27,30 +27,32 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 6242 tracked total · updated `2026-10-29T18:20:08+00:00`
+### 🆕 13 new roles this update · 6223 tracked total · updated `2026-10-30T00:49:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Motion Recruitment | 4 |
+| Robert Half | 5 |
 | TEKsystems | 2 |
-| Robert Half | 2 |
+| Compunnel | 2 |
+| Harnham | 2 |
 | Kforce | 1 |
-| Apex Systems | 1 |
-| Harnham | 1 |
+| Vaco | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Snowflake Developer](http://www.kforce.com/Jobs/1696~AQG~2192721T1~99/) | Kforce | Smithfield, RI | 2026-10-29 |
-| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006383751/Senior-Software-Engineer) | TEKsystems | Los Angeles, California | 2026-10-29 |
-| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006383594/Data-Engineer) | TEKsystems | Sunnyvale, California | 2026-10-29 |
-| [Supply Chain Data Analyst w/ Databricks](https://www.apexsystems.com/job/3057550_usa/supply-chain-data-analyst-w-databricks) | Apex Systems | Stanford, CA | 2026-10-29 |
-| [Senior Backend Software Engineer Java Spring Boot](https://www.roberthalf.com/us/en/job/glendale-az/senior-backend-software-engineer-java-spring-boot/00210-9504416811-usen) | Robert Half | Glendale, 00210 | 2026-10-29 |
-| [Gis Developer](https://www.roberthalf.com/us/en/job/st-paul-mn/gis-developer/02310-0013525225-usen) | Robert Half | St Paul, 02310 | 2026-10-29 |
-| [Insurance Data Analyst - Boston, MA (Insurance Experience Required)](https://motionrecruitment.com/tech-jobs/boston/direct-hire/insurance-data-analyst-boston-ma-insurance-experience-required/893704) | Motion Recruitment | Boston, MA | 2026-10-29 |
-| [Cloud Security Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/cloud-security-engineer-boston-ma/893701) | Motion Recruitment | Boston, MA | 2026-10-29 |
-| [Lead Platform Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-platform-engineer-boston-ma/893700) | Motion Recruitment | Boston, MA | 2026-10-29 |
-| [Senior Machine Learning Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/senior-machine-learning-engineer-boston-ma/893699) | Motion Recruitment | Boston, MA | 2026-10-29 |
-| [SENIOR DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-engineer-addison-texas/) | Harnham | Addison, Texas | 2026-10-29 |
+| [AI Data Analyst / Analytics Engineer](http://www.kforce.com/Jobs/1696~NRC~2192827T1~99/) | Kforce | Brookhaven, GA | 2026-10-30 |
+| [Java Developer](https://careers.teksystems.com/us/en/job/JP-006385356/Java-Developer) | TEKsystems | Kansas City, Kansas | 2026-10-30 |
+| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006385591/Power-Platform-Developer) | TEKsystems | Kansas City, Missouri | 2026-10-30 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/chicago-il/sr-software-engineer/01300-0013525733-usen) | Robert Half | Chicago, 01300 | 2026-10-30 |
+| [Software Engineer Team Lead](https://www.roberthalf.com/us/en/job/houston-tx/software-engineer-team-lead/04130-0013524319-usen) | Robert Half | Houston, 04130 | 2026-10-30 |
+| [Ai Trainer](https://www.roberthalf.com/us/en/job/los-angeles-ca/ai-trainer/00290-0013526071-usen) | Robert Half | Los Angeles, 00290 | 2026-10-30 |
+| [Ai Strategy Consultant](https://www.roberthalf.com/us/en/job/tampa-fl/ai-strategy-consultant/01020-9504419827-usen) | Robert Half | Tampa, 01020 | 2026-10-30 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/data-engineer/00320-0013503591-usen) | Robert Half | Los Angeles, 00320 | 2026-10-30 |
+| [Bi Developer](https://jobs.vaco.com/job/2784/bi_developer/en) | Vaco | Greenville, South Carolina | 2026-10-30 |
+| [Associate Data Architect I ETL Developer / Data Integration](https://jobs.compunnel.com/jobs/6013227) | Compunnel | Richmond, Virginia, United States | 2026-10-30 |
+| [Application Security Engineer with CodeQL](https://jobs.compunnel.com/jobs/6022168) | Compunnel | Southlake, Texas, United States | 2026-10-30 |
+| [MACHINE LEARNING ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-new-york/) | Harnham | New York | 2026-10-30 |
+| [DATA ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-nottingham-nottinghamshire/) | Harnham | Nottingham, Nottinghamshire | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
