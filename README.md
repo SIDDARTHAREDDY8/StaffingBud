@@ -27,32 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 6223 tracked total · updated `2026-10-30T00:49:21+00:00`
+### 🟢 No new roles this update · **6213** roles open total · updated `2026-10-30T09:55:07+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 5 |
-| TEKsystems | 2 |
-| Compunnel | 2 |
-| Harnham | 2 |
-| Kforce | 1 |
-| Vaco | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [AI Data Analyst / Analytics Engineer](http://www.kforce.com/Jobs/1696~NRC~2192827T1~99/) | Kforce | Brookhaven, GA | 2026-10-30 |
-| [Java Developer](https://careers.teksystems.com/us/en/job/JP-006385356/Java-Developer) | TEKsystems | Kansas City, Kansas | 2026-10-30 |
-| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006385591/Power-Platform-Developer) | TEKsystems | Kansas City, Missouri | 2026-10-30 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/chicago-il/sr-software-engineer/01300-0013525733-usen) | Robert Half | Chicago, 01300 | 2026-10-30 |
-| [Software Engineer Team Lead](https://www.roberthalf.com/us/en/job/houston-tx/software-engineer-team-lead/04130-0013524319-usen) | Robert Half | Houston, 04130 | 2026-10-30 |
-| [Ai Trainer](https://www.roberthalf.com/us/en/job/los-angeles-ca/ai-trainer/00290-0013526071-usen) | Robert Half | Los Angeles, 00290 | 2026-10-30 |
-| [Ai Strategy Consultant](https://www.roberthalf.com/us/en/job/tampa-fl/ai-strategy-consultant/01020-9504419827-usen) | Robert Half | Tampa, 01020 | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/data-engineer/00320-0013503591-usen) | Robert Half | Los Angeles, 00320 | 2026-10-30 |
-| [Bi Developer](https://jobs.vaco.com/job/2784/bi_developer/en) | Vaco | Greenville, South Carolina | 2026-10-30 |
-| [Associate Data Architect I ETL Developer / Data Integration](https://jobs.compunnel.com/jobs/6013227) | Compunnel | Richmond, Virginia, United States | 2026-10-30 |
-| [Application Security Engineer with CodeQL](https://jobs.compunnel.com/jobs/6022168) | Compunnel | Southlake, Texas, United States | 2026-10-30 |
-| [MACHINE LEARNING ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-new-york/) | Harnham | New York | 2026-10-30 |
-| [DATA ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-nottingham-nottinghamshire/) | Harnham | Nottingham, Nottinghamshire | 2026-10-30 |
+Nothing new since the last run — [browse all 6213 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
