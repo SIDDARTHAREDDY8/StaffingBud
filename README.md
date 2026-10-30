@@ -27,64 +27,31 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 44 new roles this update · 6236 tracked total · updated `2026-10-30T17:59:32+00:00`
+### 🆕 12 new roles this update · 6247 tracked total · updated `2026-10-30T22:10:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 32 |
 | TEKsystems | 3 |
-| Apex Systems | 3 |
-| Motion Recruitment | 2 |
+| Robert Half | 2 |
+| CornerStone TTS | 2 |
 | Harnham | 2 |
-| Goodwin Recruiting | 1 |
-| Fast Switch | 1 |
+| Beacon Hill | 2 |
+| Kforce | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Cloud Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006387516/Cloud-Infrastructure-Engineer) | TEKsystems | Minneapolis, Minnesota | 2026-10-30 |
-| [Databricks Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006388230/Databricks-Solutions-Architect) | TEKsystems | Dallas, Texas | 2026-10-30 |
-| [Application Developer](https://careers.teksystems.com/us/en/job/JP-006387540/Application-Developer) | TEKsystems | Morton, Illinois | 2026-10-30 |
-| [SR Software Engineer](https://www.apexsystems.com/job/3057870_usa/sr-software-engineer) | Apex Systems | Eagan, MN | 2026-10-30 |
-| [Sr Database Developer](https://www.apexsystems.com/job/3057858_usa/sr-database-developer) | Apex Systems | Chicago, IL | 2026-10-30 |
-| [Network Real Estate Specialist / Developer - III](https://www.apexsystems.com/job/3057824_usa/network-real-estate-specialist--developer---iii) | Apex Systems | Walnut Creek, CA | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/milwaukee-wi/data-engineer/04600-0013495125-usen) | Robert Half | Milwaukee, 04600 | 2026-10-30 |
-| [Front End Developer Ii](https://www.roberthalf.com/us/en/job/marion-oh/front-end-developer-ii/03340-0013525322-usen) | Robert Half | Marion, 03340 | 2026-10-30 |
-| [Director Data Analytics](https://www.roberthalf.com/us/en/job/worcester-ma/director-data-analytics/02100-0013525595-usen) | Robert Half | Worcester, 02100 | 2026-10-30 |
-| [Frontend Developer](https://www.roberthalf.com/us/en/job/boca-raton-fl/frontend-developer/01020-9504419624-usen) | Robert Half | Boca Raton, 01020 | 2026-10-30 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-developer/01120-0013525596-usen) | Robert Half | Jacksonville, 01120 | 2026-10-30 |
-| [Ai Machine Learning Engineer](https://www.roberthalf.com/us/en/job/des-moines-ia/ai-machine-learning-engineer/01500-0013525794-usen) | Robert Half | Des Moines, 01500 | 2026-10-30 |
-| [Ai Data Center Pmo Leader](https://www.roberthalf.com/us/en/job/irvine-ca/ai-data-center-pmo-leader/00400-0013527721-usen) | Robert Half | Irvine, 00400 | 2026-10-30 |
-| [Ai Data Center Infrastructure Architect](https://www.roberthalf.com/us/en/job/irvine-ca/ai-data-center-infrastructure-architect/00400-0013527720-usen) | Robert Half | Irvine, 00400 | 2026-10-30 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/la-jolla-ca/ai-engineer/00400-0013527718-usen) | Robert Half | La Jolla, 00400 | 2026-10-30 |
-| [Principal Data Engineer](https://www.roberthalf.com/us/en/job/avon-mn/principal-data-engineer/02310-0013504240-usen) | Robert Half | Avon, 02310 | 2026-10-30 |
-| [Solutions Architect](https://www.roberthalf.com/us/en/job/north-brunswick-nj/solutions-architect/02720-0013481265-usen) | Robert Half | North Brunswick, 02720 | 2026-10-30 |
-| [Sr Automation Developer](https://www.roberthalf.com/us/en/job/fairfield-nj/sr-automation-developer/02720-0013503901-usen) | Robert Half | Fairfield, 02720 | 2026-10-30 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-9504420146-usen) | Robert Half | Jacksonville, 01120 | 2026-10-30 |
-| [Sr Software Developer](https://www.roberthalf.com/us/en/job/montvale-nj/sr-software-developer/02710-0013526339-usen) | Robert Half | Montvale, 02710 | 2026-10-30 |
-| [Ai Security Architect](https://www.roberthalf.com/us/en/job/malvern-pa/ai-security-architect/03710-0013525784-usen) | Robert Half | Malvern, 03710 | 2026-10-30 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/denton-tx/software-developer/04010-0013526360-usen) | Robert Half | Denton, 04010 | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523516-usen) | Robert Half | Philadelphia, 03720 | 2026-10-30 |
-| [Data Scientist Big Data Iii Contractor](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-scientist-big-data-iii-contractor/04838-0013526602-usen) | Robert Half | Philadelphia, 04838 | 2026-10-30 |
-| [Systems Security Engineer](https://www.roberthalf.com/us/en/job/san-antonio-tx/systems-security-engineer/04080-0013506297-usen) | Robert Half | San Antonio, 04080 | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/avon-mn/data-engineer/02310-0013504307-usen) | Robert Half | Avon, 02310 | 2026-10-30 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/tallahassee-fl/data-analyst/01120-0013526087-usen) | Robert Half | Tallahassee, 01120 | 2026-10-30 |
-| [Inventory Data Analyst](https://www.roberthalf.com/us/en/job/bloomington-mn/inventory-data-analyst/02340-0013528124-usen) | Robert Half | Bloomington, 02340 | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523514-usen) | Robert Half | Philadelphia, 03720 | 2026-10-30 |
-| [Artificial Intelligence Ai System Engineer](https://www.roberthalf.com/us/en/job/albuquerque-nm/artificial-intelligence-ai-system-engineer/02800-0013459777-usen) | Robert Half | Albuquerque, 02800 | 2026-10-30 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/kingston-ny/software-engineering-manager/00700-0013489858-usen) | Robert Half | Kingston, 00700 | 2026-10-30 |
-| [Data Analyst Basic 13 Years](https://www.roberthalf.com/us/en/job/newark-de/data-analyst-basic-13-years/03720-0013525674-usen) | Robert Half | Newark, 04730 | 2026-10-30 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/arlington-tx/data-engineer/04030-0013527669-usen) | Robert Half | Arlington, 04030 | 2026-10-30 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/diamond-bar-ca/data-analyst/00300-0013526499-usen) | Robert Half | Diamond Bar, 00300 | 2026-10-30 |
-| [Data Scientist Ai Ml Analyst](https://www.roberthalf.com/us/en/job/des-moines-ia/data-scientist-ai-ml-analyst/01500-0013528093-usen) | Robert Half | Des Moines, 01500 | 2026-10-30 |
-| [Senior Cloud Infrastructure Engineer Azure](https://www.roberthalf.com/us/en/job/bethesda-md/senior-cloud-infrastructure-engineer-azure/04510-0013405418-usen) | Robert Half | Bethesda, 04510 | 2026-10-30 |
-| [Oracle Hcm Analyst Functionalnondeveloper](https://www.roberthalf.com/us/en/job/saint-joseph-mo/oracle-hcm-analyst-functionalnondeveloper/01500-0013529385-usen) | Robert Half | Saint Joseph, 01500 | 2026-10-30 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-analyst/04410-0013529250-usen) | Robert Half | Cincinnati, 04410 | 2026-10-30 |
-| [Full Stack Java Developer](https://motionrecruitment.com/tech-jobs/rutherford/contract/full-stack-java-developer/893640) | Motion Recruitment | Rutherford, New Jersey | 2026-10-30 |
-| [Senior DevOps Engineer](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-devops-engineer/893777) | Motion Recruitment | Chicago, Illinois | 2026-10-30 |
-| [AI ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-engineer-cambridge-massachusetts/) | Harnham | Cambridge, Massachusetts | 2026-10-30 |
-| [FOUNDING DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-founding-data-scientist-new-york/) | Harnham | New York | 2026-10-30 |
-| [Security Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003hy0lmaw-security-engineer-lawrenceville-georgia) | Goodwin Recruiting | — | 2026-10-30 |
-| [Developer – Mastery](https://fastswitch.com/jobs/developer-mastery-61911/) | Fast Switch | Location: Springfield, Massachusetts | 2026-10-30 |
+| [Business/Data Analyst - Senior](http://www.kforce.com/Jobs/1696~TVT~2192972T1~99/) | Kforce | San Antonio, TX | 2026-10-30 |
+| [Software Developer](https://careers.teksystems.com/us/en/job/JP-006388970/Software-Developer) | TEKsystems | Omaha, Nebraska | 2026-10-30 |
+| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006386537/Data-Architect) | TEKsystems | Rochester, New York | 2026-10-30 |
+| [Data Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006386739/Data-Platform-Engineer) | TEKsystems | Rochester, New York | 2026-10-30 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/los-angeles-ca/data-scientist/00320-0013528081-usen) | Robert Half | Los Angeles, 00320 | 2026-10-30 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/appleton-wi/cyber-security-engineer/04620-0013527493-usen) | Robert Half | Appleton, 04620 | 2026-10-30 |
+| [Senior Data Integration Developer - Healthcare & Public Health](https://jobs.cornerstonetechtalent.com/jb/Senior-Data-Integration-Developer-Healthcare-Public-Health-Jobs-in-Austin-Texas/14384394) | CornerStone TTS | Austin Texas | 2026-10-30 |
+| [Mainframe Developer (COBOL / Natural / Adabas)](https://jobs.cornerstonetechtalent.com/jb/Mainframe-Developer-COBOL-Natural-Adabas-Jobs-in-Columbia-South-Carolina/14384395) | CornerStone TTS | Columbia South Carolina | 2026-10-30 |
+| [AI RESEARCHER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-researcher-san-francisco-california-2/) | Harnham | San Francisco, California | 2026-10-30 |
+| [LEAD SOFTWARE ENGINEER – FRONTEND](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-software-engineer-frontend-new-york/) | Harnham | New York | 2026-10-30 |
+| [Senior UI Software Engineer,Angular,NestJS,AWS,Redis,Agile](https://bhsg.com/jobs/job/ns-uid-ns_1793391237-senior-ui-software-engineerangularnestjsawsredisagile-seattle-washington/) | Beacon Hill | — | 2026-10-30 |
+| [Senior UI Software Engineer](https://bhsg.com/jobs/job/ns-uid-ns_1793390236-senior-ui-software-engineer-orlando-florida/) | Beacon Hill | — | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
