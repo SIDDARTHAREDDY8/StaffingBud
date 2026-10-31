@@ -27,19 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 6098 tracked total · updated `2026-10-31T04:53:11+00:00`
+### 🆕 3 new roles this update · 6101 tracked total · updated `2026-10-31T12:00:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 3 |
-| Motion Recruitment | 1 |
+| Alldus | 1 |
+| Agility Connect | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst Fiber Infrastructure / Project Reporting](https://careers.teksystems.com/us/en/job/JP-006389488/Data-Analyst-Fiber-Infrastructure-Project-Reporting) | TEKsystems | Phoenix, Arizona | 2026-10-31 |
-| [Analytics Engineer](https://careers.teksystems.com/us/en/job/JP-006390178/Analytics-Engineer) | TEKsystems | Scottsdale, Arizona | 2026-10-31 |
-| [Full Stack Developer III](https://careers.teksystems.com/us/en/job/JP-006388319/Full-Stack-Developer-III) | TEKsystems | Newport Beach, California | 2026-10-31 |
-| [Lead Angular Developer](https://motionrecruitment.com/tech-jobs/irving/contract/lead-angular-developer/893718) | Motion Recruitment | Irving, Texas | 2026-10-31 |
+| [Servicenow Developer Secops Issy Les Moulineaux Nouvelle Aquitaine](https://alldus.com/job/58906-servicenow-developer-secops-issy-les-moulineaux-nouvelle-aquitaine/) | Alldus | Issy les Moulineaux, Nouvelle-Aquitaine | 2026-10-31 |
+| [Software Engineer II](https://agilityconnect.io/jobs/8586) | Agility Connect | Cincinnati, OH | 2026-10-31 |
+| [Senior Endpoint Security Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000017hefeae-senior-endpoint-security-engineer-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
