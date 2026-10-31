@@ -27,19 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 6101 tracked total · updated `2026-10-31T12:00:43+00:00`
+### 🟢 No new roles this update · **6101** roles open total · updated `2026-10-31T17:07:35+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Alldus | 1 |
-| Agility Connect | 1 |
-| Brooksource | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Servicenow Developer Secops Issy Les Moulineaux Nouvelle Aquitaine](https://alldus.com/job/58906-servicenow-developer-secops-issy-les-moulineaux-nouvelle-aquitaine/) | Alldus | Issy les Moulineaux, Nouvelle-Aquitaine | 2026-10-31 |
-| [Software Engineer II](https://agilityconnect.io/jobs/8586) | Agility Connect | Cincinnati, OH | 2026-10-31 |
-| [Senior Endpoint Security Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000017hefeae-senior-endpoint-security-engineer-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-10-31 |
+Nothing new since the last run — [browse all 6101 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
