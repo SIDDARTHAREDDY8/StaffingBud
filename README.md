@@ -27,31 +27,19 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 12 new roles this update · 6247 tracked total · updated `2026-10-30T22:10:56+00:00`
+### 🆕 4 new roles this update · 6098 tracked total · updated `2026-10-31T04:53:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
 | TEKsystems | 3 |
-| Robert Half | 2 |
-| CornerStone TTS | 2 |
-| Harnham | 2 |
-| Beacon Hill | 2 |
-| Kforce | 1 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Business/Data Analyst - Senior](http://www.kforce.com/Jobs/1696~TVT~2192972T1~99/) | Kforce | San Antonio, TX | 2026-10-30 |
-| [Software Developer](https://careers.teksystems.com/us/en/job/JP-006388970/Software-Developer) | TEKsystems | Omaha, Nebraska | 2026-10-30 |
-| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006386537/Data-Architect) | TEKsystems | Rochester, New York | 2026-10-30 |
-| [Data Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006386739/Data-Platform-Engineer) | TEKsystems | Rochester, New York | 2026-10-30 |
-| [Data Scientist](https://www.roberthalf.com/us/en/job/los-angeles-ca/data-scientist/00320-0013528081-usen) | Robert Half | Los Angeles, 00320 | 2026-10-30 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/appleton-wi/cyber-security-engineer/04620-0013527493-usen) | Robert Half | Appleton, 04620 | 2026-10-30 |
-| [Senior Data Integration Developer - Healthcare & Public Health](https://jobs.cornerstonetechtalent.com/jb/Senior-Data-Integration-Developer-Healthcare-Public-Health-Jobs-in-Austin-Texas/14384394) | CornerStone TTS | Austin Texas | 2026-10-30 |
-| [Mainframe Developer (COBOL / Natural / Adabas)](https://jobs.cornerstonetechtalent.com/jb/Mainframe-Developer-COBOL-Natural-Adabas-Jobs-in-Columbia-South-Carolina/14384395) | CornerStone TTS | Columbia South Carolina | 2026-10-30 |
-| [AI RESEARCHER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-ai-researcher-san-francisco-california-2/) | Harnham | San Francisco, California | 2026-10-30 |
-| [LEAD SOFTWARE ENGINEER – FRONTEND](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-software-engineer-frontend-new-york/) | Harnham | New York | 2026-10-30 |
-| [Senior UI Software Engineer,Angular,NestJS,AWS,Redis,Agile](https://bhsg.com/jobs/job/ns-uid-ns_1793391237-senior-ui-software-engineerangularnestjsawsredisagile-seattle-washington/) | Beacon Hill | — | 2026-10-30 |
-| [Senior UI Software Engineer](https://bhsg.com/jobs/job/ns-uid-ns_1793390236-senior-ui-software-engineer-orlando-florida/) | Beacon Hill | — | 2026-10-30 |
+| [Data Analyst Fiber Infrastructure / Project Reporting](https://careers.teksystems.com/us/en/job/JP-006389488/Data-Analyst-Fiber-Infrastructure-Project-Reporting) | TEKsystems | Phoenix, Arizona | 2026-10-31 |
+| [Analytics Engineer](https://careers.teksystems.com/us/en/job/JP-006390178/Analytics-Engineer) | TEKsystems | Scottsdale, Arizona | 2026-10-31 |
+| [Full Stack Developer III](https://careers.teksystems.com/us/en/job/JP-006388319/Full-Stack-Developer-III) | TEKsystems | Newport Beach, California | 2026-10-31 |
+| [Lead Angular Developer](https://motionrecruitment.com/tech-jobs/irving/contract/lead-angular-developer/893718) | Motion Recruitment | Irving, Texas | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
