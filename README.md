@@ -27,9 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **6101** roles open total · updated `2026-10-31T21:19:18+00:00`
+### 🆕 8 new roles this update · 5889 tracked total · updated `2026-11-01T05:17:43+00:00`
 
-Nothing new since the last run — [browse all 6101 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 5 |
+| Compunnel | 2 |
+| Brooksource | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Google Cloud Data And AI Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006387583/Google-Cloud-Data-And-AI-Solutions-Architect) | TEKsystems | Arlington, Virginia | 2026-11-01 |
+| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006385029/Software-Engineer) | TEKsystems | Rockville, Maryland | 2026-11-01 |
+| [Senior Software Developer](https://careers.teksystems.com/us/en/job/JP-006385199/Senior-Software-Developer) | TEKsystems | Hanover, Maryland | 2026-11-01 |
+| [Data Analyst (Financial Services Or Banking Experience Required)](https://careers.teksystems.com/us/en/job/JP-006386688/Data-Analyst-Financial-Services-Or-Banking-Experience-Required) | TEKsystems | Baltimore, Maryland | 2026-11-01 |
+| [Java Developer](https://careers.teksystems.com/us/en/job/JP-006386108/Java-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-01 |
+| [Principle Software Engineer](https://jobs.compunnel.com/jobs/6033710) | Compunnel | Nashua, New Hampshire, United States | 2026-11-01 |
+| [Full Stack Developer](https://jobs.compunnel.com/jobs/6092444) | Compunnel | Boston, Massachusetts, United States | 2026-11-01 |
+| [Firmware Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000016xk5eam-firmware-engineer-waukesha-wisconsin/) | Brooksource | Waukesha, Wisconsin | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
