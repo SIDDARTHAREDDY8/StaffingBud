@@ -27,27 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 5900 tracked total · updated `2026-11-01T13:02:18+00:00`
+### 🟢 No new roles this update · **5900** roles open total · updated `2026-11-01T19:30:30+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Gina's Tech Jobs | 7 |
-| Next Step Systems | 3 |
-| Brooksource | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-11-01 |
-| [Senior C++ Software Developer](https://www.ginastechjobs.com/job/senior-c-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
-| [Senior C++ Software Engineer](https://www.ginastechjobs.com/job/senior-c-software-engineer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
-| [Senior Software Developer](https://www.ginastechjobs.com/job/senior-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
-| [SQL Developer](https://www.ginastechjobs.com/job/sql-developer/) | Gina's Tech Jobs | Fort Lauderdale, FL, USA | 2026-11-01 |
-| [Junior C++ Software Developer](https://www.ginastechjobs.com/job/junior-c-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
-| [DevOps Engineer, Night Shift – Work From Home](https://www.ginastechjobs.com/job/devops-engineer-night-shift-work-from-home/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-11-01 |
-| [Systems Integration Developer, Python](https://www.nextstepsystems.com/job/systems-integration-developer-python/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
-| [C++ Software Developer](https://www.nextstepsystems.com/job/c-software-developer-3/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
-| [C++ Trade Desk Software Developer](https://www.nextstepsystems.com/job/c-trade-desk-software-developer-2/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
-| [GenAI Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000wvxneay-genai-developer-mclean-virginia/) | Brooksource | McLean, Virginia | 2026-11-01 |
+Nothing new since the last run — [browse all 5900 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
