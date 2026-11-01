@@ -27,24 +27,27 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 5889 tracked total · updated `2026-11-01T05:17:43+00:00`
+### 🆕 11 new roles this update · 5900 tracked total · updated `2026-11-01T13:02:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 5 |
-| Compunnel | 2 |
+| Gina's Tech Jobs | 7 |
+| Next Step Systems | 3 |
 | Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Google Cloud Data And AI Solutions Architect](https://careers.teksystems.com/us/en/job/JP-006387583/Google-Cloud-Data-And-AI-Solutions-Architect) | TEKsystems | Arlington, Virginia | 2026-11-01 |
-| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006385029/Software-Engineer) | TEKsystems | Rockville, Maryland | 2026-11-01 |
-| [Senior Software Developer](https://careers.teksystems.com/us/en/job/JP-006385199/Senior-Software-Developer) | TEKsystems | Hanover, Maryland | 2026-11-01 |
-| [Data Analyst (Financial Services Or Banking Experience Required)](https://careers.teksystems.com/us/en/job/JP-006386688/Data-Analyst-Financial-Services-Or-Banking-Experience-Required) | TEKsystems | Baltimore, Maryland | 2026-11-01 |
-| [Java Developer](https://careers.teksystems.com/us/en/job/JP-006386108/Java-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-01 |
-| [Principle Software Engineer](https://jobs.compunnel.com/jobs/6033710) | Compunnel | Nashua, New Hampshire, United States | 2026-11-01 |
-| [Full Stack Developer](https://jobs.compunnel.com/jobs/6092444) | Compunnel | Boston, Massachusetts, United States | 2026-11-01 |
-| [Firmware Engineer](https://jobs.brooksource.com/jobs/job/a1wcv0000016xk5eam-firmware-engineer-waukesha-wisconsin/) | Brooksource | Waukesha, Wisconsin | 2026-11-01 |
+| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-11-01 |
+| [Senior C++ Software Developer](https://www.ginastechjobs.com/job/senior-c-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
+| [Senior C++ Software Engineer](https://www.ginastechjobs.com/job/senior-c-software-engineer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
+| [Senior Software Developer](https://www.ginastechjobs.com/job/senior-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
+| [SQL Developer](https://www.ginastechjobs.com/job/sql-developer/) | Gina's Tech Jobs | Fort Lauderdale, FL, USA | 2026-11-01 |
+| [Junior C++ Software Developer](https://www.ginastechjobs.com/job/junior-c-software-developer-2/) | Gina's Tech Jobs | Chicago IL, USA | 2026-11-01 |
+| [DevOps Engineer, Night Shift – Work From Home](https://www.ginastechjobs.com/job/devops-engineer-night-shift-work-from-home/) | Gina's Tech Jobs | Chicago, IL, USA | 2026-11-01 |
+| [Systems Integration Developer, Python](https://www.nextstepsystems.com/job/systems-integration-developer-python/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
+| [C++ Software Developer](https://www.nextstepsystems.com/job/c-software-developer-3/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
+| [C++ Trade Desk Software Developer](https://www.nextstepsystems.com/job/c-trade-desk-software-developer-2/) | Next Step Systems | Chicago, IL, USA | 2026-11-01 |
+| [GenAI Developer](https://jobs.brooksource.com/jobs/job/a1wcv000000wvxneay-genai-developer-mclean-virginia/) | Brooksource | McLean, Virginia | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
