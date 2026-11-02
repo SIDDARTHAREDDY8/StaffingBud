@@ -27,9 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **5900** roles open total · updated `2026-11-01T19:30:30+00:00`
+### 🆕 2 new roles this update · 5399 tracked total · updated `2026-11-02T00:32:50+00:00`
 
-Nothing new since the last run — [browse all 5900 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Compunnel | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Frontend Developer](https://jobs.compunnel.com/jobs/6034179) | Compunnel | Durham, North Carolina, United States | 2026-11-02 |
+| [Senior AI Engineer](https://jobs.compunnel.com/jobs/5938262) | Compunnel | Taylor, Texas, United States | 2026-11-02 |
 <!-- JOBS:END -->
 
 ## How it works
