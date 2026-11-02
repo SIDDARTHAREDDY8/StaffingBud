@@ -27,9 +27,47 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **5399** roles open total · updated `2026-11-02T10:50:35+00:00`
+### 🆕 24 new roles this update · 5421 tracked total · updated `2026-11-02T21:39:49+00:00`
 
-Nothing new since the last run — [browse all 5399 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Talent Groups | 8 |
+| Motion Recruitment | 4 |
+| TEKsystems | 3 |
+| Robert Half | 2 |
+| KellyMitchell | 2 |
+| Kforce | 1 |
+| Apex Systems | 1 |
+| Vaco | 1 |
+| Alldus | 1 |
+| Beacon Hill | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2193073T1~99/) | Kforce | Wexford, PA | 2026-11-02 |
+| [Developer](https://careers.teksystems.com/us/en/job/JP-006392929/Developer) | TEKsystems | Cary, North Carolina | 2026-11-02 |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006391882/Data-Analyst) | TEKsystems | New Albany, Ohio | 2026-11-02 |
+| [AI Security Engineer](https://careers.teksystems.com/us/en/job/JP-006393516/AI-Security-Engineer) | TEKsystems | Charlotte, North Carolina | 2026-11-02 |
+| [Cloud Platform Engineer](https://www.apexsystems.com/job/3057953_usa/cloud-platform-engineer) | Apex Systems | Arlington, VA | 2026-11-02 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/commerce-ca/data-engineer/00320-0013526498-usen) | Robert Half | Commerce, 00320 | 2026-11-02 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/philadelphia-pa/erpcrm-developer/03720-0013525728-usen) | Robert Half | Philadelphia, 03720 | 2026-11-02 |
+| [Senior Software Engineer](https://jobs.vaco.com/job/2840/senior_software_engineer/en) | Vaco | Nashville, Tennessee | 2026-11-02 |
+| [Software Engineer New York](https://alldus.com/job/57698-software-engineer-new-york/) | Alldus | New York | 2026-11-02 |
+| [Data Analyst - Product Master](https://www.talentgroups.com/job-details/data-analyst-product-master-in-data-science-and-analytics-jobs-1779423) | Talent Groups | Dallas, TX | 2026-11-02 |
+| [Software Architect](https://www.talentgroups.com/job-details/software-architect-in-other-jobs-1779440) | Talent Groups | Westminster, CO | 2026-11-02 |
+| [Solutions Architect](https://www.talentgroups.com/job-details/solutions-architect-in-systems-engineering-jobs-1779627) | Talent Groups | Charlotte, NC | 2026-11-02 |
+| [Enterprise Architecture / ITSM Developer](https://www.talentgroups.com/job-details/enterprise-architecture-itsm-developer-in-other-jobs-1779407) | Talent Groups | Dallas, TX | 2026-11-02 |
+| [Full Stack Developer](https://www.talentgroups.com/job-details/full-stack-developer-in-full-stack-development-jobs-1779438) | Talent Groups | Irving, TX | 2026-11-02 |
+| [ServiceNow Security Operations & AI Governance Specialist](https://www.talentgroups.com/job-details/servicenow-security-operations-ai-governance-specialist-in-cybersecurity-jobs-1779414) | Talent Groups | Dallas, TX | 2026-11-02 |
+| [Power BI Developer](https://www.talentgroups.com/job-details/power-bi-developer-in-data-science-and-analytics-jobs-1779427) | Talent Groups | Dallas, TX | 2026-11-02 |
+| [ITSM / CareTeam Ops / HRSD Developer](https://www.talentgroups.com/job-details/itsm-careteam-ops-hrsd-developer-in-other-jobs-1779419) | Talent Groups | Dallas, TX | 2026-11-02 |
+| [Web Programmer](https://motionrecruitment.com/tech-jobs/mettawa/contract/web-programmer/888191) | Motion Recruitment | Mettawa, Illinois | 2026-11-02 |
+| [Data Analyst / Chicago Local](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/data-analyst-chicago-local/893806) | Motion Recruitment | Chicago, Illinois | 2026-11-02 |
+| [Sr. Security Engineer](https://motionrecruitment.com/tech-jobs/atlanta/contract/srdot-security-engineer/893938) | Motion Recruitment | Atlanta, GA | 2026-11-02 |
+| [Cloud Security Engineer](https://motionrecruitment.com/tech-jobs/fort-worth/contract/cloud-security-engineer/892524) | Motion Recruitment | Fort Worth, Texas | 2026-11-02 |
+| [Data Analyst Consultant](https://www.careers.kellymitchell.com/jobs/143628) | KellyMitchell | New York City, New York, 10010 | 2026-11-02 |
+| [Data Engineer Mid](https://www.careers.kellymitchell.com/jobs/143638) | KellyMitchell | Iriving, Texas, 75063 | 2026-11-02 |
+| [Part-Time AI Trainer (copilot studio and/or power automate)](https://bhsg.com/jobs/job/hsmad11226_1793639734-part-time-ai-trainer-copilot-studio-and-or-power-automate-madison-wisconsin/) | Beacon Hill | — | 2026-11-02 |
 <!-- JOBS:END -->
 
 ## How it works
