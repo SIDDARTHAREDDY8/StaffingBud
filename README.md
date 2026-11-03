@@ -27,28 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 5191 tracked total · updated `2026-11-03T06:01:40+00:00`
+### 🆕 5 new roles this update · 5196 tracked total · updated `2026-11-03T13:58:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Motion Recruitment | 3 |
+| TEKsystems | 2 |
 | Robert Half | 2 |
-| Compunnel | 2 |
-| Beacon Hill | 2 |
-| Harnham | 1 |
+| Agility Connect | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Ai Experience Designer Contract](https://www.roberthalf.com/us/en/job/atlanta-ga/ai-experience-designer-contract/00900-9504421316-usen) | Robert Half | Atlanta, 00900 | 2026-11-03 |
-| [Workplace Specialist Ai Environment](https://www.roberthalf.com/us/en/job/mountain-view-ca/workplace-specialist-ai-environment/00370-9504413574-usen) | Robert Half | Mountain View, 00370 | 2026-11-03 |
-| [Quantitative Analytics Engineer - Python/SQL/Finance - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/quantitative-analytics-engineer-python-sql-finance-boston-ma/893559) | Motion Recruitment | Boston, MA | 2026-11-03 |
-| [Senior Software Engineer](https://motionrecruitment.com/tech-jobs/milford-/direct-hire/senior-software-engineer/893321) | Motion Recruitment | Milford , Massachusetts | 2026-11-03 |
-| [Lead FinOps Engineer / Full Stack](https://motionrecruitment.com/tech-jobs/lake-forest/direct-hire/lead-finops-engineer-full-stack/891594) | Motion Recruitment | Lake Forest, Illinois | 2026-11-03 |
-| [Backend .NET Developer with AI bent of Development Approach](https://jobs.compunnel.com/jobs/6042365) | Compunnel | Westchester, Illinois, United States | 2026-11-03 |
-| [Snowflake PL/SQL Developer](https://jobs.compunnel.com/jobs/6104625) | Compunnel | Plano, Texas, United States | 2026-11-03 |
-| [PRINCIPAL DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-principal-data-engineer-austin-texas/) | Harnham | Austin, Texas | 2026-11-03 |
-| [Data Analyst](https://bhsg.com/jobs/job/ns-dad-ns_1793667442-data-analyst-orlando-florida/) | Beacon Hill | — | 2026-11-03 |
-| [Health Plan Enrollment Specialist](https://bhsg.com/jobs/job/8947645_1793659424-health-plan-enrollment-specialist-los-angeles-california/) | Beacon Hill | — | 2026-11-03 |
+| [Data Architect](https://careers.teksystems.com/us/en/job/JP-006394226/Data-Architect) | TEKsystems | Colorado Springs, Colorado | 2026-11-03 |
+| [AI Staff Engineer (Addison, TX)](https://careers.teksystems.com/us/en/job/JP-006394217/AI-Staff-Engineer-Addison-TX) | TEKsystems | Addison, Texas | 2026-11-03 |
+| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/ankeny-ia/full-stack-net-developer/01500-0013520076-usen) | Robert Half | Ankeny, 01500 | 2026-11-03 |
+| [Kinetic Solutions Architect](https://www.roberthalf.com/us/en/job/spartanburg-sc/kinetic-solutions-architect/03230-0013520497-usen) | Robert Half | Spartanburg, 03230 | 2026-11-03 |
+| [ML Data Engineer](https://agilityconnect.io/jobs/8590) | Agility Connect | Carmel, IN | 2026-11-03 |
 <!-- JOBS:END -->
 
 ## How it works
