@@ -27,24 +27,22 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 5002 tracked total · updated `2026-11-04T01:13:04+00:00`
+### 🆕 6 new roles this update · 5007 tracked total · updated `2026-11-04T10:49:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Compunnel | 2 |
-| Kforce | 1 |
-| Motion Recruitment | 1 |
+| TEKsystems | 4 |
+| Robert Half | 1 |
+| ASK Consulting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ELSUR Collection Systems Database Engineer Mid](http://www.kforce.com/Jobs/1696~AQG~2193274T1~99/) | Kforce | McLean, VA | 2026-11-04 |
-| [Sr Application Engineer](https://www.roberthalf.com/us/en/job/bethesda-md/sr-application-engineer/04510-9504422349-usen) | Robert Half | Bethesda, 04510 | 2026-11-04 |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/knoxville-tn/artificial-intelligence-ai-engineer/03230-0013529172-usen) | Robert Half | Knoxville, 03230 | 2026-11-04 |
-| [Ai Gtm Engineer Contract](https://www.roberthalf.com/us/en/job/atlanta-ga/ai-gtm-engineer-contract/00900-9504421012-usen) | Robert Half | Atlanta, 00900 | 2026-11-04 |
-| [Senior Software Engineer \| Remote](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/senior-software-engineer-remote/894068) | Motion Recruitment | Chicago, Illinois | 2026-11-04 |
-| [AWS Data Engineer](https://jobs.compunnel.com/jobs/6055281) | Compunnel | Plano, Texas, United States | 2026-11-04 |
-| [Software Engineer Research & Development](https://jobs.compunnel.com/jobs/6055813) | Compunnel | Irving, Texas, United States | 2026-11-04 |
+| [Practice Architect II-AI/ML - REMOTE](https://careers.teksystems.com/us/en/job/JP-006395348/Practice-Architect-II-AI-ML-REMOTE) | TEKsystems | Alexandria, Virginia | 2026-11-04 |
+| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006394989/Power-Platform-Developer) | TEKsystems | Jersey City, New Jersey | 2026-11-04 |
+| [Senior Software Developer](https://careers.teksystems.com/us/en/job/JP-006395297/Senior-Software-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-04 |
+| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006394985/Power-Platform-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-04 |
+| [Ai Software Engineer](https://www.roberthalf.com/us/en/job/phoenix-az/ai-software-engineer/00210-0013362868-usen) | Robert Half | Phoenix, 00210 | 2026-11-04 |
+| [Python Software Engineer – Network Management & DDI](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133035/Python Software Engineer – Network Management & DDI) | ASK Consulting | Riverton, UT, 84065 | 2026-11-04 |
 <!-- JOBS:END -->
 
 ## How it works
