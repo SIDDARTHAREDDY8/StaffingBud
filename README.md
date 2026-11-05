@@ -27,38 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 5052 tracked total · updated `2026-11-05T01:29:11+00:00`
+### 🆕 7 new roles this update · 5059 tracked total · updated `2026-11-05T10:36:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 4 |
-| Compunnel | 3 |
+| Robert Half | 3 |
 | TEKsystems | 2 |
-| Motion Recruitment | 2 |
 | Apex Systems | 1 |
-| Robert Half | 1 |
-| Goodwin Recruiting | 1 |
-| Brooksource | 1 |
-| Beacon Hill | 1 |
+| Vaco | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~WQG~2193354T1~99/) | Kforce | Irving, TX | 2026-11-05 |
-| [Data Engineer (Azure)](http://www.kforce.com/Jobs/1696~EQG~2193382T1~99/) | Kforce | New York, NY | 2026-11-05 |
-| [Financial Business Intelligence Senior Developer](http://www.kforce.com/Jobs/1696~NRC~2193394P1~99/) | Kforce | Tampa, FL | 2026-11-05 |
-| [AI Security Engineer / Architect](http://www.kforce.com/Jobs/1696~EQG~2193353T1~99/) | Kforce | Fulton, MD | 2026-11-05 |
-| [Applications Developer](https://careers.teksystems.com/us/en/job/JP-006400053/Applications-Developer) | TEKsystems | Morton, Illinois | 2026-11-05 |
-| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006399336/Data-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-11-05 |
-| [Cyber Security Engineer](https://www.apexsystems.com/job/3058369_usa/cyber-security-engineer) | Apex Systems | Merrifield, VA | 2026-11-05 |
-| [Business Intelligence Developer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/business-intelligence-developer/01000-9504422973-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-11-05 |
-| [Senior Engineer, Cybersecurity Engineering / Onsite / Carrollton, TX](https://motionrecruitment.com/tech-jobs/carrolton/contract/senior-engineer-cybersecurity-engineering-onsite-carrollton-tx/893746) | Motion Recruitment | Carrolton, Texas | 2026-11-05 |
-| [Data Analyst](https://motionrecruitment.com/tech-jobs/irving/contract/data-analyst/894084) | Motion Recruitment | Irving, TX | 2026-11-05 |
-| [Mid-level Software Engineer](https://jobs.compunnel.com/jobs/6062859) | Compunnel | Atlanta, Georgia, United States | 2026-11-05 |
-| [AI Engineer](https://jobs.compunnel.com/jobs/6063510) | Compunnel | Madison, Wisconsin, United States | 2026-11-05 |
-| [Full Stack Engineer](https://jobs.compunnel.com/jobs/6066282) | Compunnel | Salt Lake City, Utah, United States | 2026-11-05 |
-| [Full Stack Developer](https://www.goodwinrecruiting.com/job/a0wr7000003ib2bmac-full-stack-developer-orlando-florida) | Goodwin Recruiting | — | 2026-11-05 |
-| [Embedded Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001bhefeao-embedded-engineer-sugar-land-texas/) | Brooksource | Sugar Land, Texas | 2026-11-05 |
-| [Site Reliability Engineer](https://bhsg.com/jobs/job/t1480713-phi_1793824132-site-reliability-engineer-fort-washington-pennsylvania/) | Beacon Hill | — | 2026-11-05 |
+| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006394960/Power-Platform-Developer) | TEKsystems | Dallas, Texas | 2026-11-05 |
+| [Linux Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006396843/Linux-Infrastructure-Engineer) | TEKsystems | Irving, Texas | 2026-11-05 |
+| [Network Security Engineer](https://www.apexsystems.com/job/3054357_usa/network-security-engineer) | Apex Systems | Plano, TX | 2026-11-05 |
+| [Agentic Ai Orchestration Architect](https://www.roberthalf.com/us/en/job/corte-madera-ca/agentic-ai-orchestration-architect/00410-0013518349-usen) | Robert Half | Corte Madera, 00410 | 2026-11-05 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/boca-raton-fl/ai-engineer/04838-0013518724-usen) | Robert Half | Boca Raton, 04838 | 2026-11-05 |
+| [Technical Lead Application Architect](https://www.roberthalf.com/us/en/job/marysville-nt-ca/technical-lead-application-architect/04837-0013524474-usen) | Robert Half | Marysville Nt, 04837 | 2026-11-05 |
+| [Enterprise Data Ai Architect Ms Stack](https://jobs.vaco.com/job/98/enterprise_data_ai_architect_ms_stack/en) | Vaco | Charlotte, North Carolina | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
