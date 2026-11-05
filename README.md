@@ -27,24 +27,33 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 5059 tracked total · updated `2026-11-05T10:36:57+00:00`
+### 🆕 13 new roles this update · 5071 tracked total · updated `2026-11-05T19:49:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| TEKsystems | 3 |
 | Robert Half | 3 |
-| TEKsystems | 2 |
-| Apex Systems | 1 |
-| Vaco | 1 |
+| Kforce | 2 |
+| Apex Systems | 2 |
+| Talent Groups | 1 |
+| Harnham | 1 |
+| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006394960/Power-Platform-Developer) | TEKsystems | Dallas, Texas | 2026-11-05 |
-| [Linux Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006396843/Linux-Infrastructure-Engineer) | TEKsystems | Irving, Texas | 2026-11-05 |
-| [Network Security Engineer](https://www.apexsystems.com/job/3054357_usa/network-security-engineer) | Apex Systems | Plano, TX | 2026-11-05 |
-| [Agentic Ai Orchestration Architect](https://www.roberthalf.com/us/en/job/corte-madera-ca/agentic-ai-orchestration-architect/00410-0013518349-usen) | Robert Half | Corte Madera, 00410 | 2026-11-05 |
-| [Ai Engineer](https://www.roberthalf.com/us/en/job/boca-raton-fl/ai-engineer/04838-0013518724-usen) | Robert Half | Boca Raton, 04838 | 2026-11-05 |
-| [Technical Lead Application Architect](https://www.roberthalf.com/us/en/job/marysville-nt-ca/technical-lead-application-architect/04837-0013524474-usen) | Robert Half | Marysville Nt, 04837 | 2026-11-05 |
-| [Enterprise Data Ai Architect Ms Stack](https://jobs.vaco.com/job/98/enterprise_data_ai_architect_ms_stack/en) | Vaco | Charlotte, North Carolina | 2026-11-05 |
+| [Data Scientist](http://www.kforce.com/Jobs/1696~EQG~2191544T1~99/) | Kforce | Lansing, MI | 2026-11-05 |
+| [Snowflake Platform Engineer](http://www.kforce.com/Jobs/1696~TVT~2193437T1~99/) | Kforce | Minneapolis, MN | 2026-11-05 |
+| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006399236/Infrastructure-Engineer) | TEKsystems | Reston, Virginia | 2026-11-05 |
+| [Entry Level Analytics Developer](https://careers.teksystems.com/us/en/job/JP-006400817/Entry-Level-Analytics-Developer) | TEKsystems | Virginia Beach, Virginia | 2026-11-05 |
+| [AI Analyst/Trainer](https://careers.teksystems.com/us/en/job/JP-006399946/AI-Analyst-Trainer) | TEKsystems | Winston Salem, North Carolina | 2026-11-05 |
+| [Senior Analytics Engineer](https://www.apexsystems.com/job/3058404_usa/senior-analytics-engineer) | Apex Systems | Tampa, FL | 2026-11-05 |
+| [Power Bi Developer](https://www.apexsystems.com/job/3058458_usa/power-bi-developer) | Apex Systems | Saint Paul, MN | 2026-11-05 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/cyber-security-engineer/03900-9504421878-usen) | Robert Half | Memphis, 03900 | 2026-11-05 |
+| [Full Stack Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/full-stack-engineer/01120-9504420148-usen) | Robert Half | Jacksonville, 01120 | 2026-11-05 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/ai-engineer/03900-9504421800-usen) | Robert Half | Memphis, 03900 | 2026-11-05 |
+| [Oracle Fusion Financial Report Developer](https://www.talentgroups.com/job-details/oracle-fusion-financial-report-developer-in-other-jobs-1787571) | Talent Groups | Houston, TX | 2026-11-05 |
+| [DIRECTOR OF AI](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-director-of-ai-usa/) | Harnham | USA | 2026-11-05 |
+| [AI Product Lead (Conversational AI)](https://bhsg.com/jobs/job/1477648_1793897438-ai-product-lead-conversational-ai-raleigh-north-carolina/) | Beacon Hill | — | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
