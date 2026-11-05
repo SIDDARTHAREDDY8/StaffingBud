@@ -27,61 +27,38 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 40 new roles this update · 5047 tracked total · updated `2026-11-04T19:40:25+00:00`
+### 🆕 16 new roles this update · 5052 tracked total · updated `2026-11-05T01:29:11+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 16 |
-| TEKsystems | 12 |
-| Apex Systems | 5 |
-| Harnham | 3 |
-| Talent Groups | 1 |
-| Stanton House | 1 |
-| Motion Recruitment | 1 |
+| Kforce | 4 |
+| Compunnel | 3 |
+| TEKsystems | 2 |
+| Motion Recruitment | 2 |
+| Apex Systems | 1 |
+| Robert Half | 1 |
+| Goodwin Recruiting | 1 |
+| Brooksource | 1 |
 | Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Practice Architect II-AI/ML - REMOTE](https://careers.teksystems.com/us/en/job/JP-006395354/Practice-Architect-II-AI-ML-REMOTE) | TEKsystems | Atlanta, Georgia | 2026-11-04 |
-| [Lead Application Architect (GSP)](https://careers.teksystems.com/us/en/job/JP-006350759/Lead-Application-Architect-GSP) | TEKsystems | Atlanta, Georgia | 2026-11-04 |
-| [BI Developer](https://careers.teksystems.com/us/en/job/JP-006380111/BI-Developer) | TEKsystems | Brookhaven, Georgia | 2026-11-04 |
-| [Full Stack Developer](https://careers.teksystems.com/us/en/job/JP-006345182/Full-Stack-Developer) | TEKsystems | Atlanta, Georgia | 2026-11-04 |
-| [Sharepoint Developer](https://careers.teksystems.com/us/en/job/JP-006385803/Sharepoint-Developer) | TEKsystems | Tucker, Georgia | 2026-11-04 |
-| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006394978/Power-Platform-Developer) | TEKsystems | Kennesaw, Georgia | 2026-11-04 |
-| [Boomi Developer](https://careers.teksystems.com/us/en/job/JP-006354426/Boomi-Developer) | TEKsystems | Jacksonville, Florida | 2026-11-04 |
-| [Junior Edifecs Developer](https://careers.teksystems.com/us/en/job/JP-006335955/Junior-Edifecs-Developer) | TEKsystems | Jacksonville, Florida | 2026-11-04 |
-| [Developer/Software Engineer](https://careers.teksystems.com/us/en/job/JP-006346125/Developer-Software-Engineer) | TEKsystems | Kissimmee, Florida | 2026-11-04 |
-| [Senior Manager Application Engineering](https://careers.teksystems.com/us/en/job/JP-006337838/Senior-Manager-Application-Engineering) | TEKsystems | Bradenton, Florida | 2026-11-04 |
-| [EDI Developer](https://careers.teksystems.com/us/en/job/JP-006350086/EDI-Developer) | TEKsystems | Sarasota, Florida | 2026-11-04 |
-| [Sr Microsoft Ecosystem Cyber Security Engineer](https://careers.teksystems.com/us/en/job/JP-006399143/Sr-Microsoft-Ecosystem-Cyber-Security-Engineer) | TEKsystems | Chesapeake, Virginia | 2026-11-04 |
-| [Data Engineer](https://www.apexsystems.com/job/3058325_usa/data-engineer) | Apex Systems | La Vista, NE | 2026-11-04 |
-| [Insider Risk Analytics Engineer](https://www.apexsystems.com/job/3058316_usa/insider-risk-analytics-engineer) | Apex Systems | Costa Mesa, CA | 2026-11-04 |
-| [Business Intelligence Solutions Developer 3](https://www.apexsystems.com/job/3058344_usa/business-intelligence-solutions-developer-3) | Apex Systems | Boise, ID | 2026-11-04 |
-| [Senior Business Data Analyst -Utilization Management & Change Managment](https://www.apexsystems.com/job/3058337_usa/senior-business-data-analyst--utilization-management--change-managment) | Apex Systems | Louisville, KY | 2026-11-04 |
-| [Software Engineer- Anaplan](https://www.apexsystems.com/job/3056922_usa/software-engineer--anaplan) | Apex Systems | San Francisco, CA | 2026-11-04 |
-| [Servicenow Developer](https://www.roberthalf.com/us/en/job/miramar-fl/servicenow-developer/01000-9504422629-usen) | Robert Half | Miramar, 01000 | 2026-11-04 |
-| [Frontend Developer](https://www.roberthalf.com/us/en/job/detroit-mi-mi/frontend-developer/02210-9504422579-usen) | Robert Half | Detroit, Mi, 02210 | 2026-11-04 |
-| [Net Developer](https://www.roberthalf.com/us/en/job/miami-fl/net-developer/01020-9504422480-usen) | Robert Half | Miami, 01020 | 2026-11-04 |
-| [Power Platform Engineer](https://www.roberthalf.com/us/en/job/lagrange-ga/power-platform-engineer/00920-9504422544-usen) | Robert Half | Lagrange, 00920 | 2026-11-04 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/miami-fl/data-analyst/01020-9504422484-usen) | Robert Half | Miami, 01020 | 2026-11-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/data-engineer/03930-9504421876-usen) | Robert Half | Nashville, 03930 | 2026-11-04 |
-| [Azure Developer](https://www.roberthalf.com/us/en/job/miami-fl/azure-developer/01020-9504422474-usen) | Robert Half | Miami, 01020 | 2026-11-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/data-engineer/03900-9504421867-usen) | Robert Half | Memphis, 03900 | 2026-11-04 |
-| [Forwarddeployed Software Engineer](https://www.roberthalf.com/us/en/job/king-prussia-pa/forwarddeployed-software-engineer/03720-0013443424-usen) | Robert Half | King of Prussia, 03720 | 2026-11-04 |
-| [Enrollment Specialist](https://www.roberthalf.com/us/en/job/huntington-beach-ca/enrollment-specialist/00350-0013528085-usen) | Robert Half | Huntington Beach, 00350 | 2026-11-04 |
-| [Ecommerce Developer Contract](https://www.roberthalf.com/us/en/job/atlanta-ga/ecommerce-developer-contract/00900-9504421292-usen) | Robert Half | Atlanta, 00900 | 2026-11-04 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/nashville-tn/data-analyst/03930-9504421883-usen) | Robert Half | Nashville, 03930 | 2026-11-04 |
-| [Frontend Developer](https://www.roberthalf.com/us/en/job/portsmouth-nh/frontend-developer/02600-0013527031-usen) | Robert Half | Portsmouth, 02600 | 2026-11-04 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/software-engineer/02720-0013521298-usen) | Robert Half | New York, 02720 | 2026-11-04 |
-| [Ecommerce Developer](https://www.roberthalf.com/us/en/job/phoenix-az/ecommerce-developer/00210-9504421320-usen) | Robert Half | Phoenix, 00210 | 2026-11-04 |
-| [Business Analyticsdata Analyst](https://www.roberthalf.com/us/en/job/arlington-tx/business-analyticsdata-analyst/04030-0013525840-usen) | Robert Half | Arlington, 04030 | 2026-11-04 |
-| [React Developer](https://www.talentgroups.com/job-details/react-developer-in-full-stack-development-jobs-1779438) | Talent Groups | Irving, TX | 2026-11-04 |
-| [Infrastructure Security Engineer](https://www.stantonhouse.com/us/jobs/32584-Infrastructure-Security-Engineer) | Stanton House | New York City, NY (on-site) \| Remote options (EST) | 2026-11-04 |
-| [Software Engineering Manager / eCommerce / .NET / Angular](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/software-engineering-manager-ecommerce-dot-net-angular/893236) | Motion Recruitment | Chicago, Illinois | 2026-11-04 |
-| [PRINCIPAL DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-principal-data-engineer-austin-texas-2/) | Harnham | Austin, Texas | 2026-11-04 |
-| [MACHINE LEARNING ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-usa/) | Harnham | USA | 2026-11-04 |
-| [MACHINE LEARNING ENGINEER – GENAI](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-genai-houston-texas/) | Harnham | Houston, Texas | 2026-11-04 |
-| [Data Analyst](https://bhsg.com/jobs/job/1480673_1793811890-data-analyst-indianapolis-indiana/) | Beacon Hill | — | 2026-11-04 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~WQG~2193354T1~99/) | Kforce | Irving, TX | 2026-11-05 |
+| [Data Engineer (Azure)](http://www.kforce.com/Jobs/1696~EQG~2193382T1~99/) | Kforce | New York, NY | 2026-11-05 |
+| [Financial Business Intelligence Senior Developer](http://www.kforce.com/Jobs/1696~NRC~2193394P1~99/) | Kforce | Tampa, FL | 2026-11-05 |
+| [AI Security Engineer / Architect](http://www.kforce.com/Jobs/1696~EQG~2193353T1~99/) | Kforce | Fulton, MD | 2026-11-05 |
+| [Applications Developer](https://careers.teksystems.com/us/en/job/JP-006400053/Applications-Developer) | TEKsystems | Morton, Illinois | 2026-11-05 |
+| [Data Engineer](https://careers.teksystems.com/us/en/job/JP-006399336/Data-Engineer) | TEKsystems | Cincinnati, Ohio | 2026-11-05 |
+| [Cyber Security Engineer](https://www.apexsystems.com/job/3058369_usa/cyber-security-engineer) | Apex Systems | Merrifield, VA | 2026-11-05 |
+| [Business Intelligence Developer](https://www.roberthalf.com/us/en/job/fort-lauderdale-fl/business-intelligence-developer/01000-9504422973-usen) | Robert Half | Fort Lauderdale, 01000 | 2026-11-05 |
+| [Senior Engineer, Cybersecurity Engineering / Onsite / Carrollton, TX](https://motionrecruitment.com/tech-jobs/carrolton/contract/senior-engineer-cybersecurity-engineering-onsite-carrollton-tx/893746) | Motion Recruitment | Carrolton, Texas | 2026-11-05 |
+| [Data Analyst](https://motionrecruitment.com/tech-jobs/irving/contract/data-analyst/894084) | Motion Recruitment | Irving, TX | 2026-11-05 |
+| [Mid-level Software Engineer](https://jobs.compunnel.com/jobs/6062859) | Compunnel | Atlanta, Georgia, United States | 2026-11-05 |
+| [AI Engineer](https://jobs.compunnel.com/jobs/6063510) | Compunnel | Madison, Wisconsin, United States | 2026-11-05 |
+| [Full Stack Engineer](https://jobs.compunnel.com/jobs/6066282) | Compunnel | Salt Lake City, Utah, United States | 2026-11-05 |
+| [Full Stack Developer](https://www.goodwinrecruiting.com/job/a0wr7000003ib2bmac-full-stack-developer-orlando-florida) | Goodwin Recruiting | — | 2026-11-05 |
+| [Embedded Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001bhefeao-embedded-engineer-sugar-land-texas/) | Brooksource | Sugar Land, Texas | 2026-11-05 |
+| [Site Reliability Engineer](https://bhsg.com/jobs/job/t1480713-phi_1793824132-site-reliability-engineer-fort-washington-pennsylvania/) | Beacon Hill | — | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
