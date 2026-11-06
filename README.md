@@ -27,32 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 5071 tracked total · updated `2026-11-06T01:41:21+00:00`
+### 🆕 4 new roles this update · 5071 tracked total · updated `2026-11-06T10:44:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 3 |
-| Motion Recruitment | 2 |
+| Robert Half | 2 |
 | TEKsystems | 1 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| Vaco | 1 |
-| Vernovis | 1 |
-| Beacon Hill | 1 |
+| Harnham | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer III](http://www.kforce.com/Jobs/1696~EQG~2193509P1~99/) | Kforce | Fort Lauderdale, FL | 2026-11-06 |
-| [Snowflake / Data & Application Engineer](http://www.kforce.com/Jobs/1696~TVF~2193506T1~99/) | Kforce | Denver, CO | 2026-11-06 |
-| [Workday Integration Developer](http://www.kforce.com/Jobs/1696~EQG~2193134P1~99/) | Kforce | Saint Louis, MO | 2026-11-06 |
-| [Senior Platform Engineer](https://careers.teksystems.com/us/en/job/JP-006401432/Senior-Platform-Engineer) | TEKsystems | Madison, Wisconsin | 2026-11-06 |
-| [Application Developer - Public Safety and Justice Projects](https://www.apexsystems.com/job/3058544_usa/application-developer---public-safety-and-justice-projects) | Apex Systems | San Jose, CA | 2026-11-06 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/duluth-ga/sr-software-engineer/00900-0013494822-usen) | Robert Half | Duluth, 00900 | 2026-11-06 |
-| [Enterprise Application Engineer](https://jobs.vaco.com/job/2943/enterprise_application_engineer/en) | Vaco | Minato-ku | 2026-11-06 |
-| [AI Tech Director / Python / Typescript](https://motionrecruitment.com/tech-jobs/chicago/direct-hire/ai-tech-director-python-typescript/894300) | Motion Recruitment | Chicago, Illinois | 2026-11-06 |
-| [Senior Fullstack Engineer / .NET / Angular / eCommerce](https://motionrecruitment.com/tech-jobs/downers-grove/direct-hire/senior-fullstack-engineer-dot-net-angular-ecommerce/894120) | Motion Recruitment | Downers Grove, Illinois | 2026-11-06 |
-| [AI Business Process Automation Solutions Engineer](https://vernovis.com/blog/jobs/12298/) | Vernovis | Lebanon, | 2026-11-06 |
-| [Senior DevOps Engineer](https://bhsg.com/jobs/job/00004_1793921134-senior-devops-engineer-raleigh-north-carolina/) | Beacon Hill | — | 2026-11-06 |
+| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006400529/Senior-Data-Engineer) | TEKsystems | Farmington Hills, Michigan | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523516-usen) | Robert Half | Philadelphia, 03720 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/commerce-ca/data-engineer/00320-0013526498-usen) | Robert Half | Commerce, 00320 | 2026-11-06 |
+| [SENIOR/STAFF/PRINCIPAL PRODUCT ENGINEER – FULL STACK](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-staff-principal-product-engineer-full-stack-san-francisco-california/) | Harnham | San Francisco, California | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
