@@ -27,20 +27,57 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 5071 tracked total · updated `2026-11-06T10:44:47+00:00`
+### 🆕 38 new roles this update · 5105 tracked total · updated `2026-11-06T19:12:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| TEKsystems | 1 |
+| Robert Half | 28 |
+| Apex Systems | 5 |
+| Kforce | 2 |
+| Motion Recruitment | 1 |
 | Harnham | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006400529/Senior-Data-Engineer) | TEKsystems | Farmington Hills, Michigan | 2026-11-06 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523516-usen) | Robert Half | Philadelphia, 03720 | 2026-11-06 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/commerce-ca/data-engineer/00320-0013526498-usen) | Robert Half | Commerce, 00320 | 2026-11-06 |
-| [SENIOR/STAFF/PRINCIPAL PRODUCT ENGINEER – FULL STACK](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-staff-principal-product-engineer-full-stack-san-francisco-california/) | Harnham | San Francisco, California | 2026-11-06 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2193601T1~99/) | Kforce | Irving, TX | 2026-11-06 |
+| [Senior Storage & Infrastructure Engineer](http://www.kforce.com/Jobs/1696~TVT~2191980T1~99/) | Kforce | Greenwood Village, CO | 2026-11-06 |
+| [Python Data Engineer](https://www.apexsystems.com/job/3054714_usa/python-data-engineer) | Apex Systems | Woonsocket, RI | 2026-11-06 |
+| [AI Automation Engineer](https://www.apexsystems.com/job/3058145_usa/ai-automation-engineer) | Apex Systems | Cary, NC | 2026-11-06 |
+| [Backend Developer](https://www.apexsystems.com/job/3057640_usa/backend-developer) | Apex Systems | Woonsocket, RI | 2026-11-06 |
+| [Developer - Generic 5](https://www.apexsystems.com/job/3055662_usa/developer---generic-5) | Apex Systems | Deerfield, IL | 2026-11-06 |
+| [Snowflake Data Engineer II](https://www.apexsystems.com/job/3058416_usa/snowflake-data-engineer-ii) | Apex Systems | Tampa, FL | 2026-11-06 |
+| [Plc Programmerautomation Engineer](https://www.roberthalf.com/us/en/job/tampa-fl/plc-programmerautomation-engineer/01070-0013449398-usen) | Robert Half | Tampa, 01070 | 2026-11-06 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-0013500997-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/data-engineer/01120-0013490448-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/sr-software-engineer/01120-0013494849-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [It Infrastructure Devops Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/it-infrastructure-devops-engineer/00900-0013470742-usen) | Robert Half | Atlanta, 00900 | 2026-11-06 |
+| [Mobile Developer](https://www.roberthalf.com/us/en/job/jacksonville-fl/mobile-developer/01120-0013482967-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/data-engineer/01120-9504423204-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/lawrenceville-ga/artificial-intelligence-ai-engineer/00920-0013497040-usen) | Robert Half | Lawrenceville, 00920 | 2026-11-06 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/de-pere-wi/data-analyst/04630-0013529641-usen) | Robert Half | De Pere, 04630 | 2026-11-06 |
+| [Ai Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/ai-engineer/01120-9504423202-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Jira Developer Backfill](https://www.roberthalf.com/us/en/job/woodlands-tx/jira-developer-backfill/04340-0013525128-usen) | Robert Half | the Woodlands, 04340 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/data-engineer/01120-0013490145-usen) | Robert Half | Jacksonville, 01120 | 2026-11-06 |
+| [Data Scientist](https://www.roberthalf.com/us/en/job/dover-de/data-scientist/03720-0013529286-usen) | Robert Half | Dover, 03720 | 2026-11-06 |
+| [Database Engineer Vb6 Ms Access](https://www.roberthalf.com/us/en/job/west-nyack-ny/database-engineer-vb6-ms-access/02710-0013530439-usen) | Robert Half | West Nyack, 02710 | 2026-11-06 |
+| [Computer Vision Engineer](https://www.roberthalf.com/us/en/job/cambridge-ma/computer-vision-engineer/02100-0013472227-usen) | Robert Half | Cambridge, 02100 | 2026-11-06 |
+| [Application Development Ncino Developer Iii](https://www.roberthalf.com/us/en/job/saddle-brook-nj/application-development-ncino-developer-iii/02710-0013448886-usen) | Robert Half | Saddle Brook, 02710 | 2026-11-06 |
+| [Platform Engineer](https://www.roberthalf.com/us/en/job/wayzata-mn/platform-engineer/04838-0013528443-usen) | Robert Half | Wayzata, 04838 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/appleton-wi/data-engineer/04620-0013486722-usen) | Robert Half | Appleton, 04620 | 2026-11-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/data-engineer/03900-9504424066-usen) | Robert Half | Memphis, 03900 | 2026-11-06 |
+| [Power Platform Developer](https://www.roberthalf.com/us/en/job/akron-oh/power-platform-developer/03340-0013530263-usen) | Robert Half | Akron, 03340 | 2026-11-06 |
+| [Front End Developer](https://www.roberthalf.com/us/en/job/glastonbury-ct/front-end-developer/00700-0013523372-usen) | Robert Half | Glastonbury, 00700 | 2026-11-06 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/maumee-oh/software-engineer/03340-0013530556-usen) | Robert Half | Maumee, 03340 | 2026-11-06 |
+| [Sr Cloud Security Engineer](https://www.roberthalf.com/us/en/job/dallas-tx/sr-cloud-security-engineer/04951-0013528270-usen) | Robert Half | Dallas, 04951 | 2026-11-06 |
+| [Cobol Mainframe Systems Programmer](https://www.roberthalf.com/us/en/job/des-moines-ia/cobol-mainframe-systems-programmer/01500-0013533091-usen) | Robert Half | Des Moines, 01500 | 2026-11-06 |
+| [Cloud Engineer](https://www.roberthalf.com/us/en/job/morristown-nj/cloud-engineer/02720-0013530646-usen) | Robert Half | Morristown, 02720 | 2026-11-06 |
+| [Devops Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/devops-engineer/00900-9504423943-usen) | Robert Half | Atlanta, 00900 | 2026-11-06 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/irvine-ca/artificial-intelligence-ai-engineer/00350-0013530770-usen) | Robert Half | Irvine, 00350 | 2026-11-06 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/cheshire-ct/solutions-architect/00700-0013507660-usen) | Robert Half | Cheshire, 00700 | 2026-11-06 |
+| [Product Engineer (AI-Augmented & Full-Stack Systems)](https://motionrecruitment.com/tech-jobs/tampa/contract/product-engineer-ai-augmented-and-full-stack-systems/892593) | Motion Recruitment | Tampa, Florida | 2026-11-06 |
+| [LEAD DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-scientist-usa/) | Harnham | USA | 2026-11-06 |
+| [GraphQL API Developer](https://jobs.brooksource.com/jobs/job/a1wcv000001bhvveas-graphql-api-developer-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
