@@ -27,21 +27,22 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 5104 tracked total · updated `2026-11-07T09:51:54+00:00`
+### 🆕 8 new roles this update · 5112 tracked total · updated `2026-11-07T17:44:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| TEKsystems | 2 |
+| Agility Connect | 8 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Data Scientist](https://careers.teksystems.com/us/en/job/JP-006403705/Sr-Data-Scientist) | TEKsystems | Dallas, Texas | 2026-11-07 |
-| [Principal AI Architect (Full-time Remote)](https://careers.teksystems.com/us/en/job/JP-006402659/Principal-AI-Architect-Full-time-Remote) | TEKsystems | Dallas, Texas | 2026-11-07 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523514-usen) | Robert Half | Philadelphia, 03720 | 2026-11-07 |
-| [Artificial Intelligence Ai System Engineer](https://www.roberthalf.com/us/en/job/albuquerque-nm/artificial-intelligence-ai-system-engineer/02800-0013459777-usen) | Robert Half | Albuquerque, 02800 | 2026-11-07 |
-| [Sr Data Engineer](https://www.roberthalf.com/us/en/job/newport-beach-ca/sr-data-engineer/00400-9504424609-usen) | Robert Half | Newport Beach, 00400 | 2026-11-07 |
-| [Enrollment Support](https://www.roberthalf.com/us/en/job/oakland-ca/enrollment-support/00340-9504424406-usen) | Robert Half | Oakland, 00340 | 2026-11-07 |
+| [Java Developer](https://agilityconnect.io/jobs/8596) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Java Full Stack Developer](https://agilityconnect.io/jobs/8606) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [AWS AI Platform Engineer](https://agilityconnect.io/jobs/8598) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Customer Insights Data Analyst](https://agilityconnect.io/jobs/8595) | Agility Connect | Carmel, IN | 2026-11-07 |
+| [Senior AI/Python Developer](https://agilityconnect.io/jobs/8604) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Data Engineer](https://agilityconnect.io/jobs/8610) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Full Stack Developer](https://agilityconnect.io/jobs/8608) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+| [Senior Software Engineer](https://agilityconnect.io/jobs/8607) | Agility Connect | Cincinnati, OH | 2026-11-07 |
 <!-- JOBS:END -->
 
 ## How it works
