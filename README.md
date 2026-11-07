@@ -27,29 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 5099 tracked total · updated `2026-11-07T00:53:37+00:00`
+### 🆕 6 new roles this update · 5104 tracked total · updated `2026-11-07T09:51:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 3 |
-| Robert Half | 2 |
-| Motion Recruitment | 2 |
-| TEKsystems | 1 |
-| Apex Systems | 1 |
-| CornerStone TTS | 1 |
+| Robert Half | 4 |
+| TEKsystems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Boston Preferred - Data Engineer](http://www.kforce.com/Jobs/1696~TVT~2193666T1~99/) | Kforce | Armonk, NY | 2026-11-07 |
-| [FinTech Systems Architect / AI Lead](http://www.kforce.com/Jobs/1696~EQG~2192724P1~99/) | Kforce | Fort Lauderdale, FL | 2026-11-07 |
-| [Principal AI Engineer](http://www.kforce.com/Jobs/1696~AQG~2187554T1~99/) | Kforce | Covington, KY | 2026-11-07 |
-| [Embedded Software Engineer III - Tactical Communications & Waveform Systems](https://careers.teksystems.com/us/en/job/JP-006404439/Embedded-Software-Engineer-III-Tactical-Communications-Waveform-Systems) | TEKsystems | San Diego, California | 2026-11-07 |
-| [API Developer](https://www.apexsystems.com/job/3058609_usa/api-developer) | Apex Systems | Atlanta, GA | 2026-11-07 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/memphis-tn/software-engineer/03900-9504424237-usen) | Robert Half | Memphis, 03900 | 2026-11-07 |
-| [Data Scientist B2C Consumer Trends](https://www.roberthalf.com/us/en/job/richmond-va/data-scientist-b2c-consumer-trends/04836-9504424154-usen) | Robert Half | Richmond, 04836 | 2026-11-07 |
-| [Senior Healthcare Integration Developer - HL7/FHIR](https://jobs.cornerstonetechtalent.com/jb/Senior-Healthcare-Integration-Developer-HL7-FHIR-Jobs-in-Austin-Texas/14400021) | CornerStone TTS | Austin Texas | 2026-11-07 |
-| [Programmer](https://motionrecruitment.com/tech-jobs/chanhassen/contract/programmer/894385) | Motion Recruitment | Chanhassen, Minnesota | 2026-11-07 |
-| [Principal Cloud Architect // C#.NET // Boston](https://motionrecruitment.com/tech-jobs/boston/direct-hire/principal-cloud-architect-c-sharpdot-net-boston/894384) | Motion Recruitment | Boston, Massachusetts | 2026-11-07 |
+| [Sr. Data Scientist](https://careers.teksystems.com/us/en/job/JP-006403705/Sr-Data-Scientist) | TEKsystems | Dallas, Texas | 2026-11-07 |
+| [Principal AI Architect (Full-time Remote)](https://careers.teksystems.com/us/en/job/JP-006402659/Principal-AI-Architect-Full-time-Remote) | TEKsystems | Dallas, Texas | 2026-11-07 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/philadelphia-pa/data-engineer/03720-0013523514-usen) | Robert Half | Philadelphia, 03720 | 2026-11-07 |
+| [Artificial Intelligence Ai System Engineer](https://www.roberthalf.com/us/en/job/albuquerque-nm/artificial-intelligence-ai-system-engineer/02800-0013459777-usen) | Robert Half | Albuquerque, 02800 | 2026-11-07 |
+| [Sr Data Engineer](https://www.roberthalf.com/us/en/job/newport-beach-ca/sr-data-engineer/00400-9504424609-usen) | Robert Half | Newport Beach, 00400 | 2026-11-07 |
+| [Enrollment Support](https://www.roberthalf.com/us/en/job/oakland-ca/enrollment-support/00340-9504424406-usen) | Robert Half | Oakland, 00340 | 2026-11-07 |
 <!-- JOBS:END -->
 
 ## How it works
