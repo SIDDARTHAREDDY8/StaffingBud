@@ -27,22 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 5112 tracked total · updated `2026-11-07T17:44:00+00:00`
+### 🟢 No new roles this update · **5112** roles open total · updated `2026-11-07T21:43:41+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 8 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Java Developer](https://agilityconnect.io/jobs/8596) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [Java Full Stack Developer](https://agilityconnect.io/jobs/8606) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [AWS AI Platform Engineer](https://agilityconnect.io/jobs/8598) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [Customer Insights Data Analyst](https://agilityconnect.io/jobs/8595) | Agility Connect | Carmel, IN | 2026-11-07 |
-| [Senior AI/Python Developer](https://agilityconnect.io/jobs/8604) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [Senior Data Engineer](https://agilityconnect.io/jobs/8610) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [Senior Full Stack Developer](https://agilityconnect.io/jobs/8608) | Agility Connect | Cincinnati, OH | 2026-11-07 |
-| [Senior Software Engineer](https://agilityconnect.io/jobs/8607) | Agility Connect | Cincinnati, OH | 2026-11-07 |
+Nothing new since the last run — [browse all 5112 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
