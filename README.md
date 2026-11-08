@@ -27,9 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **4981** roles open total · updated `2026-11-08T13:04:16+00:00`
+### 🆕 1 new roles this update · 4982 tracked total · updated `2026-11-08T19:31:07+00:00`
 
-Nothing new since the last run — [browse all 4981 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Brooksource | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Data Engineer II](https://jobs.brooksource.com/jobs/job/a1wcv000000r7creaa-data-engineer-ii-miami-florida/) | Brooksource | Miami, Florida | 2026-11-08 |
 <!-- JOBS:END -->
 
 ## How it works
