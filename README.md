@@ -27,21 +27,37 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 4740 tracked total · updated `2026-11-09T11:13:54+00:00`
+### 🆕 17 new roles this update · 4756 tracked total · updated `2026-11-09T22:11:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 1 |
-| Goodwin Recruiting | 1 |
-| Brooksource | 1 |
-| Beacon Hill | 1 |
+| Kforce | 4 |
+| TEKsystems | 4 |
+| Brooksource | 3 |
+| Apex Systems | 2 |
+| Vaco | 2 |
+| Robert Half | 1 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [It Security Engineer Solution Architect Contract Until 9 24 2027](https://jobs.strategicstaff.com/jobs/it-security-engineer-solution-architect-contract-until-9-24-2027-170569/) | Strategic Staffing Solutions | Vilnius, Lithuania | 2026-11-09 |
-| [Applications Engineer I](https://www.goodwinrecruiting.com/job/a0wr7000003ayijmac-applications-engineer-i-agawam-massachusetts) | Goodwin Recruiting | — | 2026-11-09 |
-| [AI Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001c3pleak-ai-engineer-houston-texas/) | Brooksource | Houston, Texas | 2026-11-09 |
-| [DevOps Integration Engineer](https://bhsg.com/jobs/job/1481035_1794192659-devops-integration-engineer-indianapolis-indiana/) | Beacon Hill | — | 2026-11-09 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2193732T1~99/) | Kforce | Hoboken, NJ | 2026-11-09 |
+| [Senior Ignition Application Engineer](http://www.kforce.com/Jobs/1696~TVT~2193787T1~99/) | Kforce | Maiden, NC | 2026-11-09 |
+| [ELSUR Collection Systems Database Engineer Mid](http://www.kforce.com/Jobs/1696~AQG~2193708T1~99/) | Kforce | Mc Lean, VA | 2026-11-09 |
+| [Program Tooling & Analytics Developer](http://www.kforce.com/Jobs/1696~WQG~2193718T1~99/) | Kforce | Foster City, CA | 2026-11-09 |
+| [HL7 FHIR Data Engineer (W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006409259/HL7-FHIR-Data-Engineer-W2-ONLY) | TEKsystems | Phoenix, Arizona | 2026-11-09 |
+| [Principal Software Architect](https://careers.teksystems.com/us/en/job/JP-006408913/Principal-Software-Architect) | TEKsystems | Irvine, California | 2026-11-09 |
+| [HL7 FHIR Data Engineer (W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006409252/HL7-FHIR-Data-Engineer-W2-ONLY) | TEKsystems | Dallas, Texas | 2026-11-09 |
+| [Principal AI Architect](https://careers.teksystems.com/us/en/job/JP-006409572/Principal-AI-Architect) | TEKsystems | Dallas, Texas | 2026-11-09 |
+| [ServiceNow Developer](https://www.apexsystems.com/job/3058578_usa/servicenow-developer) | Apex Systems | Richmond, VA | 2026-11-09 |
+| [Workday Developer](https://www.apexsystems.com/job/3058702_usa/workday-developer) | Apex Systems | Atlanta, GA | 2026-11-09 |
+| [Data Scientist B2C Consumer Trends](https://www.roberthalf.com/us/en/job/richmond-va/data-scientist-b2c-consumer-trends/04836-9504424154-usen) | Robert Half | Richmond, 04836 | 2026-11-09 |
+| [Principal Ai Software Architect](https://jobs.vaco.com/job/2985/principal_ai_software_architect/en) | Vaco | St. Louis, Missouri | 2026-11-09 |
+| [Data Engineer Snowflake](https://jobs.vaco.com/job/2993/data_engineer_snowflake/en) | Vaco | Nashville, Tennessee | 2026-11-09 |
+| [Android Developer](https://motionrecruitment.com/tech-jobs/irving/contract/android-developer/893318) | Motion Recruitment | Irving, Texas | 2026-11-09 |
+| [AI Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001c1pneas-ai-engineer-sunrise-florida/) | Brooksource | Sunrise, Florida | 2026-11-09 |
+| [Senior Frontend Developer](https://jobs.brooksource.com/jobs/job/a1wcv000001cq9reaw-senior-frontend-developer-new-york-new-york/) | Brooksource | New York, New York | 2026-11-09 |
+| [AI Engineer – DHS](https://jobs.brooksource.com/jobs/job/a1wcv000001csubeao-ai-engineer-dhs-nashville-tennessee/) | Brooksource | Nashville, Tennessee | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
