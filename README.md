@@ -27,17 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 4736 tracked total · updated `2026-11-09T00:43:51+00:00`
+### 🆕 4 new roles this update · 4740 tracked total · updated `2026-11-09T11:13:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 3 |
+| Strategic Staffing Solutions | 1 |
+| Goodwin Recruiting | 1 |
+| Brooksource | 1 |
+| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Akamai Engineer](https://jobs.compunnel.com/jobs/6085490) | Compunnel | New York City, New York, United States | 2026-11-09 |
-| [Senior Data & Backend Software Engineer Data Migration & Databricks Ingestion](https://jobs.compunnel.com/jobs/6085511) | Compunnel | Austin, Texas, United States | 2026-11-09 |
-| [Java Backend Developer](https://jobs.compunnel.com/jobs/6086275) | Compunnel | Jersey City, New Jersey, United States | 2026-11-09 |
+| [It Security Engineer Solution Architect Contract Until 9 24 2027](https://jobs.strategicstaff.com/jobs/it-security-engineer-solution-architect-contract-until-9-24-2027-170569/) | Strategic Staffing Solutions | Vilnius, Lithuania | 2026-11-09 |
+| [Applications Engineer I](https://www.goodwinrecruiting.com/job/a0wr7000003ayijmac-applications-engineer-i-agawam-massachusetts) | Goodwin Recruiting | — | 2026-11-09 |
+| [AI Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001c3pleak-ai-engineer-houston-texas/) | Brooksource | Houston, Texas | 2026-11-09 |
+| [DevOps Integration Engineer](https://bhsg.com/jobs/job/1481035_1794192659-devops-integration-engineer-indianapolis-indiana/) | Beacon Hill | — | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
