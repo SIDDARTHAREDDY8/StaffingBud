@@ -27,15 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 4982 tracked total · updated `2026-11-08T19:31:07+00:00`
+### 🆕 3 new roles this update · 4736 tracked total · updated `2026-11-09T00:43:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Brooksource | 1 |
+| Compunnel | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer II](https://jobs.brooksource.com/jobs/job/a1wcv000000r7creaa-data-engineer-ii-miami-florida/) | Brooksource | Miami, Florida | 2026-11-08 |
+| [Akamai Engineer](https://jobs.compunnel.com/jobs/6085490) | Compunnel | New York City, New York, United States | 2026-11-09 |
+| [Senior Data & Backend Software Engineer Data Migration & Databricks Ingestion](https://jobs.compunnel.com/jobs/6085511) | Compunnel | Austin, Texas, United States | 2026-11-09 |
+| [Java Backend Developer](https://jobs.compunnel.com/jobs/6086275) | Compunnel | Jersey City, New Jersey, United States | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
