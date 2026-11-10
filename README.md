@@ -27,31 +27,33 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 4507 tracked total · updated `2026-11-10T16:59:02+00:00`
+### 🆕 13 new roles this update · 4516 tracked total · updated `2026-11-10T23:05:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 5 |
+| Kforce | 5 |
+| Robert Half | 3 |
 | TEKsystems | 1 |
-| Robert Half | 1 |
+| Apex Systems | 1 |
+| Talent Groups | 1 |
 | Motion Recruitment | 1 |
-| Agility Connect | 1 |
-| Brooksource | 1 |
-| Beacon Hill | 1 |
+| ASK Consulting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Applied Computer Vision Data Scientist](https://careers.teksystems.com/us/en/job/JP-006411207/Applied-Computer-Vision-Data-Scientist) | TEKsystems | Bentonville, Arkansas | 2026-11-10 |
-| [Staff Database Engineer](https://www.roberthalf.com/us/en/job/salt-lake-city-ut/staff-database-engineer/04820-0013467136-usen) | Robert Half | Salt Lake City, 04820 | 2026-11-10 |
-| [Full Stack Software Engineer / AI Platform / NYC](https://motionrecruitment.com/tech-jobs/new-york/direct-hire/full-stack-software-engineer-ai-platform-nyc/894595) | Motion Recruitment | New York, New York | 2026-11-10 |
-| [Full Stack Engineer](https://jobs.compunnel.com/jobs/5836017) | Compunnel | Westlake, Texas, United States | 2026-11-10 |
-| [Staff Engineer AI](https://jobs.compunnel.com/jobs/5960944) | Compunnel | Denver, Colorado, United States | 2026-11-10 |
-| [Facet extension Developer](https://jobs.compunnel.com/jobs/6104868) | Compunnel | Richmond, Virginia, United States | 2026-11-10 |
-| [Power Platform Developer](https://jobs.compunnel.com/jobs/6114476) | Compunnel | Westminster, Colorado, United States | 2026-11-10 |
-| [ETRM Developer](https://jobs.compunnel.com/jobs/6062951) | Compunnel | Houston, Texas, United States | 2026-11-10 |
-| [Software Engineer](https://agilityconnect.io/jobs/8556) | Agility Connect | Columbus, OH | 2026-11-10 |
-| [AI Program Lead](https://jobs.brooksource.com/jobs/job/a1wcv000001ctdleao-ai-program-lead-new-york-new-york/) | Brooksource | New York, New York | 2026-11-10 |
-| [Sr. ServiceNow Developer](https://bhsg.com/jobs/job/1481217sn_1794321903-sr-servicenow-developer-raleigh-north-carolina/) | Beacon Hill | — | 2026-11-10 |
+| [Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2193897T1~99/) | Kforce | Smithfield, RI | 2026-11-10 |
+| [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2193885P1~99/) | Kforce | Kansas City, MO | 2026-11-10 |
+| [Senior Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2192012T1~99/) | Kforce | New York, NY | 2026-11-10 |
+| [Financial Software Engineer](http://www.kforce.com/Jobs/1696~WQG~2193891P1~99/) | Kforce | Kansas City, MO | 2026-11-10 |
+| [Power BI Developer](http://www.kforce.com/Jobs/1696~WQG~2194023T1~99/) | Kforce | Dallas, TX | 2026-11-10 |
+| [Data Scientist](https://careers.teksystems.com/us/en/job/JP-006412982/Data-Scientist) | TEKsystems | Addison, Texas | 2026-11-10 |
+| [GCP/Azure Cloud Engineer](https://www.apexsystems.com/job/3058649_usa/gcpazure-cloud-engineer) | Apex Systems | Richmond, VA | 2026-11-10 |
+| [Cloud Engineer Azure Fully Remote](https://www.roberthalf.com/us/en/job/hartford-ct-ct/cloud-engineer-azure-fully-remote/00700-0013522981-usen) | Robert Half | Hartford, Ct, 00700 | 2026-11-10 |
+| [Web Developer](https://www.roberthalf.com/us/en/job/arlington-va/web-developer/04510-0013521493-usen) | Robert Half | Arlington, 04510 | 2026-11-10 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/peachtree-corners-ga/data-analyst/00900-9504424004-usen) | Robert Half | Peachtree Corners, 00900 | 2026-11-10 |
+| [Cloud AI Engineer](https://www.talentgroups.com/job-details/cloud-ai-engineer-in-artificial-intelligence-and-machine-learning-jobs-1795465) | Talent Groups | Milford, MA | 2026-11-10 |
+| [Software Engineer Senior, Cybersecurity](https://motionrecruitment.com/tech-jobs/oro-valley/contract/software-engineer-senior-cybersecurity/894517) | Motion Recruitment | Oro Valley, Arizona | 2026-11-10 |
+| [Application Developer I](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133220/Application Developer I) | ASK Consulting | — | 2026-11-10 |
 <!-- JOBS:END -->
 
 ## How it works
