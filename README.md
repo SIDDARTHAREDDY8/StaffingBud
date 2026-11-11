@@ -27,33 +27,23 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 4516 tracked total · updated `2026-11-10T23:05:22+00:00`
+### 🆕 7 new roles this update · 4239 tracked total · updated `2026-11-11T05:30:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 5 |
-| Robert Half | 3 |
+| Compunnel | 4 |
+| Motion Recruitment | 2 |
 | TEKsystems | 1 |
-| Apex Systems | 1 |
-| Talent Groups | 1 |
-| Motion Recruitment | 1 |
-| ASK Consulting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2193897T1~99/) | Kforce | Smithfield, RI | 2026-11-10 |
-| [Data Architect](http://www.kforce.com/Jobs/1696~WQG~2193885P1~99/) | Kforce | Kansas City, MO | 2026-11-10 |
-| [Senior Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2192012T1~99/) | Kforce | New York, NY | 2026-11-10 |
-| [Financial Software Engineer](http://www.kforce.com/Jobs/1696~WQG~2193891P1~99/) | Kforce | Kansas City, MO | 2026-11-10 |
-| [Power BI Developer](http://www.kforce.com/Jobs/1696~WQG~2194023T1~99/) | Kforce | Dallas, TX | 2026-11-10 |
-| [Data Scientist](https://careers.teksystems.com/us/en/job/JP-006412982/Data-Scientist) | TEKsystems | Addison, Texas | 2026-11-10 |
-| [GCP/Azure Cloud Engineer](https://www.apexsystems.com/job/3058649_usa/gcpazure-cloud-engineer) | Apex Systems | Richmond, VA | 2026-11-10 |
-| [Cloud Engineer Azure Fully Remote](https://www.roberthalf.com/us/en/job/hartford-ct-ct/cloud-engineer-azure-fully-remote/00700-0013522981-usen) | Robert Half | Hartford, Ct, 00700 | 2026-11-10 |
-| [Web Developer](https://www.roberthalf.com/us/en/job/arlington-va/web-developer/04510-0013521493-usen) | Robert Half | Arlington, 04510 | 2026-11-10 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/peachtree-corners-ga/data-analyst/00900-9504424004-usen) | Robert Half | Peachtree Corners, 00900 | 2026-11-10 |
-| [Cloud AI Engineer](https://www.talentgroups.com/job-details/cloud-ai-engineer-in-artificial-intelligence-and-machine-learning-jobs-1795465) | Talent Groups | Milford, MA | 2026-11-10 |
-| [Software Engineer Senior, Cybersecurity](https://motionrecruitment.com/tech-jobs/oro-valley/contract/software-engineer-senior-cybersecurity/894517) | Motion Recruitment | Oro Valley, Arizona | 2026-11-10 |
-| [Application Developer I](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133220/Application Developer I) | ASK Consulting | — | 2026-11-10 |
+| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006409914/Senior-Data-Engineer) | TEKsystems | Farmington Hills, Michigan | 2026-11-11 |
+| [Lead Data Architect - Remote EST (Insurance Experience Required)](https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-data-architect-remote-est-insurance-experience-required/894663) | Motion Recruitment | Boston, MA | 2026-11-11 |
+| [Senior Security Engineer / Hybrid in Scottsdale](https://motionrecruitment.com/tech-jobs/scottsdale-/direct-hire/senior-security-engineer-hybrid-in-scottsdale/894661) | Motion Recruitment | Scottsdale , Arizona | 2026-11-11 |
+| [Principal Full Stack Engineer](https://jobs.compunnel.com/jobs/6104499) | Compunnel | Durham, North Carolina, United States | 2026-11-11 |
+| [Lead Software Eng - Lead Python AI/LLM/RAG Engineer](https://jobs.compunnel.com/jobs/6104530) | Compunnel | Charlotte, North Carolina, United States | 2026-11-11 |
+| [Principal AI Transformation Architect](https://jobs.compunnel.com/jobs/6104566) | Compunnel | Columbus, Ohio, United States | 2026-11-11 |
+| [Python Developer](https://jobs.compunnel.com/jobs/6104569) | Compunnel | New York, New York, United States | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
