@@ -27,23 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 4239 tracked total · updated `2026-11-11T05:30:19+00:00`
+### 🆕 4 new roles this update · 4232 tracked total · updated `2026-11-11T13:57:52+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 4 |
-| Motion Recruitment | 2 |
-| TEKsystems | 1 |
+| Agility Connect | 2 |
+| Apex Systems | 1 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](https://careers.teksystems.com/us/en/job/JP-006409914/Senior-Data-Engineer) | TEKsystems | Farmington Hills, Michigan | 2026-11-11 |
-| [Lead Data Architect - Remote EST (Insurance Experience Required)](https://motionrecruitment.com/tech-jobs/boston/direct-hire/lead-data-architect-remote-est-insurance-experience-required/894663) | Motion Recruitment | Boston, MA | 2026-11-11 |
-| [Senior Security Engineer / Hybrid in Scottsdale](https://motionrecruitment.com/tech-jobs/scottsdale-/direct-hire/senior-security-engineer-hybrid-in-scottsdale/894661) | Motion Recruitment | Scottsdale , Arizona | 2026-11-11 |
-| [Principal Full Stack Engineer](https://jobs.compunnel.com/jobs/6104499) | Compunnel | Durham, North Carolina, United States | 2026-11-11 |
-| [Lead Software Eng - Lead Python AI/LLM/RAG Engineer](https://jobs.compunnel.com/jobs/6104530) | Compunnel | Charlotte, North Carolina, United States | 2026-11-11 |
-| [Principal AI Transformation Architect](https://jobs.compunnel.com/jobs/6104566) | Compunnel | Columbus, Ohio, United States | 2026-11-11 |
-| [Python Developer](https://jobs.compunnel.com/jobs/6104569) | Compunnel | New York, New York, United States | 2026-11-11 |
+| [Associate Site Reliability Engineer](https://www.apexsystems.com/job/3057568_usa/associate-site-reliability-engineer) | Apex Systems | Milwaukee, WI | 2026-11-11 |
+| [Senior Cloud Infrastructure Engineer Azure](https://www.roberthalf.com/us/en/job/bethesda-md/senior-cloud-infrastructure-engineer-azure/04510-0013405418-usen) | Robert Half | Bethesda, 04510 | 2026-11-11 |
+| [AI Data Engineer 3](https://agilityconnect.io/jobs/8613) | Agility Connect | Redmond, WA | 2026-11-11 |
+| [Sr Java Developer](https://agilityconnect.io/jobs/8611) | Agility Connect | OH | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
