@@ -27,43 +27,34 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 20 new roles this update · 4274 tracked total · updated `2026-11-12T17:33:20+00:00`
+### 🆕 14 new roles this update · 4287 tracked total · updated `2026-11-12T23:29:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 5 |
-| TEKsystems | 3 |
+| TEKsystems | 4 |
+| Kforce | 3 |
 | Robert Half | 3 |
-| Goodwin Recruiting | 3 |
-| Apex Systems | 1 |
-| CornerStone TTS | 1 |
-| CRG | 1 |
 | Motion Recruitment | 1 |
-| ASK Consulting | 1 |
-| Compunnel | 1 |
+| Gina's Tech Jobs | 1 |
+| Next Step Systems | 1 |
+| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2194148T1~99/) | Kforce | Durham, NC | 2026-11-12 |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~WQG~2194126T1~99/) | Kforce | Foster City, CA | 2026-11-12 |
-| [Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2186181P1~99/) | Kforce | Mediacom Park, NY | 2026-11-12 |
-| [Data Platform Engineer](http://www.kforce.com/Jobs/1696~AQG~2193012P1~99/) | Kforce | Conshohocken, PA | 2026-11-12 |
-| [Business Data Analyst IV](http://www.kforce.com/Jobs/1696~WQG~2194156T1~99/) | Kforce | Mountain View, CA | 2026-11-12 |
-| [Programmer Analyst-Rhapsody & HL7-100% Remote](https://careers.teksystems.com/us/en/job/JP-006414588/Programmer-Analyst-Rhapsody-HL7-100-Remote) | TEKsystems | Boise, Idaho | 2026-11-12 |
-| [Lead Developer](https://careers.teksystems.com/us/en/job/JP-006416747/Lead-Developer) | TEKsystems | Las Vegas, Nevada | 2026-11-12 |
-| [Report Developer / Business Intelligence Developer](https://careers.teksystems.com/us/en/job/JP-006416907/Report-Developer-Business-Intelligence-Developer) | TEKsystems | San Diego, California | 2026-11-12 |
-| [Senior Java API Engineer](https://www.apexsystems.com/job/3058157_usa/senior-java-api-engineer) | Apex Systems | Raleigh, NC | 2026-11-12 |
-| [Senior Cloud Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/senior-cloud-security-engineer/00320-0013509833-usen) | Robert Half | Los Angeles, 00320 | 2026-11-12 |
-| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/senior-software-engineer/01120-9504425777-usen) | Robert Half | Jacksonville, 01120 | 2026-11-12 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/huntersville-nc/cyber-security-engineer/03200-0013505146-usen) | Robert Half | Huntersville, 03200 | 2026-11-12 |
-| [Principal Data Engineer](https://jobs.cornerstonetechtalent.com/jb/Principal-Data-Engineer-Jobs-in-/14409939) | CornerStone TTS | — | 2026-11-12 |
-| [Senior Data Engineer](https://jobs.getcrg.com/jobs/16858) | CRG | Salisbury, North Carolina | 2026-11-12 |
-| [Principal Open Source Developer - TypeScript/Node/Angular/React/.NET](https://motionrecruitment.com/tech-jobs/boston/direct-hire/principal-open-source-developer-typescript-node-angular-react-dot-net/894788) | Motion Recruitment | Boston, MA | 2026-11-12 |
-| [Full-Stack Web Application Developer (.Net)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133284/Full-Stack Web Application Developer (.Net)) | ASK Consulting | — | 2026-11-12 |
-| [Lead Software Engineer](https://jobs.compunnel.com/jobs/6172894) | Compunnel | Issaquah, Washington, United States | 2026-11-12 |
-| [Data Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003jpatmaw-data-engineer-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
-| [Software Engineer (Mobile Focus)](https://www.goodwinrecruiting.com/job/a0wr7000003jpxfma4-software-engineer-mobile-focus-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
-| [Software Engineer (Full Stack, React & TypeScript)](https://www.goodwinrecruiting.com/job/a0wr7000003jpu1mao-software-engineer-full-stack-react-typescript-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
+| [Mid-level Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2194188T1~99/) | Kforce | Charlotte, NC | 2026-11-12 |
+| [Database Data Engineer - PL SQL ETL Informatica](http://www.kforce.com/Jobs/1696~AQG~2194171T1~99/) | Kforce | Durham, FL | 2026-11-12 |
+| [Python & AI Solutions Developer](http://www.kforce.com/Jobs/1696~EQG~2189995P1~99/) | Kforce | Chicago, IL | 2026-11-12 |
+| [Ai Data Engineering Architect](https://careers.teksystems.com/us/en/job/JP-006416546/Ai-Data-Engineering-Architect) | TEKsystems | Westmont, Illinois | 2026-11-12 |
+| [.Net Developer/azure Architect](https://careers.teksystems.com/us/en/job/JP-006413969/Net-Developer-azure-Architect) | TEKsystems | Warrenville, Illinois | 2026-11-12 |
+| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006415672/Software-Engineer) | TEKsystems | Warren, Michigan | 2026-11-12 |
+| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006414913/Senior-Software-Engineer) | TEKsystems | Nashville, Tennessee | 2026-11-12 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/philadelphia-pa/erpcrm-developer/03720-0013525728-usen) | Robert Half | Philadelphia, 03720 | 2026-11-12 |
+| [Ai Recruiting Coordinator](https://www.roberthalf.com/us/en/job/san-mateo-ca/ai-recruiting-coordinator/00430-9504426388-usen) | Robert Half | San Mateo, 00430 | 2026-11-12 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532179-usen) | Robert Half | New York, 02910 | 2026-11-12 |
+| [Senior .NET Developer - Massachusetts](https://motionrecruitment.com/tech-jobs/cambridge-/direct-hire/senior-dot-net-developer-massachusetts/893410) | Motion Recruitment | cambridge , Massachusetts | 2026-11-12 |
+| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.ginastechjobs.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-12 |
+| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.nextstepsystems.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-12 |
+| [Java API Engineer (On-Site)](https://bhsg.com/jobs/job/1481168_1794507687-java-api-engineer-on-site-charlotte-north-carolina/) | Beacon Hill | — | 2026-11-12 |
 <!-- JOBS:END -->
 
 ## How it works
