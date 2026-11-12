@@ -27,26 +27,43 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 4257 tracked total · updated `2026-11-12T06:34:49+00:00`
+### 🆕 20 new roles this update · 4274 tracked total · updated `2026-11-12T17:33:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 4 |
-| TEKsystems | 1 |
+| Kforce | 5 |
+| TEKsystems | 3 |
+| Robert Half | 3 |
+| Goodwin Recruiting | 3 |
 | Apex Systems | 1 |
+| CornerStone TTS | 1 |
+| CRG | 1 |
+| Motion Recruitment | 1 |
+| ASK Consulting | 1 |
 | Compunnel | 1 |
-| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Enterprise Data Analytics Manager](https://careers.teksystems.com/us/en/job/JP-006410835/Enterprise-Data-Analytics-Manager) | TEKsystems | Rochester, New York | 2026-11-12 |
-| [Principal AI Platform Engineer](https://www.apexsystems.com/job/3058816_usa/principal-ai-platform-engineer) | Apex Systems | Seattle, WA | 2026-11-12 |
-| [Inventory Data Analyst](https://www.roberthalf.com/us/en/job/bloomington-mn/inventory-data-analyst/02340-0013528124-usen) | Robert Half | Bloomington, 02340 | 2026-11-12 |
-| [Site Reliability Engineer](https://www.roberthalf.com/us/en/job/austin-tx/site-reliability-engineer/04160-9504426428-usen) | Robert Half | Austin, 04160 | 2026-11-12 |
-| [Ai Sourcer Human Resources](https://www.roberthalf.com/us/en/job/san-mateo-ca/ai-sourcer-human-resources/00430-9504426399-usen) | Robert Half | San Mateo, 00430 | 2026-11-12 |
-| [Devops Engineer](https://www.roberthalf.com/us/en/job/austin-tx/devops-engineer/04160-9504426425-usen) | Robert Half | Austin, 04160 | 2026-11-12 |
-| [Agentic AI Developer](https://jobs.compunnel.com/jobs/6104877) | Compunnel | New York City, New York, United States | 2026-11-12 |
-| [Solutions/Platform Engineer](https://bhsg.com/jobs/job/san-tt-1479543_1794440676-solutions-platform-engineer-san-diego-california/) | Beacon Hill | — | 2026-11-12 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2194148T1~99/) | Kforce | Durham, NC | 2026-11-12 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~WQG~2194126T1~99/) | Kforce | Foster City, CA | 2026-11-12 |
+| [Data Scientist](http://www.kforce.com/Jobs/1696~AQG~2186181P1~99/) | Kforce | Mediacom Park, NY | 2026-11-12 |
+| [Data Platform Engineer](http://www.kforce.com/Jobs/1696~AQG~2193012P1~99/) | Kforce | Conshohocken, PA | 2026-11-12 |
+| [Business Data Analyst IV](http://www.kforce.com/Jobs/1696~WQG~2194156T1~99/) | Kforce | Mountain View, CA | 2026-11-12 |
+| [Programmer Analyst-Rhapsody & HL7-100% Remote](https://careers.teksystems.com/us/en/job/JP-006414588/Programmer-Analyst-Rhapsody-HL7-100-Remote) | TEKsystems | Boise, Idaho | 2026-11-12 |
+| [Lead Developer](https://careers.teksystems.com/us/en/job/JP-006416747/Lead-Developer) | TEKsystems | Las Vegas, Nevada | 2026-11-12 |
+| [Report Developer / Business Intelligence Developer](https://careers.teksystems.com/us/en/job/JP-006416907/Report-Developer-Business-Intelligence-Developer) | TEKsystems | San Diego, California | 2026-11-12 |
+| [Senior Java API Engineer](https://www.apexsystems.com/job/3058157_usa/senior-java-api-engineer) | Apex Systems | Raleigh, NC | 2026-11-12 |
+| [Senior Cloud Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/senior-cloud-security-engineer/00320-0013509833-usen) | Robert Half | Los Angeles, 00320 | 2026-11-12 |
+| [Senior Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/senior-software-engineer/01120-9504425777-usen) | Robert Half | Jacksonville, 01120 | 2026-11-12 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/huntersville-nc/cyber-security-engineer/03200-0013505146-usen) | Robert Half | Huntersville, 03200 | 2026-11-12 |
+| [Principal Data Engineer](https://jobs.cornerstonetechtalent.com/jb/Principal-Data-Engineer-Jobs-in-/14409939) | CornerStone TTS | — | 2026-11-12 |
+| [Senior Data Engineer](https://jobs.getcrg.com/jobs/16858) | CRG | Salisbury, North Carolina | 2026-11-12 |
+| [Principal Open Source Developer - TypeScript/Node/Angular/React/.NET](https://motionrecruitment.com/tech-jobs/boston/direct-hire/principal-open-source-developer-typescript-node-angular-react-dot-net/894788) | Motion Recruitment | Boston, MA | 2026-11-12 |
+| [Full-Stack Web Application Developer (.Net)](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133284/Full-Stack Web Application Developer (.Net)) | ASK Consulting | — | 2026-11-12 |
+| [Lead Software Engineer](https://jobs.compunnel.com/jobs/6172894) | Compunnel | Issaquah, Washington, United States | 2026-11-12 |
+| [Data Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003jpatmaw-data-engineer-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
+| [Software Engineer (Mobile Focus)](https://www.goodwinrecruiting.com/job/a0wr7000003jpxfma4-software-engineer-mobile-focus-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
+| [Software Engineer (Full Stack, React & TypeScript)](https://www.goodwinrecruiting.com/job/a0wr7000003jpu1mao-software-engineer-full-stack-react-typescript-atlanta-georgia) | Goodwin Recruiting | — | 2026-11-12 |
 <!-- JOBS:END -->
 
 ## How it works
