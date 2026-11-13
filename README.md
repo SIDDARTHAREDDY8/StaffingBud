@@ -27,20 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 4279 tracked total · updated `2026-11-13T05:55:45+00:00`
+### 🆕 1 new roles this update · 4274 tracked total · updated `2026-11-13T14:23:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 2 |
-| TEKsystems | 1 |
-| Nesco Resource | 1 |
+| Apex Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principal AI Architect](https://careers.teksystems.com/us/en/job/JP-006418008/Principal-AI-Architect) | TEKsystems | Baltimore, Maryland | 2026-11-13 |
-| [DevOps Solution Architect](https://jobs.compunnel.com/jobs/6117769) | Compunnel | Dallas, Texas, United States | 2026-11-13 |
-| [Data Analyst](https://jobs.compunnel.com/jobs/6114094) | Compunnel | Irving, Texas, United States | 2026-11-13 |
-| [Laboratory Execution System (LES) Developer - BIOVIA](https://www.nescoresource.com/job-details/laboratory-execution-system-les-developer-biovia-in-information-technology-jobs-1797656) | Nesco Resource | South San Francisco, CA | 2026-11-13 |
+| [Senior Front End Engineer](https://www.apexsystems.com/job/3058939_usa/senior-front-end-engineer) | Apex Systems | Bellevue, WA | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
