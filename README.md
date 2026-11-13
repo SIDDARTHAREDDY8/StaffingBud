@@ -27,34 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 4287 tracked total · updated `2026-11-12T23:29:25+00:00`
+### 🆕 4 new roles this update · 4279 tracked total · updated `2026-11-13T05:55:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Kforce | 3 |
-| Robert Half | 3 |
-| Motion Recruitment | 1 |
-| Gina's Tech Jobs | 1 |
-| Next Step Systems | 1 |
-| Beacon Hill | 1 |
+| Compunnel | 2 |
+| TEKsystems | 1 |
+| Nesco Resource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Mid-level Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2194188T1~99/) | Kforce | Charlotte, NC | 2026-11-12 |
-| [Database Data Engineer - PL SQL ETL Informatica](http://www.kforce.com/Jobs/1696~AQG~2194171T1~99/) | Kforce | Durham, FL | 2026-11-12 |
-| [Python & AI Solutions Developer](http://www.kforce.com/Jobs/1696~EQG~2189995P1~99/) | Kforce | Chicago, IL | 2026-11-12 |
-| [Ai Data Engineering Architect](https://careers.teksystems.com/us/en/job/JP-006416546/Ai-Data-Engineering-Architect) | TEKsystems | Westmont, Illinois | 2026-11-12 |
-| [.Net Developer/azure Architect](https://careers.teksystems.com/us/en/job/JP-006413969/Net-Developer-azure-Architect) | TEKsystems | Warrenville, Illinois | 2026-11-12 |
-| [Software Engineer](https://careers.teksystems.com/us/en/job/JP-006415672/Software-Engineer) | TEKsystems | Warren, Michigan | 2026-11-12 |
-| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006414913/Senior-Software-Engineer) | TEKsystems | Nashville, Tennessee | 2026-11-12 |
-| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/philadelphia-pa/erpcrm-developer/03720-0013525728-usen) | Robert Half | Philadelphia, 03720 | 2026-11-12 |
-| [Ai Recruiting Coordinator](https://www.roberthalf.com/us/en/job/san-mateo-ca/ai-recruiting-coordinator/00430-9504426388-usen) | Robert Half | San Mateo, 00430 | 2026-11-12 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532179-usen) | Robert Half | New York, 02910 | 2026-11-12 |
-| [Senior .NET Developer - Massachusetts](https://motionrecruitment.com/tech-jobs/cambridge-/direct-hire/senior-dot-net-developer-massachusetts/893410) | Motion Recruitment | cambridge , Massachusetts | 2026-11-12 |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.ginastechjobs.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-12 |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.nextstepsystems.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-12 |
-| [Java API Engineer (On-Site)](https://bhsg.com/jobs/job/1481168_1794507687-java-api-engineer-on-site-charlotte-north-carolina/) | Beacon Hill | — | 2026-11-12 |
+| [Principal AI Architect](https://careers.teksystems.com/us/en/job/JP-006418008/Principal-AI-Architect) | TEKsystems | Baltimore, Maryland | 2026-11-13 |
+| [DevOps Solution Architect](https://jobs.compunnel.com/jobs/6117769) | Compunnel | Dallas, Texas, United States | 2026-11-13 |
+| [Data Analyst](https://jobs.compunnel.com/jobs/6114094) | Compunnel | Irving, Texas, United States | 2026-11-13 |
+| [Laboratory Execution System (LES) Developer - BIOVIA](https://www.nescoresource.com/job-details/laboratory-execution-system-les-developer-biovia-in-information-technology-jobs-1797656) | Nesco Resource | South San Francisco, CA | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
