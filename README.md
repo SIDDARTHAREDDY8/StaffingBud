@@ -27,26 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 4159 tracked total · updated `2026-11-14T05:45:20+00:00`
+### 🆕 6 new roles this update · 4165 tracked total · updated `2026-11-14T13:19:41+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| Apex Systems | 2 |
-| Kforce | 1 |
-| Talent Groups | 1 |
-| Brooksource | 1 |
+| Agility Connect | 5 |
+| Apex Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer I](http://www.kforce.com/Jobs/1696~EQG~2194077T1~99/) | Kforce | Whitehall, MI | 2026-11-14 |
-| [Application Developer - Department of Tax & Collections (DTAC) Project](https://www.apexsystems.com/job/3057488_usa/application-developer---department-of-tax--collections-dtac-project) | Apex Systems | San Jose, CA | 2026-11-14 |
-| [Sr. Data Engineers (ETL)](https://www.apexsystems.com/job/3059342_usa/sr-data-engineers-etl) | Apex Systems | Tampa, FL | 2026-11-14 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/exton-pa/sr-software-engineer/03720-0013429499-usen) | Robert Half | Exton, 03720 | 2026-11-14 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/sr-software-engineer/02940-0013533459-usen) | Robert Half | New York, 02940 | 2026-11-14 |
-| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/elmhurst-il/erpcrm-developer/01300-0013536274-usen) | Robert Half | Elmhurst, 01300 | 2026-11-14 |
-| [Senior Infrastructure Engineer](https://www.talentgroups.com/job-details/senior-infrastructure-engineer-in-other-jobs-1798077) | Talent Groups | Springfield, MA | 2026-11-14 |
-| [Sr Data Scientist](https://jobs.brooksource.com/jobs/job/a1wcv000001d8yteas-sr-data-scientist-tampa-florida/) | Brooksource | Tampa, Florida | 2026-11-14 |
+| [Data Analyst](https://www.apexsystems.com/job/3059368_usa/data-analyst) | Apex Systems | Fort Myers, FL | 2026-11-14 |
+| [Code Security Engineer](https://agilityconnect.io/jobs/8621) | Agility Connect | Cincinnati, OH | 2026-11-14 |
+| [Senior Java Developer](https://agilityconnect.io/jobs/8627) | Agility Connect | Cincinnati, OH | 2026-11-14 |
+| [Android Engineer](https://agilityconnect.io/jobs/8624) | Agility Connect | Columbus, Ohio | 2026-11-14 |
+| [Jr AI Engineer](https://agilityconnect.io/jobs/8617) | Agility Connect | OH | 2026-11-14 |
+| [Full Stack Engineer](https://agilityconnect.io/jobs/8618) | Agility Connect | Columbus, OH | 2026-11-14 |
 <!-- JOBS:END -->
 
 ## How it works
