@@ -27,21 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 4165 tracked total · updated `2026-11-14T13:19:41+00:00`
+### 🟢 No new roles this update · **4162** roles open total · updated `2026-11-14T19:54:47+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 5 |
-| Apex Systems | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Data Analyst](https://www.apexsystems.com/job/3059368_usa/data-analyst) | Apex Systems | Fort Myers, FL | 2026-11-14 |
-| [Code Security Engineer](https://agilityconnect.io/jobs/8621) | Agility Connect | Cincinnati, OH | 2026-11-14 |
-| [Senior Java Developer](https://agilityconnect.io/jobs/8627) | Agility Connect | Cincinnati, OH | 2026-11-14 |
-| [Android Engineer](https://agilityconnect.io/jobs/8624) | Agility Connect | Columbus, Ohio | 2026-11-14 |
-| [Jr AI Engineer](https://agilityconnect.io/jobs/8617) | Agility Connect | OH | 2026-11-14 |
-| [Full Stack Engineer](https://agilityconnect.io/jobs/8618) | Agility Connect | Columbus, OH | 2026-11-14 |
+Nothing new since the last run — [browse all 4162 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
