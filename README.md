@@ -27,68 +27,26 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 47 new roles this update · 4312 tracked total · updated `2026-11-13T21:24:20+00:00`
+### 🆕 8 new roles this update · 4159 tracked total · updated `2026-11-14T05:45:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 35 |
-| Kforce | 4 |
-| Apex Systems | 3 |
-| ProFocus | 1 |
+| Robert Half | 3 |
+| Apex Systems | 2 |
+| Kforce | 1 |
 | Talent Groups | 1 |
-| CRG | 1 |
-| ASK Consulting | 1 |
-| Beacon Hill | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [BA / Functional Data Analyst](http://www.kforce.com/Jobs/1696~NRC~2194249T1~99/) | Kforce | Tampa, FL | 2026-11-13 |
-| [Junior Data Engineer](http://www.kforce.com/Jobs/1696~AQG~2194305T1~99/) | Kforce | Durham, NC | 2026-11-13 |
-| [Manufacturing Data Engineer](http://www.kforce.com/Jobs/1696~WQG~2194206T1~99/) | Kforce | Foster City, CA | 2026-11-13 |
-| [AI Engineer with Python Contractor](http://www.kforce.com/Jobs/1696~EQG~2194227T1~99/) | Kforce | Doral, FL | 2026-11-13 |
-| [Senior Software Engineer](https://www.apexsystems.com/job/3059274_usa/senior-software-engineer) | Apex Systems | Kansas City, MO | 2026-11-13 |
-| [Full Stack Developer](https://www.apexsystems.com/job/3059145_usa/full-stack-developer) | Apex Systems | Fort Myers, FL | 2026-11-13 |
-| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3059307_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, CA | 2026-11-13 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/software-engineer/02720-0013521298-usen) | Robert Half | New York, 02720 | 2026-11-13 |
-| [Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/infrastructure-engineer/00320-9504426997-usen) | Robert Half | Santa Barbara, 00320 | 2026-11-13 |
-| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/tampa-fl/erpcrm-developer/01070-0013533554-usen) | Robert Half | Tampa, 01070 | 2026-11-13 |
-| [Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/security-engineer/00320-0013425689-usen) | Robert Half | Los Angeles, 00320 | 2026-11-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/saint-petersburg-fl/data-engineer/01070-0013530171-usen) | Robert Half | Saint Petersburg, 01070 | 2026-11-13 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/deerfield-beach-fl/software-engineer/01000-9504426681-usen) | Robert Half | Deerfield Beach, 01000 | 2026-11-13 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/st-louis-park-mn/cyber-security-engineer/02310-0013533990-usen) | Robert Half | St. Louis Park, 02310 | 2026-11-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/data-engineer/00290-0013534168-usen) | Robert Half | Atlanta, 00290 | 2026-11-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/deerfield-beach-fl/data-engineer/01000-9504426678-usen) | Robert Half | Deerfield Beach, 01000 | 2026-11-13 |
-| [Senior Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/senior-infrastructure-engineer/00320-0013419297-usen) | Robert Half | Santa Barbara, 00320 | 2026-11-13 |
-| [Cloud Engineeradministrator](https://www.roberthalf.com/us/en/job/lake-mary-fl/cloud-engineeradministrator/01030-0013495229-usen) | Robert Half | Lake Mary, 01030 | 2026-11-13 |
-| [Senior Devops Engineer Azure Devops Aws Fully Remote](https://www.roberthalf.com/us/en/job/hartford-ct/senior-devops-engineer-azure-devops-aws-fully-remote/00700-0013533099-usen) | Robert Half | Hartford, 00700 | 2026-11-13 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/clearwater-fl/software-developer/01070-0013532098-usen) | Robert Half | Clearwater, 01070 | 2026-11-13 |
-| [Web Developer](https://www.roberthalf.com/us/en/job/torrance-ca/web-developer/04839-0013537520-usen) | Robert Half | Torrance, 04837 | 2026-11-13 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/modesto-ca/software-engineer/00390-0013537533-usen) | Robert Half | Modesto, 00390 | 2026-11-13 |
-| [Agent Platform Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/agent-platform-engineer/00320-0013513826-usen) | Robert Half | Los Angeles, 00320 | 2026-11-13 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/appleton-wi/cyber-security-engineer/04620-0013528294-usen) | Robert Half | Appleton, 04620 | 2026-11-13 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/thorofare-nj/sr-software-engineer/03720-0013491434-usen) | Robert Half | Thorofare, 03720 | 2026-11-13 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/madison-wi/cyber-security-engineer/04620-0013533937-usen) | Robert Half | Madison, 04620 | 2026-11-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/cincinnati-oh/data-engineer/02940-0013519706-usen) | Robert Half | Cincinnati, 02940 | 2026-11-13 |
-| [Principal Software Engineer](https://www.roberthalf.com/us/en/job/knoxville-tn/principal-software-engineer/03230-0013515377-usen) | Robert Half | Knoxville, 03230 | 2026-11-13 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/sr-software-engineer/00320-0013516451-usen) | Robert Half | Los Angeles, 00320 | 2026-11-13 |
-| [Director Or Manager Ai Engineering](https://www.roberthalf.com/us/en/job/saint-petersburg-fl/director-or-manager-ai-engineering/01070-0013535852-usen) | Robert Half | Saint Petersburg, 01070 | 2026-11-13 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/eden-prairie-mn/software-engineering-manager/02310-0013536498-usen) | Robert Half | Eden Prairie, 02310 | 2026-11-13 |
-| [Staff Software Engineer](https://www.roberthalf.com/us/en/job/minneapolis-mn/staff-software-engineer/02310-0013536854-usen) | Robert Half | Minneapolis, 02310 | 2026-11-13 |
-| [Data Platform Engineer](https://www.roberthalf.com/us/en/job/cleveland-oh/data-platform-engineer/03340-0013535323-usen) | Robert Half | Cleveland, 03340 | 2026-11-13 |
-| [Sr Mlops Engineer](https://www.roberthalf.com/us/en/job/king-prussia-pa/sr-mlops-engineer/03720-0013513388-usen) | Robert Half | King of Prussia, 03720 | 2026-11-13 |
-| [Site Reliability Engineer](https://www.roberthalf.com/us/en/job/chicago-il/site-reliability-engineer/04838-0013535881-usen) | Robert Half | Chicago, 04838 | 2026-11-13 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/bethany-ok/software-developer/03500-0013534663-usen) | Robert Half | Bethany, 03500 | 2026-11-13 |
-| [Jr Data Analyst Site](https://www.roberthalf.com/us/en/job/buffalo-ny/jr-data-analyst-site/00720-0013536528-usen) | Robert Half | Buffalo, 00720 | 2026-11-13 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/grand-rapids-mi/sr-software-engineer/02220-0013534310-usen) | Robert Half | Grand Rapids, 02220 | 2026-11-13 |
-| [Applied Ai Training Engineer](https://www.roberthalf.com/us/en/job/san-francisco-ca/applied-ai-training-engineer/00410-0013532907-usen) | Robert Half | San Francisco, 00410 | 2026-11-13 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/peterborough-nh/sr-software-engineer/02600-0013513679-usen) | Robert Half | Peterborough, 02600 | 2026-11-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/minneapolis-mn/data-engineer/02310-0013535137-usen) | Robert Half | Minneapolis, 02310 | 2026-11-13 |
-| [Snowflake Data Engineer](https://www.roberthalf.com/us/en/job/radnor-pa/snowflake-data-engineer/03720-0013512453-usen) | Robert Half | Radnor, 03720 | 2026-11-13 |
-| [Full Stack Software Engineer C Net Angular Aws Glasses Fulfillment](https://www.profocustechnology.com/echojobs/full-stack-software-engineer-c-net-angular-aws-glasses-fulfillment-3658/) | ProFocus | — | 2026-11-13 |
-| [DevOps Consultant](https://www.talentgroups.com/job-details/devops-consultant-in-devops-jobs-1797939) | Talent Groups | Springfield, MA | 2026-11-13 |
-| [Databricks Data Engineer](https://jobs.getcrg.com/jobs/16839) | CRG | Salisbury, North Carolina | 2026-11-13 |
-| [Sr Software Engineer, Security Automation & Analytics](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133333/Sr Software Engineer, Security Automation & Analytics) | ASK Consulting | Seattle, WA, 98101 | 2026-11-13 |
-| [Enrollment Contact Representative](https://bhsg.com/jobs/job/a1481723so_1794585829-enrollment-contact-representative-dedham-massachusetts/) | Beacon Hill | — | 2026-11-13 |
+| [Data Engineer I](http://www.kforce.com/Jobs/1696~EQG~2194077T1~99/) | Kforce | Whitehall, MI | 2026-11-14 |
+| [Application Developer - Department of Tax & Collections (DTAC) Project](https://www.apexsystems.com/job/3057488_usa/application-developer---department-of-tax--collections-dtac-project) | Apex Systems | San Jose, CA | 2026-11-14 |
+| [Sr. Data Engineers (ETL)](https://www.apexsystems.com/job/3059342_usa/sr-data-engineers-etl) | Apex Systems | Tampa, FL | 2026-11-14 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/exton-pa/sr-software-engineer/03720-0013429499-usen) | Robert Half | Exton, 03720 | 2026-11-14 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/sr-software-engineer/02940-0013533459-usen) | Robert Half | New York, 02940 | 2026-11-14 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/elmhurst-il/erpcrm-developer/01300-0013536274-usen) | Robert Half | Elmhurst, 01300 | 2026-11-14 |
+| [Senior Infrastructure Engineer](https://www.talentgroups.com/job-details/senior-infrastructure-engineer-in-other-jobs-1798077) | Talent Groups | Springfield, MA | 2026-11-14 |
+| [Sr Data Scientist](https://jobs.brooksource.com/jobs/job/a1wcv000001d8yteas-sr-data-scientist-tampa-florida/) | Brooksource | Tampa, Florida | 2026-11-14 |
 <!-- JOBS:END -->
 
 ## How it works
