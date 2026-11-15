@@ -27,9 +27,15 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **3893** roles open total · updated `2026-11-15T01:00:16+00:00`
+### 🆕 1 new roles this update · 3894 tracked total · updated `2026-11-15T10:37:59+00:00`
 
-Nothing new since the last run — [browse all 3893 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Kforce | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Backend Java Developer](http://www.kforce.com/Jobs/1696~AQG~2193685T1~99/) | Kforce | Long Island City, NY | 2026-11-15 |
 <!-- JOBS:END -->
 
 ## How it works
