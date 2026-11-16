@@ -27,15 +27,45 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 3699 tracked total · updated `2026-11-16T10:57:20+00:00`
+### 🆕 23 new roles this update · 3722 tracked total · updated `2026-11-16T21:52:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Alldus | 1 |
+| Talent Groups | 5 |
+| Robert Half | 4 |
+| Kforce | 3 |
+| Apex Systems | 3 |
+| Motion Recruitment | 2 |
+| Compunnel | 2 |
+| Beacon Hill | 2 |
+| Vernovis | 1 |
+| Brooksource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Full Stack Engineer New York](https://alldus.com/job/59034-senior-full-stack-engineer-new-york/) | Alldus | New York | 2026-11-16 |
+| [Senior Data Architect](http://www.kforce.com/Jobs/1696~WQG~2194366T1~99/) | Kforce | Orem, UT | 2026-11-16 |
+| [Cloud Database Engineer](http://www.kforce.com/Jobs/1696~AQG~2194421T1~99/) | Kforce | Westlake, TX | 2026-11-16 |
+| [Principal AI Engineer](http://www.kforce.com/Jobs/1696~WQG~2194406P1~99/) | Kforce | Phoenix, AZ | 2026-11-16 |
+| [AI Engineer](https://www.apexsystems.com/job/3059408_usa/ai-engineer) | Apex Systems | Springfield, MO | 2026-11-16 |
+| [Java Developer (API)](https://www.apexsystems.com/job/3059322_usa/java-developer-api) | Apex Systems | Merrifield, VA | 2026-11-16 |
+| [Software Developer (Java + IAM)](https://www.apexsystems.com/job/3059362_usa/software-developer-java--iam) | Apex Systems | Austin, TX | 2026-11-16 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/exton-pa/sr-software-engineer/03720-0013429499-usen) | Robert Half | Exton, 03720 | 2026-11-16 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/new-york-ny/sr-software-engineer/02940-0013533459-usen) | Robert Half | New York, 02940 | 2026-11-16 |
+| [Erpcrm Developer](https://www.roberthalf.com/us/en/job/elmhurst-il/erpcrm-developer/01300-0013536274-usen) | Robert Half | Elmhurst, 01300 | 2026-11-16 |
+| [Lead Data Engineer](https://www.roberthalf.com/us/en/job/atlanta-ga/lead-data-engineer/00900-0013513543-usen) | Robert Half | Atlanta, 00900 | 2026-11-16 |
+| [Anaplan Lead Software Engineer](https://www.talentgroups.com/job-details/anaplan-lead-software-engineer-in-software-development-and-engineering-jobs-1799088) | Talent Groups | Weston, FL | 2026-11-16 |
+| [Software Development Engineer in Test](https://www.talentgroups.com/job-details/software-development-engineer-in-test-in-software-development-and-engineering-jobs-1799150) | Talent Groups | Springfield, MA | 2026-11-16 |
+| [Senior Java Software Developer](https://www.talentgroups.com/job-details/senior-java-software-developer-in-software-development-and-engineering-jobs-1799098) | Talent Groups | Frisco, TX | 2026-11-16 |
+| [Senior Software Engineer, AI](https://www.talentgroups.com/job-details/senior-software-engineer-ai-in-artificial-intelligence-and-machine-learning-jobs-1799080) | Talent Groups | Weston, FL | 2026-11-16 |
+| [Windchill Java Workflow Developer](https://www.talentgroups.com/job-details/windchill-java-workflow-developer-in-software-development-and-engineering-jobs-1799074) | Talent Groups | Frisco, TX | 2026-11-16 |
+| [DevOps Developer](https://motionrecruitment.com/tech-jobs/irving/contract/devops-developer/894076) | Motion Recruitment | Irving, TX | 2026-11-16 |
+| [Senior Software Engineer / Typescript, Data, AWS / Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/senior-software-engineer-typescript-data-aws-boston-ma/888796) | Motion Recruitment | Boston, Massachusetts | 2026-11-16 |
+| [Database Developer](https://jobs.compunnel.com/jobs/6126755) | Compunnel | New York City, New York, United States | 2026-11-16 |
+| [Guidewire BillingCenter Developer](https://jobs.compunnel.com/jobs/6126237) | Compunnel | Hartford, Connecticut, United States | 2026-11-16 |
+| [Senior PHP Web Developer](https://vernovis.com/blog/jobs/12330/) | Vernovis | Blue Ash, | 2026-11-16 |
+| [Senior Developer](https://jobs.brooksource.com/jobs/job/a1wcv000001dtwfeao-senior-developer-washington-dc/) | Brooksource | Washington, DC | 2026-11-16 |
+| [Appian Technical Architect](https://bhsg.com/jobs/job/t1480152-phi_1794858919-appian-technical-architect-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-11-16 |
+| [AI/ML Engineer](https://bhsg.com/jobs/job/t1481756-phi_1794858604-ai-ml-engineer-king-of-prussia-pennsylvania/) | Beacon Hill | — | 2026-11-16 |
 <!-- JOBS:END -->
 
 ## How it works
