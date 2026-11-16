@@ -27,9 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **3894** roles open total · updated `2026-11-15T18:44:41+00:00`
+### 🆕 6 new roles this update · 3698 tracked total · updated `2026-11-16T00:56:34+00:00`
 
-Nothing new since the last run — [browse all 3894 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 3 |
+| Compunnel | 3 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Data Analyst](https://careers.teksystems.com/us/en/job/JP-006421329/Data-Analyst) | TEKsystems | Fairfield, California | 2026-11-16 |
+| [Data Analyst (Business & Analytics & Financial Modeling](https://careers.teksystems.com/us/en/job/JP-006421236/Data-Analyst-Business-Analytics-Financial-Modeling) | TEKsystems | Alameda, California | 2026-11-16 |
+| [Senior Database Engineer](https://careers.teksystems.com/us/en/job/JP-006417296/Senior-Database-Engineer) | TEKsystems | Phoenix, Arizona | 2026-11-16 |
+| [Agentforce Developer](https://jobs.compunnel.com/jobs/6114994) | Compunnel | Hartford, Connecticut, United States | 2026-11-16 |
+| [Senior AI Engineer](https://jobs.compunnel.com/jobs/6066579) | Compunnel | Aliso Viejo, California, United States | 2026-11-16 |
+| [Java Developer](https://jobs.compunnel.com/jobs/6126256) | Compunnel | Dallas, Texas, United States | 2026-11-16 |
 <!-- JOBS:END -->
 
 ## How it works
