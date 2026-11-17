@@ -27,28 +27,38 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 3630 tracked total · updated `2026-11-17T07:20:30+00:00`
+### 🆕 15 new roles this update · 3644 tracked total · updated `2026-11-17T18:24:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 5 |
 | Kforce | 3 |
+| TEKsystems | 2 |
 | Robert Half | 2 |
+| Beacon Hill | 2 |
+| Apex Systems | 1 |
+| Talent Groups | 1 |
+| TRU Staffing Partners | 1 |
+| Motion Recruitment | 1 |
+| ASK Consulting | 1 |
 | Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2194472T1~99/) | Kforce | Altamonte Springs, FL | 2026-11-17 |
-| [Senior Data Engineer](http://www.kforce.com/Jobs/1696~EQG~2194476T1~99/) | Kforce | Atlanta, GA | 2026-11-17 |
-| [Python Software Engineer](http://www.kforce.com/Jobs/1696~EQG~2194470T1~99/) | Kforce | New York, NY | 2026-11-17 |
-| [Research Engineer - Applied ML](https://careers.teksystems.com/us/en/job/JP-006425352/Research-Engineer-Applied-ML) | TEKsystems | Daly City, California | 2026-11-17 |
-| [Practice Architect AI/ML](https://careers.teksystems.com/us/en/job/JP-006424446/Practice-Architect-AI-ML) | TEKsystems | San Francisco, California | 2026-11-17 |
-| [Reporting Data Analyst](https://careers.teksystems.com/us/en/job/JP-006423616/Reporting-Data-Analyst) | TEKsystems | Westlake Village, California | 2026-11-17 |
-| [SDE1](https://careers.teksystems.com/us/en/job/JP-006424580/SDE1) | TEKsystems | Seattle, Washington | 2026-11-17 |
-| [Part Time - Medallia Technical Consultant (Backend)](https://careers.teksystems.com/us/en/job/JP-006425254/Part-Time-Medallia-Technical-Consultant-Backend) | TEKsystems | Broomfield, Colorado | 2026-11-17 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/denton-tx/software-developer/04010-0013526360-usen) | Robert Half | Denton, 04010 | 2026-11-17 |
-| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/enola-pa/software-engineering-manager/03720-0013515369-usen) | Robert Half | Enola, 03720 | 2026-11-17 |
-| [Senior Java Backend Software Engineer](https://jobs.compunnel.com/jobs/6137507) | Compunnel | Westlake, Texas, United States | 2026-11-17 |
+| [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2194580T1~99/) | Kforce | Smithfield, RI | 2026-11-17 |
+| [Data Engineer II](http://www.kforce.com/Jobs/1696~WQG~2194520T1~99/) | Kforce | Mountain View, CA | 2026-11-17 |
+| [DevOps Engineer with .NET/C#](http://www.kforce.com/Jobs/1696~TVT~2194535T1~99/) | Kforce | Irvine, CA | 2026-11-17 |
+| [Machine Learning Engineer - LLM Evaluator - Hybrid Opportunity](https://careers.teksystems.com/us/en/job/JP-006426780/Machine-Learning-Engineer-LLM-Evaluator-Hybrid-Opportunity) | TEKsystems | Cupertino, California | 2026-11-17 |
+| [Database Engineer](https://careers.teksystems.com/us/en/job/JP-006425184/Database-Engineer) | TEKsystems | Minneapolis, Minnesota | 2026-11-17 |
+| [Professional - Data Scientist III](https://www.apexsystems.com/job/3043275_usa/professional---data-scientist-iii) | Apex Systems | Home, NC | 2026-11-17 |
+| [Servicenow Developer](https://www.roberthalf.com/us/en/job/miramar-fl/servicenow-developer/01000-9504428616-usen) | Robert Half | Miramar, 01000 | 2026-11-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/austin-tx/data-engineer/04160-9504428677-usen) | Robert Half | Austin, 04160 | 2026-11-17 |
+| [Databricks Data Engineer](https://www.talentgroups.com/job-details/databricks-data-engineer-in-quality-assurance-and-testing-jobs-1800134) | Talent Groups | Irving, TX | 2026-11-17 |
+| [Director, AI Operations](https://jobs.trustaffingpartners.com/?jobid=7683#/jobs/7683) | TRU Staffing Partners | Anywhere | 2026-11-17 |
+| [Nassau BOCES - Analytics Engineer](https://motionrecruitment.com/tech-jobs/westbury/contract/nassau-boces-analytics-engineer/894984) | Motion Recruitment | Westbury, New York | 2026-11-17 |
+| [Data Integration / Application Engineer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133402/Data Integration / Application Engineer) | ASK Consulting | Boston, MA, 02134 | 2026-11-17 |
+| [Duck Creek Insights Senior Developer](https://jobs.compunnel.com/jobs/6189004) | Compunnel | Des Plaines, Illinois, United States | 2026-11-17 |
+| [Java Developer](https://bhsg.com/jobs/job/1480159_1794924465-java-developer-lanham-maryland/) | Beacon Hill | — | 2026-11-17 |
+| [Data Engineer](https://bhsg.com/jobs/job/1480125_1794924180-data-engineer-lanham-maryland/) | Beacon Hill | — | 2026-11-17 |
 <!-- JOBS:END -->
 
 ## How it works
