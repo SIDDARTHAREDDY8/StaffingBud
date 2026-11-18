@@ -27,26 +27,48 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 11 new roles this update · 3501 tracked total · updated `2026-11-18T11:31:19+00:00`
+### 🆕 27 new roles this update · 3526 tracked total · updated `2026-11-18T20:18:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Beacon Hill | 9 |
-| TEKsystems | 2 |
+| Robert Half | 15 |
+| Agility Connect | 3 |
+| Kforce | 2 |
+| Apex Systems | 2 |
+| Brooksource | 2 |
+| TEKsystems | 1 |
+| KellyMitchell | 1 |
+| Beacon Hill | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427545/Forward-Deployed-Engineer) | TEKsystems | Seattle, Washington | 2026-11-18 |
-| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427557/Forward-Deployed-Engineer) | TEKsystems | Mountain View, California | 2026-11-18 |
-| [Software Developer (#067350)](https://bhsg.com/jobs/?post_type=job_listing&p=134657) | Beacon Hill | — | 2026-11-18 |
-| [Software Developer (#051839E)](https://bhsg.com/jobs/?post_type=job_listing&p=134656) | Beacon Hill | — | 2026-11-18 |
-| [Site Reliability Engineer (#033831E)](https://bhsg.com/jobs/?post_type=job_listing&p=134222) | Beacon Hill | — | 2026-11-18 |
-| [Data Engineer (#033899E)](https://bhsg.com/jobs/?post_type=job_listing&p=134221) | Beacon Hill | — | 2026-11-18 |
-| [Sr. Software Engineer (#042879E)](https://bhsg.com/jobs/?post_type=job_listing&p=134218) | Beacon Hill | — | 2026-11-18 |
-| [Software Developer (#019879E)](https://bhsg.com/jobs/?post_type=job_listing&p=134206) | Beacon Hill | — | 2026-11-18 |
-| [Software Engineer (#020286E)](https://bhsg.com/jobs/?post_type=job_listing&p=134205) | Beacon Hill | — | 2026-11-18 |
-| [Software Engineer (#027016E)](https://bhsg.com/jobs/?post_type=job_listing&p=134204) | Beacon Hill | — | 2026-11-18 |
-| [Software Engineer (#026942E)](https://bhsg.com/jobs/?post_type=job_listing&p=134203) | Beacon Hill | — | 2026-11-18 |
+| [Data Engineer - Mid Level](http://www.kforce.com/Jobs/1696~WQG~2194653T1~99/) | Kforce | Irving, TX | 2026-11-18 |
+| [Senior Software Engineer](http://www.kforce.com/Jobs/1696~EQG~2194657T1~99/) | Kforce | Boca Raton, FL | 2026-11-18 |
+| [Sharepoint Developer](https://careers.teksystems.com/us/en/job/JP-006429891/Sharepoint-Developer) | TEKsystems | Erlanger, Kentucky | 2026-11-18 |
+| [Senior Scala Developer](https://www.apexsystems.com/job/3059797_usa/senior-scala-developer) | Apex Systems | Lincoln, NE | 2026-11-18 |
+| [Senior Java Software Engineer](https://www.apexsystems.com/job/3059737_usa/senior-java-software-engineer) | Apex Systems | Dallas, TX | 2026-11-18 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/dallas-tx/cyber-security-engineer/04951-9504427279-usen) | Robert Half | Dallas, 04951 | 2026-11-18 |
+| [Staff Software Engineer Ai](https://www.roberthalf.com/us/en/job/minneapolis-mn/staff-software-engineer-ai/02310-0013536677-usen) | Robert Half | Minneapolis, 02310 | 2026-11-18 |
+| [Senior Ibm Db2 Database Engineer](https://www.roberthalf.com/us/en/job/westminster-co/senior-ibm-db2-database-engineer/04860-0013534610-usen) | Robert Half | Westminster, 04860 | 2026-11-18 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/merrimack-nh/software-engineer/02600-0013534091-usen) | Robert Half | Merrimack, 02600 | 2026-11-18 |
+| [Full Stack Developer Remote](https://www.roberthalf.com/us/en/job/new-haven-ct/full-stack-developer-remote/00700-0013537270-usen) | Robert Half | New Haven, 00700 | 2026-11-18 |
+| [Senior Software Developer](https://www.roberthalf.com/us/en/job/salt-lake-city-ut/senior-software-developer/04820-0013534950-usen) | Robert Half | Salt Lake City, 04820 | 2026-11-18 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/peterborough-nh/software-engineer/02600-0013513683-usen) | Robert Half | Peterborough, 02600 | 2026-11-18 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/maryknoll-ny/cyber-security-engineer/00700-0013534410-usen) | Robert Half | Maryknoll, 00700 | 2026-11-18 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/stamford-ct/data-analyst/00720-9504427976-usen) | Robert Half | Stamford, 00720 | 2026-11-18 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/knoxville-tn/artificial-intelligence-ai-engineer/03230-0013535677-usen) | Robert Half | Knoxville, 03230 | 2026-11-18 |
+| [Sr It Security Engineer](https://www.roberthalf.com/us/en/job/bensalem-pa/sr-it-security-engineer/03720-0013379975-usen) | Robert Half | Bensalem, 03720 | 2026-11-18 |
+| [Data Ai Architect](https://www.roberthalf.com/us/en/job/grand-rapids-mi/data-ai-architect/02220-0013534332-usen) | Robert Half | Grand Rapids, 02220 | 2026-11-18 |
+| [Java Software Developer Mid Senior Level Fte Perm](https://www.roberthalf.com/us/en/job/des-moines-ia/java-software-developer-mid-senior-level-fte-perm/01500-0013537453-usen) | Robert Half | Des Moines, 01500 | 2026-11-18 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/jacksonville-fl/software-engineer/01120-0013537421-usen) | Robert Half | Jacksonville, 01120 | 2026-11-18 |
+| [Provider Enrollment Associate](https://www.roberthalf.com/us/en/job/orlando-fl/provider-enrollment-associate/01030-0013534758-usen) | Robert Half | Orlando, 01030 | 2026-11-18 |
+| [Lead Data Scientist](https://agilityconnect.io/jobs/8632) | Agility Connect | Cincinnati, OH | 2026-11-18 |
+| [Software Engineer](https://agilityconnect.io/jobs/8634) | Agility Connect | Columbus, OH | 2026-11-18 |
+| [Platform Engineer - Commodity & Market Data](https://agilityconnect.io/jobs/8633) | Agility Connect | Cincinnati, OH | 2026-11-18 |
+| [Senior Palantir Foundry Data Engineer](https://www.careers.kellymitchell.com/jobs/143830) | KellyMitchell | San Francisco, CA, 94612 | 2026-11-18 |
+| [Site Reliability Engineer](https://jobs.brooksource.com/jobs/job/a1wcv000001erfheag-site-reliability-engineer-charlotte-north-carolina/) | Brooksource | Charlotte, North Carolina | 2026-11-18 |
+| [AI Solution Architect](https://jobs.brooksource.com/jobs/job/a1wcv000001evzdeao-ai-solution-architect-baltimore-maryland/) | Brooksource | Baltimore, Maryland | 2026-11-18 |
+| [DevOps / Observability Engineer](https://bhsg.com/jobs/job/t1479033-phi_1795015447-devops-observability-engineer-philadelphia-pennsylvania/) | Beacon Hill | — | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
