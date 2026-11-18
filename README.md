@@ -27,38 +27,35 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 3644 tracked total · updated `2026-11-17T18:24:00+00:00`
+### 🆕 15 new roles this update · 3491 tracked total · updated `2026-11-18T02:54:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 3 |
-| TEKsystems | 2 |
-| Robert Half | 2 |
-| Beacon Hill | 2 |
+| TEKsystems | 9 |
+| Kforce | 1 |
 | Apex Systems | 1 |
-| Talent Groups | 1 |
-| TRU Staffing Partners | 1 |
+| Robert Half | 1 |
+| Vaco | 1 |
 | Motion Recruitment | 1 |
-| ASK Consulting | 1 |
-| Compunnel | 1 |
+| KellyMitchell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~AQG~2194580T1~99/) | Kforce | Smithfield, RI | 2026-11-17 |
-| [Data Engineer II](http://www.kforce.com/Jobs/1696~WQG~2194520T1~99/) | Kforce | Mountain View, CA | 2026-11-17 |
-| [DevOps Engineer with .NET/C#](http://www.kforce.com/Jobs/1696~TVT~2194535T1~99/) | Kforce | Irvine, CA | 2026-11-17 |
-| [Machine Learning Engineer - LLM Evaluator - Hybrid Opportunity](https://careers.teksystems.com/us/en/job/JP-006426780/Machine-Learning-Engineer-LLM-Evaluator-Hybrid-Opportunity) | TEKsystems | Cupertino, California | 2026-11-17 |
-| [Database Engineer](https://careers.teksystems.com/us/en/job/JP-006425184/Database-Engineer) | TEKsystems | Minneapolis, Minnesota | 2026-11-17 |
-| [Professional - Data Scientist III](https://www.apexsystems.com/job/3043275_usa/professional---data-scientist-iii) | Apex Systems | Home, NC | 2026-11-17 |
-| [Servicenow Developer](https://www.roberthalf.com/us/en/job/miramar-fl/servicenow-developer/01000-9504428616-usen) | Robert Half | Miramar, 01000 | 2026-11-17 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/austin-tx/data-engineer/04160-9504428677-usen) | Robert Half | Austin, 04160 | 2026-11-17 |
-| [Databricks Data Engineer](https://www.talentgroups.com/job-details/databricks-data-engineer-in-quality-assurance-and-testing-jobs-1800134) | Talent Groups | Irving, TX | 2026-11-17 |
-| [Director, AI Operations](https://jobs.trustaffingpartners.com/?jobid=7683#/jobs/7683) | TRU Staffing Partners | Anywhere | 2026-11-17 |
-| [Nassau BOCES - Analytics Engineer](https://motionrecruitment.com/tech-jobs/westbury/contract/nassau-boces-analytics-engineer/894984) | Motion Recruitment | Westbury, New York | 2026-11-17 |
-| [Data Integration / Application Engineer](https://careers.curately.ai/careers/jobs/askconsulting/apply-jobs/133402/Data Integration / Application Engineer) | ASK Consulting | Boston, MA, 02134 | 2026-11-17 |
-| [Duck Creek Insights Senior Developer](https://jobs.compunnel.com/jobs/6189004) | Compunnel | Des Plaines, Illinois, United States | 2026-11-17 |
-| [Java Developer](https://bhsg.com/jobs/job/1480159_1794924465-java-developer-lanham-maryland/) | Beacon Hill | — | 2026-11-17 |
-| [Data Engineer](https://bhsg.com/jobs/job/1480125_1794924180-data-engineer-lanham-maryland/) | Beacon Hill | — | 2026-11-17 |
+| [DevOps Developer](http://www.kforce.com/Jobs/1696~WQG~2194629T1~99/) | Kforce | Irving, TX | 2026-11-18 |
+| [AI/ML Engineer II](https://careers.teksystems.com/us/en/job/JP-006424028/AI-ML-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-11-18 |
+| [Azure Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006426146/Azure-Infrastructure-Engineer) | TEKsystems | Mechanicsville, Virginia | 2026-11-18 |
+| [Epic Revenue Cycle Analyst - Back End](https://careers.teksystems.com/us/en/job/JP-006424765/Epic-Revenue-Cycle-Analyst-Back-End) | TEKsystems | Chesapeake, Virginia | 2026-11-18 |
+| [Senior Python Developer (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006423506/Senior-Python-Developer-W2-Only-No-C2C) | TEKsystems | Jersey City, New Jersey | 2026-11-18 |
+| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427538/Forward-Deployed-Engineer) | TEKsystems | New York, New York | 2026-11-18 |
+| [SBOM Service Now Developer](https://careers.teksystems.com/us/en/job/JP-006424511/SBOM-Service-Now-Developer) | TEKsystems | Raleigh, North Carolina | 2026-11-18 |
+| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006426947/Senior-Software-Engineer) | TEKsystems | Cleveland, New York | 2026-11-18 |
+| [Python Developer](https://careers.teksystems.com/us/en/job/JP-006426590/Python-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-18 |
+| [Senior AI/ML Engineer](https://careers.teksystems.com/us/en/job/JP-006424781/Senior-AI-ML-Engineer) | TEKsystems | Charlotte, North Carolina | 2026-11-18 |
+| [Senior AI Engineer](https://www.apexsystems.com/job/3059728_usa/senior-ai-engineer) | Apex Systems | Seattle, WA | 2026-11-18 |
+| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/tulsa-ok/cyber-security-engineer/03500-0013534139-usen) | Robert Half | Tulsa, 03500 | 2026-11-18 |
+| [Software Engineer](https://jobs.vaco.com/job/3164/software_engineer/en) | Vaco | Orlando, Florida | 2026-11-18 |
+| [Analyst / developer](https://motionrecruitment.com/tech-jobs/houston/contract/analyst-developer/895074) | Motion Recruitment | Houston, Texas | 2026-11-18 |
+| [Data Analyst](https://www.careers.kellymitchell.com/jobs/143795) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
