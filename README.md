@@ -27,35 +27,26 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 3491 tracked total · updated `2026-11-18T02:54:21+00:00`
+### 🆕 11 new roles this update · 3501 tracked total · updated `2026-11-18T11:31:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 9 |
-| Kforce | 1 |
-| Apex Systems | 1 |
-| Robert Half | 1 |
-| Vaco | 1 |
-| Motion Recruitment | 1 |
-| KellyMitchell | 1 |
+| Beacon Hill | 9 |
+| TEKsystems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [DevOps Developer](http://www.kforce.com/Jobs/1696~WQG~2194629T1~99/) | Kforce | Irving, TX | 2026-11-18 |
-| [AI/ML Engineer II](https://careers.teksystems.com/us/en/job/JP-006424028/AI-ML-Engineer-II) | TEKsystems | Hanover, Maryland | 2026-11-18 |
-| [Azure Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006426146/Azure-Infrastructure-Engineer) | TEKsystems | Mechanicsville, Virginia | 2026-11-18 |
-| [Epic Revenue Cycle Analyst - Back End](https://careers.teksystems.com/us/en/job/JP-006424765/Epic-Revenue-Cycle-Analyst-Back-End) | TEKsystems | Chesapeake, Virginia | 2026-11-18 |
-| [Senior Python Developer (W2 Only / No C2C)](https://careers.teksystems.com/us/en/job/JP-006423506/Senior-Python-Developer-W2-Only-No-C2C) | TEKsystems | Jersey City, New Jersey | 2026-11-18 |
-| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427538/Forward-Deployed-Engineer) | TEKsystems | New York, New York | 2026-11-18 |
-| [SBOM Service Now Developer](https://careers.teksystems.com/us/en/job/JP-006424511/SBOM-Service-Now-Developer) | TEKsystems | Raleigh, North Carolina | 2026-11-18 |
-| [Senior Software Engineer](https://careers.teksystems.com/us/en/job/JP-006426947/Senior-Software-Engineer) | TEKsystems | Cleveland, New York | 2026-11-18 |
-| [Python Developer](https://careers.teksystems.com/us/en/job/JP-006426590/Python-Developer) | TEKsystems | Charlotte, North Carolina | 2026-11-18 |
-| [Senior AI/ML Engineer](https://careers.teksystems.com/us/en/job/JP-006424781/Senior-AI-ML-Engineer) | TEKsystems | Charlotte, North Carolina | 2026-11-18 |
-| [Senior AI Engineer](https://www.apexsystems.com/job/3059728_usa/senior-ai-engineer) | Apex Systems | Seattle, WA | 2026-11-18 |
-| [Cyber Security Engineer](https://www.roberthalf.com/us/en/job/tulsa-ok/cyber-security-engineer/03500-0013534139-usen) | Robert Half | Tulsa, 03500 | 2026-11-18 |
-| [Software Engineer](https://jobs.vaco.com/job/3164/software_engineer/en) | Vaco | Orlando, Florida | 2026-11-18 |
-| [Analyst / developer](https://motionrecruitment.com/tech-jobs/houston/contract/analyst-developer/895074) | Motion Recruitment | Houston, Texas | 2026-11-18 |
-| [Data Analyst](https://www.careers.kellymitchell.com/jobs/143795) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-18 |
+| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427545/Forward-Deployed-Engineer) | TEKsystems | Seattle, Washington | 2026-11-18 |
+| [Forward Deployed Engineer](https://careers.teksystems.com/us/en/job/JP-006427557/Forward-Deployed-Engineer) | TEKsystems | Mountain View, California | 2026-11-18 |
+| [Software Developer (#067350)](https://bhsg.com/jobs/?post_type=job_listing&p=134657) | Beacon Hill | — | 2026-11-18 |
+| [Software Developer (#051839E)](https://bhsg.com/jobs/?post_type=job_listing&p=134656) | Beacon Hill | — | 2026-11-18 |
+| [Site Reliability Engineer (#033831E)](https://bhsg.com/jobs/?post_type=job_listing&p=134222) | Beacon Hill | — | 2026-11-18 |
+| [Data Engineer (#033899E)](https://bhsg.com/jobs/?post_type=job_listing&p=134221) | Beacon Hill | — | 2026-11-18 |
+| [Sr. Software Engineer (#042879E)](https://bhsg.com/jobs/?post_type=job_listing&p=134218) | Beacon Hill | — | 2026-11-18 |
+| [Software Developer (#019879E)](https://bhsg.com/jobs/?post_type=job_listing&p=134206) | Beacon Hill | — | 2026-11-18 |
+| [Software Engineer (#020286E)](https://bhsg.com/jobs/?post_type=job_listing&p=134205) | Beacon Hill | — | 2026-11-18 |
+| [Software Engineer (#027016E)](https://bhsg.com/jobs/?post_type=job_listing&p=134204) | Beacon Hill | — | 2026-11-18 |
+| [Software Engineer (#026942E)](https://bhsg.com/jobs/?post_type=job_listing&p=134203) | Beacon Hill | — | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
