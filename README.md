@@ -27,27 +27,17 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 3527 tracked total · updated `2026-11-19T02:29:41+00:00`
+### 🆕 2 new roles this update · 3529 tracked total · updated `2026-11-19T11:25:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 4 |
-| Robert Half | 3 |
-| Compunnel | 2 |
-| Kforce | 1 |
+| Robert Half | 1 |
+| Talent Groups | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Commerical Lines AI Solutions Engineer](http://www.kforce.com/Jobs/1696~EQG~2194259P1~99/) | Kforce | Columbus, OH | 2026-11-19 |
-| [Ai Architect](https://careers.teksystems.com/us/en/job/JP-006430856/Ai-Architect) | TEKsystems | Kansas City, Missouri | 2026-11-19 |
-| [AI Engineer](https://careers.teksystems.com/us/en/job/JP-006430727/AI-Engineer) | TEKsystems | Phoenix, Arizona | 2026-11-19 |
-| [Senior Software Developer-Python](https://careers.teksystems.com/us/en/job/JP-006427614/Senior-Software-Developer-Python) | TEKsystems | Dallas, Texas | 2026-11-19 |
-| [Practice Architect AI/ML Test](https://careers.teksystems.com/us/en/job/JP-006420697/Practice-Architect-AI-ML-Test) | TEKsystems | Austin, Texas | 2026-11-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/bridgewater-nj/data-engineer/02720-0013525415-usen) | Robert Half | Bridgewater, 02720 | 2026-11-19 |
-| [Staff Software Engineer Applied Ai Systems](https://www.roberthalf.com/us/en/job/minneapolis-mn/staff-software-engineer-applied-ai-systems/02310-0013536857-usen) | Robert Half | Minneapolis, 02310 | 2026-11-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/naperville-il/data-engineer/01300-0013534672-usen) | Robert Half | Naperville, 01300 | 2026-11-19 |
-| [Senior Full Stack Engineer](https://jobs.compunnel.com/jobs/6158531) | Compunnel | Westlake, Texas, United States | 2026-11-19 |
-| [Senior EHS Applications Developer](https://jobs.compunnel.com/jobs/6156395) | Compunnel | Houston, Texas, United States | 2026-11-19 |
+| [Battery System Application Engineer](https://www.roberthalf.com/us/en/job/san-leandro-ca/battery-system-application-engineer/00340-9504430037-usen) | Robert Half | San Leandro, 00340 | 2026-11-19 |
+| [Data Engineer](https://www.talentgroups.com/job-details/data-engineer-in-other-jobs-1806692) | Talent Groups | Denver, CO | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
