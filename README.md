@@ -27,17 +27,33 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 3529 tracked total · updated `2026-11-19T11:25:24+00:00`
+### 🆕 14 new roles this update · 3541 tracked total · updated `2026-11-19T20:20:48+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 1 |
-| Talent Groups | 1 |
+| Apex Systems | 4 |
+| Robert Half | 4 |
+| Compunnel | 2 |
+| Beacon Hill | 2 |
+| TEKsystems | 1 |
+| Vernovis | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Battery System Application Engineer](https://www.roberthalf.com/us/en/job/san-leandro-ca/battery-system-application-engineer/00340-9504430037-usen) | Robert Half | San Leandro, 00340 | 2026-11-19 |
-| [Data Engineer](https://www.talentgroups.com/job-details/data-engineer-in-other-jobs-1806692) | Talent Groups | Denver, CO | 2026-11-19 |
+| [Practice Architect- GenAI](https://careers.teksystems.com/us/en/job/JP-006432154/Practice-Architect-GenAI) | TEKsystems | Charlotte, North Carolina | 2026-11-19 |
+| [ML Engineer](https://www.apexsystems.com/job/3056763_usa/ml-engineer) | Apex Systems | Cleveland, OH | 2026-11-19 |
+| [AI Full Stack Engineer](https://www.apexsystems.com/job/3059837_usa/ai-full-stack-engineer) | Apex Systems | Milwaukee, WI | 2026-11-19 |
+| [SLDS Data Engineer](https://www.apexsystems.com/job/3059925_usa/slds-data-engineer) | Apex Systems | Denver, CO | 2026-11-19 |
+| [Front End Developer](https://www.apexsystems.com/job/3059913_usa/front-end-developer) | Apex Systems | Austin, TX | 2026-11-19 |
+| [Aiml Engineer](https://www.roberthalf.com/us/en/job/austin-tx/aiml-engineer/04160-9504428690-usen) | Robert Half | Austin, 04160 | 2026-11-19 |
+| [Data Analyst Intermediate](https://www.roberthalf.com/us/en/job/seattle-wa/data-analyst-intermediate/04839-0013537361-usen) | Robert Half | Seattle, 04730 | 2026-11-19 |
+| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/conshohocken-pa/artificial-intelligence-ai-engineer/03710-0013536902-usen) | Robert Half | Conshohocken, 03710 | 2026-11-19 |
+| [Full Stack Software Engineer](https://www.roberthalf.com/us/en/job/monroe-ny/full-stack-software-engineer/02710-0013513917-usen) | Robert Half | Monroe, 02710 | 2026-11-19 |
+| [BSP Software Engineer](https://jobs.compunnel.com/jobs/6198358) | Compunnel | Bloomfield, Illinois, United States | 2026-11-19 |
+| [BSP Software Engineer](https://jobs.compunnel.com/jobs/6198344) | Compunnel | Bloomfield, Illinois, United States | 2026-11-19 |
+| [Data Analyst](https://vernovis.com/blog/jobs/12338/) | Vernovis | Miamisburg, | 2026-11-19 |
+| [AI Java EE Senior Software Engineer](https://bhsg.com/jobs/job/1482389_1795108128-ai-java-ee-senior-software-engineer-omaha-nebraska/) | Beacon Hill | — | 2026-11-19 |
+| [Sr. ServiceNow Developer](https://bhsg.com/jobs/job/1481217sn_1795101979-sr-servicenow-developer-raleigh-north-carolina/) | Beacon Hill | — | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
