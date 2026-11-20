@@ -27,33 +27,27 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 3541 tracked total · updated `2026-11-19T20:20:48+00:00`
+### 🆕 10 new roles this update · 3532 tracked total · updated `2026-11-20T02:16:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 4 |
-| Robert Half | 4 |
-| Compunnel | 2 |
-| Beacon Hill | 2 |
-| TEKsystems | 1 |
-| Vernovis | 1 |
+| Compunnel | 5 |
+| Robert Half | 2 |
+| KellyMitchell | 2 |
+| Kforce | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Practice Architect- GenAI](https://careers.teksystems.com/us/en/job/JP-006432154/Practice-Architect-GenAI) | TEKsystems | Charlotte, North Carolina | 2026-11-19 |
-| [ML Engineer](https://www.apexsystems.com/job/3056763_usa/ml-engineer) | Apex Systems | Cleveland, OH | 2026-11-19 |
-| [AI Full Stack Engineer](https://www.apexsystems.com/job/3059837_usa/ai-full-stack-engineer) | Apex Systems | Milwaukee, WI | 2026-11-19 |
-| [SLDS Data Engineer](https://www.apexsystems.com/job/3059925_usa/slds-data-engineer) | Apex Systems | Denver, CO | 2026-11-19 |
-| [Front End Developer](https://www.apexsystems.com/job/3059913_usa/front-end-developer) | Apex Systems | Austin, TX | 2026-11-19 |
-| [Aiml Engineer](https://www.roberthalf.com/us/en/job/austin-tx/aiml-engineer/04160-9504428690-usen) | Robert Half | Austin, 04160 | 2026-11-19 |
-| [Data Analyst Intermediate](https://www.roberthalf.com/us/en/job/seattle-wa/data-analyst-intermediate/04839-0013537361-usen) | Robert Half | Seattle, 04730 | 2026-11-19 |
-| [Artificial Intelligence Ai Engineer](https://www.roberthalf.com/us/en/job/conshohocken-pa/artificial-intelligence-ai-engineer/03710-0013536902-usen) | Robert Half | Conshohocken, 03710 | 2026-11-19 |
-| [Full Stack Software Engineer](https://www.roberthalf.com/us/en/job/monroe-ny/full-stack-software-engineer/02710-0013513917-usen) | Robert Half | Monroe, 02710 | 2026-11-19 |
-| [BSP Software Engineer](https://jobs.compunnel.com/jobs/6198358) | Compunnel | Bloomfield, Illinois, United States | 2026-11-19 |
-| [BSP Software Engineer](https://jobs.compunnel.com/jobs/6198344) | Compunnel | Bloomfield, Illinois, United States | 2026-11-19 |
-| [Data Analyst](https://vernovis.com/blog/jobs/12338/) | Vernovis | Miamisburg, | 2026-11-19 |
-| [AI Java EE Senior Software Engineer](https://bhsg.com/jobs/job/1482389_1795108128-ai-java-ee-senior-software-engineer-omaha-nebraska/) | Beacon Hill | — | 2026-11-19 |
-| [Sr. ServiceNow Developer](https://bhsg.com/jobs/job/1481217sn_1795101979-sr-servicenow-developer-raleigh-north-carolina/) | Beacon Hill | — | 2026-11-19 |
+| [Staff Analytics Engineer Semantic Layer AI](http://www.kforce.com/Jobs/1696~AQG~2194877P1~99/) | Kforce | Sandy Springs, GA | 2026-11-20 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/princeton-nj/data-engineer/02720-0013509699-usen) | Robert Half | Princeton, 02720 | 2026-11-20 |
+| [Senior Consultant Genai](https://www.roberthalf.com/us/en/job/boston-ma/senior-consultant-genai/02100-0013529802-usen) | Robert Half | Boston, 02100 | 2026-11-20 |
+| [Technical Architect MFP](https://jobs.compunnel.com/jobs/6166152) | Compunnel | Beverly Hills, California, United States | 2026-11-20 |
+| [Senior AI Platform Engineer](https://jobs.compunnel.com/jobs/6167361) | Compunnel | Woonsocket, Rhode Island, United States | 2026-11-20 |
+| [Enterprise DevOps Engineer](https://jobs.compunnel.com/jobs/6165949) | Compunnel | Trenton, New Jersey, United States | 2026-11-20 |
+| [Senior / Lead Full Stack Engineer](https://jobs.compunnel.com/jobs/6168545) | Compunnel | Westlake, Texas, United States | 2026-11-20 |
+| [Senior Full Stack Engineer .Net](https://jobs.compunnel.com/jobs/6169160) | Compunnel | Chicago, Illinois, United States | 2026-11-20 |
+| [Data Analyst (143862)](https://www.careers.kellymitchell.com/jobs/143862) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-20 |
+| [Data Analyst (143861)](https://www.careers.kellymitchell.com/jobs/143861) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
