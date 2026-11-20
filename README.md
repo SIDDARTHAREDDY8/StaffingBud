@@ -27,27 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 3532 tracked total · updated `2026-11-20T02:16:18+00:00`
+### 🆕 3 new roles this update · 3521 tracked total · updated `2026-11-20T11:12:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 5 |
-| Robert Half | 2 |
-| KellyMitchell | 2 |
-| Kforce | 1 |
+| TEKsystems | 2 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Staff Analytics Engineer Semantic Layer AI](http://www.kforce.com/Jobs/1696~AQG~2194877P1~99/) | Kforce | Sandy Springs, GA | 2026-11-20 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/princeton-nj/data-engineer/02720-0013509699-usen) | Robert Half | Princeton, 02720 | 2026-11-20 |
-| [Senior Consultant Genai](https://www.roberthalf.com/us/en/job/boston-ma/senior-consultant-genai/02100-0013529802-usen) | Robert Half | Boston, 02100 | 2026-11-20 |
-| [Technical Architect MFP](https://jobs.compunnel.com/jobs/6166152) | Compunnel | Beverly Hills, California, United States | 2026-11-20 |
-| [Senior AI Platform Engineer](https://jobs.compunnel.com/jobs/6167361) | Compunnel | Woonsocket, Rhode Island, United States | 2026-11-20 |
-| [Enterprise DevOps Engineer](https://jobs.compunnel.com/jobs/6165949) | Compunnel | Trenton, New Jersey, United States | 2026-11-20 |
-| [Senior / Lead Full Stack Engineer](https://jobs.compunnel.com/jobs/6168545) | Compunnel | Westlake, Texas, United States | 2026-11-20 |
-| [Senior Full Stack Engineer .Net](https://jobs.compunnel.com/jobs/6169160) | Compunnel | Chicago, Illinois, United States | 2026-11-20 |
-| [Data Analyst (143862)](https://www.careers.kellymitchell.com/jobs/143862) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-20 |
-| [Data Analyst (143861)](https://www.careers.kellymitchell.com/jobs/143861) | KellyMitchell | McLean, Virginia, 22102 | 2026-11-20 |
+| [Devops Engineer](https://careers.teksystems.com/us/en/job/JP-006432540/Devops-Engineer) | TEKsystems | Grand Ledge, Michigan | 2026-11-20 |
+| [Site Reliability Engineer](https://careers.teksystems.com/us/en/job/JP-006432726/Site-Reliability-Engineer) | TEKsystems | Memphis, Tennessee | 2026-11-20 |
+| [Data Integration / Application Engineer](https://motionrecruitment.com/tech-jobs/south-san-francisco/contract/data-integration-application-engineer/895046) | Motion Recruitment | South San Francisco, California | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
