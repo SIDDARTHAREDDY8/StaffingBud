@@ -27,21 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 3429 tracked total · updated `2026-11-21T10:52:20+00:00`
+### 🆕 4 new roles this update · 3433 tracked total · updated `2026-11-21T18:58:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-| Robert Half | 1 |
+| Agility Connect | 2 |
+| Kforce | 1 |
+| Apex Systems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Data Engineer](https://www.roberthalf.com/us/en/job/santa-monica-ca/senior-data-engineer/04838-0013540293-usen) | Robert Half | Santa Monica, 04838 | 2026-11-21 |
-| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [C# / .Net DevOps Engineer](http://www.kforce.com/Jobs/1696~TVT~2194534T1~99/) | Kforce | Irvine, CA | 2026-11-21 |
+| [Remote Senior Cloud Data Architect](https://www.apexsystems.com/job/3060136_usa/remote-senior-cloud-data-architect) | Apex Systems | Washington, DC | 2026-11-21 |
+| [Data Engineer](https://agilityconnect.io/jobs/8643) | Agility Connect | Carmel, IN | 2026-11-21 |
+| [Data Engineer](https://agilityconnect.io/jobs/8641) | Agility Connect | Cincinnati, OH | 2026-11-21 |
 <!-- JOBS:END -->
 
 ## How it works
