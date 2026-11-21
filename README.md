@@ -27,32 +27,21 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 3424 tracked total · updated `2026-11-21T02:08:49+00:00`
+### 🆕 5 new roles this update · 3429 tracked total · updated `2026-11-21T10:52:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Kforce | 3 |
-| TEKsystems | 3 |
-| Apex Systems | 3 |
-| Beacon Hill | 2 |
+| Gina's Tech Jobs | 2 |
+| Next Step Systems | 2 |
 | Robert Half | 1 |
-| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer Snowflake](http://www.kforce.com/Jobs/1696~AQG~2194988T1~99/) | Kforce | Westlake, TX | 2026-11-21 |
-| [Senior Software Developer](http://www.kforce.com/Jobs/1696~EQG~2194922T1~99/) | Kforce | Miami, FL | 2026-11-21 |
-| [AI Learning Experience Designer](http://www.kforce.com/Jobs/1696~NRC~2194975T1~99/) | Kforce | Tampa, FL | 2026-11-21 |
-| [Research Engineer - Multimodal AI, Data Quality & Model Evaluation](https://careers.teksystems.com/us/en/job/JP-006433427/Research-Engineer-Multimodal-AI-Data-Quality-Model-Evaluation) | TEKsystems | Daly City, California | 2026-11-21 |
-| [Research Engineer](https://careers.teksystems.com/us/en/job/JP-006435490/Research-Engineer) | TEKsystems | Daly City, California | 2026-11-21 |
-| [AI Full-Stack Engineer 100% Remote](https://careers.teksystems.com/us/en/job/JP-006436824/AI-Full-Stack-Engineer-100-Remote) | TEKsystems | Denver, Colorado | 2026-11-21 |
-| [Sr. Software Engineer](https://www.apexsystems.com/job/3059213_usa/sr-software-engineer) | Apex Systems | Los Angeles, CA | 2026-11-21 |
-| [Palantir Security Engineer](https://www.apexsystems.com/job/3060074_usa/palantir-security-engineer) | Apex Systems | Tampa, FL | 2026-11-21 |
-| [Senior .NET Developer](https://www.apexsystems.com/job/3059109_usa/senior-net-developer) | Apex Systems | Sunnyvale, CA | 2026-11-21 |
-| [Software Engineer](https://www.roberthalf.com/us/en/job/phoenix-az/software-engineer/00210-9504431166-usen) | Robert Half | Phoenix, 00210 | 2026-11-21 |
-| [US_Software Engineer II_CO](https://motionrecruitment.com/tech-jobs/south-san-francisco/contract/us_software-engineer-ii_co/895320) | Motion Recruitment | South San Francisco, California | 2026-11-21 |
-| [Agentic AI Engineer – Manager](https://bhsg.com/jobs/job/1754575_1795202087-agentic-ai-engineer-manager-charlotte-north-carolina/) | Beacon Hill | — | 2026-11-21 |
-| [Program/Data Analyst – $24-$26/hr – DC](https://bhsg.com/jobs/job/a1482540dc-temp_1795192970-program-data-analyst-24-26-hr-dc-washington-district-of-columbia/) | Beacon Hill | — | 2026-11-21 |
+| [Senior Data Engineer](https://www.roberthalf.com/us/en/job/santa-monica-ca/senior-data-engineer/04838-0013540293-usen) | Robert Half | Santa Monica, 04838 | 2026-11-21 |
+| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
+| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
 <!-- JOBS:END -->
 
 ## How it works
