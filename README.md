@@ -27,20 +27,9 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 3433 tracked total · updated `2026-11-21T18:58:53+00:00`
+### 🟢 No new roles this update · **3356** roles open total · updated `2026-11-22T01:07:20+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Agility Connect | 2 |
-| Kforce | 1 |
-| Apex Systems | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [C# / .Net DevOps Engineer](http://www.kforce.com/Jobs/1696~TVT~2194534T1~99/) | Kforce | Irvine, CA | 2026-11-21 |
-| [Remote Senior Cloud Data Architect](https://www.apexsystems.com/job/3060136_usa/remote-senior-cloud-data-architect) | Apex Systems | Washington, DC | 2026-11-21 |
-| [Data Engineer](https://agilityconnect.io/jobs/8643) | Agility Connect | Carmel, IN | 2026-11-21 |
-| [Data Engineer](https://agilityconnect.io/jobs/8641) | Agility Connect | Cincinnati, OH | 2026-11-21 |
+Nothing new since the last run — [browse all 3356 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
 <!-- JOBS:END -->
 
 ## How it works
