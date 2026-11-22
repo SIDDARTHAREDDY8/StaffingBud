@@ -27,9 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **3356** roles open total · updated `2026-11-22T01:07:20+00:00`
+### 🆕 2 new roles this update · 3358 tracked total · updated `2026-11-22T10:59:23+00:00`
 
-Nothing new since the last run — [browse all 3356 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Mid-Level, DevOps Engineer (W2 Only, No C2C)](https://careers.teksystems.com/us/en/job/JP-006435576/Mid-Level-DevOps-Engineer-W2-Only-No-C2C) | TEKsystems | Lansing, Michigan | 2026-11-22 |
+| [SharePoint Developer](https://careers.teksystems.com/us/en/job/JP-006434350/SharePoint-Developer) | TEKsystems | Erlanger, Kentucky | 2026-11-22 |
 <!-- JOBS:END -->
 
 ## How it works
