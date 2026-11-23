@@ -27,9 +27,35 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **3287** roles open total · updated `2026-11-23T12:06:52+00:00`
+### 🆕 16 new roles this update · 3302 tracked total · updated `2026-11-23T23:54:45+00:00`
 
-Nothing new since the last run — [browse all 3287 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 8 |
+| Motion Recruitment | 3 |
+| TEKsystems | 2 |
+| Kforce | 1 |
+| Vaco | 1 |
+| Brooksource | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Software Engineer](http://www.kforce.com/Jobs/1696~AQG~2195043T1~99/) | Kforce | Shelton, CT | 2026-11-23 |
+| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006440031/Mid-Senior-ServiceNow-Developer) | TEKsystems | Ogden, Utah | 2026-11-23 |
+| [Robotics Application Engineer](https://careers.teksystems.com/us/en/job/JP-006437477/Robotics-Application-Engineer) | TEKsystems | Mountain View, California | 2026-11-23 |
+| [Platform Engineer](https://www.roberthalf.com/us/en/job/wayzata-mn/platform-engineer/04838-0013528443-usen) | Robert Half | Wayzata, 04838 | 2026-11-23 |
+| [Senior Data Engineer](https://www.roberthalf.com/us/en/job/santa-monica-ca/senior-data-engineer/04838-0013540293-usen) | Robert Half | Santa Monica, 04838 | 2026-11-23 |
+| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/ankeny-ia/full-stack-net-developer/01500-0013520076-usen) | Robert Half | Ankeny, 01500 | 2026-11-23 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen) | Robert Half | St. Paul, 02310 | 2026-11-23 |
+| [Aws Senior Data Engineer](https://www.roberthalf.com/us/en/job/torrance-ca/aws-senior-data-engineer/04837-0013541205-usen) | Robert Half | Torrance, 04837 | 2026-11-23 |
+| [Junior Data Analyst](https://www.roberthalf.com/us/en/job/peachtree-corners-ga/junior-data-analyst/00900-0013539246-usen) | Robert Half | Peachtree Corners, 00900 | 2026-11-23 |
+| [Staff Data Engineer](https://www.roberthalf.com/us/en/job/brookfield-wi/staff-data-engineer/04600-0013541184-usen) | Robert Half | Brookfield, 04600 | 2026-11-23 |
+| [Ai Consultant](https://www.roberthalf.com/us/en/job/lansdale-pa/ai-consultant/03720-0013539810-usen) | Robert Half | Lansdale, 03720 | 2026-11-23 |
+| [Senior Developer Ms Dynamics](https://jobs.vaco.com/job/3306/senior_developer_ms_dynamics/en) | Vaco | Louisville, Kentucky | 2026-11-23 |
+| [Senior AI Security Engineer](https://motionrecruitment.com/tech-jobs/plano/contract/senior-ai-security-engineer/892944) | Motion Recruitment | PLANO, Texas | 2026-11-23 |
+| [Cybersecurity Engineer / Contract / Remote](https://motionrecruitment.com/tech-jobs/new-york/contract/cybersecurity-engineer-contract-remote/895397) | Motion Recruitment | New York, NY | 2026-11-23 |
+| [Lead Software Engineer / Node / Okta](https://motionrecruitment.com/tech-jobs/chicago/contract/lead-software-engineer-node-okta/895500) | Motion Recruitment | Chicago, Illinois | 2026-11-23 |
+| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv000001elg1eac-data-analyst-morris-plains-new-jersey/) | Brooksource | Morris Plains, New Jersey | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
