@@ -27,9 +27,16 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **3358** roles open total · updated `2026-11-22T19:20:19+00:00`
+### 🆕 2 new roles this update · 3288 tracked total · updated `2026-11-23T01:34:00+00:00`
 
-Nothing new since the last run — [browse all 3358 open roles on the board »](https://siddarthareddy8.github.io/StaffingBud/)
+| Firm | New roles |
+| --- | ---: |
+| TEKsystems | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Practice Architect AI/ML](https://careers.teksystems.com/us/en/job/JP-006435357/Practice-Architect-AI-ML) | TEKsystems | Hanover, Maryland | 2026-11-23 |
+| [Medical Biller Enrollment Specialist](https://careers.teksystems.com/us/en/job/JP-006435185/Medical-Biller-Enrollment-Specialist) | TEKsystems | Rochester, New York | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
