@@ -27,35 +27,36 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 16 new roles this update · 3302 tracked total · updated `2026-11-23T23:54:45+00:00`
+### 🆕 18 new roles this update · 3247 tracked total · updated `2026-11-24T09:13:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 8 |
-| Motion Recruitment | 3 |
-| TEKsystems | 2 |
-| Kforce | 1 |
-| Vaco | 1 |
-| Brooksource | 1 |
+| Apex Systems | 6 |
+| Compunnel | 5 |
+| Robert Half | 4 |
+| Beacon Hill | 2 |
+| TEKsystems | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer](http://www.kforce.com/Jobs/1696~AQG~2195043T1~99/) | Kforce | Shelton, CT | 2026-11-23 |
-| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006440031/Mid-Senior-ServiceNow-Developer) | TEKsystems | Ogden, Utah | 2026-11-23 |
-| [Robotics Application Engineer](https://careers.teksystems.com/us/en/job/JP-006437477/Robotics-Application-Engineer) | TEKsystems | Mountain View, California | 2026-11-23 |
-| [Platform Engineer](https://www.roberthalf.com/us/en/job/wayzata-mn/platform-engineer/04838-0013528443-usen) | Robert Half | Wayzata, 04838 | 2026-11-23 |
-| [Senior Data Engineer](https://www.roberthalf.com/us/en/job/santa-monica-ca/senior-data-engineer/04838-0013540293-usen) | Robert Half | Santa Monica, 04838 | 2026-11-23 |
-| [Full Stack Net Developer](https://www.roberthalf.com/us/en/job/ankeny-ia/full-stack-net-developer/01500-0013520076-usen) | Robert Half | Ankeny, 01500 | 2026-11-23 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen) | Robert Half | St. Paul, 02310 | 2026-11-23 |
-| [Aws Senior Data Engineer](https://www.roberthalf.com/us/en/job/torrance-ca/aws-senior-data-engineer/04837-0013541205-usen) | Robert Half | Torrance, 04837 | 2026-11-23 |
-| [Junior Data Analyst](https://www.roberthalf.com/us/en/job/peachtree-corners-ga/junior-data-analyst/00900-0013539246-usen) | Robert Half | Peachtree Corners, 00900 | 2026-11-23 |
-| [Staff Data Engineer](https://www.roberthalf.com/us/en/job/brookfield-wi/staff-data-engineer/04600-0013541184-usen) | Robert Half | Brookfield, 04600 | 2026-11-23 |
-| [Ai Consultant](https://www.roberthalf.com/us/en/job/lansdale-pa/ai-consultant/03720-0013539810-usen) | Robert Half | Lansdale, 03720 | 2026-11-23 |
-| [Senior Developer Ms Dynamics](https://jobs.vaco.com/job/3306/senior_developer_ms_dynamics/en) | Vaco | Louisville, Kentucky | 2026-11-23 |
-| [Senior AI Security Engineer](https://motionrecruitment.com/tech-jobs/plano/contract/senior-ai-security-engineer/892944) | Motion Recruitment | PLANO, Texas | 2026-11-23 |
-| [Cybersecurity Engineer / Contract / Remote](https://motionrecruitment.com/tech-jobs/new-york/contract/cybersecurity-engineer-contract-remote/895397) | Motion Recruitment | New York, NY | 2026-11-23 |
-| [Lead Software Engineer / Node / Okta](https://motionrecruitment.com/tech-jobs/chicago/contract/lead-software-engineer-node-okta/895500) | Motion Recruitment | Chicago, Illinois | 2026-11-23 |
-| [Data Analyst](https://jobs.brooksource.com/jobs/job/a1wcv000001elg1eac-data-analyst-morris-plains-new-jersey/) | Brooksource | Morris Plains, New Jersey | 2026-11-23 |
+| [Research Engineer \| AI Data & Agent Systems](https://careers.teksystems.com/us/en/job/JP-006440156/Research-Engineer-AI-Data-Agent-Systems) | TEKsystems | Redmond, Washington | 2026-11-24 |
+| [Platform Engineer](https://www.apexsystems.com/job/3054748_usa/platform-engineer) | Apex Systems | Mission, KS | 2026-11-24 |
+| [Data Engineer](https://www.apexsystems.com/job/3055815_usa/data-engineer) | Apex Systems | Eagan, MN | 2026-11-24 |
+| [SaaS Security Engineer](https://www.apexsystems.com/job/3060277_usa/saas-security-engineer) | Apex Systems | Columbus, OH | 2026-11-24 |
+| [Cybersecurity Engineer - BAS](https://www.apexsystems.com/job/3059931_usa/cybersecurity-engineer---bas) | Apex Systems | York, SC | 2026-11-24 |
+| [Sr. Developer (AI)](https://www.apexsystems.com/job/3059598_usa/sr-developer-ai) | Apex Systems | Greenwood Village, CO | 2026-11-24 |
+| [AI Data Scientist](https://www.apexsystems.com/job/3059840_usa/ai-data-scientist) | Apex Systems | Milwaukee, WI | 2026-11-24 |
+| [Senior Cloud Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/senior-cloud-security-engineer/00320-0013509833-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
+| [Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/security-engineer/00320-0013425689-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
+| [Senior Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/senior-infrastructure-engineer/00320-0013419297-usen) | Robert Half | Santa Barbara, 00320 | 2026-11-24 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/sr-software-engineer/00320-0013516451-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
+| [Duck Creek Policy Developer](https://jobs.compunnel.com/jobs/6174013) | Compunnel | Dallas, Texas, United States | 2026-11-24 |
+| [Software Architect](https://jobs.compunnel.com/jobs/6222085) | Compunnel | Aliso Viejo, California, United States | 2026-11-24 |
+| [Senior Data Analyst](https://jobs.compunnel.com/jobs/6205647) | Compunnel | New York, New York, United States | 2026-11-24 |
+| [Senior Data Analyst](https://jobs.compunnel.com/jobs/6174324) | Compunnel | Omaha, Nebraska, United States | 2026-11-24 |
+| [Oracle PL/SQL Developer](https://jobs.compunnel.com/jobs/6174148) | Compunnel | Mount Laurel, New Jersey, United States | 2026-11-24 |
+| [Infrastructure Engineer](https://bhsg.com/jobs/job/pbmad11232026_1795453223-infrastructure-engineer-green-bay-wisconsin/) | Beacon Hill | — | 2026-11-24 |
+| [Senior Backend Software Developer, Applied AI & Data](https://bhsg.com/jobs/job/mke1476121aj_1795446451-senior-backend-software-developer-applied-ai-data-milwaukee-wisconsin/) | Beacon Hill | — | 2026-11-24 |
 <!-- JOBS:END -->
 
 ## How it works
