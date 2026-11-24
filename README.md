@@ -27,36 +27,52 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 18 new roles this update · 3247 tracked total · updated `2026-11-24T09:13:07+00:00`
+### 🆕 29 new roles this update · 3274 tracked total · updated `2026-11-24T22:12:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 6 |
-| Compunnel | 5 |
-| Robert Half | 4 |
-| Beacon Hill | 2 |
-| TEKsystems | 1 |
+| Robert Half | 6 |
+| TEKsystems | 5 |
+| Harnham | 4 |
+| Kforce | 3 |
+| Apex Systems | 3 |
+| Motion Recruitment | 3 |
+| CornerStone TTS | 2 |
+| Vaco | 1 |
+| ProFocus | 1 |
+| Scion Staffing | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Research Engineer \| AI Data & Agent Systems](https://careers.teksystems.com/us/en/job/JP-006440156/Research-Engineer-AI-Data-Agent-Systems) | TEKsystems | Redmond, Washington | 2026-11-24 |
-| [Platform Engineer](https://www.apexsystems.com/job/3054748_usa/platform-engineer) | Apex Systems | Mission, KS | 2026-11-24 |
-| [Data Engineer](https://www.apexsystems.com/job/3055815_usa/data-engineer) | Apex Systems | Eagan, MN | 2026-11-24 |
-| [SaaS Security Engineer](https://www.apexsystems.com/job/3060277_usa/saas-security-engineer) | Apex Systems | Columbus, OH | 2026-11-24 |
-| [Cybersecurity Engineer - BAS](https://www.apexsystems.com/job/3059931_usa/cybersecurity-engineer---bas) | Apex Systems | York, SC | 2026-11-24 |
-| [Sr. Developer (AI)](https://www.apexsystems.com/job/3059598_usa/sr-developer-ai) | Apex Systems | Greenwood Village, CO | 2026-11-24 |
-| [AI Data Scientist](https://www.apexsystems.com/job/3059840_usa/ai-data-scientist) | Apex Systems | Milwaukee, WI | 2026-11-24 |
-| [Senior Cloud Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/senior-cloud-security-engineer/00320-0013509833-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
-| [Security Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/security-engineer/00320-0013425689-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
-| [Senior Infrastructure Engineer](https://www.roberthalf.com/us/en/job/santa-barbara-ca/senior-infrastructure-engineer/00320-0013419297-usen) | Robert Half | Santa Barbara, 00320 | 2026-11-24 |
-| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/sr-software-engineer/00320-0013516451-usen) | Robert Half | Los Angeles, 00320 | 2026-11-24 |
-| [Duck Creek Policy Developer](https://jobs.compunnel.com/jobs/6174013) | Compunnel | Dallas, Texas, United States | 2026-11-24 |
-| [Software Architect](https://jobs.compunnel.com/jobs/6222085) | Compunnel | Aliso Viejo, California, United States | 2026-11-24 |
-| [Senior Data Analyst](https://jobs.compunnel.com/jobs/6205647) | Compunnel | New York, New York, United States | 2026-11-24 |
-| [Senior Data Analyst](https://jobs.compunnel.com/jobs/6174324) | Compunnel | Omaha, Nebraska, United States | 2026-11-24 |
-| [Oracle PL/SQL Developer](https://jobs.compunnel.com/jobs/6174148) | Compunnel | Mount Laurel, New Jersey, United States | 2026-11-24 |
-| [Infrastructure Engineer](https://bhsg.com/jobs/job/pbmad11232026_1795453223-infrastructure-engineer-green-bay-wisconsin/) | Beacon Hill | — | 2026-11-24 |
-| [Senior Backend Software Developer, Applied AI & Data](https://bhsg.com/jobs/job/mke1476121aj_1795446451-senior-backend-software-developer-applied-ai-data-milwaukee-wisconsin/) | Beacon Hill | — | 2026-11-24 |
+| [Head of Data Science](http://www.kforce.com/Jobs/1696~AQG~2195168P1~99/) | Kforce | Raleigh, NC | 2026-11-24 |
+| [Head of Data Science](http://www.kforce.com/Jobs/1696~AQG~2195167P1~99/) | Kforce | Edgewater, NJ | 2026-11-24 |
+| [Lead AI Engineer](http://www.kforce.com/Jobs/1696~WQG~2195180T1~99/) | Kforce | San Diego, CA | 2026-11-24 |
+| [Platform Engineer III](https://careers.teksystems.com/us/en/job/JP-006412232/Platform-Engineer-III) | TEKsystems | Jacksonville, Florida | 2026-11-24 |
+| [SBOM Service Now Developer](https://careers.teksystems.com/us/en/job/JP-006437520/SBOM-Service-Now-Developer) | TEKsystems | Raleigh, North Carolina | 2026-11-24 |
+| [Cyber Security Engineer (Local And W2 ONLY)](https://careers.teksystems.com/us/en/job/JP-006435624/Cyber-Security-Engineer-Local-And-W2-ONLY) | TEKsystems | Little Rock, Arkansas | 2026-11-24 |
+| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006440027/Mid-Senior-ServiceNow-Developer) | TEKsystems | St. Louis, Missouri | 2026-11-24 |
+| [AI Security Architect](https://careers.teksystems.com/us/en/job/JP-006437956/AI-Security-Architect) | TEKsystems | Tysons Corner, Virginia | 2026-11-24 |
+| [Site Reliability Engineer](https://www.apexsystems.com/job/3060381_usa/site-reliability-engineer) | Apex Systems | Palm Beach Gardens, FL | 2026-11-24 |
+| [Mircosoft/AI Engineer](https://www.apexsystems.com/job/3060397_usa/mircosoftai-engineer) | Apex Systems | Tampa, FL | 2026-11-24 |
+| [Remote Senior Cloud Data Architect](https://www.apexsystems.com/job/3054912_usa/remote-senior-cloud-data-architect) | Apex Systems | Washington, DC | 2026-11-24 |
+| [Software Engineering Manager](https://www.roberthalf.com/us/en/job/eden-prairie-mn/software-engineering-manager/02310-0013536498-usen) | Robert Half | Eden Prairie, 02310 | 2026-11-24 |
+| [Sr Software Engineer](https://www.roberthalf.com/us/en/job/peterborough-nh/sr-software-engineer/02600-0013513679-usen) | Robert Half | Peterborough, 02600 | 2026-11-24 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/peterborough-nh/software-engineer/02600-0013513683-usen) | Robert Half | Peterborough, 02600 | 2026-11-24 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/data-engineer/03930-9504432326-usen) | Robert Half | Nashville, 03930 | 2026-11-24 |
+| [Ai Software Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/ai-software-engineer/03930-9504432333-usen) | Robert Half | Nashville, 03930 | 2026-11-24 |
+| [Software Engineer](https://www.roberthalf.com/us/en/job/orlando-fl/software-engineer/04838-0013538763-usen) | Robert Half | Orlando, 04838 | 2026-11-24 |
+| [Ai Solutions Engineer](https://jobs.vaco.com/job/3332/ai_solutions_engineer/en) | Vaco | Charlotte, North Carolina | 2026-11-24 |
+| [Senior API Developer](https://jobs.cornerstonetechtalent.com/jb/Senior-API-Developer-Jobs-in-Irving-Texas/14430077) | CornerStone TTS | Irving Texas | 2026-11-24 |
+| [Cloud Solutions Architect / Engineer](https://jobs.cornerstonetechtalent.com/jb/Cloud-Solutions-Architect-Engineer-Jobs-in-Forsyth-Georgia/14430076) | CornerStone TTS | Forsyth Georgia | 2026-11-24 |
+| [Cloud Security Engineer Azure](https://www.profocustechnology.com/echojobs/cloud-security-engineer-azure-3669/) | ProFocus | — | 2026-11-24 |
+| [Data Scientist - Waltham, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/data-scientist-waltham-ma/895568) | Motion Recruitment | Boston, MA | 2026-11-24 |
+| [Machine Learning Engineer - Needham, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/machine-learning-engineer-needham-ma/895567) | Motion Recruitment | Boston, MA | 2026-11-24 |
+| [Data Engineer - Boston, MA](https://motionrecruitment.com/tech-jobs/boston/direct-hire/data-engineer-boston-ma/895566) | Motion Recruitment | Boston, MA | 2026-11-24 |
+| [SENIOR MANAGER APPLIED AI AND MACHINE LEARNING](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-manager-applied-ai-and-machine-learning-new-york/) | Harnham | New York | 2026-11-24 |
+| [DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-chicago-illinois-2/) | Harnham | Chicago, Illinois | 2026-11-24 |
+| [DATA ANALYST](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-analyst-leicestershire/) | Harnham | Leicestershire | 2026-11-24 |
+| [DATA ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-chicago-illinois/) | Harnham | Chicago, Illinois | 2026-11-24 |
+| [Senior Vision Software Engineer (R&D)](https://scionstaffing.com/job/16150/senior-vision-software-engineer-rd-raleigh-nc/) | Scion Staffing | Location: Raleigh, NC | 2026-11-24 |
 <!-- JOBS:END -->
 
 ## How it works
