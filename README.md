@@ -27,33 +27,32 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 15 new roles this update · 3212 tracked total · updated `2026-11-25T07:49:14+00:00`
+### 🆕 13 new roles this update · 3223 tracked total · updated `2026-11-25T19:08:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| TEKsystems | 7 |
-| Compunnel | 4 |
-| Kforce | 2 |
-| Robert Half | 1 |
-| Brooksource | 1 |
+| Robert Half | 6 |
+| Agility Connect | 2 |
+| Harnham | 2 |
+| Kforce | 1 |
+| TEKsystems | 1 |
+| Motion Recruitment | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Analyst](http://www.kforce.com/Jobs/1696~WQG~2195254T1~99/) | Kforce | Foster City, CA | 2026-11-25 |
-| [AI Transformation Lead](http://www.kforce.com/Jobs/1696~WQG~2195192T1~99/) | Kforce | Leawood, KS | 2026-11-25 |
-| [AI Security Architect](https://careers.teksystems.com/us/en/job/JP-006441150/AI-Security-Architect) | TEKsystems | Rockville, Maryland | 2026-11-25 |
-| [Mid- Senior ServiceNow Developer](https://careers.teksystems.com/us/en/job/JP-006440024/Mid-Senior-ServiceNow-Developer) | TEKsystems | Fort Meade, Maryland | 2026-11-25 |
-| [Cyber Security Engineer](https://careers.teksystems.com/us/en/job/JP-006440616/Cyber-Security-Engineer) | TEKsystems | Baltimore, Maryland | 2026-11-25 |
-| [Sr AWS Data Engineer (W2 Only)](https://careers.teksystems.com/us/en/job/JP-006439814/Sr-AWS-Data-Engineer-W2-Only) | TEKsystems | New York, New York | 2026-11-25 |
-| [Senior Business Intelligence Developer](https://careers.teksystems.com/us/en/job/JP-006440500/Senior-Business-Intelligence-Developer) | TEKsystems | Stamford, Connecticut | 2026-11-25 |
-| [Snowflake & Matillion Data Engineer](https://careers.teksystems.com/us/en/job/JP-006439916/Snowflake-Matillion-Data-Engineer) | TEKsystems | Rochester, New York | 2026-11-25 |
-| [Medical Biller Enrollment Specialist](https://careers.teksystems.com/us/en/job/JP-006437613/Medical-Biller-Enrollment-Specialist) | TEKsystems | Rochester, New York | 2026-11-25 |
-| [Software Engineer 2](https://www.roberthalf.com/us/en/job/kansas-city-ks/software-engineer-2/02380-0013538564-usen) | Robert Half | Kansas City, 02380 | 2026-11-25 |
-| [AI Delivery Engineer Java/Spring - AILC](https://jobs.compunnel.com/jobs/6188578) | Compunnel | Denver, Colorado, United States | 2026-11-25 |
-| [Azure Infrastructure Engineer](https://jobs.compunnel.com/jobs/6188576) | Compunnel | Richmond, Virginia, United States | 2026-11-25 |
-| [Java Full Stack Developer](https://jobs.compunnel.com/jobs/6222587) | Compunnel | Des Plaines, Illinois, United States | 2026-11-25 |
-| [Software Engineer - Senior](https://jobs.compunnel.com/jobs/6188797) | Compunnel | Westbrook, Maine, United States | 2026-11-25 |
-| [Sr. Frontend Developer](https://jobs.brooksource.com/jobs/job/a1wcv000001f0vnea0-sr-frontend-developer-waukegan-illinois/) | Brooksource | Waukegan, Illinois | 2026-11-25 |
+| [AI Automation Engineer DevOps](http://www.kforce.com/Jobs/1696~EQG~2195308T1~99/) | Kforce | Altamonte Springs, FL | 2026-11-25 |
+| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006441583/Infrastructure-Engineer) | TEKsystems | Napa, California | 2026-11-25 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/chicago-il/data-engineer/01300-0013433936-usen) | Robert Half | Chicago, 01300 | 2026-11-25 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/avon-oh/data-analyst/03340-0013539287-usen) | Robert Half | Avon, 03340 | 2026-11-25 |
+| [Data Analyst](https://www.roberthalf.com/us/en/job/nashville-tn/data-analyst/03930-9504432314-usen) | Robert Half | Nashville, 03930 | 2026-11-25 |
+| [Software Developer](https://www.roberthalf.com/us/en/job/houston-tx/software-developer/04130-9504432796-usen) | Robert Half | Houston, 04130 | 2026-11-25 |
+| [Solutions Architect](https://www.roberthalf.com/us/en/job/atlanta-ga/solutions-architect/00920-9504430877-usen) | Robert Half | Atlanta, 00920 | 2026-11-25 |
+| [Net Developer](https://www.roberthalf.com/us/en/job/nashville-tn/net-developer/03930-9504432318-usen) | Robert Half | Nashville, 03930 | 2026-11-25 |
+| [Sr. Software Engineer](https://motionrecruitment.com/tech-jobs/x/direct-hire/srdot-software-engineer/895611) | Motion Recruitment | Georgia | 2026-11-25 |
+| [SaaS Security Engineer](https://agilityconnect.io/jobs/8645) | Agility Connect | OH | 2026-11-25 |
+| [Sr Data Scientist](https://agilityconnect.io/jobs/8646) | Agility Connect | OH | 2026-11-25 |
+| [STAFF AI SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-staff-ai-software-engineer-frisco-texas/) | Harnham | Frisco, Texas | 2026-11-25 |
+| [LEAD DATA ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-lead-data-engineer-reading-berkshire/) | Harnham | Reading, Berkshire | 2026-11-25 |
 <!-- JOBS:END -->
 
 ## How it works
