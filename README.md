@@ -27,24 +27,20 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 3219 tracked total · updated `2026-11-26T03:30:55+00:00`
+### 🆕 5 new roles this update · 3223 tracked total · updated `2026-11-26T16:43:47+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Harnham | 2 |
-| TEKsystems | 1 |
-| Robert Half | 1 |
-| Compunnel | 1 |
-| Goodwin Recruiting | 1 |
+| Robert Half | 3 |
+| TEKsystems | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006444470/Power-Platform-Developer) | TEKsystems | Plano, Texas | 2026-11-26 |
-| [Platform Engineer](https://www.roberthalf.com/us/en/job/irvine-ca/platform-engineer/00400-9504432985-usen) | Robert Half | Irvine, 00400 | 2026-11-26 |
-| [Contract Security Engineer](https://jobs.compunnel.com/jobs/6188734) | Compunnel | Taylor, Texas, United States | 2026-11-26 |
-| [ETRM DATA/ML ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-etrm-data-ml-engineer-houston-texas/) | Harnham | Houston, Texas | 2026-11-26 |
-| [SENIOR DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-scientist-new-york/) | Harnham | New York | 2026-11-26 |
-| [Software Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003k8fpmak-software-engineer-new-york-new-york) | Goodwin Recruiting | — | 2026-11-26 |
+| [AI Data Scientist](https://careers.teksystems.com/us/en/job/JP-006444856/AI-Data-Scientist) | TEKsystems | Menomonee Falls, Wisconsin | 2026-11-26 |
+| [Principle AI Architect](https://careers.teksystems.com/us/en/job/JP-006444450/Principle-AI-Architect) | TEKsystems | Chicago, Illinois | 2026-11-26 |
+| [Agent Platform Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/agent-platform-engineer/00320-0013513826-usen) | Robert Half | Los Angeles, 00320 | 2026-11-26 |
+| [Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/cybersecurity-engineer/03930-9504432328-usen) | Robert Half | Nashville, 03930 | 2026-11-26 |
+| [Enrollment Support Specialist](https://www.roberthalf.com/us/en/job/emeryville-ca/enrollment-support-specialist/00340-9504432516-usen) | Robert Half | Emeryville, 00340 | 2026-11-26 |
 <!-- JOBS:END -->
 
 ## How it works
