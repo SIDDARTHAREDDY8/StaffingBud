@@ -27,32 +27,24 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 13 new roles this update · 3223 tracked total · updated `2026-11-25T19:08:09+00:00`
+### 🆕 6 new roles this update · 3219 tracked total · updated `2026-11-26T03:30:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 6 |
-| Agility Connect | 2 |
 | Harnham | 2 |
-| Kforce | 1 |
 | TEKsystems | 1 |
-| Motion Recruitment | 1 |
+| Robert Half | 1 |
+| Compunnel | 1 |
+| Goodwin Recruiting | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Automation Engineer DevOps](http://www.kforce.com/Jobs/1696~EQG~2195308T1~99/) | Kforce | Altamonte Springs, FL | 2026-11-25 |
-| [Infrastructure Engineer](https://careers.teksystems.com/us/en/job/JP-006441583/Infrastructure-Engineer) | TEKsystems | Napa, California | 2026-11-25 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/chicago-il/data-engineer/01300-0013433936-usen) | Robert Half | Chicago, 01300 | 2026-11-25 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/avon-oh/data-analyst/03340-0013539287-usen) | Robert Half | Avon, 03340 | 2026-11-25 |
-| [Data Analyst](https://www.roberthalf.com/us/en/job/nashville-tn/data-analyst/03930-9504432314-usen) | Robert Half | Nashville, 03930 | 2026-11-25 |
-| [Software Developer](https://www.roberthalf.com/us/en/job/houston-tx/software-developer/04130-9504432796-usen) | Robert Half | Houston, 04130 | 2026-11-25 |
-| [Solutions Architect](https://www.roberthalf.com/us/en/job/atlanta-ga/solutions-architect/00920-9504430877-usen) | Robert Half | Atlanta, 00920 | 2026-11-25 |
-| [Net Developer](https://www.roberthalf.com/us/en/job/nashville-tn/net-developer/03930-9504432318-usen) | Robert Half | Nashville, 03930 | 2026-11-25 |
-| [Sr. Software Engineer](https://motionrecruitment.com/tech-jobs/x/direct-hire/srdot-software-engineer/895611) | Motion Recruitment | Georgia | 2026-11-25 |
-| [SaaS Security Engineer](https://agilityconnect.io/jobs/8645) | Agility Connect | OH | 2026-11-25 |
-| [Sr Data Scientist](https://agilityconnect.io/jobs/8646) | Agility Connect | OH | 2026-11-25 |
-| [STAFF AI SOFTWARE ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-staff-ai-software-engineer-frisco-texas/) | Harnham | Frisco, Texas | 2026-11-25 |
-| [LEAD DATA ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-lead-data-engineer-reading-berkshire/) | Harnham | Reading, Berkshire | 2026-11-25 |
+| [Power Platform Developer](https://careers.teksystems.com/us/en/job/JP-006444470/Power-Platform-Developer) | TEKsystems | Plano, Texas | 2026-11-26 |
+| [Platform Engineer](https://www.roberthalf.com/us/en/job/irvine-ca/platform-engineer/00400-9504432985-usen) | Robert Half | Irvine, 00400 | 2026-11-26 |
+| [Contract Security Engineer](https://jobs.compunnel.com/jobs/6188734) | Compunnel | Taylor, Texas, United States | 2026-11-26 |
+| [ETRM DATA/ML ENGINEER](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-etrm-data-ml-engineer-houston-texas/) | Harnham | Houston, Texas | 2026-11-26 |
+| [SENIOR DATA SCIENTIST](https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-data-scientist-new-york/) | Harnham | New York | 2026-11-26 |
+| [Software Engineer](https://www.goodwinrecruiting.com/job/a0wr7000003k8fpmak-software-engineer-new-york-new-york) | Goodwin Recruiting | — | 2026-11-26 |
 <!-- JOBS:END -->
 
 ## How it works
