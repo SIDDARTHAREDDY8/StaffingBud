@@ -27,18 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 3217 tracked total · updated `2026-11-27T01:39:26+00:00`
+### 🆕 3 new roles this update · 3208 tracked total · updated `2026-11-27T12:01:28+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 4 |
+| Harnham | 2 |
+| Robert Half | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Atlassian Forge Developer](https://jobs.compunnel.com/jobs/6192743) | Compunnel | Chicago, Illinois, United States | 2026-11-27 |
-| [Software Engineer in Test](https://jobs.compunnel.com/jobs/6189097) | Compunnel | Westlake, Texas, United States | 2026-11-27 |
-| [Senior Software Engineer](https://jobs.compunnel.com/jobs/6193455) | Compunnel | Cincinnati, Ohio, United States | 2026-11-27 |
-| [Systems Software Engineer C++ / Rust - AI & HPC Infrastructure](https://jobs.compunnel.com/jobs/6192643) | Compunnel | Santa Clara, California, United States | 2026-11-27 |
+| [Site Reliability Engineer](https://www.roberthalf.com/us/en/job/chicago-il/site-reliability-engineer/04838-0013535881-usen) | Robert Half | Chicago, 04838 | 2026-11-27 |
+| [SENIOR AWS CLOUD ENGINEER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-aws-cloud-engineer-oxford-oxfordshire-3/) | Harnham | Oxford, Oxfordshire | 2026-11-27 |
+| [SENIOR DATA ANALYTICS MANAGER](https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-data-analytics-manager-leicester-leicestershire-3/) | Harnham | Leicester, Leicestershire | 2026-11-27 |
 <!-- JOBS:END -->
 
 ## How it works
