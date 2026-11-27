@@ -27,20 +27,18 @@ direct apply link, so you only ever see what's new since you last looked.
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 3223 tracked total · updated `2026-11-26T16:43:47+00:00`
+### 🆕 4 new roles this update · 3217 tracked total · updated `2026-11-27T01:39:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 3 |
-| TEKsystems | 2 |
+| Compunnel | 4 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Data Scientist](https://careers.teksystems.com/us/en/job/JP-006444856/AI-Data-Scientist) | TEKsystems | Menomonee Falls, Wisconsin | 2026-11-26 |
-| [Principle AI Architect](https://careers.teksystems.com/us/en/job/JP-006444450/Principle-AI-Architect) | TEKsystems | Chicago, Illinois | 2026-11-26 |
-| [Agent Platform Engineer](https://www.roberthalf.com/us/en/job/los-angeles-ca/agent-platform-engineer/00320-0013513826-usen) | Robert Half | Los Angeles, 00320 | 2026-11-26 |
-| [Cybersecurity Engineer](https://www.roberthalf.com/us/en/job/nashville-tn/cybersecurity-engineer/03930-9504432328-usen) | Robert Half | Nashville, 03930 | 2026-11-26 |
-| [Enrollment Support Specialist](https://www.roberthalf.com/us/en/job/emeryville-ca/enrollment-support-specialist/00340-9504432516-usen) | Robert Half | Emeryville, 00340 | 2026-11-26 |
+| [Atlassian Forge Developer](https://jobs.compunnel.com/jobs/6192743) | Compunnel | Chicago, Illinois, United States | 2026-11-27 |
+| [Software Engineer in Test](https://jobs.compunnel.com/jobs/6189097) | Compunnel | Westlake, Texas, United States | 2026-11-27 |
+| [Senior Software Engineer](https://jobs.compunnel.com/jobs/6193455) | Compunnel | Cincinnati, Ohio, United States | 2026-11-27 |
+| [Systems Software Engineer C++ / Rust - AI & HPC Infrastructure](https://jobs.compunnel.com/jobs/6192643) | Compunnel | Santa Clara, California, United States | 2026-11-27 |
 <!-- JOBS:END -->
 
 ## How it works
